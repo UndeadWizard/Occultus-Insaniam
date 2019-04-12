@@ -1,0 +1,18 @@
+#4761 - Theopo
+
+owner = MES
+controller = MES
+add_core = MES
+is_city = yes
+
+base_tax = 2
+base_production = 4
+base_manpower = 3
+
+culture = islander_atlantean
+religion = catholic
+
+trade_goods = naval_supplies
+hre = no
+
+discovered_by = atlantean

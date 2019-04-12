@@ -1,0 +1,18 @@
+#4705 - Chrysos
+
+owner = CYS
+controller = CYS
+add_core = CYS
+is_city = yes
+
+base_tax = 3
+base_production = 5
+base_manpower = 4
+
+culture = high_atlantean
+religion = catholic
+
+trade_goods = gold 
+hre = no
+
+discovered_by = atlantean

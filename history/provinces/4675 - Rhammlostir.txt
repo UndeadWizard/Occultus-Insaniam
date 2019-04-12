@@ -1,0 +1,18 @@
+#4675 - Rhammlostir
+
+owner = HYE
+controller = HYE
+add_core = HYE
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+culture = south_atlantean
+religion = catholic
+
+trade_goods = grain
+hre = no
+
+discovered_by = atlantean

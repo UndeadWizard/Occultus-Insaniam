@@ -1,0 +1,19 @@
+#4812 - Aupi
+
+owner = JFN
+controller = JFN
+add_core = JFN
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+culture = lemurian
+religion = sunni
+
+trade_goods = tea
+hre = no
+
+
+

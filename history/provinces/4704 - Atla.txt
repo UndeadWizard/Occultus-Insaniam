@@ -1,0 +1,19 @@
+#4704 - Atla
+
+owner = AZA
+controller = AZA
+add_core = AZA
+is_city = yes
+
+base_tax = 4
+base_production = 6
+base_manpower = 5
+
+culture = high_atlantean
+religion = catholic
+
+trade_goods = silk
+hre = no
+
+
+discovered_by = atlantean

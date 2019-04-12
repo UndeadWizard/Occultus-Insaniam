@@ -1,0 +1,18 @@
+#4668 - Agoralav
+
+owner = DAP
+controller = DAP
+add_core = DAP
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 2
+
+culture = south_atlantean
+religion = catholic
+
+trade_goods = copper
+hre = no
+
+discovered_by = atlantean

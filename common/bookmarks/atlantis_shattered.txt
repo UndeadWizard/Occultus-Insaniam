@@ -1,0 +1,9 @@
+bookmark =
+{
+	name = "BOOKMARK_ATLANTIS_SHATTERED"
+	desc = "BOOKMARK_ATLANTIS_SHATTERED_DESC"
+	date = 1444.11.11
+	center = 4651
+	default = yes
+	country = AZA
+}

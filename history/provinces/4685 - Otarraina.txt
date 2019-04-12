@@ -1,0 +1,18 @@
+#4685 - Otarraina
+
+owner = EVA
+controller = EVA
+add_core = EVA
+is_city = yes
+
+base_tax = 3
+base_production = 5
+base_manpower = 4
+
+culture = south_atlantean
+religion = catholic
+
+trade_goods = wine
+hre = no
+
+discovered_by = atlantean

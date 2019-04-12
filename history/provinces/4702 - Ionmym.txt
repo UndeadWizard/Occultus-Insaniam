@@ -1,0 +1,18 @@
+#4702 - Ionmym
+
+owner = ION
+controller = ION
+add_core = ION
+is_city = yes
+
+culture = high_atlantean
+religion = catholic
+
+base_tax = 5
+base_production = 3
+base_manpower = 4
+
+trade_goods = cloth 
+hre = no
+
+discovered_by = atlantean

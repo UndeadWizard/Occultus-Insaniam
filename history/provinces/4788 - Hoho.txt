@@ -1,0 +1,18 @@
+#4788 - Hoho
+
+owner = JFN
+controller = JFN
+add_core = JFN
+is_city = yes
+
+base_tax = 2
+base_production = 1
+base_manpower = 3
+
+culture = sinhala
+religion = sunni
+
+trade_goods = livestock
+hre = no
+
+

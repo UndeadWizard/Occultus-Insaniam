@@ -1,0 +1,18 @@
+#4726 - Lavacromara
+
+owner = MEL
+controller = MEL
+add_core = MEL
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 3
+
+culture = north_atlantean
+religion = catholic
+
+trade_goods = unknown
+hre = no
+
+discovered_by = atlantean

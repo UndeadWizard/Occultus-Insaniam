@@ -1,0 +1,18 @@
+#4688 - Ynsepini
+
+owner = ATZ
+controller = ATZ
+add_core = ATZ
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+culture = south_atlantean
+religion = catholic
+
+trade_goods = salt
+hre = no
+
+discovered_by = atlantean

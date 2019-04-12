@@ -1,0 +1,18 @@
+#4730 - Maratirath
+
+owner = SAG
+controller = SAG
+add_core = SAG
+is_city = yes
+
+base_tax = 4
+base_production = 2
+base_manpower = 3
+
+culture = north_atlantean
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+discovered_by = atlantean

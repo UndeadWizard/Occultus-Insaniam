@@ -1,0 +1,19 @@
+#4752 - Marapoas
+
+owner = ANX
+controller = ANX
+add_core = ANX
+is_city = yes
+
+base_tax = 5
+base_production = 4
+base_manpower = 5
+
+culture = south_atlantean
+religion = catholic
+
+trade_goods = livestock
+hre = no
+
+
+discovered_by = atlantean

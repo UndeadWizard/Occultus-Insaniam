@@ -1,0 +1,18 @@
+#4732 - Sagarrondoa
+
+owner = SAG
+controller = SAG
+add_core = SAG
+is_city = yes
+
+base_tax = 3
+base_production = 4
+base_manpower = 5
+
+culture = north_atlantean
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+discovered_by = atlantean

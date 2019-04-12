@@ -1,0 +1,19 @@
+#4735 - Pedaekaetopros
+
+owner = SOR
+controller = SOR
+add_core = SOR
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+culture = south_atlantean
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+
+discovered_by = atlantean

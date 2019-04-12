@@ -1,0 +1,23 @@
+#4661 - Polislite
+
+owner = ATE
+controller = ATE
+add_core = ATE
+is_city = yes
+
+base_tax = 6
+base_production = 4
+base_manpower = 5
+
+culture = islander_atlantean
+religion = catholic
+
+trade_goods = wine
+hre = no
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+
+discovered_by = atlantean

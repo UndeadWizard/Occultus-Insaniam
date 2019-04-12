@@ -1,0 +1,19 @@
+#4725 - Enschaens
+
+owner = MEL
+controller = MEL
+add_core = MEL
+is_city = yes
+
+base_tax = 5
+base_production = 7
+base_manpower = 5
+
+culture = north_atlantean
+religion = catholic
+
+trade_goods = paper
+hre = no
+
+
+discovered_by = atlantean

@@ -1,0 +1,19 @@
+#4701 - Rakkad
+
+owner = RAK
+controller = RAK
+add_core = RAK
+is_city = yes
+
+culture = high_atlantean
+religion = catholic
+
+base_tax = 3
+base_production = 5
+base_manpower = 3
+
+
+trade_goods = cloth 
+hre = no
+
+discovered_by = atlantean

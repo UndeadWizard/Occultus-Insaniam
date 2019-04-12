@@ -1,0 +1,18 @@
+#4681 - Crecrelym
+
+owner = CRC
+controller = CRC
+add_core = CRC
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 4
+
+culture = south_atlantean
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+discovered_by = atlantean

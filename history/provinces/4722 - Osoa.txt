@@ -1,0 +1,18 @@
+#4722 - Osoa
+
+owner = TAD
+controller = TAD
+add_core = TAD
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+culture = north_atlantean
+religion = catholic
+
+trade_goods = gems
+hre = no
+
+discovered_by = atlantean

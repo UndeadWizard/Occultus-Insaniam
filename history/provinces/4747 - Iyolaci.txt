@@ -1,0 +1,18 @@
+#4747 - Iyolaci
+
+owner = SOR
+controller = SOR
+add_core = SOR
+is_city = yes
+
+base_tax = 6
+base_production = 6
+base_manpower = 5
+
+culture = south_atlantean
+religion = catholic
+
+trade_goods = naval_supplies
+hre = no
+
+discovered_by = atlantean

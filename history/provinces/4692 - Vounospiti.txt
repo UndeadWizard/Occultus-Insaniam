@@ -1,0 +1,18 @@
+#4692 - Vounospiti
+
+owner = VOU
+controller = VOU
+add_core = VOU
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 4
+
+culture = mountain_atlantean
+religion = catholic
+
+trade_goods = copper
+hre = no
+
+discovered_by = atlantean

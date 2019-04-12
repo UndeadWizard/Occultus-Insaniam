@@ -1,0 +1,18 @@
+#4764 - Askloy
+
+owner = AKY
+controller = AKY
+add_core = AKY
+is_city = yes
+
+base_tax = 3
+base_production = 4
+base_manpower = 2
+
+culture = islander_atlantean
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+discovered_by = atlantean

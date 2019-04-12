@@ -1,0 +1,18 @@
+#4662 - Maraath
+
+owner = MRR
+controller = MRR
+add_core = MRR
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 3
+
+culture = islander_atlantean
+religion = catholic
+
+trade_goods = naval_supplies
+hre = no
+
+discovered_by = atlantean

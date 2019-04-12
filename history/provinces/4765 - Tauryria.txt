@@ -1,0 +1,18 @@
+#4765 - Tauryria
+
+owner = TYA
+controller = TYA
+add_core = TYA
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 2
+
+culture = islander_atlantean
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+discovered_by = atlantean

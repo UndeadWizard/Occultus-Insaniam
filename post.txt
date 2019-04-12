@@ -1,0 +1,12 @@
+Occultus Insanir
+
+[h1]Credits:[/h1]
+[LIST]
+[*] MrTaxman - for the original mod in EU3
+[*] [TAB]Mayor - for the original port to EU4
+[*] Knut Skallagrim - for his map work on the original map
+[*] Jords - for his work on Atlantean tech and other Atlantean details
+[*] Ushanx94 - for his Cult of Cthulu mod
+[*] Makers of Occultus Mundorum for a few of the aesthetics 
+[*] Vawser - for his improvements on the old mods on pretty much everything 
+[/LIST]

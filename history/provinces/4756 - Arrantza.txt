@@ -1,0 +1,18 @@
+#4756 - Arrantza
+
+owner = MES
+controller = MES
+add_core = MES
+is_city = yes
+
+base_tax = 5
+base_production = 6
+base_manpower = 3
+
+culture = islander_atlantean
+religion = catholic
+
+trade_goods = naval_supplies
+hre = no
+
+discovered_by = atlantean

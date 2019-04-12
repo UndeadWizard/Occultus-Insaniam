@@ -1,0 +1,18 @@
+#4727 - Troia
+
+owner = OIN
+controller = OIN
+add_core = OIN
+is_city = yes
+
+base_tax = 2
+base_production = 1
+base_manpower = 1
+
+culture = north_atlantean
+religion = catholic
+
+trade_goods = grain
+hre = no
+
+discovered_by = atlantean

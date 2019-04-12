@@ -1,0 +1,16 @@
+#4790 - Tesh'sai
+
+owner = JFN
+controller = JFN
+add_core = JFN
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+culture = sinhala
+religion = sunni
+
+trade_goods = livestock
+hre = no

@@ -1,0 +1,18 @@
+#4755 - Meropis
+
+owner = MPS
+controller = MPS
+add_core = MPS
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+culture = meropisean
+religion = catholic
+
+trade_goods = fish
+hre = no
+
+discovered_by = atlantean

@@ -1,0 +1,18 @@
+#4708 - Yamylaik
+
+owner = YLK
+controller = YLK
+add_core = YLK
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 1
+
+culture = high_atlantean
+religion = catholic
+
+trade_goods = cloth 
+hre = no
+
+discovered_by = atlantean

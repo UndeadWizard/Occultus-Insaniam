@@ -1,0 +1,28 @@
+government = monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = catholic
+primary_culture = high_atlantean
+capital = 4705
+
+#Atlantis Shattered
+1444.1.1 = {
+	monarch = {
+		name = "Psevdis"
+		dynasty = "Chrysa"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 1392.1.1
+	}
+
+	heir = {
+		name = "Zeras"
+		dynasty = "Chrysa"
+		adm = 3
+		dip = 5
+		mil = 5
+		claim = 75
+		birth_date = 1411.1.1
+	}
+}

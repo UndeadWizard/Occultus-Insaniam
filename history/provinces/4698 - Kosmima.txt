@@ -1,0 +1,18 @@
+#4698 - Kosmima
+
+owner = EDK
+controller = EDK
+add_core = EDK
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 4
+
+culture = mountain_atlantean
+religion = catholic
+
+trade_goods = wool
+hre = no
+
+discovered_by = atlantean

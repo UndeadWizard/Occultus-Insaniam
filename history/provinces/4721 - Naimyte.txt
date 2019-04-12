@@ -1,0 +1,18 @@
+#4721 - Naimyte
+
+owner = MEL
+controller = MEL
+add_core = MEL
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+culture = north_atlantean
+religion = catholic
+
+trade_goods = grain
+hre = no
+
+discovered_by = atlantean
