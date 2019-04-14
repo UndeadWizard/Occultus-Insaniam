@@ -1,13 +1,13 @@
-#4820 - Ngpar
+#4861 - Erkea
 
-owner = LNK
-controller = LNK
-add_core = LNK
+owner = STO
+controller = STO
+add_core = STO
 is_city = yes
 
-base_tax = 1
+base_tax = 3
 base_production = 1
-base_manpower = 3
+base_manpower = 2
 
 culture = lemurian
 religion = sunni

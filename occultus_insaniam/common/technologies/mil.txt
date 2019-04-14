@@ -68,6 +68,9 @@ technology = {
     enable = atlantean_infantry_1_b # 1
     enable = atlantean_cavalry_1_a # 1
     enable = atlantean_cavalry_1_b # 1
+	enable = lemurian_infantry_1_a # 1
+    enable = lemurian_cavalry_1_a # 1
+    enable = lemurian_cavalry_1_b # 1
 }
 
 technology = {
@@ -137,6 +140,7 @@ technology = {
 	enable = atlantean_infantry_5_a # 5
     enable = atlantean_infantry_5_b # 5
     enable = atlantean_infantry_5_c # 5
+	enable = lemurian_infantry_5_a # 5
 	
 	combat_width = 2
 }
@@ -166,6 +170,9 @@ technology = {
 	enable = japanese_samurai	
 	enable = shaybani	
 	enable = high_american_horsemen
+	
+	
+    enable = lemurian_cavalry_6_a # 6
 	
 	combat_width = 2
 }
@@ -216,6 +223,8 @@ technology = {
 	enable = atlantean_infantry_9_a # 9
     enable = atlantean_infantry_9_b # 9
     enable = atlantean_infantry_9_c # 9
+	enable = lemurian_infantry_9_a # 9
+    enable = lemurian_infantry_9_b # 9
 	
 	military_tactics 	= 	0.25
 	combat_width = 1	
@@ -251,6 +260,7 @@ technology = {
 	enable = high_american_rifle_cavalry
 	
 	enable = atlantean_cavalry_10_a # 10
+    enable = lemurian_cavalry_10_a # 10
 }
 
 technology = {
@@ -295,6 +305,8 @@ technology = {
 	
 	enable = atlantean_infantry_12_a # 12
     enable = atlantean_infantry_12_b # 12
+    enable = lemurian_infantry_12_a # 12
+    enable = lemurian_infantry_12_b # 12
 }
 
 technology = {
@@ -338,7 +350,8 @@ technology = {
 	enable = high_american_hussar
 	
 	enable = atlantean_cavalry_14_a # 14
-
+    enable = lemurian_cavalry_14_a # 14
+	
 	combat_width = 2
 }
 
@@ -394,6 +407,9 @@ technology = {
 	enable = maharathan_cavalry		
 	enable = manchu_banner		
 	enable = african_swarm
+	
+	
+    enable = lemurian_cavalry_17_a # 17
 }
 
 technology = {
@@ -415,7 +431,10 @@ technology = {
 	enable = ha_xoloti
 	
 	enable = atlantean_cavalry_18_a # 18
-
+	
+    enable = lemurian_infantry_18_a # 18
+    enable = lemurian_infantry_18_b # 18
+	
 	combat_width = 2
 }
 
@@ -539,6 +558,9 @@ technology = {
     enable = atlantean_cavalry_23_a # 23
     enable = atlantean_cavalry_23_b # 23
     enable = atlantean_cavalry_23_c # 23
+	
+    enable = lemurian_infantry_23_a # 23
+    enable = lemurian_cavalry_23_a # 23
 }
 
 technology = {
@@ -608,6 +630,8 @@ technology = {
     enable = atlantean_cavalry_26_b # 26
     enable = atlantean_cavalry_26_c # 26
 	
+    enable = lemurian_infantry_26_a # 26
+	
 	combat_width = 2
 }
 
@@ -651,6 +675,9 @@ technology = {
     enable = atlantean_cavalry_28_a # 28
     enable = atlantean_cavalry_28_b # 28
     enable = atlantean_cavalry_28_c # 28
+	
+    enable = lemurian_cavalry_28_a # 28
+    enable = lemurian_cavalry_28_b # 28
 }
 
 technology = {
@@ -692,6 +719,8 @@ technology = {
     enable = atlantean_infantry_30_b # 30
     enable = atlantean_infantry_30_c # 30
     enable = atlantean_infantry_30_d # 30
+	
+    enable = lemurian_infantry_30_a # 30
 }
 
 technology = {

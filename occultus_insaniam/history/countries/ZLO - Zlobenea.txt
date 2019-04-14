@@ -1,0 +1,31 @@
+government = monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = sunni
+primary_culture = lemurian
+capital = 4848
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Gopala"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1382.1.1
+	}
+
+	heir = {
+		name = "Jaitrasimha"
+		monarch_name = "Jaitrasimha"
+		dynasty = "Gopala"
+		adm = 5
+		dip = 4
+		mil = 3
+		claim = 50
+		birth_date = 1419.1.1
+		death_date = 1512.1.1
+	}
+}

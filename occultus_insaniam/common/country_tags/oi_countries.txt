@@ -58,3 +58,11 @@ YLK = "countries/Yamylaik.txt" 	    # Hellenic, High Atlantean, Monarchy
 THL = "countries/Thule.txt" 		# Catholic, Irish, Monarchy
 
 #Lemuria
+
+
+LNK = "countries/Lankr.txt"         # Asakti, Lemurian, Monarchy
+PNA = "countries/Pantiya.txt"       # Asakti, Lemurian, Monarchy
+STO = "countries/Stolat.txt"        # Asakti, Lemurian, Monarchy
+VNG = "countries/Vangvangdaq.txt"   # Asakti, Lemurian, Monarchy
+YUB = "countries/Yubervalt.txt"     # Asakti, Lemurian, Monarchy
+ZLO = "countries/Zlobenea.txt"      # Asakti, Lemurian, Monarchy

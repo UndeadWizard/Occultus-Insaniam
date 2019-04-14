@@ -1,0 +1,21 @@
+#4845 - Qetrulau
+
+owner = ZLO
+controller = ZLO
+add_core = ZLO
+is_city = yes
+
+base_tax = 2
+base_production = 1
+base_manpower = 3
+
+culture = lemurian
+religion = sunni
+
+trade_goods = spices
+hre = no
+
+add_permanent_province_modifier = {
+	name = river_estuary_modifier
+	duration = -1
+}

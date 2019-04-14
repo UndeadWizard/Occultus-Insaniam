@@ -1,16 +1,18 @@
-#4817 - Siui
+#4836 - Mihoi
 
-owner = LNK
-controller = LNK
-add_core = LNK
+owner = YUB
+controller = YUB
+add_core = YUB
 is_city = yes
 
 base_tax = 3
 base_production = 3
-base_manpower = 1
+base_manpower = 2
 
 culture = lemurian
 religion = sunni
 
 trade_goods = spices
 hre = no
+
+

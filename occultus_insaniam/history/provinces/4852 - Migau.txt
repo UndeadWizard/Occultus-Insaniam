@@ -1,0 +1,17 @@
+#4852 - Migau
+
+owner = VNG
+controller = VNG
+add_core = VNG
+is_city = yes
+
+base_tax = 5
+base_production = 6
+base_manpower = 5
+
+culture = lemurian
+religion = sunni
+
+trade_goods = cotton
+hre = no
+

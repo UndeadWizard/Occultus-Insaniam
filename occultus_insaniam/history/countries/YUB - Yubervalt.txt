@@ -1,0 +1,44 @@
+government = monarchy
+mercantilism = 0.1
+technology_group = lemurian
+religion = sunni
+primary_culture = lemurian
+capital = 4836
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Jayasimha"
+		dynasty = "Kahlon"
+		adm = 2
+		dip = 2
+		mil = 5
+		birth_date = 1365.1.1
+	}
+
+	queen = {
+		country_of_origin = YUB 
+		name = "Chinnambike"
+		dynasty = "Kahlon"
+		adm = 5
+		dip = 3
+		mil = 2
+		birth_date = 1347.1.1
+		death_date = 1446.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Shurapala"
+		monarch_name = "Shurapala"
+		dynasty = "Kahlon"
+		adm = 2
+		dip = 2
+		mil = 3
+		claim = 50
+		birth_date = 1427.1.1
+		death_date = 1463.1.1
+	}
+}
+

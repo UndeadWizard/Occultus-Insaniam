@@ -1,8 +1,8 @@
-#4822 - Luiyuk
+#4838 - Yenye
 
-owner = LNK
-controller = LNK
-add_core = LNK
+owner = ZLO
+controller = ZLO
+add_core = ZLO
 is_city = yes
 
 base_tax = 2
@@ -12,7 +12,7 @@ base_manpower = 3
 culture = lemurian
 religion = sunni
 
-trade_goods = dyes
+trade_goods = spices
 hre = no
 
 

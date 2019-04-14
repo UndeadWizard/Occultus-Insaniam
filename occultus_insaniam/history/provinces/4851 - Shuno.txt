@@ -1,16 +1,16 @@
-#4817 - Siui
+#4851 - Shuno
 
-owner = LNK
-controller = LNK
-add_core = LNK
+owner = VNG
+controller = VNG
+add_core = VNG
 is_city = yes
 
-base_tax = 3
+base_tax = 1
 base_production = 3
 base_manpower = 1
 
 culture = lemurian
 religion = sunni
 
-trade_goods = spices
+trade_goods = grain
 hre = no

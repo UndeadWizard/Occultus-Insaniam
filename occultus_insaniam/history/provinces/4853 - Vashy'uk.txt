@@ -1,8 +1,8 @@
-#4822 - Luiyuk
+#4853 - Vashy'uk
 
-owner = LNK
-controller = LNK
-add_core = LNK
+owner = VNG
+controller = VNG
+add_core = VNG
 is_city = yes
 
 base_tax = 2
@@ -12,7 +12,7 @@ base_manpower = 3
 culture = lemurian
 religion = sunni
 
-trade_goods = dyes
+trade_goods = cotton
 hre = no
 
 

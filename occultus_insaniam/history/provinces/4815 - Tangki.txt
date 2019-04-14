@@ -1,8 +1,8 @@
 #4815 - Tangki
 
-owner = CEY
-controller = CEY
-add_core = CEY
+owner = LNK
+controller = LNK
+add_core = LNK
 is_city = yes
 
 base_tax = 3

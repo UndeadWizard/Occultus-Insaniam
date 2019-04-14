@@ -1,0 +1,17 @@
+#4832 - Giimbiyu
+
+owner = YUB
+controller = YUB
+add_core = YUB
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 2
+
+culture = lemurian
+religion = sunni
+
+trade_goods = cotton
+hre = no
+

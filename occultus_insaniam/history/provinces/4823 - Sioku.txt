@@ -1,0 +1,18 @@
+#4823 - Sioku
+
+owner = PNA
+controller = PNA
+add_core = PNA
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 3
+
+culture = lemurian
+religion = sunni
+
+trade_goods = cloth
+hre = no
+
+

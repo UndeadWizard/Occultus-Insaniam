@@ -1,0 +1,18 @@
+#4829 - Pantiya
+
+owner = PNA
+controller = PNA
+add_core = PNA
+is_city = yes
+
+base_tax = 5
+base_production = 4
+base_manpower = 4
+
+culture = lemurian
+religion = sunni
+
+trade_goods = cloth
+hre = no
+
+
