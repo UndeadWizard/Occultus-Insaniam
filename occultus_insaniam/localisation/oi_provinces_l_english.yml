@@ -118,6 +118,7 @@
  PROV4766: "Polismos Ridge"
  #----Thule----#
  PROV4767: "Thule"
+ #---Frisland---#
  PROV4768: "Illuuta"
  PROV4769: "Kala"
  #----Antillia----#
@@ -167,3 +168,11 @@
  PROV4812: "Aupi"
  PROV4813: "Yek'pi"
  PROV4814: "Ngare"
+ PROV4815: "Tangki"
+ PROV4816: "Lanka"
+ PROV4817: "Siui"
+ PROV4818: "Hange"
+ PROV4819: "Teshlau"
+ PROV4820: "Ngpar"
+ PROV4821: "Erkea"
+ PROV4822: "Luiyuk"

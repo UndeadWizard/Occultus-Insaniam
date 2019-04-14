@@ -1,0 +1,18 @@
+#4818 - Hange
+
+owner = CEY
+controller = CEY
+add_core = CEY
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 1
+
+culture = lemurian
+religion = sunni
+
+trade_goods = spices
+hre = no
+
+

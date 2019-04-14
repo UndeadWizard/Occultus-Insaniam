@@ -221,6 +221,27 @@ lemurian_group = {
 	}
 }
 
+dravidian = {
+	graphical_culture = indiangfx
+
+	lankan = {
+		dynasty_names = {
+			Sangama Aravidu Saluva Tuluva Wodeyar Adilshahi Saadatullahid Anwarudid  Kolathiri Bahmanid "Qutb Shahi" "Asaf Jahi" Agni Nayar Ikshvaku Chera Nagavanshi
+		}
+	}
+	dramil = {
+		dynasty_names = {
+			Sangama Aravidu Saluva Tuluva Wodeyar Adilshahi Saadatullahid Anwarudid  Kolathiri Bahmanid "Qutb Shahi" "Asaf Jahi" Agni Nayar Ikshvaku Chera Nagavanshi
+		}
+	}
+	pandiyan = {
+		dynasty_names = {
+			Sangama Aravidu Saluva Tuluva Wodeyar Adilshahi Saadatullahid Anwarudid  Kolathiri Bahmanid "Qutb Shahi" "Asaf Jahi" Agni Nayar Ikshvaku Chera Nagavanshi
+		}
+	}
+	
+}
+
 germanic = {
 	graphical_culture = westerngfx
 

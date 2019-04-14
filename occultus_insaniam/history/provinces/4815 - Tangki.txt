@@ -1,0 +1,17 @@
+#4815 - Tangki
+
+owner = CEY
+controller = CEY
+add_core = CEY
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+culture = lankan
+religion = sunni
+
+trade_goods = spices
+hre = no
+
