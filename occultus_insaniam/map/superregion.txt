@@ -1,6 +1,7 @@
 # A region can only belong to one super region.
 
 atlantean_superregion = {
+	atlantean_crownlands
 	atlantean_region
 }
 

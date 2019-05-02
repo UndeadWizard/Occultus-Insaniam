@@ -58,11 +58,19 @@ YLK = "countries/Yamylaik.txt" 	    # Hellenic, High Atlantean, Monarchy
 THL = "countries/Thule.txt" 		# Catholic, Irish, Monarchy
 
 #Lemuria
-
-
 LNK = "countries/Lankr.txt"         # Asakti, Lemurian, Monarchy
 PNA = "countries/Pantiya.txt"       # Asakti, Lemurian, Monarchy
+SDP = "countries/Sudopalis.txt"     # Asakti, Lemurian, tribal_kingdom
 STO = "countries/Stolat.txt"        # Asakti, Lemurian, Monarchy
 VNG = "countries/Vangvangdaq.txt"   # Asakti, Lemurian, Monarchy
 YUB = "countries/Yubervalt.txt"     # Asakti, Lemurian, Monarchy
 ZLO = "countries/Zlobenea.txt"      # Asakti, Lemurian, Monarchy
+
+00L = "countries/Khobiya.txt"  # Zoroastrian, Gujarati, Monarchy
+01L = "countries/Sivava.txt"  # Zoroastrian, Tamil, Monarchy
+02L = "countries/Antitha.txt"  # Zoroastrian, Tamil, Monarchy
+03L = "countries/Payamgi.txt"  # Zoroastrian, Gujarati, Monarchy
+04L = "countries/Gutta.txt"  # Zoroastrian, Gujarati, Monarchy
+05L = "countries/Joyangi.txt"  # Zoroastrian, Gujarati, Monarchy
+06L = "countries/Navdarik.txt"  # Animism, Gujarati, Monarchy 
+07L = "countries/Malirva.txt"  # Asakti, Tamil, Monarchy 

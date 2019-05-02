@@ -13,5 +13,6 @@ culture = lankan
 religion = sunni
 
 trade_goods = spices
-hre = no
+hre = no 
+discovered_by = lemurian
 

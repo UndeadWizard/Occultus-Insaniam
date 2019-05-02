@@ -1,0 +1,19 @@
+#4895 - Popa
+
+owner = SDP
+controller = SDP
+add_core = SDP
+is_city = yes
+
+base_tax = 3
+base_production = 4
+base_manpower = 2
+
+culture = lemurian
+religion = sunni
+
+trade_goods = naval_supplies
+hre = no 
+discovered_by = lemurian
+
+

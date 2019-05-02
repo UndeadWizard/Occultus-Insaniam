@@ -13,5 +13,6 @@ culture = lemurian
 religion = sunni
 
 trade_goods = gems
-hre = no
+hre = no 
+discovered_by = lemurian
 

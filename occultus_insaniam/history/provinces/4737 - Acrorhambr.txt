@@ -14,5 +14,4 @@ religion = catholic
 
 trade_goods = cloth
 hre = no
-
-discovered_by = atlantean
+discovered_by = lemurian

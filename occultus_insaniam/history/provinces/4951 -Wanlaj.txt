@@ -1,0 +1,18 @@
+#4951 -  Wanlaj
+
+owner = 05L
+controller = 05L
+add_core = 05L
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = gujarati
+religion = zoroastrian
+
+trade_goods = spices
+hre = no 
+
+discovered_by = lemurian

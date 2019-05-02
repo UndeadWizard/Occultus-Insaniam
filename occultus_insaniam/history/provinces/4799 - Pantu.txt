@@ -13,4 +13,6 @@ culture = lemurian
 religion = sunni
 
 trade_goods = fish
-hre = no
+hre = no 
+
+discovered_by = lemurian

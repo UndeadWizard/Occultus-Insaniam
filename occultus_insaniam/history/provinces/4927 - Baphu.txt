@@ -1,0 +1,18 @@
+#4927 - Baphu
+
+owner = 05L
+controller = 05L
+add_core = 05L
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = gujarati
+religion = zoroastrian
+
+trade_goods = grain
+hre = no 
+
+discovered_by = lemurian

@@ -1,0 +1,282 @@
+aza_left_start = {
+
+	slot = 1 
+	generic = no
+	ai = yes
+	potential = { atlantis_broken = yes }	 
+	has_country_shield = yes
+	
+	#Tier 1
+	take_chryos = {
+		icon = mission_conquer_50_development
+		required_missions = {  }
+		position = 1
+		provinces_to_highlight = {
+			province_id = 4705
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			owns = 4705
+		}
+		effect = {
+			4705 = {
+				change_culture = ROOT
+				change_religion = ROOT
+			}
+			add_adm_power = 50
+			add_prestige = 5
+		}
+	}
+}
+
+aza_military_missions = {
+
+	slot = 2 
+	generic = no 
+	ai = yes
+	potential = { atlantis_broken = yes }	 
+	has_country_shield = yes
+	
+	#Tier 1
+	aza_expand_retinue_mission = {
+		icon = mission_build_up_to_force_limit
+		position = 1
+		required_missions = {  } 
+		trigger = {
+			army_size = 10
+		}
+		effect = {
+			add_country_modifier = {
+				name = "thriving_arms_industry"
+				duration = 9125 #25 years
+			}
+		}
+	}
+	#Tier 2
+	aza_expand_country_mission = {
+		icon = mission_conquer_50_development
+		required_missions = { aza_expand_retinue_mission }
+		position = 2
+		trigger = { grown_by_development = 50 }
+		effect = {
+			capital_scope = {
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+				area = {
+					limit = { owned_by = ROOT }
+					add_province_modifier = {
+						name = "growth_of_capital"
+						duration = 9125 #25 years
+					}
+				}
+			}
+		}
+	}
+	#Tier 3
+	aza_conquer_states = {
+		icon = mission_cannons_firing
+		required_missions = { aza_expand_country_mission }
+		position = 3
+		trigger = { grown_by_states = 5 }
+		effect = {
+			add_country_modifier = {
+				name = "expansionist_country"
+				duration = 9125 #25 years
+			}
+		}
+	}
+	#Tier 4
+	aza_reestablish_legions = {
+		icon = mission_assemble_an_army
+		required_missions = { aza_conquer_states }
+		position = 4
+		trigger = { army_size = 80 }
+		effect = {
+			add_country_modifier = {
+				name = "army_enthusiasm"
+				duration = 9125 #25 years
+			}
+		}
+	}
+	#Tier 5
+	aza_unite_home_region = {
+		icon = mission_unite_home_region
+		required_missions = { aza_reestablish_legions }
+		position = 5
+		provinces_to_highlight = {
+			OR = {
+				region = atlantean_crownlands
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			atlantean_crownlands = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_dip_power = 50
+			add_adm_power = 50
+			add_mil_power = 50
+			add_country_modifier = {
+				name = "hegemonic_ambition"
+				duration = 9125 #25 years
+			}
+		}
+	}
+}
+aza_centre_start = {
+	
+	slot = 3
+	generic = no
+	ai = yes
+	potential = { atlantis_broken = yes }	 
+	has_country_shield = yes
+	
+	#Tier 1
+	aza_consolidate_power = {
+		icon = mission_unite_home_region
+		position = 1
+		required_missions = { }
+		trigger = {
+			owns = 4702
+			owns = 4703
+			owns = 4704
+			owns = 4705
+			owns = 4710
+		}
+		effect = {
+			add_prestige = 10
+		}
+	}
+	
+}
+aza_administrative_missions = {
+	
+	slot = 4
+	generic = no 
+	ai = yes
+	potential = { atlantis_broken = yes }	 
+	has_country_shield = yes
+	
+	#Tier 1
+	aza_high_income_mission = {
+		icon = mission_high_income
+		position = 1
+		required_missions = {  } #None
+		trigger = { monthly_income = 10 }
+		effect = {
+			add_country_modifier = {
+				name = "growing_economy"
+				duration = 9125 #25 years
+			}
+		}
+	}
+	#Tier 2
+	aza_build_temples = {
+		icon = mission_early_game_buildings
+		position = 2
+		required_missions = { aza_high_income_mission }
+		trigger = {
+			temple = 5
+			workshop = 5
+		}
+		effect = {
+			add_adm_power = 50
+			add_country_modifier = {
+				name = "building_spree"
+				duration = 9125
+			}
+		}
+	}
+	#Tier 3
+	aza_build_treasury = {
+		icon = mission_war_chest
+		position = 3
+		required_missions = { aza_build_temples }
+		trigger = { treasury = 2000 }
+		effect = {
+			add_country_modifier = {
+				name = "strong_treasury"
+				duration = 9125
+			}
+		}
+	}
+	#Tier 4
+	aza_build_manufactories = {
+		icon = mission_have_manufactories
+		position = 4
+		required_missions = { aza_build_treasury }
+		trigger = {
+			calc_true_if = {
+				all_owned_province = {
+					OR = {
+						has_building = mills
+						has_building = farm_estate
+						has_building = tradecompany
+						has_building = plantations
+						has_building = textile
+						has_building = weapons
+						has_building = wharf
+						has_building = furnace
+					}
+				}
+				amount = 20
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "proto_industrialization"
+				duration = 9125
+			}
+			add_years_of_income = 1.5
+		}
+	}
+	#Tier 5
+	aza_imperial_ambition_mission = {
+		icon = mission_empire
+		position = 5
+		required_missions = { aza_build_manufactories }
+		trigger = {
+			total_development = 1000
+		}
+		effect = {
+			add_prestige = 30
+			add_country_modifier = {
+				name = "imperial_ambition"
+				duration = 9125
+			}
+		}
+	}
+}
+
+aza_right_start = {
+
+	slot = 5
+	generic = no
+	ai = yes
+	potential = { atlantis_broken = yes }	 
+	has_country_shield = yes
+	
+	#Tier 1
+	control_the_crownlands = {
+		icon = mission_unite_home_region
+		position = 1
+		provinces_to_highlight = {
+			area = atlantean_crownlands
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			atlantean_crownlands = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_adm_power = 100
+			add_prestige = 10
+		}
+	}
+}

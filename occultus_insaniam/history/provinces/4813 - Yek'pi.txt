@@ -13,4 +13,5 @@ culture = lemurian
 religion = sunni
 
 trade_goods = tea
-hre = no
+hre = no 
+discovered_by = lemurian

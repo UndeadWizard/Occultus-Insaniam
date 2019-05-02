@@ -13,10 +13,6 @@ culture = sinhala
 religion = sunni
 
 trade_goods = spices
-hre = no
+hre = no 
 
-add_permanent_province_modifier = {
-	name = religious_center
-	duration = -1
-}
-
+discovered_by = lemurian

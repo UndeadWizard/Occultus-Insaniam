@@ -1,0 +1,18 @@
+#4922 -  Nagura
+
+owner = 03L
+controller = 03L
+add_core = 03L
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = gujarati
+religion = zoroastrian
+
+trade_goods = spices
+hre = no 
+
+discovered_by = lemurian

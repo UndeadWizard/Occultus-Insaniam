@@ -1,0 +1,18 @@
+#4923 -  Cargan
+
+owner = 03L
+controller = 03L
+add_core = 03L
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+culture = gujarati
+religion = zoroastrian
+
+trade_goods = grain
+hre = no 
+
+discovered_by = lemurian

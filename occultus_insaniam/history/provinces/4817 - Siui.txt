@@ -13,4 +13,5 @@ culture = lemurian
 religion = sunni
 
 trade_goods = spices
-hre = no
+hre = no 
+discovered_by = lemurian

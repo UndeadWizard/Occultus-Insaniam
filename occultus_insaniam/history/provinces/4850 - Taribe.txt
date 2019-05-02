@@ -1,0 +1,13 @@
+#4850 - Taribe
+
+culture = lemurian
+religion = sunni
+
+base_tax = 2
+base_production = 3
+base_manpower = 1
+
+
+trade_goods = unknown 
+hre = no 
+discovered_by = lemurian

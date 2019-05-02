@@ -1,0 +1,16 @@
+atlantis_reborn = {
+	custom_trigger_tooltip = {
+		tooltip = aza_atlantis_reborn_tt
+		OR = {
+			tag = AZA
+			tag = ATL
+		}
+	}
+}
+
+atlantis_broken = {
+	OR = {
+		tag = AZA
+		tag = ATL
+	}
+}

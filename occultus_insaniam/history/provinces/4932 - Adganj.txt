@@ -1,0 +1,18 @@
+#4932 -  Adganj
+
+owner = 02L
+controller = 02L
+add_core = 02L
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 2
+
+culture = tamil
+religion = zoroastrian
+
+trade_goods = wool
+hre = no 
+
+discovered_by = lemurian

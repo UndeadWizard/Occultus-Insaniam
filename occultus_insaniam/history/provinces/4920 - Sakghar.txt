@@ -1,0 +1,18 @@
+#4920 - Sakghar
+
+owner = 02L
+controller = 02L
+add_core = 02L
+is_city = yes
+
+base_tax = 3
+base_production = 4 
+base_manpower = 2
+
+culture = tamil
+religion = zoroastrian
+
+trade_goods = grain
+hre = no 
+
+discovered_by = lemurian

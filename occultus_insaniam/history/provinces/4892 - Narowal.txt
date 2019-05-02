@@ -1,0 +1,19 @@
+#4892 - Narowal
+
+owner = SDP
+controller = SDP
+add_core = SDP
+is_city = yes
+
+base_tax = 2
+base_production = 1
+base_manpower = 2
+
+culture = lemurian
+religion = sunni
+
+trade_goods = fish
+hre = no 
+discovered_by = lemurian
+
+

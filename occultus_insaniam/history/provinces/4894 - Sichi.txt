@@ -1,0 +1,19 @@
+#4894 - Sichi
+
+owner = SDP
+controller = SDP
+add_core = SDP
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 4
+
+culture = lemurian
+religion = sunni
+
+trade_goods = fish
+hre = no 
+discovered_by = lemurian
+
+

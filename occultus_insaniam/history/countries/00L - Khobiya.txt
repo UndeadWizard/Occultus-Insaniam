@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = nayankara_reform
+mercantilism = 0.1
+technology_group = lemurian
+religion = zoroastrian
+primary_culture = gujarati
+capital = 4938
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Naamdev"
+		dynasty = "Juthani"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1386.1.1
+	}
+
+}

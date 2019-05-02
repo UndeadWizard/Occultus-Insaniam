@@ -1,0 +1,18 @@
+#4946 -  Janakkot
+
+owner = 04L
+controller = 04L
+add_core = 04L
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+culture = gujarati
+religion = zoroastrian
+
+trade_goods = fish
+hre = no 
+
+discovered_by = lemurian

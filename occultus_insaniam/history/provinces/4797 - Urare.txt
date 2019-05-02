@@ -13,6 +13,8 @@ culture = lemurian
 religion = sunni
 
 trade_goods = iron
-hre = no
+hre = no 
+
+discovered_by = lemurian
 
 

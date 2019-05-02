@@ -105,6 +105,37 @@
  YLK: "Yamylaik"
  YLK_ADJ: "Yamylaik"
  
- #Vikings
+#Vikings
  THL: "Thule"
  THL_ADJ: "Thulen"
+ 
+#Lemuria
+ LNK: "Lankr"
+ LNK_ADJ: "Lankran"
+ PNA: "Pantiya"
+ PNA_ADJ: "Pantiyan"
+ SDP: "Sudopalis"
+ SDP_ADJ: "Sudopalis"
+ STO: "Stolat"
+ STO_ADJ: "Stolati"
+ VNG: "Vangvangdaq"
+ VNG_ADJ: "Vangvangdaqi"
+ YUB: "Yubervalt"
+ YUB_ADJ: "Yubervali"
+ ZLO: "Zlobenea"
+ ZLO_ADJ: "Zlobenean"
+ 
+ 00L: "Khobiya"
+ 00L_ADJ: "Khobiyan"
+ 01L: "Sivava"
+ 01L_ADJ: "Sivavan"
+ 02L: "Antitha"
+ 02L_ADJ: "Antithan"
+ 03L: "Payamgi"
+ 03L_ADJ: "Payamgini"
+ 04L: "Gutta"
+ 04L_ADJ: "Guttan"
+ 05L: "Joyangi"
+ 05L_ADJ: "Joyangini"
+ 06L: "Navdarik"
+ 06L_ADJ: "Navdariki"

@@ -14,5 +14,6 @@ religion = sunni
 
 trade_goods = spices
 hre = no
+discovered_by = lemurian
 
 

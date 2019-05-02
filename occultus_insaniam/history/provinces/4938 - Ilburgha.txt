@@ -1,0 +1,18 @@
+#4938 -  Ilburgha
+
+owner = 00L
+controller = 00L
+add_core = 00L
+is_city = yes
+
+base_tax = 5
+base_production = 4
+base_manpower = 4
+
+culture = gujarati
+religion = zoroastrian
+
+trade_goods = spices
+hre = no 
+
+discovered_by = lemurian

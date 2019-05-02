@@ -13,6 +13,8 @@ culture = sinhala
 religion = sunni
 
 trade_goods = grain
-hre = no
+hre = no 
+
+discovered_by = lemurian
 
 

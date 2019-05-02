@@ -1,0 +1,18 @@
+#4699 - Dryca
+
+owner = EDK
+controller = EDK
+add_core = EDK
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 1
+
+culture = mountain_atlantean
+religion = catholic
+
+trade_goods = iron
+hre = no
+
+discovered_by = atlantean

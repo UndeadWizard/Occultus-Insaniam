@@ -14,3 +14,4 @@ religion = sunni
 
 trade_goods = grain
 hre = no
+discovered_by = lemurian

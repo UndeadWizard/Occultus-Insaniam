@@ -1,0 +1,18 @@
+#4939 -  Naktu
+
+owner = 01L
+controller = 01L
+add_core = 01L
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 2
+
+culture = tamil
+religion = zoroastrian
+
+trade_goods = livestock
+hre = no 
+
+discovered_by = lemurian
