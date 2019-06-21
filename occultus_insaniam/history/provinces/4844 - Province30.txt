@@ -1,9 +1,0 @@
-#4815 - 
-
-culture = lemurian
-religion = sunni
-trade_goods = unknown 
-hre = no
-base_tax = 2
-base_production = 3
-base_manpower = 1
