@@ -1,0 +1,18 @@
+#4987 -  Nyike
+
+owner = L20
+controller = L20
+add_core = L20
+is_city = yes
+
+base_tax = 4
+base_production = 1
+base_manpower = 3
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = gold
+hre = no 
+
+discovered_by = lemurian

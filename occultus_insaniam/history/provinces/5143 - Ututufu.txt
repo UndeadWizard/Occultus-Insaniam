@@ -1,0 +1,18 @@
+#5143 - Ututufu
+
+owner = M03
+controller = M03
+add_core = M03
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 3
+
+culture = hawaiian
+religion = tiki
+
+trade_goods = naval_supplies
+hre = no 
+
+discovered_by = polynesian

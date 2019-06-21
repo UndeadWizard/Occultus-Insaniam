@@ -10,8 +10,7 @@ base_production = 6
 base_manpower = 4
 
 culture = islander_atlantean
-religion = catholic
-
+religion = atlanic
 trade_goods = wool
 hre = no
 

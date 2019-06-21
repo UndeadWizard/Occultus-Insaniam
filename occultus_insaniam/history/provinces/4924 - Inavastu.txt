@@ -1,15 +1,15 @@
 #4924 -  Inavastu
 
-owner = 06L
-controller = 06L
-add_core = 06L
+owner = L06
+controller = L06
+add_core = L06
 is_city = yes
 
 base_tax = 3
 base_production = 3
 base_manpower = 2
 
-culture = gujarati
+culture = pasandhi
 religion = zoroastrian
 
 trade_goods = spices

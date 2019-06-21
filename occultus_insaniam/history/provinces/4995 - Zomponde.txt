@@ -1,0 +1,18 @@
+#4995 -  Zomponde
+
+owner = L24
+controller = L24
+add_core = L24
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+culture = katikati
+religion = sunni
+
+trade_goods = ivory
+hre = no 
+
+discovered_by = lemurian

@@ -1,0 +1,8 @@
+### Modifiers for Intro chain
+
+aza_uncertainfuture = {
+	global_unrest = 2
+}
+aza_newhope = {
+	global_unrest = -1
+}

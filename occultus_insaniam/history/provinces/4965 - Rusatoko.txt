@@ -1,0 +1,18 @@
+#4965 -  Rusatoko
+
+owner = L18
+controller = L18
+add_core = L18
+is_city = yes
+
+base_tax = 2
+base_production = 1
+base_manpower = 2
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = slaves
+hre = no 
+
+discovered_by = lemurian

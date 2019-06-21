@@ -1,16 +1,16 @@
 #4915 -  Sanki
 
-owner = 06L
-controller = 06L
-add_core = 06L
+owner = L06
+controller = L06
+add_core = L06
 is_city = yes
 
 base_tax = 2
 base_production = 3
 base_manpower = 3
 
-culture = gujarati
-religion = zoroastrian
+culture = pasandhi
+religion = sunni
 
 trade_goods = gems
 hre = no 

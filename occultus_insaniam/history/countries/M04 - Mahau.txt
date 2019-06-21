@@ -1,0 +1,40 @@
+government = tribal
+add_government_reform = tribal_kingdom
+mercantilism = 0.1
+technology_group = polynesian
+religion = tiki
+primary_culture = rapanni
+capital = 5133
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Wana'ao"
+		dynasty = "Lahela"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1421.1.1
+	}
+
+	queen = { 
+		name = "Alamimo"
+		dynasty = "Haiku"
+		adm = 3
+		dip = 2
+		mil = 1
+		birth_date = 1425.1.1 
+	}
+
+	heir = {
+		name = "Aouli"
+		monarch_name = "Aouli"
+		dynasty = "Lahela"
+		adm = 4
+		dip = 3
+		mil = 3
+		claim = 100
+		birth_date = 1440.1.1 
+	}
+}

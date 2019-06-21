@@ -10,8 +10,7 @@ base_production = 3
 base_manpower = 2
 
 culture = north_atlantean
-religion = catholic
-
+religion = atlanic
 trade_goods = wine
 hre = no
 

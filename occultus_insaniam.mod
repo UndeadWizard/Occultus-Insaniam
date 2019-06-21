@@ -1,8 +1,9 @@
 name="Occultus Insaniam"
-archive="mod/occultus_insaniam"
+path="mod/occultus_insaniam"
 tags={
 	"Alternative History"
 	"New Nations"
+	"Missions And Decisions"
 	"Events"
 	"Religion"
 }

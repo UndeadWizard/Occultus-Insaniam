@@ -11,7 +11,7 @@ base_production = 1
 base_manpower = 2
 
 culture = lemurian
-religion = sunni
+religion = animism
 
 trade_goods = unknown
 hre = no 

@@ -265,7 +265,7 @@ aza_right_start = {
 		icon = mission_unite_home_region
 		position = 1
 		provinces_to_highlight = {
-			area = atlantean_crownlands
+			region = atlantean_crownlands
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 		}
 		trigger = {

@@ -1,15 +1,15 @@
 #4928 -  Rimanu
 
-owner = 03L
-controller = 03L
-add_core = 03L
+owner = L03
+controller = L03
+add_core = L03
 is_city = yes
 
 base_tax = 1
 base_production = 3
 base_manpower = 2
 
-culture = gujarati
+culture = pasandhi
 religion = zoroastrian
 
 trade_goods = grain

@@ -10,8 +10,7 @@ base_production = 1
 base_manpower = 2
 
 culture = south_atlantean
-religion = catholic
-
+religion = atlanic
 trade_goods = grain
 hre = no
 

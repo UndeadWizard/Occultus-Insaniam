@@ -1,0 +1,18 @@
+#5167 - Keleleloa
+
+owner = M07
+controller = M07
+add_core = M07
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+culture = savaikian
+religion = tiki
+
+trade_goods = naval_supplies
+hre = no 
+
+discovered_by = polynesian

@@ -1,0 +1,18 @@
+#5128 - Mutiapouli
+
+owner = M02
+controller = M02
+add_core = M02
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+culture = hawaiian
+religion = tiki
+
+trade_goods = naval_supplies
+hre = no 
+
+discovered_by = polynesian

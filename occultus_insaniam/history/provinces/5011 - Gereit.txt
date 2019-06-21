@@ -1,0 +1,18 @@
+#5011 - Gereit
+
+owner = L29
+controller = L29
+add_core = L29
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 2
+
+culture = mashariki
+religion = sunni
+
+trade_goods = slaves
+hre = no 
+
+discovered_by = lemurian

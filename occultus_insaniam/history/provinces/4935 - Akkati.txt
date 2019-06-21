@@ -1,0 +1,18 @@
+#4935 -  Akkati
+
+owner = L01
+controller = L01
+add_core = L01
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 4
+
+culture = tervul
+religion = zoroastrian
+
+trade_goods = wool
+hre = no 
+
+discovered_by = lemurian

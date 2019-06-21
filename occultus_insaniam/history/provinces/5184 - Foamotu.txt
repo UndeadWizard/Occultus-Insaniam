@@ -1,0 +1,18 @@
+#5184 - Foamotu
+
+owner = M09
+controller = M09
+add_core = M09
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = samoan
+religion = tiki
+
+trade_goods = tropical_wood
+hre = no 
+
+discovered_by = polynesian

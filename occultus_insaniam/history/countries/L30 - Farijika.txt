@@ -1,0 +1,21 @@
+government = tribal
+add_government_reform = tribal_kingdom
+mercantilism = 0.1
+technology_group = lemurian
+religion = sunni
+primary_culture = mashariki
+capital = 5007
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Rida"
+		dynasty = "Atiena"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1406.1.1
+	}
+
+}

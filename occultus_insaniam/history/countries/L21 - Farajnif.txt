@@ -1,0 +1,21 @@
+government = tribal
+add_government_reform = tribal_kingdom
+mercantilism = 0.1
+technology_group = lemurian
+religion = sunni
+primary_culture = katikati
+capital = 4986
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Abbaas"
+		dynasty = "Msia"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1401.1.1
+	}
+
+}

@@ -79,7 +79,7 @@ frisland_region = {
 }
 
 ########################################
-#Lemuria                              #
+#Lemuria                               #
 ########################################
 
 lemurian_region  = {
@@ -88,10 +88,50 @@ lemurian_region  = {
 		northeast_lemurian_area
 		northcentral_lemurian_area
 		northwest_lemurian_area
-		to_do_area
+		southwest_lemurian_area
+		south_lemurian_area
+		southeast_lemurian_area
 	}
 }
 
+south_lemurian_ocean = {
+	areas = {
+		southern_lemurian_sea
+	}
+}
+
+northern_lemurian_ocean = {
+	areas = {
+		thomas_gulf
+		northern_lemurian_sea
+	}
+}
+
+western_lemurian_ocean = {
+	areas = {
+		western_lemurian_sea
+	}
+}
+
+eastern_lemurian_ocean = {
+	areas = {
+		eastern_lemurian_sea
+	}
+}
+
+########################################
+# Mu                                   #
+########################################
+mu_region = {
+	areas = {
+		mu_western_islands
+		mu_west_mainland
+		mu_south
+		mu_gulf_north
+		mu_gulf_south
+		mu_central
+	}
+}
 #-----------------#
 #-----Vanilla-----#
 #-----------------#

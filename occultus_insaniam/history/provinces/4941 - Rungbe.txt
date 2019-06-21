@@ -1,15 +1,15 @@
 #4941 -  Rungbe
 
-owner = 00L
-controller = 00L
-add_core = 00L
+owner = L00
+controller = L00
+add_core = L00
 is_city = yes
 
 base_tax = 3
 base_production = 3
 base_manpower = 1
 
-culture = gujarati
+culture = pasandhi
 religion = zoroastrian
 
 trade_goods = livestock

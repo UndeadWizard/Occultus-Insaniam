@@ -1,0 +1,18 @@
+#4969 -  Dotheche
+
+owner = L15
+controller = L15
+add_core = L15
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 3
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = fish
+hre = no 
+
+discovered_by = lemurian

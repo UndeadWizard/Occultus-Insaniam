@@ -10,8 +10,7 @@ base_production = 4
 base_manpower = 2
 
 culture = mountain_atlantean
-religion = catholic
-
+religion = atlanic
 trade_goods = iron
 hre = no
 

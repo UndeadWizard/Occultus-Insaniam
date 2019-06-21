@@ -1,12 +1,17 @@
-#4770 - 
+#4776 - Almeri
+
+owner = AN5
+controller = AN5
+add_core = AN5
 
 culture = antillian
-religion = catholic
-trade_goods = unknown 
-hre = no
+religion = heptarchic
+
 base_tax = 2
 base_production = 3
-base_manpower = 1
-native_size = 10
-native_ferocity = 1
-native_hostileness = 3
+base_manpower = 2
+
+trade_goods = fish 
+hre = no
+
+discovered_by = atlantean

@@ -1,0 +1,23 @@
+government = tribal
+add_government_reform = tribal_federation
+mercantilism = 0.1
+technology_group = polynesian
+religion = tiki
+primary_culture = hawaiian
+capital = 5128
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Ku"
+		dynasty = "Kiele"
+		adm = 3
+		dip = 2
+		mil = 2
+		birth_date = 1415.1.1
+	}
+
+}
+
+

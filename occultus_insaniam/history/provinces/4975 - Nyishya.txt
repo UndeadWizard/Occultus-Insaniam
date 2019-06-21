@@ -1,0 +1,18 @@
+#4975 -  Nyishya
+
+owner = L16
+controller = L16
+add_core = L16
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = tea
+hre = no 
+
+discovered_by = lemurian

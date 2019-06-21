@@ -1,0 +1,18 @@
+#4958 -  Bique
+
+owner = L13
+controller = L13
+add_core = L13
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 2
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = livestock
+hre = no 
+
+discovered_by = lemurian

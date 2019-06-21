@@ -1,0 +1,20 @@
+#4796 - Ekul
+
+owner = JFN
+controller = JFN
+add_core = JFN
+is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 3
+
+culture = lemurian
+religion = hinduism
+
+trade_goods = unknown
+hre = no 
+
+discovered_by = lemurian
+
+

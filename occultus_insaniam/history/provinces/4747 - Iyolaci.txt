@@ -10,8 +10,7 @@ base_production = 6
 base_manpower = 5
 
 culture = south_atlantean
-religion = catholic
-
+religion = atlanic
 trade_goods = naval_supplies
 hre = no
 

@@ -1,0 +1,18 @@
+#5001 - Ncheri
+
+owner = L26
+controller = L26
+add_core = L26
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 2
+
+culture = mashariki
+religion = sunni
+
+trade_goods = ivory
+hre = no 
+
+discovered_by = lemurian

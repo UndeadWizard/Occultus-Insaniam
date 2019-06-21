@@ -1,0 +1,18 @@
+#4994 -  Theji
+
+owner = L23
+controller = L23
+add_core = L23
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+culture = katikati
+religion = sunni
+
+trade_goods = ivory
+hre = no 
+
+discovered_by = lemurian

@@ -1,15 +1,15 @@
 #4939 -  Naktu
 
-owner = 01L
-controller = 01L
-add_core = 01L
+owner = L01
+controller = L01
+add_core = L01
 is_city = yes
 
 base_tax = 1
 base_production = 3
 base_manpower = 2
 
-culture = tamil
+culture = tervul
 religion = zoroastrian
 
 trade_goods = livestock

@@ -1,0 +1,18 @@
+#5003 -  Chityre
+
+owner = L28
+controller = L28
+add_core = L28
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 2
+
+culture = mashariki
+religion = sunni
+
+trade_goods = gems
+hre = no 
+
+discovered_by = lemurian

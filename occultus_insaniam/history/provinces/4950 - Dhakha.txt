@@ -1,16 +1,16 @@
 #4950 - Dhakha  
 
-owner = 05L
-controller = 05L
-add_core = 05L
+owner = L05
+controller = L05
+add_core = L05
 is_city = yes
 
 base_tax = 2
 base_production = 3
 base_manpower = 2
 
-culture = gujarati
-religion = zoroastrian
+culture = pasandhi
+religion = sunni
 
 trade_goods = grain
 hre = no 

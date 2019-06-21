@@ -1,0 +1,18 @@
+#4988 -  Quelicha
+
+owner = L22
+controller = L22
+add_core = L22
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 2
+
+culture = katikati
+religion = sunni
+
+trade_goods = copper
+hre = no 
+
+discovered_by = lemurian

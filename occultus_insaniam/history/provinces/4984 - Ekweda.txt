@@ -1,0 +1,18 @@
+#4984 - Ekweda  
+
+owner = L20
+controller = L20
+add_core = L20
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 2
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = iron
+hre = no 
+
+discovered_by = lemurian

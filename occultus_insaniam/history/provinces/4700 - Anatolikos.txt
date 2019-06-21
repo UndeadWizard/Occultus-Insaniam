@@ -6,8 +6,7 @@ add_core = ANA
 is_city = yes
 
 culture = high_atlantean
-religion = catholic
-
+religion = atlanic
 base_tax = 2
 base_production = 3
 base_manpower = 1

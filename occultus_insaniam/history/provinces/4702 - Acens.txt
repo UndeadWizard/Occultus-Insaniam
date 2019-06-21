@@ -6,8 +6,7 @@ add_core = DOR
 is_city = yes
 
 culture = high_atlantean
-religion = catholic
-
+religion = atlanic
 base_tax = 5
 base_production = 3
 base_manpower = 4

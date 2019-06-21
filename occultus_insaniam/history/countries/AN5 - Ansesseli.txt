@@ -1,0 +1,17 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+mercantilism = 0.1
+technology_group = atlantean
+religion = heptarchic
+primary_culture = antillian
+capital = 4775
+
+1444.1.1 = {
+	monarch = {
+		name = "Baduila I"
+		birth_date = 1390.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

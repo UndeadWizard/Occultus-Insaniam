@@ -1,0 +1,39 @@
+namespace = aza_anewhope
+
+
+###### ATLANTEAN HOPE CHAIN
+
+# The Old Man on His Deathbed
+country_event = {
+	id = aza_anewhope.1
+	title = aza_anewhope.1.t
+	desc = aza_anewhope.1.d
+	picture = KING_SICK_IN_BED_eventPicture
+
+	fire_only_once = yes
+	
+	
+	trigger = {
+		has_country_modifier = aza_uncertainfuture
+	}
+	
+	mean_time_to_happen = {
+		days = 3
+	}
+
+	option = {	
+		name = aza_anewhope.1.a
+		ai_chance = { factor = 100 }
+		add_country_modifier = {
+			name = "aza_newhope"
+			duration = -1
+		}
+		# Next event
+		hidden_effect = {
+			country_event = {
+				id = aza_anewhope.2
+				days = 7 
+			}
+		}
+	}
+}

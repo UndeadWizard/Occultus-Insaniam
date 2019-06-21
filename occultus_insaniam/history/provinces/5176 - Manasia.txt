@@ -1,0 +1,18 @@
+#5176 - Manasia
+
+owner = M09
+controller = M09
+add_core = M09
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 2
+
+culture = samoan
+religion = tiki
+
+trade_goods = fish
+hre = no 
+
+discovered_by = polynesian

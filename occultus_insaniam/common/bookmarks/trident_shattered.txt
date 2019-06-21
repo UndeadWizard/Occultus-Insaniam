@@ -1,0 +1,9 @@
+bookmark =
+{
+	name = "BOOKMARK_TRIDENT_SHATTERED"
+	desc = "BOOKMARK_TRIDENT_SHATTERED_DESC"
+	date = 1444.11.11
+	center = 4651
+	default = yes
+	country = AZA
+}

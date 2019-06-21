@@ -1,18 +1,18 @@
 #4926 -  Athda
 
-owner = 06L
-controller = 06L
-add_core = 06L
+owner = L06
+controller = L06
+add_core = L06
 is_city = yes
 
 base_tax = 3
 base_production = 3
 base_manpower = 2
 
-culture = gujarati
-religion = zoroastrian
+culture = pasandhi
+religion = sunni
 
-trade_goods = spices
+trade_goods = tea
 hre = no 
 
 discovered_by = lemurian

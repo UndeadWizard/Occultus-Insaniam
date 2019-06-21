@@ -1,7 +1,7 @@
 #4858 - Phisuka
 
 culture = lemurian
-religion = sunni
+religion = animism
 
 base_tax = 2
 base_production = 3

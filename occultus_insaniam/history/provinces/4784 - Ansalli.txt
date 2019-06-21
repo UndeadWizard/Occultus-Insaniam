@@ -1,12 +1,17 @@
-#4770 - 
+#4784 - Ansalli
+
+owner = AN0
+controller = AN0
+add_core = AN0
 
 culture = antillian
-religion = catholic
-trade_goods = unknown 
+religion = heptarchic
+
+base_tax = 5
+base_production = 4
+base_manpower = 2
+
+trade_goods = gems 
 hre = no
-base_tax = 2
-base_production = 3
-base_manpower = 1
-native_size = 10
-native_ferocity = 1
-native_hostileness = 3
+
+discovered_by = atlantean

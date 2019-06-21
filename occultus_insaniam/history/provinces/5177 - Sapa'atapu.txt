@@ -1,0 +1,18 @@
+#5177 - Sapa'atapu
+
+owner = M09
+controller = M09
+add_core = M09
+is_city = yes
+
+base_tax = 2
+base_production = 2
+base_manpower = 3
+
+culture = samoan
+religion = tiki
+
+trade_goods = fish
+hre = no 
+
+discovered_by = polynesian

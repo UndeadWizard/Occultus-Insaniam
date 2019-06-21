@@ -1,0 +1,18 @@
+#4964 -  Mwenbala
+
+owner = L18
+controller = L18
+add_core = L18
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = iron
+hre = no 
+
+discovered_by = lemurian

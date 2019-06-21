@@ -1,0 +1,17 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+mercantilism = 0.1
+technology_group = atlantean
+religion = heptarchic
+primary_culture = antillian
+capital = 4780
+
+1444.1.1 = {
+	monarch = {
+		name = "Asbad IV"
+		birth_date = 1400.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

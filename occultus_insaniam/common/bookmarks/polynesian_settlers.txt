@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "BOOKMARK_POLYNESIAN_SETTLERS"
+	desc = "BOOKMARK_POLYNESIAN_SETTLERS_DESC"
+	date = 1444.11.11
+	center = 5133
+	default = yes
+	country = M01
+	country = M02
+	country = M03
+	country = M04
+	country = M05
+}

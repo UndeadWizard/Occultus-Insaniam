@@ -63,14 +63,24 @@ technology = {
 	enable = mamluk_cavalry_charge	
 	enable = south_american_warfare	
 	enable = ha_xantican_warrior
-	
-	enable = atlantean_infantry_1_a # 1
+    
+    enable = atlantean_infantry_1_a # 1
     enable = atlantean_infantry_1_b # 1
     enable = atlantean_cavalry_1_a # 1
     enable = atlantean_cavalry_1_b # 1
-	enable = lemurian_infantry_1_a # 1
+    enable = lemurian_infantry_1_a # 1
     enable = lemurian_cavalry_1_a # 1
     enable = lemurian_cavalry_1_b # 1
+    enable = muror_infantry_1_a # 1
+    enable = muror_cavalry_1_a # 1
+    enable = muror_cavalry_1_b # 1
+    enable = polynesian_infantry_1_a # 1
+    enable = polynesian_infantry_1_b # 1
+    enable = polynesian_cavalry_1_a # 1
+    enable = polynesian_cavalry_1_b # 1
+    enable = occult_infantry_1_a # 1
+    enable = occult_cavalry_1_a # 1
+    enable = occult_cavalry_1_b # 1
 }
 
 technology = {
@@ -137,11 +147,16 @@ technology = {
 	enable = japanese_footsoldier	
 	enable = ha_reformed_xantican_warrior
 	
-	enable = atlantean_infantry_5_a # 5
+    enable = atlantean_infantry_5_a # 5
     enable = atlantean_infantry_5_b # 5
     enable = atlantean_infantry_5_c # 5
-	enable = lemurian_infantry_5_a # 5
-	
+    enable = lemurian_infantry_5_a # 5
+    enable = muror_infantry_5_a # 5
+    enable = polynesian_infantry_5_a # 5
+    enable = polynesian_infantry_5_b # 5
+    enable = polynesian_infantry_5_c # 5
+    enable = polynesian_infantry_5_d # 5
+    
 	combat_width = 2
 }
 
@@ -171,9 +186,11 @@ technology = {
 	enable = shaybani	
 	enable = high_american_horsemen
 	
-	
     enable = lemurian_cavalry_6_a # 6
-	
+    enable = muror_cavalry_6_a # 6
+    enable = polynesian_cavalry_6_a # 6
+    enable = polynesian_cavalry_6_b # 6
+    
 	combat_width = 2
 }
 
@@ -219,13 +236,15 @@ technology = {
 	enable = asian_arquebusier	
 	enable = steppe_raiders
 	enable = ha_xiuhtecuhtli_soldier
-	
-	enable = atlantean_infantry_9_a # 9
+    
+    enable = atlantean_infantry_9_a # 9
     enable = atlantean_infantry_9_b # 9
     enable = atlantean_infantry_9_c # 9
-	enable = lemurian_infantry_9_a # 9
+    enable = lemurian_infantry_9_a # 9
     enable = lemurian_infantry_9_b # 9
-	
+    enable = muror_infantry_9_a # 9
+    enable = muror_infantry_9_b # 9
+    
 	military_tactics 	= 	0.25
 	combat_width = 1	
 }
@@ -258,9 +277,13 @@ technology = {
 	enable = indian_elephant	
 	enable = steppe_riders
 	enable = high_american_rifle_cavalry
-	
-	enable = atlantean_cavalry_10_a # 10
+    
+    enable = atlantean_cavalry_10_a # 10
     enable = lemurian_cavalry_10_a # 10
+    enable = muror_cavalry_10_a # 10
+    enable = polynesian_cavalry_10_a # 10
+    enable = polynesian_cavalry_10_b # 10
+    enable = occult_cavalry_10_a # 10
 }
 
 technology = {
@@ -302,11 +325,18 @@ technology = {
 	enable = ethiopian_mountain_warfare		
 	enable = steppe_footmen
 	enable = ha_xiuhtecuhtlian_infantry
-	
-	enable = atlantean_infantry_12_a # 12
+    
+    enable = atlantean_infantry_12_a # 12
     enable = atlantean_infantry_12_b # 12
     enable = lemurian_infantry_12_a # 12
     enable = lemurian_infantry_12_b # 12
+    enable = muror_infantry_12_a # 12
+    enable = muror_infantry_12_b # 12
+    enable = polynesian_infantry_12_a # 12
+    enable = polynesian_infantry_12_b # 12
+    enable = polynesian_infantry_12_c # 12
+    enable = polynesian_infantry_12_d # 12
+    enable = occult_infantry_12_a # 12
 }
 
 technology = {
@@ -348,9 +378,11 @@ technology = {
 	enable = reformed_mughal_mansabdar	
 	enable = steppe_lancers
 	enable = high_american_hussar
-	
-	enable = atlantean_cavalry_14_a # 14
+    
+    enable = atlantean_cavalry_14_a # 14
     enable = lemurian_cavalry_14_a # 14
+    enable = muror_cavalry_14_a # 14
+    enable = polynesian_cavalry_14_a # 14
 	
 	combat_width = 2
 }
@@ -376,9 +408,13 @@ technology = {
 	enable = adal_gunpowder_warfare		
 	enable = ethiopian_gunpowder_warfare	
 	enable = steppe_musketeers
-	
-	enable = atlantean_infantry_15_a # 15
+    
+    enable = atlantean_infantry_15_a # 15
     enable = atlantean_infantry_15_b # 15
+    enable = polynesian_infantry_15_a # 15
+    enable = polynesian_infantry_15_b # 15
+    enable = polynesian_infantry_15_c # 15
+    enable = polynesian_infantry_15_d # 15
 }
 
 technology = {
@@ -407,9 +443,11 @@ technology = {
 	enable = maharathan_cavalry		
 	enable = manchu_banner		
 	enable = african_swarm
-	
-	
+    
     enable = lemurian_cavalry_17_a # 17
+    enable = muror_cavalry_17_a # 17
+    enable = polynesian_cavalry_17_a # 17
+    enable = occult_cavalry_17_a # 17
 }
 
 technology = {
@@ -430,11 +468,12 @@ technology = {
 	enable = steppe_mounted_raiders
 	enable = ha_xoloti
 	
-	enable = atlantean_cavalry_18_a # 18
-	
+    enable = atlantean_cavalry_18_a # 18
     enable = lemurian_infantry_18_a # 18
     enable = lemurian_infantry_18_b # 18
-	
+    enable = muror_infantry_18_a # 18
+    enable = muror_infantry_18_b # 18
+    
 	combat_width = 2
 }
 
@@ -465,11 +504,10 @@ technology = {
 	enable = south_american_swarm
 	enable = steppe_infantry
 	enable = high_american_swarm
-	
-	enable = atlantean_infantry_19_a # 19
+    
+    enable = atlantean_infantry_19_a # 19
     enable = atlantean_infantry_19_b # 19
     enable = atlantean_infantry_19_c # 19
-	
 }
 
 technology = {
@@ -551,16 +589,23 @@ technology = {
 	enable = steppe_cavalry
 	enable = ha_foreign_influenced_infantry
 	enable = high_american_dragoon
-	
-	enable = atlantean_infantry_23_a # 23
+    
+    enable = atlantean_infantry_23_a # 23
     enable = atlantean_infantry_23_b # 23
     enable = atlantean_infantry_23_c # 23
     enable = atlantean_cavalry_23_a # 23
     enable = atlantean_cavalry_23_b # 23
     enable = atlantean_cavalry_23_c # 23
-	
     enable = lemurian_infantry_23_a # 23
     enable = lemurian_cavalry_23_a # 23
+    enable = muror_infantry_23_a # 23
+    enable = muror_cavalry_23_a # 23
+    enable = polynesian_infantry_23_a # 23
+    enable = polynesian_infantry_23_b # 23
+    enable = polynesian_infantry_23_c # 23
+    enable = polynesian_cavalry_23_a # 23
+    enable = occult_infantry_23_a # 23
+    enable = occult_cavalry_23_a # 23
 }
 
 technology = {
@@ -621,16 +666,20 @@ technology = {
 	enable = eastern_skirmisher
 	enable = steppe_rifles
 	enable = ha_reformed_influenced_infantry
-	
-	enable = atlantean_infantry_26_a # 26
+    
+    enable = atlantean_infantry_26_a # 26
     enable = atlantean_infantry_26_b # 26
     enable = atlantean_infantry_26_c # 26
     enable = atlantean_infantry_26_d # 26
     enable = atlantean_cavalry_26_a # 26
     enable = atlantean_cavalry_26_b # 26
     enable = atlantean_cavalry_26_c # 26
-	
     enable = lemurian_infantry_26_a # 26
+    enable = muror_infantry_26_a # 26
+    enable = polynesian_infantry_26_a # 26
+    enable = polynesian_infantry_26_b # 26
+    enable = polynesian_infantry_26_c # 26
+    enable = polynesian_infantry_26_d # 26
 	
 	combat_width = 2
 }
@@ -669,15 +718,18 @@ technology = {
 	enable = french_impulse
 	enable = british_square
 	enable = steppe_uhlans
-	
-	enable = atlantean_infantry_28_a # 28
+    
+    enable = atlantean_infantry_28_a # 28
     enable = atlantean_infantry_28_b # 28
     enable = atlantean_cavalry_28_a # 28
     enable = atlantean_cavalry_28_b # 28
     enable = atlantean_cavalry_28_c # 28
-	
     enable = lemurian_cavalry_28_a # 28
     enable = lemurian_cavalry_28_b # 28
+    enable = muror_cavalry_28_a # 28
+    enable = muror_cavalry_28_b # 28
+    enable = polynesian_cavalry_28_a # 28
+    enable = occult_cavalry_28_a # 28
 }
 
 technology = {
@@ -714,13 +766,15 @@ technology = {
 	enable = reformed_westernized_incan		
 	enable = reformed_steppe_rifles
 	enable = ha_reformed_xoloti
-	
-	enable = atlantean_infantry_30_a # 30
+    
+    enable = atlantean_infantry_30_a # 30
     enable = atlantean_infantry_30_b # 30
     enable = atlantean_infantry_30_c # 30
     enable = atlantean_infantry_30_d # 30
-	
     enable = lemurian_infantry_30_a # 30
+    enable = muror_infantry_30_a # 30
+    enable = polynesian_infantry_30_a # 30
+    enable = occult_infantry_30_a # 30
 }
 
 technology = {

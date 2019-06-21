@@ -1,0 +1,18 @@
+#4961 -  Mulanpa           
+
+owner = L11
+controller = L11
+add_core = L11
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = grain
+hre = no 
+
+discovered_by = lemurian

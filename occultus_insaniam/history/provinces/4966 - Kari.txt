@@ -1,0 +1,18 @@
+#4966 -  Kari
+
+owner = L17
+controller = L17
+add_core = L17
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = gems
+hre = no 
+
+discovered_by = lemurian

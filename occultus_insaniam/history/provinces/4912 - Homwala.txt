@@ -1,18 +1,18 @@
 #4912 - Homwala
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = L07
+controller = L07
+add_core = L07
+is_city = yes
 
 base_tax = 3
 base_production = 1
 base_manpower = 2
 
-culture = lemurian
-religion = sunni
+culture = tervul
+religion = zoroastrian
 
-trade_goods = unknown
+trade_goods = livestock
 hre = no 
 
 discovered_by = lemurian

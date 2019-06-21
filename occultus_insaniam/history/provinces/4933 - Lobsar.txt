@@ -1,15 +1,15 @@
 #4933 -  Lobsar
 
-owner = 02L
-controller = 02L
-add_core = 02L
+owner = L02
+controller = L02
+add_core = L02
 is_city = yes
 
 base_tax = 5
 base_production = 2
 base_manpower = 4
 
-culture = tamil
+culture = tervul
 religion = zoroastrian
 
 trade_goods = fish

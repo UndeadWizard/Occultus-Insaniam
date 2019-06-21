@@ -1,0 +1,18 @@
+#4980-  Filavi
+
+owner = L19
+controller = L19
+add_core = L19
+is_city = yes
+
+base_tax = 3
+base_production = 3
+base_manpower = 1
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = grain
+hre = no 
+
+discovered_by = lemurian

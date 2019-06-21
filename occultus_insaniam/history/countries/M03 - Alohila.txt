@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_federation
+mercantilism = 0.1
+technology_group = polynesian
+religion = tiki
+primary_culture = hawaiian
+capital = 5137
+
+
+#Rise of the Ottomans
+
+#Fall of Byzantium
+1444.1.1 = {
+	monarch = {
+		name = "'Alî"
+		dynasty = "Uluwehi"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1423.1.1
+	}
+}

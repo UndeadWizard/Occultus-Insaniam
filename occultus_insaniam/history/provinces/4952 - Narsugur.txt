@@ -1,16 +1,16 @@
 #4952 -  Narsugur
 
-owner = 05L
-controller = 05L
-add_core = 05L
+owner = L10
+controller = L10
+add_core = L10
 is_city = yes
 
 base_tax = 2
 base_production = 3
 base_manpower = 2
 
-culture = gujarati
-religion = zoroastrian
+culture = pasandhi
+religion = sunni
 
 trade_goods = grain
 hre = no 

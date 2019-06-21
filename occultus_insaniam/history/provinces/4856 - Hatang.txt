@@ -1,7 +1,7 @@
 #4856 - Hatang
 
 culture = lemurian
-religion = sunni
+religion = animism
 
 base_tax = 2
 base_production = 3
@@ -10,4 +10,5 @@ base_manpower = 1
 
 trade_goods = unknown 
 hre = no
+
 discovered_by = lemurian

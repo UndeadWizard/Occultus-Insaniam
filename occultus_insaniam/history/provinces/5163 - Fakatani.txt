@@ -1,0 +1,18 @@
+#5163 - Fakatani
+
+owner = M06
+controller = M06
+add_core = M06
+is_city = yes
+
+base_tax = 4
+base_production = 2
+base_manpower = 2
+
+culture = savaikian
+religion = tiki
+
+trade_goods = fish
+hre = no
+
+discovered_by = polynesian 

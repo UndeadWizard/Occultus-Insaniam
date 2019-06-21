@@ -1,12 +1,17 @@
-#4770 - 
+#4772 - Codobu
+
+owner = AN2
+controller = AN2
+add_core = AN2
 
 culture = antillian
-religion = catholic
-trade_goods = unknown 
-hre = no
-base_tax = 2
+religion = heptarchic
+
+base_tax = 3
 base_production = 3
-base_manpower = 1
-native_size = 10
-native_ferocity = 1
-native_hostileness = 3
+base_manpower = 2
+
+trade_goods = grain 
+hre = no
+
+discovered_by = atlantean

@@ -10,8 +10,8 @@ base_production = 1
 base_manpower = 3
 
 culture = south_atlantean
-religion = catholic
-
+religion = atlanic
 trade_goods = cloth
 hre = no
-discovered_by = lemurian
+
+discovered_by = atlantean

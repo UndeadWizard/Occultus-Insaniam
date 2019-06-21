@@ -1,0 +1,30 @@
+government = tribal
+add_government_reform = tribal_federation
+mercantilism = 0.1
+technology_group = polynesian
+religion = tiki
+primary_culture = rapanni
+capital = 5157
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Anadare"
+		dynasty = "Kana"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 1402.1.1
+	}
+
+	queen = {
+		name = "Maleah"
+		dynasty = "Kaia"
+		adm = 3
+		dip = 4
+		mil = 2
+		birth_date = 1408.1.1
+	} 
+}
+

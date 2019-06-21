@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 3
 
 culture = lemurian
-religion = sunni
+religion = hinduism
 
 trade_goods = copper
 hre = no 

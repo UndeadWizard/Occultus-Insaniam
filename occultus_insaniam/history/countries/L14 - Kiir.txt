@@ -1,0 +1,21 @@
+government = tribal
+add_government_reform = tribal_kingdom
+mercantilism = 0.1
+technology_group = lemurian
+religion = sunni
+primary_culture = kaskazini
+capital = 4968
+
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Aseel"
+		dynasty = "Kito"
+		adm = 2
+		dip = 1
+		mil = 3
+		birth_date = 1372.1.1
+	}
+
+}

@@ -10,8 +10,7 @@ base_production = 3
 base_manpower = 1
 
 culture = high_atlantean
-religion = catholic
-
+religion = atlanic
 trade_goods = cloth 
 hre = no
 

@@ -1,0 +1,18 @@
+#4992 -  Ruwa
+
+owner = L24
+controller = L24
+add_core = L24
+is_city = yes
+
+base_tax = 4
+base_production = 2
+base_manpower = 2
+
+culture = katikati
+religion = sunni
+
+trade_goods = spices
+hre = no 
+
+discovered_by = lemurian

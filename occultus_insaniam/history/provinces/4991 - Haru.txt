@@ -1,0 +1,18 @@
+#4991 -  Haru
+
+owner = L21
+controller = L21
+add_core = L21
+is_city = yes
+
+base_tax = 3
+base_production = 1
+base_manpower = 3
+
+culture = katikati
+religion = sunni
+
+trade_goods = slaves
+hre = no 
+
+discovered_by = lemurian

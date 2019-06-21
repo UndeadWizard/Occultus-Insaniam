@@ -1,0 +1,17 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+mercantilism = 0.1
+technology_group = atlantean
+religion = heptarchic
+primary_culture = antillian
+capital = 4777
+
+1444.1.1 = {
+	monarch = {
+		name = "Ariaric II"
+		birth_date = 1395.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}

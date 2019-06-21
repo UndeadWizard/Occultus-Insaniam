@@ -1,0 +1,18 @@
+#4970 -  Kolotra
+
+owner = L15
+controller = L15
+add_core = L15
+is_city = yes
+
+base_tax = 2
+base_production = 3
+base_manpower = 2
+
+culture = kaskazini
+religion = sunni
+
+trade_goods = spices
+hre = no 
+
+discovered_by = lemurian

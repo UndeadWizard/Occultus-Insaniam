@@ -171,3 +171,10 @@ north_pacific_sea_superregion = {
 	east_china_sea_region
 	north_west_pacific_region
 }
+
+lemurian_ocean_superregion = {
+	south_lemurian_ocean
+	northern_lemurian_ocean
+	western_lemurian_ocean
+	eastern_lemurian_ocean
+}

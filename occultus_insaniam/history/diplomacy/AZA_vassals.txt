@@ -1,0 +1,29 @@
+# Azaesan Vassals
+
+vassal = { #
+	first = AZA
+	second = DIA
+	start_date = 1340.11.11
+	end_date = 1569.10.3 #Annexed
+}
+
+vassal = {
+	first = AZA
+	second = ION
+	start_date = 1340.11.11
+	end_date = 1566.11.28 #Annexed
+}
+
+vassal = {
+	first = AZA
+	second = CYS
+	start_date = 1340.11.11
+	end_date = 1573.7.1 #Annexed
+}
+
+vassal = {
+	first = AZA
+	second = DOR
+	start_date = 1340.11.11
+	end_date = 1573.7.1 #Annexed
+}
