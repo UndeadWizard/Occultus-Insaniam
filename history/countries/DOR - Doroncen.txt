@@ -5,25 +5,15 @@ religion = atlanic
 primary_culture = high_atlantean
 capital = 4710
 
-#Atlantis Shattered
+#Trident Shattered
+
 1444.1.1 = {
 	monarch = {
-		name = "Herakleios"
-		dynasty = "Argyris"
-		adm = 5
-		dip = 4
-		mil = 2
-		birth_date = 1373.1.1
-	}
-
-	heir = {
-		name = "Vlassis"
-		monarch_name = "Palaemon"
-		dynasty = "Argyris"
+		name = "Aquila"
+		dynasty = "Servius"
 		adm = 3
-		dip = 5
-		mil = 5
-		claim = 25
-		birth_date = 1421.1.1
+		dip = 4
+		mil = 3
+		birth_date = 1393.1.1
 	}
 }

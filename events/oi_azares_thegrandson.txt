@@ -1,0 +1,19 @@
+namespace = aza_thegrandson
+
+
+###### ATLANTEAN THE GRANDSON CHAIN
+
+
+# The Grandson
+country_event = {
+	id = aza_thegrandson.1
+	title = aza_thegrandson.1.t
+	desc = aza_thegrandson.1.d
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+	trigger = {
+		has_country_modifier = aza_anewhope
+	}
+}

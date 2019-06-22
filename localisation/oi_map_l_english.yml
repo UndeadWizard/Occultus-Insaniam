@@ -1,0 +1,21 @@
+﻿l_english:
+ 
+  # Continents
+ atlantis: "Atlantis"
+ lemuria: "Lemuria"
+ mu: "Mu"
+ antillia: "Antillia"
+ 
+ # Tradenodes
+ north_lemuria: "North Lemuria"
+ east_lemuria: "East Lemuria"
+ central_lemuria: "Central Lemuria"
+ west_lemuria: "West Lemuria"
+ south_lemuria: "South Lemuria"
+ southcentral_lemuria: "South Central Lemuria"
+ north_mu: "North Mu"
+ south_mu: "South Mu"
+ west_mu: "West Mu"
+ east_mu: "East Mu"
+ atlantis_node: "Atlantis"
+ antillia_node: "Antillia"

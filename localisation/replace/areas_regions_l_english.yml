@@ -1,4 +1,5 @@
 ﻿l_english:
+#Atlantis
  achana_area:0 "Achana"
  achana_area_name:0 "Achana"
  achana_area_adj:0 "Achanai"
@@ -75,10 +76,11 @@
  askloy_area_name:0 "Askloy"
  askloy_area_adj:0 "Askloyi"
 
+#Northern Islands
+
  thule_area:0 "Thule"
  thule_area_name:0 "Thule"
  thule_area_adj:0 "Thulean"
-
  frisland_area:0 "Frisland"
  frisland_area_name:0 "Frisland"
  frisland_area_adj:0 "Frislandean"
