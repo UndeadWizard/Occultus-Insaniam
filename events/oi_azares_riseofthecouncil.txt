@@ -1,0 +1,19 @@
+namespace = aza_thecouncil
+
+
+###### ATLANTEAN THE COUNCIL CHAIN
+
+
+# The Grandson
+country_event = {
+	id = aza_thecouncil.1
+	title = aza_thecouncil.1.t
+	desc = aza_thecouncil.1.d
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+	trigger = {
+		has_country_modifier = aza_brokendreams
+	}
+}
