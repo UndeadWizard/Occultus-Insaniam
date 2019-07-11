@@ -131,6 +131,13 @@ mu_region = {
 		mu_gulf_south
 		mu_central
 		mu_northeast
+		mu_southeast
+	}
+}
+
+rlyeh_region = {
+	areas = {
+		rlyeh
 	}
 }
 #-----------------#

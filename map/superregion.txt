@@ -9,6 +9,10 @@ lemurian_superregion = {
 	lemurian_region
 }
 
+mu_superregion = {
+	mu_region
+}
+
 india_superregion = {
 	bengal_region
 	hindusthan_region
