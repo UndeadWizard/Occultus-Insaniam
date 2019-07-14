@@ -31,28 +31,41 @@ atlantean_crownlands = {
 		}
 }
 
-atlantean_region = {
+atlantean_southlands = {
 	areas = {
-		achana_area
-		acionas_area
-		daephi_area
-		agacro_area
-		asaero_area
 		crecrelym_area
 		kentrikos_area
+		asaero_area
 		thautori_area
+		acionas_area
+		achana_area
 		erredurak_area
+		daephi_area
+		agacro_area
+		tridentislands_area
+	}
+}
+atlantean_midlands = {
+	areas = {
 		pialisdau_area
 		turan_area
-		hermus_area
 		voreias_area
 		vescleves_areas
 		meropisa_area
-		tridentislands_area
+	}
+}
+
+atlantean_eastlands = {
+	areas = {
 		errani_area
 		iyolaci_area
 		kuwarra_area
 		voreinisi_area
+	}
+}
+
+atlantean_westisles ={
+	areas = {
 		eusebes_area
 		askloy_area
 	}

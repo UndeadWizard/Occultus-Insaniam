@@ -2,7 +2,10 @@
 
 atlantean_superregion = {
 	atlantean_crownlands
-	atlantean_region
+	atlantean_southlands
+	atlantean_midlands
+	atlantean_eastlands
+	atlantean_westisles
 }
 
 lemurian_superregion = {
