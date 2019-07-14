@@ -9,7 +9,14 @@ atlantean_superregion = {
 }
 
 lemurian_superregion = {
-	lemurian_region
+	lemurian_nestoria
+	lemurian_sunda
+	lemurian_aryasthana
+	lemurian_greatermadagascar
+	lemurian_elephantine
+	lemurian_basin
+	lemurian_eastlemuria
+	lemurian_central
 }
 
 mu_superregion = {

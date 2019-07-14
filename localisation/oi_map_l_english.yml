@@ -1,11 +1,33 @@
 ﻿l_english:
  
-  # Continents
+ # Continents
  atlantis: "Atlantis"
  lemuria: "Lemuria"
  mu: "Mu"
  antillia: "Antillia"
  
+ # Regions
+ atlantean_crownlands: "Crownlands"
+ atlantean_southlands: "Southlands"
+ atlantean_midlands: "Midlands"
+ atlantean_eastlands: "Eastlands"
+ atlantean_westisles: "Western Isles"
+ 
+ atlantean_sea_region: "Atlantean Sea"
+ 
+ lemurian_nestoria: "Nestoria"
+ lemurian_sunda: "Sunda"
+ lemurian_aryasthana: "Aryasthana"
+ lemurian_greatermadagascar: "Greater Madagascar"
+ lemurian_elephantine: "Elphantine Penninsula"
+ lemurian_basin: "Lemurian Basin"
+ lemurian_eastlemuria: "East Lemuria"
+ lemurian_central: "South Kumari Kundam"
+ 
+ south_lemurian_ocean: "South Lemurian Ocean"
+ northern_lemurian_ocean: "North Lemuria Ocean"
+ western_lemurian_ocean: "Western Lemurian Ocean"
+ eastern_lemurian_ocean: "Eastern Lemurian Ocean"
  # Tradenodes
  north_lemuria: "North Lemuria"
  east_lemuria: "East Lemuria"

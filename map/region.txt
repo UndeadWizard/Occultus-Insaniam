@@ -17,9 +17,10 @@ antillia_region = {
 # Atlantis                             #
 ########################################
 
-atlanteansea_region = {
+atlantean_sea_region = {
 	areas = {
-		atlanteansea_area
+		coast_of_guyana_area
+		atlantean_sea_area
 	}
 }
 
@@ -47,6 +48,7 @@ atlantean_southlands = {
 }
 atlantean_midlands = {
 	areas = {
+		hermus_area
 		pialisdau_area
 		turan_area
 		voreias_area
@@ -94,16 +96,118 @@ frisland_region = {
 ########################################
 #Lemuria                               #
 ########################################
-
-lemurian_region  = {
+lemurian_nestoria = {
 	areas = {
-		north_lemurian_area
-		northeast_lemurian_area
-		northcentral_lemurian_area
-		northwest_lemurian_area
-		southwest_lemurian_area
-		south_lemurian_area
-		southeast_lemurian_area
+		nuvara_area
+		luihat_area
+		yenla_area
+		beter_area
+		tokaq_area
+		aupi_area
+		hoikh_area
+		ruek_area
+	}
+}
+
+lemurian_sunda = {
+	areas = {
+		mihoi_area
+		migau_area
+		shuno_area
+		amu_area
+		ansudus_area
+		nilam_area
+		rikar_area
+		pantiya_area
+		teshlau_area
+		lankr_area
+		lakbanj_area
+		abedsarak_area
+		nataj_area
+	}
+}
+
+lemurian_aryasthana = {
+	areas ={
+		naktu_area
+		akkati_area
+		birkhara_area
+		sakghar_area
+		rajgail_area
+		chaupur_area
+		uruhala_area
+		dhakha_area
+		inyake_area
+		tansal_area
+		bahat_area
+		naopur_area
+		gabe_area
+		gagar_area
+	}
+}
+
+lemurian_greatermadagascar = {
+	areas ={
+		cezi_area
+		kolotra_area
+		nyishya_area
+		naabe_area
+		kari_area
+		bique_area
+		haru_area
+		filavi_area
+		theji_area
+		ruwa_area
+		quelicha_area
+	}
+}
+lemurian_elephantine = {
+	areas = {
+		ncheri_area
+		zalebi_area
+		queca_area
+		werrany_area
+		neryn_area
+		geroorlie_area
+		adelett_area
+	}
+}
+lemurian_basin = {
+	areas = {
+		cranbenong_area
+		essigo_area
+	}
+}
+lemurian_eastlemuria = {
+	areas ={
+		ashangba_area
+		bundagga_area
+		carralla_area
+		dancore_area
+		malvure_area
+		cragibee_area
+		cairuca_area
+		neride_area
+		mavine_area
+		brisbong_area
+		tamwurah_area
+		lalerim_area
+		montang_area
+		lismuca_area	
+	}
+}
+
+lemurian_central = {
+	areas = {
+		vandakheri_area
+		fazilyar_area
+		datha_area
+		cosal_area
+		fasang_area
+		chitriya_area
+		popa_area
+		kajung_area
+		shishlaj_area
 	}
 }
 
@@ -1517,7 +1621,6 @@ mediterrenean_region = {
 caribbean_sea_region = {
 	areas = {
 		bahama_channel_area
-		coast_of_guyana_area
 		caribbean_sea_area
 		gulf_of_mexico_area
 		sargasso_sea_area
