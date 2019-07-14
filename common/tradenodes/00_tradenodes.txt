@@ -682,7 +682,7 @@ west_lemuria={
 		119 244 66 
 	}
 	outgoing={
-		name = "comorin_cape"
+		name = "gulf_of_aden"
 		path = {
 		}
 	}
@@ -707,7 +707,7 @@ central_lemuria={
 	outgoing={
 		name="north_lemuria"
 		path={
-			5098 5097 1614 5096 1624
+			5098 5097 1614
 		}
 	}
 	members={
