@@ -28,6 +28,12 @@
  northern_lemurian_ocean: "North Lemuria Ocean"
  western_lemurian_ocean: "Western Lemurian Ocean"
  eastern_lemurian_ocean: "Eastern Lemurian Ocean"
+ 
+ # Superregions
+ atlantean_superregion: "Atlantis"
+ lemurian_superregion: "Lemuria"
+ mu_superregion: "Mu"
+ 
  # Tradenodes
  north_lemuria: "North Lemuria"
  east_lemuria: "East Lemuria"
