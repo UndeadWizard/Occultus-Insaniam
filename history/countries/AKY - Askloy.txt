@@ -3,7 +3,7 @@ mercantilism = 0.1
 technology_group = atlantean
 religion = atlanic
 primary_culture = high_atlantean
-capital = 4704
+capital = 4764
 
 #Atlantis Shattered
 1444.1.1 = {
