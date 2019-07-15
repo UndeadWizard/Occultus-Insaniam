@@ -1,15 +1,15 @@
 #4728 - Hermus
 
-owner = HER
-controller = HER
-add_core = HER
+owner = A35
+controller = A35
+add_core = A35
 is_city = yes
 
 base_tax = 5
 base_production = 6
 base_manpower = 5
 
-culture = north_atlantean
+culture = alyshi
 religion = atlanic
 trade_goods = glass
 hre = no

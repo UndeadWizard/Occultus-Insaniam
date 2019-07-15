@@ -1,15 +1,15 @@
 #4725 - Enschaens
 
-owner = MEL
-controller = MEL
-add_core = MEL
+owner = A34
+controller = A34
+add_core = A34
 is_city = yes
 
 base_tax = 5
 base_production = 7
 base_manpower = 5
 
-culture = north_atlantean
+culture = alyshi
 religion = atlanic
 trade_goods = paper
 hre = no

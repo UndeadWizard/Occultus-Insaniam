@@ -1,15 +1,15 @@
 #4675 - Rhammlostir
 
-owner = HYE
-controller = HYE
-add_core = HYE
+owner = A23
+controller = A23
+add_core = A23
 is_city = yes
 
 base_tax = 1
 base_production = 1
 base_manpower = 2
 
-culture = south_atlantean
+culture = alyric
 religion = atlanic
 trade_goods = grain
 hre = no

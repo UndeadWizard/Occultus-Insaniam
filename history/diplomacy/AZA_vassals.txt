@@ -1,29 +1,29 @@
 # Azaesan Vassals
 
 vassal = { #
-	first = AZA
-	second = DIA
+	first = A00
+	second = A02
 	start_date = 1340.11.11
 	end_date = 1569.10.3 #Annexed
 }
 
 vassal = {
-	first = AZA
-	second = ION
+	first = A00
+	second = A04
 	start_date = 1340.11.11
 	end_date = 1566.11.28 #Annexed
 }
 
 vassal = {
-	first = AZA
-	second = CYS
+	first = A00
+	second = A03
 	start_date = 1340.11.11
 	end_date = 1573.7.1 #Annexed
 }
 
 vassal = {
-	first = AZA
-	second = DOR
+	first = A00
+	second = A01
 	start_date = 1340.11.11
 	end_date = 1573.7.1 #Annexed
 }

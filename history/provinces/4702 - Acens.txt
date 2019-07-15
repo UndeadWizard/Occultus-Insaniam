@@ -1,8 +1,8 @@
 #4702 - Acens
 
-owner = DOR
-controller = DOR
-add_core = DOR
+owner = A01
+controller = A01
+add_core = A01
 is_city = yes
 
 culture = high_atlantean

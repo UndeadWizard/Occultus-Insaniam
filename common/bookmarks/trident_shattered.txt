@@ -5,5 +5,5 @@ bookmark =
 	date = 1444.11.11
 	center = 4651
 	default = yes
-	country = AZA
+	country = A00
 }

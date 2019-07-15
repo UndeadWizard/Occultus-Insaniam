@@ -1,15 +1,15 @@
 #4765 - Tauryria
 
-owner = TYA
-controller = TYA
-add_core = TYA
+owner = A49
+controller = A49
+add_core = A49
 is_city = yes
 
 base_tax = 4
 base_production = 3
 base_manpower = 2
 
-culture = islander_atlantean
+culture = nautean
 religion = atlanic
 trade_goods = fish
 hre = no

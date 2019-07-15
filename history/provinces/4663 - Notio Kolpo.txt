@@ -1,15 +1,15 @@
 #4663 - Notio Kolpo
 
-owner = CYV
-controller = CYV
-add_core = CYV
+owner = A29
+controller = A29
+add_core = A29
 is_city = yes
 
 base_tax = 2
 base_production = 3
 base_manpower = 3
 
-culture = south_atlantean
+culture = alyric
 religion = heptarchic
 trade_goods = fish
 hre = no

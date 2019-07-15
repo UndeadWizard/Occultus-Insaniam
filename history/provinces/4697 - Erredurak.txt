@@ -1,15 +1,15 @@
 #4697 - Erredurak
 
-owner = EDK
-controller = EDK
-add_core = EDK
+owner = A26
+controller = A26
+add_core = A26
 is_city = yes
 
 base_tax = 4
 base_production = 3
 base_manpower = 3
 
-culture = mountain_atlantean
+culture = alyric
 religion = atlanic
 trade_goods = iron
 hre = no

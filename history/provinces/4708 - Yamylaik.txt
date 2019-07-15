@@ -1,8 +1,8 @@
 #4708 - Yamylaik
 
-owner = YLK
-controller = YLK
-add_core = YLK
+owner = A08
+controller = A08
+add_core = A08
 is_city = yes
 
 base_tax = 2

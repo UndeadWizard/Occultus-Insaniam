@@ -1,15 +1,15 @@
 #4712 - Sounlymphi
 
-owner = KNV
-controller = KNV
-add_core = KNV
+owner = A33
+controller = A33
+add_core = A33
 is_city = yes
 
 base_tax = 3
 base_production = 3
 base_manpower = 2
 
-culture = north_atlantean
+culture = alyshi
 religion = atlanic
 trade_goods = wine
 hre = no

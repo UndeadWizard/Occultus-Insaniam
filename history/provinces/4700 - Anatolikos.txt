@@ -1,8 +1,8 @@
 #4700 - Anatolikos
 
-owner = ANA
-controller = ANA
-add_core = ANA
+owner = A09
+controller = A09
+add_core = A09
 is_city = yes
 
 culture = high_atlantean

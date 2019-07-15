@@ -1,8 +1,8 @@
 #4705 - Chrysos
 
-owner = CYS
-controller = CYS
-add_core = CYS
+owner = A03
+controller = A03
+add_core = A03
 is_city = yes
 
 base_tax = 3

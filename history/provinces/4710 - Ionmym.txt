@@ -1,8 +1,8 @@
 #4710 - Ionmym
 
-owner = ION
-controller = ION
-add_core = ION
+owner = A04
+controller = A04
+add_core = A04
 is_city = yes
 
 base_tax = 3

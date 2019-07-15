@@ -1,8 +1,8 @@
 #4703 - Decerikon
 
-owner = DIA
-controller = DIA
-add_core = DIA
+owner = A02
+controller = A02
+add_core = A02
 is_city = yes
 
 culture = high_atlantean

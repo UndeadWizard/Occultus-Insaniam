@@ -1,16 +1,15 @@
 #4757 - Eusebes
 
-owner = MES
-controller = MES
-add_core = MES
+owner = A45
+controller = A45
+add_core = A45
 is_city = yes
-
 
 base_tax = 3
 base_production = 4
 base_manpower = 2
 
-culture = islander_atlantean
+culture = nautean
 religion = atlanic
 trade_goods = fish
 hre = no

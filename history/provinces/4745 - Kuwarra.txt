@@ -1,15 +1,15 @@
 #4745 - Kuwarra
 
-owner = KUW
-controller = KUW
-add_core = KUW
+owner = A41
+controller = A41
+add_core = A41
 is_city = yes
 
 base_tax = 3
 base_production = 4
 base_manpower = 2
 
-culture = south_atlantean
+culture = poenici
 religion = heptarchic
 trade_goods = iron
 hre = no

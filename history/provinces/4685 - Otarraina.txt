@@ -1,15 +1,15 @@
 #4685 - Otarraina
 
-owner = EVA
-controller = EVA
-add_core = EVA
+owner = A14
+controller = A14
+add_core = A14
 is_city = yes
 
 base_tax = 3
 base_production = 5
 base_manpower = 4
 
-culture = south_atlantean
+culture = alyric
 religion = atlanic
 trade_goods = wine
 hre = no

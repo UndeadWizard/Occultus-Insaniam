@@ -1,8 +1,8 @@
 #4755 - Meropis
 
-owner = MPS
-controller = MPS
-add_core = MPS
+owner = A44
+controller = A44
+add_core = A44
 is_city = yes
 
 base_tax = 4

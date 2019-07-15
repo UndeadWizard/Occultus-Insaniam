@@ -1,15 +1,15 @@
 #4678 - Losrorham
 
-owner = MNE
-controller = MNE
-add_core = MNE
+owner = A16
+controller = A16
+add_core = A16
 is_city = yes
 
 base_tax = 3
 base_production = 1
 base_manpower = 3
 
-culture = south_atlantean
+culture = alyric
 religion = atlanic
 trade_goods = gems
 hre = no

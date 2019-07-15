@@ -1,15 +1,15 @@
 #4721 - Naimyte
 
-owner = MEL
-controller = MEL
-add_core = MEL
+owner = A34
+controller = A34
+add_core = A34
 is_city = yes
 
 base_tax = 3
 base_production = 3
 base_manpower = 1
 
-culture = north_atlantean
+culture = alyshi
 religion = atlanic
 trade_goods = grain
 hre = no

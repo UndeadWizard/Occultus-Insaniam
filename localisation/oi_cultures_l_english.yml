@@ -2,12 +2,12 @@
 #Atlantean Cultures
  atlantean_group:0 "Atlantean"
  high_atlantean:0 "High Atlantean"
- north_atlantean:0 "Atlaye"
- south_atlantean:0 "Alyric"
- islander_atlantean:0 "Atlashi"
- mountain_atlantean:0 "Atean"
+ alyshi:0 "Alyshi"
+ alyric:0 "Alyric"
+ nautean:0 "Nautean"
+ poenici:0 "Poenici"
  meropisean:0 "Meropisean"
- ayaico:0 "Ayaico"
+ ayadoni:0 "Ayadoni"
  atlantean_nd:0 "Atlantean" # Nation Designer only
 #Antillian Cultures
  antillia_group:0 "Antillian"

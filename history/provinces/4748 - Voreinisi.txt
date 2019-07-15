@@ -1,15 +1,15 @@
 #4748 - Voreinisi
 
-owner = VOR
-controller = VOR
-add_core = VOR
+owner = A42
+controller = A42
+add_core = A42
 is_city = yes
 
 base_tax = 6
 base_production = 5
 base_manpower = 5
 
-culture = south_atlantean
+culture = poenici
 religion = heptarchic
 trade_goods = fish
 hre = no

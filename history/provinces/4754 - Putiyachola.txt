@@ -1,15 +1,15 @@
 #4754 - Putiyachola
 
-owner = ANX
-controller = ANX
-add_core = ANX
+owner = A43
+controller = A43
+add_core = A43
 is_city = yes
 
 base_tax = 6
 base_production = 5
 base_manpower = 5
 
-culture = south_atlantean
+culture = poenici
 religion = heptarchic
 trade_goods = grain
 hre = no

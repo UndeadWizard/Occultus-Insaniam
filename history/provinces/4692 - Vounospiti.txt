@@ -1,15 +1,15 @@
 #4692 - Vounospiti
 
-owner = VOU
-controller = VOU
-add_core = VOU
+owner = A25
+controller = A25
+add_core = A25
 is_city = yes
 
 base_tax = 2
 base_production = 3
 base_manpower = 4
 
-culture = mountain_atlantean
+culture = alyric
 religion = atlanic
 trade_goods = copper
 hre = no

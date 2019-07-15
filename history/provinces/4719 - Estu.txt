@@ -1,15 +1,15 @@
 #4719 - Estu
 
-owner = APF
-controller = APF
-add_core = APF
+owner = A38
+controller = A38
+add_core = A38
 is_city = yes
 
 base_tax = 7
 base_production = 6
 base_manpower = 6
 
-culture = north_atlantean
+culture = ayadoni
 religion = atlanic
 trade_goods = cloth
 hre = no

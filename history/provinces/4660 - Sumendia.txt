@@ -1,15 +1,15 @@
 #4660 - Sumendia
 
-owner = ICH
-controller = ICH 
-add_core = ICH
+owner = A13
+controller = A13 
+add_core = A13
 
 is_city = yes
 base_tax = 6
 base_production = 5
 base_manpower = 4
 
-culture = islander_atlantean
+culture = high_atlantean
 religion = atlanic
 trade_goods = gems
 hre = no

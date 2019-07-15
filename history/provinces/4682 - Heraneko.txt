@@ -1,8 +1,8 @@
 #4682 - Heraneko
 
-owner = HNO
-controller = HNO
-add_core = HNO
+owner = A11
+controller = A11
+add_core = A11
 is_city = yes
 
 base_tax = 4

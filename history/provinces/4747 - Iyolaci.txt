@@ -1,15 +1,15 @@
 #4747 - Iyolaci
 
-owner = SOR
-controller = SOR
-add_core = SOR
+owner = A39
+controller = A39
+add_core = A39
 is_city = yes
 
 base_tax = 6
 base_production = 6
 base_manpower = 5
 
-culture = south_atlantean
+culture = ayadoni
 religion = atlanic
 trade_goods = naval_supplies
 hre = no

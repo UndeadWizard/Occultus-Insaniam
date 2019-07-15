@@ -1,8 +1,8 @@
 #4683 - Dautherag
 
-owner = DAG
-controller = DAG
-add_core = DAG
+owner = A12
+controller = A12
+add_core = A12
 is_city = yes
 
 base_tax = 5

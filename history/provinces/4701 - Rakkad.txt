@@ -1,8 +1,8 @@
 #4701 - Rakkad
 
-owner = RAK
-controller = RAK
-add_core = RAK
+owner = A10
+controller = A10
+add_core = A10
 is_city = yes
 
 culture = high_atlantean

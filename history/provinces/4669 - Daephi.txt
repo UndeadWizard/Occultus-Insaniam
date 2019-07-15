@@ -1,15 +1,15 @@
 #4669 Daephi
 
-owner = DAP
-controller = DAP
-add_core = DAP
+owner = A27
+controller = A27
+add_core = A27
 is_city = yes
 
 base_tax = 3
 base_production = 4
 base_manpower = 2
 
-culture = south_atlantean
+culture = alyric
 religion = atlanic
 trade_goods = iron
 hre = no

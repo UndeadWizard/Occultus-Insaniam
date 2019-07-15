@@ -1,15 +1,15 @@
 #4732 - Sagarrondoa
 
-owner = SAG
-controller = SAG
-add_core = SAG
+owner = A37
+controller = A37
+add_core = A37
 is_city = yes
 
 base_tax = 3
 base_production = 4
 base_manpower = 5
 
-culture = north_atlantean
+culture = ayadoni
 religion = atlanic
 trade_goods = fish
 hre = no

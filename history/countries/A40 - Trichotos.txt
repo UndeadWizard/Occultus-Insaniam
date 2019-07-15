@@ -1,0 +1,42 @@
+government = monarchy
+mercantilism = 0.1
+technology_group = atlantean
+religion = atlanic
+primary_culture = poenici
+capital = 4740
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Eustathios"
+		dynasty = "Gavras"
+		adm = 2
+		dip = 3
+		mil = 1
+		birth_date = 1361.1.1
+	}
+
+	queen = {
+		country_of_origin = A40
+		name = "Anna"
+		dynasty = "Gavras"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1361.1.1
+		death_date = 1465.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Bardas"
+		monarch_name = "Bardas"
+		dynasty = "Gavras"
+		adm = 1
+		dip = 4
+		mil = 4
+		claim = 50
+		birth_date = 1438.1.1
+		death_date = 1503.1.1
+	}
+} 

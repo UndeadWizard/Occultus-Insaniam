@@ -1,15 +1,15 @@
 #4677 - Polisrusm
 
-owner = PSM
-controller = PSM
-add_core = PSM
+owner = A21
+controller = A21
+add_core = A21
 is_city = yes
 
 base_tax = 1
 base_production = 1
 base_manpower = 2
 
-culture = south_atlantean
+culture = alyric
 religion = atlanic
 trade_goods = wool
 hre = no

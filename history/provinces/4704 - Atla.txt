@@ -1,8 +1,8 @@
 #4704 - Atla
 
-owner = AZA
-controller = AZA
-add_core = AZA
+owner = A00
+controller = A00
+add_core = A00
 is_city = yes
 
 capital = "Atlantium"

@@ -1,15 +1,15 @@
 #4742 - Kolpoli
 
-owner = KUW
-controller = KUW
-add_core = KUW
+owner = A41
+controller = A41
+add_core = A41
 is_city = yes
 
 base_tax = 2
 base_production = 2
 base_manpower = 3
 
-culture = south_atlantean
+culture = poenici
 religion = heptarchic
 trade_goods = livestock
 hre = no

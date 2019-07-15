@@ -1,15 +1,15 @@
 #4764 - Askloy
 
-owner = AKY
-controller = AKY
-add_core = AKY
+owner = A48
+controller = A48
+add_core = A48
 is_city = yes
 
 base_tax = 3
 base_production = 4
 base_manpower = 2
 
-culture = islander_atlantean
+culture = nautean
 religion = atlanic
 trade_goods = fish
 hre = no

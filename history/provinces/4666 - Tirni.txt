@@ -1,15 +1,15 @@
 #4666 - Tirni
 
-owner = BNP
-controller = BNP
-add_core = BNP
+owner = A28
+controller = A28
+add_core = A28
 is_city = yes
 
 base_tax = 1
 base_production = 1
 base_manpower = 2
 
-culture = south_atlantean
+culture = alyric
 religion = heptarchic
 trade_goods = livestock
 hre = no

@@ -1,15 +1,15 @@
 #4693 - Katoikia
 
-owner = KOA
-controller = KOA
-add_core = KOA
+owner = A17
+controller = A17
+add_core = A17
 is_city = yes
 
 base_tax = 4
 base_production = 3
 base_manpower = 3
 
-culture = mountain_atlantean
+culture = alyric
 religion = atlanic
 trade_goods = grain
 hre = no

@@ -1,15 +1,15 @@
 #4744 - Hondartza
 
-owner = OIN
-controller = OIN
-add_core = OIN
+owner = A36
+controller = A36
+add_core = A36
 is_city = yes
 
 base_tax = 2
 base_production = 3
 base_manpower = 2
 
-culture = north_atlantean
+culture = alyshi
 religion = atlanic
 trade_goods = iron
 hre = no

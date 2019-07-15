@@ -1,15 +1,15 @@
 #4759 - Philippi
 
-owner = PHI
-controller = PHI
-add_core = PHI
+owner = A46
+controller = A46
+add_core = A46
 is_city = yes
 
 base_tax = 4
 base_production = 3
 base_manpower = 4
 
-culture = islander_atlantean
+culture = nautean
 religion = atlanic
 trade_goods = naval_supplies
 hre = no

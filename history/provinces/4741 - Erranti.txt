@@ -1,15 +1,15 @@
 #4741 - Erranti
 
-owner = TCH
-controller = TCH
-add_core = TCH
+owner = A40
+controller = A40
+add_core = A40
 is_city = yes
 
 base_tax = 5
 base_production = 6
 base_manpower = 5
 
-culture = south_atlantean
+culture = poenici
 religion = atlanic
 trade_goods = wine
 hre = no

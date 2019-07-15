@@ -1,15 +1,15 @@
 #4739 - Txalupa
 
-owner = TCH
-controller = TCH
-add_core = TCH
+owner = A40
+controller = A40
+add_core = A40
 is_city = yes
 
 base_tax = 2
 base_production = 1
 base_manpower = 2
 
-culture = south_atlantean
+culture = poenici
 religion = atlanic
 trade_goods = wine
 hre = no
