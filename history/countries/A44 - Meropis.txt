@@ -8,22 +8,21 @@ capital = 4755
 #Atlantis Shattered
 1444.1.1 = {
 	monarch = {
-		name = "Herakleios"
-		dynasty = "Argyris"
-		adm = 5
-		dip = 4
-		mil = 2
-		birth_date = 1373.1.1
+		name = "Catutigernos "
+		dynasty = "Varus"
+		adm = 2
+		dip = 2
+		mil = 6
+		birth_date = 1423.1.1
 	}
 
 	heir = {
-		name = "Vlassis"
-		monarch_name = "Palaemon"
-		dynasty = "Argyris"
-		adm = 3
-		dip = 5
-		mil = 5
-		claim = 25
-		birth_date = 1421.1.1
+		name = "Horatius"
+		dynasty = "Varus"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1424.1.1
+		death_date = 1480.1.1
 	}
 }
