@@ -7,8 +7,6 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-            NOT = { tag = PAP }
-			NOT = { tag = HLR }
             is_colonial_nation = no
             OR = {
 				is_former_colonial_nation = no
@@ -18,7 +16,7 @@ country_decisions = {
 				}
 			}
             NOT = { exists = ATL }
-			culture_group = atlantean
+			primary_culture = high_atlantean
 		}
 		allow = {
             is_free_or_tributary_trigger = yes
@@ -62,8 +60,6 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-            NOT = { tag = PAP }
-			NOT = { tag = HLR }
             is_colonial_nation = no
             OR = {
 				is_former_colonial_nation = no
@@ -73,7 +69,7 @@ country_decisions = {
 				}
 			}
             NOT = { exists = AYA }
-			culture_group = ayadoni
+			primary_culture = ayadoni
 		}
 		allow = {
             is_free_or_tributary_trigger = yes
