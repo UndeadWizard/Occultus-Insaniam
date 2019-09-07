@@ -1,5 +1,6 @@
 # Formables
 ATL = "countries/Atlantis.txt"
+AYA = "countries/Ayadon.txt"
 
 # Atlantis
 A00 = "countries/Azaes.txt"         # Atlanic, High Atlantean, Monarchy
