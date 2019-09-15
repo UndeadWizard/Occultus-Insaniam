@@ -13,5 +13,6 @@ culture = nautean
 religion = atlanic
 trade_goods = naval_supplies
 hre = no
+center_of_trade = 1
 
 discovered_by = atlantean
