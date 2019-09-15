@@ -4,7 +4,7 @@
 
 polynesian_ideas = {
 	start = {
-		range = 0.5
+		range = 0.25
 		global_sailors_modifier = 0.33
 	}
 	bonus = {
