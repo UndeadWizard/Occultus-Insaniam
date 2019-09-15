@@ -90,3 +90,47 @@ nautean_group_ideas = {
 		defensiveness = 0.15
 	}
 }
+
+meropis_ideas = {
+	start = {
+		navy_tradition = 1
+		land_morale = 0.10
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = A44
+	}
+	free = yes
+	
+	meropis_1 = { #Yolo
+		leader_naval_shock = 2
+	}
+	
+	meropis_2 = { #Machimos recruits
+		discipline = 0.05
+	}
+	
+	meropis_3 = { #Eusebes missionaries
+		advisor_cost = -0.20
+	}
+	
+	meropis_4 = { #Destruction of the April Rites
+		global_missionary_strength = 0.02
+		culture_conversion_cost = -0.20
+	}
+	
+	meropis_5 = { #Set Atlantis alight
+		land_fire_damage = 0.10
+		harsh_treatment_cost = -0.25
+	}
+	
+	meropis_6 = { #Forge a new Empire
+		core_creation = -0.10
+	}
+	
+	meropis_7 = { #Enslave the survivors
+		global_trade_goods_size_modifier = 0.10
+	}
+}
