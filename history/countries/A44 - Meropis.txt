@@ -8,7 +8,7 @@ capital = 4755
 #Atlantis Shattered
 1444.1.1 = {
 	monarch = {
-		name = "Catutigernos "
+		name = "Catutigernos"
 		dynasty = "Varus"
 		adm = 2
 		dip = 2

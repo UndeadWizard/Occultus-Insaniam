@@ -2,7 +2,7 @@ government = monarchy
 mercantilism = 0.1
 technology_group = atlantean
 religion = atlanic
-primary_culture = islander_atlantean
+primary_culture = high_atlantean
 capital = 4660
 
 #Rise of the Ottomans
