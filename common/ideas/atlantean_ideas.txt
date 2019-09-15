@@ -171,7 +171,7 @@ antillian_ideas = {
 	}
 	
 	antillian_6 = { #Collect tithes
-		global_tax_modifier = 0.05
+		global_tax_modifier = 0.10
 	}
 	
 	antillian_7 = { #Holy mandates
