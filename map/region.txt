@@ -4,16 +4,6 @@
 random_new_world_region = {
 }
 ########################################
-# Antillia                             #
-########################################
-
-antillia_region = {
-	areas = {
-		antillian_area
-	}
-}
-
-########################################
 # Atlantis                             #
 ########################################
 
@@ -73,23 +63,17 @@ atlantean_westisles ={
 	}
 }
 
+
 ########################################
-# Thule                                #
+# Antillia                             #
 ########################################
 
-thule_region  = {
+antillia_region = {
 	areas = {
-		thule_area
-	}
-}
-
-########################################
-# Frisland                             #
-########################################
-
-frisland_region = {
-	areas = {
-		frisland_area
+		ansalli_area
+		ansodi_area
+		ansolli_area
+		con_area
 	}
 }
 

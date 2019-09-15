@@ -75,15 +75,19 @@
  askloy_area:0 "Askloy"
  askloy_area_name:0 "Askloy"
  askloy_area_adj:0 "Askloyi"
-
-#Northern Islands
- thule_area:0 "Thule"
- thule_area_name:0 "Thule"
- thule_area_adj:0 "Thulean"
- frisland_area:0 "Frisland"
- frisland_area_name:0 "Frisland"
- frisland_area_adj:0 "Frislandean"
- 
+#Antillia
+ ansalli_area:0 "Ansalli"
+ ansalli_area_name:0 "Ansalli"
+ ansalli_area_adj:0 "Ansallini"
+ ansodi_area:0 "Ansodi"
+ ansodi_area_name:0 "Ansodi"
+ ansodi_area_adj:0 "Ansodini"
+ ansolli_area:0 "Ansolli"
+ ansolli_area_name:0 "Ansolli"
+ ansolli_area_adj:0 "Ansollini"
+ con_area:0 "Con"
+ con_area_name:0 "Con"
+ con_area_adj:0 "Coni"
 #Lemuria
  naktu_area:0 "Naktu"
  naktu_area_name:0 "Naktu"
