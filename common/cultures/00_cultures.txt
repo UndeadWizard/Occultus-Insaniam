@@ -12,7 +12,7 @@ antillia_group = {
     
     antillian = { 
 		dynasty_names = {
-			Alteris  "Arnold-Publius" Balti Derientis Dispanien Domihispanier Enoringes Eroviktor
+			Alteris "Arnold-Publius" Balti Derientis Dispanien Domihispanier Enoringes Eroviktor
 			Heiluctus Langus  Nedelis Reiteris Romaner Stult Wulpfus
 		}
 		male_names = {

@@ -1,4 +1,4 @@
-#Generic
+#Welcome to the Crescent Island
 
 atlantis_group_ideas = {
 	start = {
@@ -132,5 +132,50 @@ meropis_ideas = {
 	
 	meropis_7 = { #Enslave the survivors
 		global_trade_goods_size_modifier = 0.10
+	}
+}
+
+antillian_ideas = {
+	start = {
+		leader_naval_fire = 1
+		shock_damage_received = -0.10
+	}
+	bonus = {
+		stability_cost_modifier = -0.20
+	}
+	trigger = {
+		culture_group = { antillia_group }
+	}
+	free = yes
+	
+	antillian_1 = { #Visigoths!
+		free_mil_policy = 1
+	}
+	
+	antillian_2 = { #Build bote
+		global_ship_recruit_speed = -0.10
+	}
+	
+	antillian_3 = { #Theocracies
+		missionaries = 1
+		defensiveness = 0.10
+	}
+	
+	antillian_4 = { #Heptarchic stuff
+		tolerance_own = 2
+	}
+	
+	antillian_5 = { #More Heptarchy
+		global_missionary_strength = 0.02
+		army_tradition = 0.5
+	}
+	
+	antillian_6 = { #Collect tithes
+		global_tax_modifier = 0.05
+	}
+	
+	antillian_7 = { #Holy mandates
+		legitimacy = 1
+		devotion = 1
 	}
 }
