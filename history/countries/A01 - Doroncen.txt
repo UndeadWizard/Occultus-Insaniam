@@ -13,6 +13,6 @@ capital = 4710
 		adm = 3
 		dip = 4
 		mil = 3
-		birth_date = 1393.1.1
+		birth_date = 1393.10.10
 	}
 }
