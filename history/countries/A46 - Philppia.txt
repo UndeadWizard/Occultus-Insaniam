@@ -12,7 +12,7 @@ capital = 4759
 		adm = 3
 		dip = 1
 		mil = 5
-		birth_date = 1393.1.1
+		birth_date = 1393.1.18
 	}
 
 	heir = {
@@ -21,7 +21,7 @@ capital = 4759
 		adm = 3
 		dip = 1
 		mil = 5
-		birth_date = 1396.1.1
-		death_date = 1478.1.1
+		birth_date = 1396.10.15
+		death_date = 1478.1.17
 	}
 }

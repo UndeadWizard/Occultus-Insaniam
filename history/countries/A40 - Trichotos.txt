@@ -12,18 +12,18 @@ capital = 4740
 		adm = 2
 		dip = 3
 		mil = 1
-		birth_date = 1361.1.1
+		birth_date = 1361.10.10
 	}
 
 	queen = {
-		country_of_origin = A40
+		country_of_origin = A39
 		name = "Anna"
 		dynasty = "Gavras"
 		adm = 3
 		dip = 5
 		mil = 4
-		birth_date = 1361.1.1
-		death_date = 1465.1.1
+		birth_date = 1361.4.1
+		death_date = 1465.2.6
 		female = yes
 	}
 
@@ -35,7 +35,7 @@ capital = 4740
 		dip = 4
 		mil = 4
 		claim = 50
-		birth_date = 1438.1.1
-		death_date = 1503.1.1
+		birth_date = 1438.4.2
+		death_date = 1503.3.18
 	}
 } 
