@@ -11,7 +11,7 @@ base_manpower = 4
 
 culture = high_atlantean
 religion = atlanic
-trade_goods = gems
+trade_goods = wine
 hre = no
 
 add_permanent_province_modifier = {

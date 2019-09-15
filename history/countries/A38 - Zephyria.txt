@@ -2,7 +2,7 @@ government = monarchy
 technology_group = atlantean
 religion = atlanic
 primary_culture = ayadoni
-capital = 4734
+capital = 4719
 
 #Shattered Trident
 1444.1.1 = {
