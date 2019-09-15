@@ -1,7 +1,8 @@
-﻿l_english: 
+﻿l_english:
+#Polynesian Generic
  polynesian_ideas: "Polynesian Ideas"
  polynesian_ideas_start: "Polynesian Traditions"
- polynesian_ideas_bonus: "Polynesian Ambitions"
+ polynesian_ideas_bonus: "Polynesian Ambition"
  first_among_equals: "The First Among Equals"
  first_among_equals_desc: "The chief which governs our land is not a all-wise untouchable creature that other monarchies to the west seem to possess, rather, our chief holds power, but he himself, is an equal in our grand tribe."
  pearl_of_pacific: "Pearl of the Pacific"
@@ -16,3 +17,22 @@
  uncharted_east_desc: "With the Europeans discovering the giant american continent, they send swarms of their people to consolidate their power over the wealth, wherefore it is easy to see, and we shall do so as well."
  settle_inland: "Settle Inland"
  settle_inland_desc: "For millenia, we have sailed the ocean and settled the beaches and islands belonging to this ocean, but we are yet to extensively settle the innermost reaches of Mu. Who knows, maybe the hold great abundance of wealth?"
+ 
+ #Atlantean Generic
+ atlantis_group_ideas: "Atlantean (Group) Ideas"
+ atlantis_group_ideas_start: "Atlantean (Group) Traditions"
+ atlantis_group_ideas_bonus: "Atlantean (Group) Ambition"
+ atla_gen_1: "A Forced Diversity"
+ atla_gen_1_desc: "Multiple invasive foreign entities from our East have come to land and settle in Atlantean land. This has left us with a diversity that we knew not how to handle, hurting our lands with conflicts over faith. Time has mended this; while the scar remains, so does a valuable lesson in tolerance."
+ atla_gen_2: "Greco-Roman Tactics"
+ atla_gen_2_desc: "There is much that we have managed to learn from the tactics of the soldiers that landed here. We know not what happened to this Roman Empire they kept mentioning, but we know they were fierce warriors that didn't seem to know long-term defeats. Their tactics are a valuable addition to our martial knowledge."
+ atla_gen_3: "Rites of April"
+ atla_gen_3_desc: "For all in Atlantis, April is an important month. The Rites of April take almost half of the month, and festivities of all sorts are launched, with many celebrations for weeks on end. Even those who do not follow our religion, at this point, are culturally inclined to participare in the parties. Needless to say, this much celebration for this long a period means the rites are usually accompanied by multiple orgies."
+ atla_gen_4: "Lessons of Phoenicia"
+ atla_gen_4_desc: "One of the oldest invaders - and a comparitively lesser one in numbers - is the Phoenician group. They claim they were known for their impressive shipwrights and advanced docks. Perhaps listening to their advice might assist our navy's improvement."
+ atla_gen_5: "Riches of the Trident"
+ atla_gen_5_desc: "Atlantis is isolated from any other large landmasses, as the nearby sattlelite islands are too small. Atlantis is the queen of productivity in our vicinity, and our goods, common or exotic, are certain to attract many buyers."
+ atla_gen_6: "Break the economic isolation"
+ atla_gen_6_desc: "More peoples from the East have been making contact, from a land called Europa. We know not what their intentions are, but it seems they've made their wealth from trading far and out for the best goods all around the ocean. We could stand to learn from this. If anything, let's open up to their merchants."
+ atla_gen_7: "Navy modernization"
+ atla_gen_7_desc: "The European presence is making it increasingly clear that our navy is outdated and in need of a reform to keep up with the times. We never know when we'll need to defend ourselves, or perhaps project our influence outwards..."
