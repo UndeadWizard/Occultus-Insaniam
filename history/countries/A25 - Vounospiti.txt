@@ -1,11 +1,10 @@
 government = monarchy
-mercantilism = 0.1
 technology_group = atlantean
 religion = atlanic
 primary_culture = alyric
 capital = 4692
 
-#Atlantis Shattered
+#Shattered Trident
 1444.1.1 = {
 	monarch = {
 		name = "Ignatius"

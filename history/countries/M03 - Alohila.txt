@@ -1,13 +1,12 @@
 government = tribal
 add_government_reform = tribal_federation
-mercantilism = 0.1
 technology_group = polynesian
 religion = tiki
 primary_culture = hawaiian
 capital = 5137
 
 
-#Rise of the Ottomans
+#Shattered Trident
 
 #Fall of Byzantium
 1444.1.1 = {

@@ -1,11 +1,10 @@
 government = monarchy
-mercantilism = 0.1
 technology_group = atlantean
 religion = heptarchic
 primary_culture = poenici
 capital = 4748
 
-#Rise of the Ottomans
+#Shattered Trident
 1444.1.1 = {
 	monarch = {
 		name = "Apollonios"

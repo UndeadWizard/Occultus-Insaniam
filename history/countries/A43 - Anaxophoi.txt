@@ -1,11 +1,10 @@
 government = monarchy
-mercantilism = 0.1
 technology_group = atlantean
 religion = heptarchic
 primary_culture = poenici
 capital = 4754
 
-#Atlantis Shattered
+#Shattered Trident
 1444.1.1 = {
 	monarch = {
 		name = "Nestor"

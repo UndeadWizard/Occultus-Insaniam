@@ -1,11 +1,10 @@
 government = monarchy
-mercantilism = 0.1
 technology_group = western
 religion = catholic
 primary_culture = irish
 capital = 4767
 
-#Rise of the Ottomans
+#Shattered Trident
 1444.1.1 = {
 	monarch = {
 		name = "Cináed"

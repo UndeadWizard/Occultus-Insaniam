@@ -1,12 +1,11 @@
 government = monarchy
-mercantilism = 0.1
 technology_group = lemurian
 religion = sunni
 primary_culture = lemurian
 capital = 4839
 
 
-#Rise of the Ottomans
+#Shattered Trident
 1444.1.1 = {
 	monarch = {
 		name = "Peruñcintevar"

@@ -1,11 +1,10 @@
 government = monarchy
-mercantilism = 0.1
 technology_group = atlantean
 religion = atlanic
 primary_culture = nautean
 capital = 4765
 
-#Atlantis Shattered
+#Shattered Trident
 1444.1.1 = {
 	monarch = {
 		name = "Acnonios"
