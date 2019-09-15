@@ -6,4 +6,9 @@ bookmark =
 	center = 4651
 	default = yes
 	country = A00
+	country = A32
+	country = A38
+	country = A44
+	country = A47
+	country = A29
 }
