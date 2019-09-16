@@ -1,7 +1,7 @@
 government = monarchy
 technology_group = western
 religion = catholic
-primary_culture = irish
+primary_culture = thuler_irish
 capital = 4767
 
 #Shattered Trident

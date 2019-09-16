@@ -231,7 +231,7 @@ thuler_ideas = {
 		prestige = 1
 	}
 	trigger = {
-		always = no
+		tag = THL
 	}
 	free = yes
 	
@@ -249,7 +249,7 @@ thuler_ideas = {
 	}
 	
 	thuler_4 = { #Invite more Irishmen
-		same_culture_advisor_cost = -0.25
+		advisor_cost = -0.10
 	}
 	
 	thuler_5 = { #Never falter
