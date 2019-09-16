@@ -5,8 +5,8 @@ controller = A22
 add_core = A22
 is_city = yes
 
-base_tax = 1
-base_production = 1
+base_tax = 2
+base_production = 4
 base_manpower = 2
 
 culture = alyric
