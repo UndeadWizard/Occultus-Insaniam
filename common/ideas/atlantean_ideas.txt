@@ -1,5 +1,47 @@
 #Welcome to the Crescent Island
 
+copypaster_ideas = {
+	start = {
+		prestige = 1
+		prestige = 1
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		always = no
+	}
+	free = yes
+	
+	templateset_1 = {
+		prestige = 1
+	}
+	
+	templateset_2 = {
+		prestige = 1
+	}
+	
+	templateset_3 = {
+		prestige = 1
+	}
+	
+	templateset_4 = {
+		prestige = 1
+	}
+	
+	templateset_5 = {
+		prestige = 1
+	}
+	
+	templateset_6 = {
+		prestige = 1
+	}
+	
+	templateset_7 = {
+		prestige = 1
+	}
+}
+
 atlantis_group_ideas = {
 	start = {
 		sailors_recovery_speed = 0.20
@@ -177,5 +219,48 @@ antillian_ideas = {
 	antillian_7 = { #Holy mandates
 		legitimacy = 1
 		devotion = 1
+	}
+}
+
+thuler_ideas = {
+	start = {
+		global_tax_modifier = 0.10
+		naval_maintenance_modifier = -0.20
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		always = no
+	}
+	free = yes
+	
+	thuler_1 = { #Norse incursions
+		land_maintenance_modifier = -0.10
+	}
+	
+	thuler_2 = { #Irish Endurance
+		shock_damage_received = -0.10
+	}
+	
+	thuler_3 = { #Spreading Catholicism
+		papal_influence = 2
+		tolerance_own = 2
+	}
+	
+	thuler_4 = { #Invite more Irishmen
+		same_culture_advisor_cost = -0.25
+	}
+	
+	thuler_5 = { #Never falter
+		war_exhaustion = -0.02
+	}
+	
+	thuler_6 = { #Defend our coasts
+		own_coast_naval_combat_bonus = 1.0
+	}
+	
+	thuler_7 = { #We literally only came here to evangelize
+		global_missionary_strength = 0.02
 	}
 }

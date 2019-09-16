@@ -1,5 +1,24 @@
 ﻿l_english:
-#Polynesian Generic
+ #Template for copy and paste
+ template_ideas: "Templater Ideas"
+ template_ideas_start: "Templater Traditions"
+ template_ideas_bonus: "Templater Ambition"
+ template_1: ""
+ template_1_desc: ""
+ template_2: ""
+ template_2_desc: ""
+ template_3: ""
+ template_3_desc: ""
+ template_4: ""
+ template_4_desc: ""
+ template_5: ""
+ template_5_desc: ""
+ template_6: ""
+ template_6_desc: ""
+ template_7: ""
+ template_7_desc: ""
+ 
+ #Polynesian Generic
  polynesian_ideas: "Polynesian Ideas"
  polynesian_ideas_start: "Polynesian Traditions"
  polynesian_ideas_bonus: "Polynesian Ambition"
@@ -93,3 +112,22 @@
  antillian_6_desc: "Our treasuries are not to run dry as easily as others so long as our faithful population continues to provide us healthy tithes."
  antillian_7: "Holy Mandates"
  antillian_7_desc: "Our rulerships have been mandated by none other than God himself. None can argue against the word of Heaven."
+ 
+ #Template
+ thuler_ideas: "Thuler Ideas"
+ thuler_ideas_start: "Thuler Traditions"
+ thuler_ideas_bonus: "Thuler Ambition"
+ thuler_1: "Legacy of Norse incursions"
+ thuler_1_desc: ""
+ thuler_2: "Resilience of the Irish"
+ thuler_2_desc: ""
+ thuler_3: "Papar Legacy"
+ thuler_3_desc: ""
+ thuler_4: "Invite Mainland Irishmen"
+ thuler_4_desc: ""
+ thuler_5: "Unfaltering against the odds"
+ thuler_5_desc: "We Papars have faced all sorts of crappy weather in Ireland, to find even worse ones in our travels, and then land on an island about as bad as our own. Needless to say, we've learned the hard way to never falter against anything."
+ thuler_6: "In depth coastal defense"
+ thuler_6_desc: "Thule, fortunately, is a blessed island when it comes to defense. The coasts are particularly easy to maneuver around in. We are to make full use of this."
+ thuler_7: "Northern Evangelizers"
+ thuler_7_desc: "Papars have been out and about in the North Sea for centuries, seeking for new places to spread our faith. We've seemingly ran out around here, but we're always willing to go some ways further to do more proselytizing"
