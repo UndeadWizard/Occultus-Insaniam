@@ -51,8 +51,10 @@ atlantis_group_ideas = {
 		technology_cost = -0.10
 	}
 	trigger = {
-		culture_group = atlantean_group
-		NOT = { primary_culture = nautean }
+		AND = {
+			culture_group = atlantean_group
+			NOT = { primary_culture = nautean }
+		}
 	}
 	free = yes
 	
@@ -142,7 +144,7 @@ antillian_ideas = {
 		stability_cost_modifier = -0.20
 	}
 	trigger = {
-		culture_group = { antillia_group }
+		primary_culture = antillian
 	}
 	free = yes
 	
