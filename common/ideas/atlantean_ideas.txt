@@ -73,7 +73,7 @@ meropis_ideas = {
 	}
 	
 	meropis_5 = { #Set Atlantis alight
-		land_fire_damage = 0.10
+		fire_damage = 0.10
 		harsh_treatment_cost = -0.25
 	}
 	
