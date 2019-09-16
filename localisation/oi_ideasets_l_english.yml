@@ -1,8 +1,8 @@
 ﻿l_english:
  #Template for copy and paste
- template_ideas: "Templater Ideas"
- template_ideas_start: "Templater Traditions"
- template_ideas_bonus: "Templater Ambition"
+ template_ideas: "B Ideas"
+ template_ideas_start: "B Traditions"
+ template_ideas_bonus: "B Ambition"
  template_1: ""
  template_1_desc: ""
  template_2: ""
@@ -113,7 +113,7 @@
  antillian_7: "Holy Mandates"
  antillian_7_desc: "Our rulerships have been mandated by none other than God himself. None can argue against the word of Heaven."
  
- #Template
+ #Thule
  thuler_ideas: "Thuler Ideas"
  thuler_ideas_start: "Thuler Traditions"
  thuler_ideas_bonus: "Thuler Ambition"
@@ -130,4 +130,23 @@
  thuler_6: "In depth coastal defense"
  thuler_6_desc: "Thule, fortunately, is a blessed island when it comes to defense. The coasts are particularly easy to maneuver around in. We are to make full use of this."
  thuler_7: "Northern Evangelizers"
- thuler_7_desc: "Papars have been out and about in the North Sea for centuries, seeking for new places to spread our faith. We've seemingly ran out around here, but we're always willing to go some ways further to do more proselytizing"
+ thuler_7_desc: "Papars have been out and about in the North Sea for centuries, seeking for new places to spread our faith. We've seemingly ran out around here, but we're always willing to go some ways further to do more proselytizing."
+ 
+ #Trichotos
+ trichotos_ideas: "Trichotan Ideas"
+ trichotos_ideas_start: "Trichotan Traditions"
+ trichotos_ideas_bonus: "Trichotan Ambition"
+ trichotos_1: "The New Roman Exiles"
+ trichotos_1_desc: "Many in Atlantis can trace their lineage to some Roman soldier, from the lost legion. Yet we are different; our leadership comes from an Italiot noble loyal to the Eastern Romans, after a series of borderline ironic mishaps at sea leading them far away from their home in the Catepanate of Italy. We've got more stories to tell about Europe prior to our departure, and are generally looked towards when seeking information about it."
+ trichotos_2: "Cataphracts in Atlantis"
+ trichotos_2_desc: "It's not common for Atlanteans to adapt cavalry tactics for various reasons, but our rulers' ascendancy was very fond of the Cataphracts of old. Lethal in combat back in Europe, they are a fearsome force in Atlantis, as all fear the mighty horsemen of Trichotos."
+ trichotos_3: "Atlantean Crossbowmen"
+ trichotos_3_desc: "Another foreign invention we are fond of is the crossbow. Those small weapons fire arrows more accurately than bows do, and are much easier to use, not requiring years of training to be a decent shot with. Truly an equalizer on the field."
+ trichotos_4: "Italiot Nobles"
+ trichotos_4_desc: "The amount of women willing to put themselves as courtiers for us is far greater than usual for Atlantean courts. It seems they dig the Italian ones."
+ trichotos_5: "Thematic Navies"
+ trichotos_5_desc: "We prefer to screen our admirals from local talents from our provinces rather than nominate whoever shows up in our door with a large enough bucket of gold or someone vaguely related to nobility seeking a way to get recognition."
+ trichotos_6: "Advanced War Logistics"
+ trichotos_6_desc: "Our first kings survived what was probably the longest voyage of our times, one worthy to be called a Third Odyssey by all means. Needless to say, the family is particularly skilled at logistics."
+ trichotos_7: "Eastern Roman Bureaucracy"
+ trichotos_7_desc: "Adopting administrative decisions from our old masters in Constantinople and expanding our bureaucracy is sure to expand our capacity to properly rule our subjects."

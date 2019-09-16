@@ -264,3 +264,47 @@ thuler_ideas = {
 		global_missionary_strength = 0.02
 	}
 }
+
+trichotos_ideas = {
+	start = {
+		global_institution_spread = 0.20
+		ae_impact = -0.15
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = A40
+	}
+	free = yes
+	
+	trichotos_1 = { #The New Roman Exiles
+		diplomatic_reputation = 1
+	}
+	
+	trichotos_2 = { #Cataphracts in Atlantis
+		cavalry_power = 0.20
+	}
+	
+	trichotos_3 = { #Atlantean Crossbowmen
+		fire_damage = 0.10
+		drill_gain_modifier = 0.10
+	}
+	
+	trichotos_4 = { #Of Noble Bearing
+		heir_chance = 0.25
+	}
+	
+	trichotos_5 = { #Theme Navies
+		leader_naval_fire = 2
+	}
+	
+	trichotos_6 = { #Katepanate War Logistics
+		land_attrition = -0.10
+		reinforce_cost_modifier = -0.10
+	}
+	
+	trichotos_7 = { #Byzantine-like Bureaucracy
+		state_maintenance_modifier = -0.20
+	}
+}
