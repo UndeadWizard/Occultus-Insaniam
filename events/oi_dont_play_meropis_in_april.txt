@@ -1,0 +1,30 @@
+namespace = meropis_april
+
+
+###### DON'T PLAY MEROPIS IN APRIL
+
+country_event = {
+	id = meropis_april.1
+	title = meropis_april.1t
+	desc = meropis_april.1d
+	picture = STREET_SPEECH_eventPicture
+	
+	fire_only_once = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+    trigger = {
+		tag = A44
+		real_month_of_year = 3
+	}
+	
+	option = {	
+		name = meropis_april.1a
+		add_stability = -1
+		4775 = {
+			add_province_triggered_modifier = april_sucks
+		}
+	}
+}
