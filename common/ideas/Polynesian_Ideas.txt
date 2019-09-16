@@ -1,52 +1,43 @@
-#------------------#
-#---- Generics ----#
-#------------------#
+#Unique Polynesians
 
-polynesian_ideas = {
+copypaster_ideas = {
 	start = {
-		range = 0.25
-		global_sailors_modifier = 0.33
+		prestige = 1
+		prestige = 1
 	}
 	bonus = {
-		trade_efficiency = 0.10
+		prestige = 1
 	}
 	trigger = {
-		OR = {
-			primary_culture = waponi
-			primary_culture = hawaiian
-			primary_culture = rapanni
-			primary_culture = savaikian
-			primary_culture = samoan
-		}
+		always = no
 	}
 	free = yes
 	
-	first_among_equals = {
-		global_unrest = -2
-	}
-	
-	pearl_of_pacific = {
+	templateset_1 = {
 		prestige = 1
 	}
 	
-	polynesian_war_armada = {
-		naval_forcelimit_modifier = 0.5
+	templateset_2 = {
+		prestige = 1
 	}
 	
-	warrior_class = {
-		discipline = 0.025
-		land_morale = 0.05
+	templateset_3 = {
+		prestige = 1
 	}
 	
-	mana_sea = {
-		naval_morale = 0.15
+	templateset_4 = {
+		prestige = 1
 	}
 	
-	uncharted_east = {
-		global_colonial_growth = 10
+	templateset_5 = {
+		prestige = 1
 	}
 	
-	settle_inland = {
-		local_production_efficiency = 0.10
+	templateset_6 = {
+		prestige = 1
+	}
+	
+	templateset_7 = {
+		prestige = 1
 	}
 }
