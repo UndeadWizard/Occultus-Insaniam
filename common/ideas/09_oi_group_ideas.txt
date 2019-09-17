@@ -78,6 +78,7 @@ atlantis_islander_ideas = {
 	}
 	
 	atlantis_islander_5 = { #Show our Dominance
+		light_ship_cost = -0.10
 		global_naval_barrage_cost = -0.25
 	}
 	
@@ -203,17 +204,17 @@ antillian_ideas = {
 	}
 	free = yes
 	
-	antillian_1 = { #Visigoths!
-		free_mil_policy = 1
+	antillian_1 = { #Theocracies
+		missionaries = 1
+		defensiveness = 0.10
 	}
 	
 	antillian_2 = { #Build bote
 		global_ship_recruit_speed = -0.10
 	}
 	
-	antillian_3 = { #Theocracies
-		missionaries = 1
-		defensiveness = 0.10
+	antillian_3 = { #Visigoths!
+		free_mil_policy = 1
 	}
 	
 	antillian_4 = { #Heptarchic stuff
