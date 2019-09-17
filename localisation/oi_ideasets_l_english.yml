@@ -56,6 +56,26 @@
  atla_gen_7: "Navy modernization"
  atla_gen_7_desc: "The European presence is making it increasingly clear that our navy is outdated and in need of a reform to keep up with the times. We never know when we'll need to defend ourselves, or perhaps project our influence outwards..."
  
+ #Atlantean Islander
+ 
+ atlantis_islander_ideas: "Atlantean Islander Ideas"
+ atlantis_islander_ideas_start: "Atlantean Islander Traditions"
+ atlantis_islander_ideas_bonus: "Atlantean Islander Ambition"
+ atlantis_islander_1: "Control Atlantean Shores"
+ atlantis_islander_1_desc: "When your entire existence is in an island, you know fully well that envelopment and blockade are disastrous. Not as much for land lovers, but we've learned enough to know how to optimize our spread and make sure they suffer."
+ atlantis_islander_2: "Coast to Coast Tactics"
+ atlantis_islander_2_desc: "Fighting in the coasts has taught our people to rely more on long-ranged attacks, like bows and crossbows, rather than sword and spear. It does help that the future is looking bright for ranged warfare."
+ atlantis_islander_3: "Islander Brain Gain"
+ atlantis_islander_3_desc: "The islands contain some fairly large towns, and while they are not the greatest in Atlantis, they are large enough to support the commerce involved with being central. All of this is a major boon, as our migrant attraction is akin to those or the larger cities."
+ atlantis_islander_4: "Connected Network"
+ atlantis_islander_4_desc: "Our center location also brings not quite tangible benefits, notably that all of Atlantis is within our reach for negotiations, and we have some leverage in it."
+ atlantis_islander_5: "Domination by Barrage"
+ atlantis_islander_5_desc: "From our safe haven - the sea - we are able to dish out pain to those in land. And there isn't much they can do if they fail to contest our naval supremacy."
+ atlantis_islander_6: "Mingle with Europeans"
+ atlantis_islander_6_desc: "Our privileged position has made us stand out for European visitors. We can make use of their knowledge."
+ atlantis_islander_7: "Trident States"
+ atlantis_islander_7_desc: "The Trident Islands are home to states that have known nothing but interconnectivity through their navies, war or mechant. We're the prime example of sailor peoples."
+ 
  #Nautean Generic
  nautean_group_ideas: "Nautean Ideas"
  nautean_group_ideas_start: "Nautean Traditions"

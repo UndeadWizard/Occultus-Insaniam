@@ -42,6 +42,54 @@ copypaster_ideas = {
 	}
 }
 
+atlantis_islander_ideas = {
+	start = {
+		naval_morale = 0.15
+		global_own_trade_power = 0.15
+	}
+	bonus = {
+		merchants = 1
+	}
+	trigger = {
+		OR = {
+			tag = A13
+			tag = A20
+			tag = A30
+		}
+	}
+	free = yes
+	
+	atlantis_islander_1 = { #Control of the Atlantean Seas
+		embargo_efficiency = 0.25
+		ship_power_propagation = 0.10
+	}
+	
+	atlantis_islander_2 = { #Coastal Warfare
+		fire_damage = 0.10
+	}
+	
+	atlantis_islander_3 = { #Brain Gain
+		dip_advisor_cost = -0.10
+		admiral_cost = -0.25
+	}
+	
+	atlantis_islander_4 = { #Connections through the Land
+		diplomatic_reputation = 1
+	}
+	
+	atlantis_islander_5 = { #Show our Dominance
+		global_naval_barrage_cost = -0.25
+	}
+	
+	atlantis_islander_6 = { #Mingle with Europe
+		global_institution_spread = 0.20
+	}
+	
+	atlantis_islander_7 = { #BOTE
+		navy_tradition_decay = -0.015
+	}
+}
+
 atlantis_group_ideas = {
 	start = {
 		sailors_recovery_speed = 0.20
@@ -54,6 +102,13 @@ atlantis_group_ideas = {
 		AND = {
 			culture_group = atlantean_group
 			NOT = { primary_culture = nautean }
+			NOT = {
+				OR = {
+					tag = A13
+					tag = A20
+					tag = A30
+				}
+			}
 		}
 	}
 	free = yes
