@@ -42,6 +42,50 @@ copypaster_ideas = {
 	}
 }
 
+tadipouro_ideas = {
+	start = {
+		prestige_from_land = 0.50
+		infantry_cost = -0.10
+	}
+	bonus = {
+		ae_impact = -0.10
+	}
+	trigger = {
+		tag = A32
+	}
+	free = yes
+	
+	tadipouro_1 = { #Gauntlet Warriors
+		discipline = 0.05
+		army_tradition_from_battle = 0.50
+	}
+	
+	tadipouro_2 = { #Statesmen
+		improve_relation_modifier = 0.20
+	}
+	
+	tadipouro_3 = { #Black Order
+		global_manpower_modifier = 0.10
+		land_forcelimit_modifier = 0.10
+	}
+	
+	tadipouro_4 = { #Large Warships
+		ship_durability = 0.05
+	}
+	
+	tadipouro_5 = { #Dedicated Warrior Class
+		free_leader_pool = 1
+	}
+	
+	tadipouro_6 = { #Mines!
+		production_efficiency = 0.10
+	}
+	
+	tadipouro_7 = { #Army Standardization Effort
+		free_mil_policy = 1
+	}
+}
+
 meropis_ideas = {
 	start = {
 		navy_tradition = 1
