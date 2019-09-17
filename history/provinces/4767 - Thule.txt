@@ -6,10 +6,10 @@ add_core = THL
 
 is_city = yes
 base_tax = 4
-base_production = 6
+base_production = 3
 base_manpower = 4
 
-culture = irish
+culture = thuler_irish
 religion = catholic
 
 trade_goods = fish
