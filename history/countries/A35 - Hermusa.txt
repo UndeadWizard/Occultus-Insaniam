@@ -9,8 +9,8 @@ capital = 4728
 	monarch = {
 		name = "Argus"
 		dynasty = "Strabo"
-		adm = 1
-		dip = 5
+		adm = 2
+		dip = 4
 		mil = 4
 		birth_date = 1402.5.10
 	}
@@ -18,9 +18,9 @@ capital = 4728
 	heir = {
 		name = "Gallus"
 		dynasty = "Strabo"
-		adm = 5
-		dip = 4
-		mil = 4
+		adm = 4
+		dip = 3
+		mil = 3
 		birth_date = 1413.7.10
 		death_date = 1478.6.4
 	}

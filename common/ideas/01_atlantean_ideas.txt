@@ -42,6 +42,50 @@ copypaster_ideas = {
 	}
 }
 
+hermusa_ideas = {
+	start = {
+		mercenary_cost = -0.20
+		merc_maintenance_modifier = -0.20
+	}
+	bonus = {
+		mercenary_discipline = 0.10
+	}
+	trigger = {
+		tag = A35
+	}
+	free = yes
+	
+	hermusa_1 = { #Northern Bastion
+		defensiveness = 0.15
+	}
+	
+	hermusa_2 = { #Mercenary Reliance
+		possible_mercenaries = 0.25
+		possible_condottieri = 0.25
+	}
+	
+	hermusa_3 = { #Planned Financial Expansion
+		build_cost = -0.10
+		inflation_reduction = 0.05
+	}
+	
+	hermusa_4 = { #Developmental Theories
+		development_cost = -0.10
+	}
+	
+	hermusa_5 = { #Innovators by heart
+		idea_cost = -0.10
+	}
+	
+	hermusa_6 = { #Centralization of Trade
+		trade_efficiency = 0.10
+	}
+	
+	hermusa_7 = { #Hermusan Autonomy
+		land_morale = 0.15
+	}
+}
+
 tadipouro_ideas = {
 	start = {
 		prestige_from_land = 0.50
