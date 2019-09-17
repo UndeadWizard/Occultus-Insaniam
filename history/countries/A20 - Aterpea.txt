@@ -5,7 +5,7 @@ mercantilism = 25
 technology_group = atlantean
 religion = atlanic
 primary_culture = alyric
-capital = 4661
+capital = 5556
 mercantilism = 25
 
 #Shattered Trident

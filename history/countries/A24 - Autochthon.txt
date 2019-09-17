@@ -1,8 +1,9 @@
 government = monarchy
+add_government_reform = atlantean_warring_state
 technology_group = atlantean
 religion = heptarchic
 primary_culture = alyric
-capital = 4674
+capital = 5568
 
 #Shattered Trident
 1444.1.1 = {
