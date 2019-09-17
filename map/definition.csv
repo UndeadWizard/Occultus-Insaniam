@@ -4649,49 +4649,48 @@ province;red;green;blue;x;x
 4648;2;69;200;Acaxee;x
 4649;62;137;250;Mayo;x
 4650;82;176;150;Opata;x
-4651;80;227;255;Trident Gulf;Atlantis
-4652;5;205;205;Jupiter Reef;Atlantis
-4653;64;171;175;Sea of Meropisa;Atlantis
-4654;128;203;253;Agnostos Passage;Atlantis
-4655;127;216;252;Voreios Sea;Atlantis
-4656;32;153;255;Silver Coast;Atlantis
-4657;74;242;226;Hermus Coast;Atlantis
-4658;76;217;179;Notos Coast;Atlantis
-4659;113;190;255;Plata Sea;Atlantis
-4660;161;10;10;Sumendia;Atlantis
-4661;183;121;189;Polisliste;Atlantis
-4662;63;2;152;Maraath;Atlantis
-4663;128;34;91;Notio Kolpo;Atlantis
-4664;149;244;61;Chamylav;Atlantis
-4665;44;103;12;Achana;Atlantis
-4666;4;186;19;Tirni;Atlantis
-4667;86;210;90;Erythrarta;Atlantis
-4668;104;138;166;Agoralav;Atlantis
-4669;119;77;220;Daephi;Atlantis
-4670;17;242;79;Chaas;Atlantis
-4671;25;150;87;Cenro;Atlantis
-4672;141;240;172;Agacro;Atlantis
-4673;104;157;165;Likoa;Atlantis
-4674;224;156;13;Hyblilene;Atlantis
-4675;45;1;61;Rhammlostir;Atlantis
-4676;1;52;16;Asaero;Atlantis
-4677;163;72;226;Polisrusm;Atlantis
-4678;27;9;108;Losrorham;Atlantis
-4679;192;169;74;Epitetir;Atlantis
-4680;142;247;130;Burmuinean;Atlantis
-4681;36;125;52;Crecrelym;Atlantis
-4682;125;116;242;Heraneko;Atlantis
-4683;112;44;40;Dautherag;Atlantis
-4684;75;19;252;Kentrikos;Atlantis
-4685;179;94;229;Otarraina;Atlantis
-4686;222;49;102;Delcenthon;Atlantis
-4687;162;218;123;Acionas;Atlantis
-4688;123;88;38;Ynsepini;Atlantis
-4689;223;31;124;Losmosas;Atlantis
-4690;72;21;91;Voreiou Kolpou;Atlantis
-4691;121;199;119;Polismos Ridge;Wasteland
-4692;240;182;130;Vounospiti;Atlantis
-4693;132;13;129;Katoikia;Atlantis
+4652;140;69;200;Haicheng;
+4653;117;192;171;Maolian;x
+4654;60;240;76;Fuerhe;x
+4655;194;93;131;Shilimian;x
+4656;95;228;201;Wolanhe;x
+4657;220;32;204;Changbai Mountains;x
+4658;245;120;6;Nanghaer;x
+4659;237;134;253;Tulutingshan;x
+4660;130;176;43;Tunhe;x
+4661;246;142;22;Edala;x
+4662;213;239;212;Halacha;x
+4663;163;187;193;Jixi;x
+4664;79;144;220;North Buteha;x
+4665;18;225;17;South Buteha;x
+4666;147;155;192;South Hulunbur;x
+4667;209;189;232;North Setsen;x
+4668;206;72;139;West Ih Huree;x
+4669;137;60;168;East Dornogovi;x
+4670;1;153;63;West Khara Narin Ula;x
+4671;55;94;80;East Ereen;x
+4672;43;141;219;North Ju Ud;x
+4673;221;36;225;East Xilin Gol;x
+4674;77;35;96;North Jirem;x
+4675;122;140;89;Central Jirem;x
+4676;27;169;8;West Alxa;x
+4677;248;107;18;East Govi;x
+4678;147;150;150;East Qaraqorum;x
+4679;236;42;149;North Tsetserleg;x
+4680;3;38;13;East Zagast;x
+4681;215;140;255;North Kobdo;x
+4682;106;90;108;South Kobdo;x
+4683;186;144;83;East Hoboskar;x
+4684;255;216;1;Dzhemenika;x
+4685;196;69;0;Karagandy;x
+4686;255;90;0;Ekibastuz;x
+4687;255;186;0;Imakia;x
+4688;255;223;172;Baraba;x
+4689;255;150;0;Om;x
+4690;231;61;8;Ishim;x
+4691;255;227;0;As;x
+4692;255;213;0;Turgay;x
+4693;254;103;217;Keriya;x
 4694;30;131;153;Schiza;Atlantis
 4695;202;158;199;Thautori;Atlantis
 4696;180;220;217;Chrysos;Atlantis
@@ -5544,3 +5543,46 @@ province;red;green;blue;x;x
 5543;5;217;217;Sea31;Mu
 5544;75;222;252;Sea32;Mu
 5545;80;225;225:Sea33;Mu
+5546;80;227;255;Trident Gulf;Atlantis
+5547;5;205;205;Jupiter Reef;Atlantis
+5548;64;171;175;Sea of Meropisa;Atlantis
+5549;128;203;253;Agnostos Passage;Atlantis
+5550;127;216;252;Voreios Sea;Atlantis
+5551;32;153;255;Silver Coast;Atlantis
+5552;74;242;226;Hermus Coast;Atlantis
+5553;76;217;179;Notos Coast;Atlantis
+5554;113;190;255;Plata Sea;Atlantis
+5555;161;10;10;Sumendia;Atlantis
+5556;183;121;189;Polisliste;Atlantis
+5557;63;2;152;Maraath;Atlantis
+5558;128;34;91;Notio Kolpo;Atlantis
+5559;149;244;61;Chamylav;Atlantis
+5560;44;103;12;Achana;Atlantis
+5561;4;186;19;Tirni;Atlantis
+5562;86;210;90;Erythrarta;Atlantis
+5563;104;138;166;Agoralav;Atlantis
+5564;119;77;220;Daephi;Atlantis
+5565;17;242;79;Chaas;Atlantis
+5566;25;150;87;Cenro;Atlantis
+5567;141;240;172;Agacro;Atlantis
+5568;104;157;165;Likoa;Atlantis
+5569;224;156;13;Hyblilene;Atlantis
+5570;45;1;61;Rhammlostir;Atlantis
+5571;1;52;16;Asaero;Atlantis
+5572;163;72;226;Polisrusm;Atlantis
+5573;27;9;108;Losrorham;Atlantis
+5574;192;169;74;Epitetir;Atlantis
+5575;142;247;130;Burmuinean;Atlantis
+5576;36;125;52;Crecrelym;Atlantis
+5577;125;116;242;Heraneko;Atlantis
+5578;112;44;40;Dautherag;Atlantis
+5579;75;19;252;Kentrikos;Atlantis
+5580;179;94;229;Otarraina;Atlantis
+5581;222;49;102;Delcenthon;Atlantis
+5582;162;218;123;Acionas;Atlantis
+5583;123;88;38;Ynsepini;Atlantis
+5584;223;31;124;Losmosas;Atlantis
+5585;72;21;91;Voreiou Kolpou;Atlantis
+5586;121;199;119;Polismos Ridge;Wasteland
+5587;240;182;130;Vounospiti;Atlantis
+5588;132;13;129;Katoikia;Atlantis
