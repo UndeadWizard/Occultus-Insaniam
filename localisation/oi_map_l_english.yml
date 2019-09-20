@@ -47,3 +47,10 @@
  east_mu: "East Mu"
  atlantis_node: "Atlantis"
  antillia_node: "Antillia"
+ 
+ #Province Modifiers
+ atla_estuary_modifier: "Atla Estuary"
+ desc_atla_estuary_modifier:0 "Controlling the important river estuary of Atla strengthens our hold of the trade in the region."
+ losrorham_estuary_modifier: "Losrorham Estuary"
+ desc_losrorham_estuary_modifier:0 "Controlling the important river estuary of Losrorham strengthens our hold of the trade in the region."
+ osoa_gemstone_cavern: "Osoa Gemstone Cavern"
