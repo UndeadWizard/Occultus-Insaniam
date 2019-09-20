@@ -1,5 +1,7 @@
-government = monarchy
-add_government_reform = atlantean_warring_state
+government = republic
+add_government_reform = patricianship
+government_rank = 1
+mercantilism = 25
 technology_group = atlantean
 religion = atlanic
 primary_culture = alyshi
@@ -14,15 +16,5 @@ capital = 4728
 		dip = 4
 		mil = 4
 		birth_date = 1402.5.10
-	}
-
-	heir = {
-		name = "Gallus"
-		dynasty = "Strabo"
-		adm = 4
-		dip = 3
-		mil = 3
-		birth_date = 1413.7.10
-		death_date = 1478.6.4
 	}
 }
