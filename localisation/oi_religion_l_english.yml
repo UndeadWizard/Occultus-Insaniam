@@ -11,6 +11,10 @@
  tiki_religion_desc: "In Maori mythology, Tiki is the first man created."
  
  # Personal Deities
+ deity_mero: "Mero"
+ deity_mero_desc: "Patron God of Meropis, Reveler of Flames, Scorned of Atlas, God of Supremacy, Roman Emperor made God." 
+ deity_khronos: "Khronos"
+ deity_khronos_desc: "Also known as The Wise Titan and the Guardian of Time. Khronos is known to the Anthreans as a respecter of life, and will worship him by ritually eating the dead so their bodies won't go to waste."
  deity_jupiter: "Jupiter"
  deity_jupiter_desc: "King and father of the gods, the ruler of Mount Atlas and the god of the sky, weather, thunder, lightning, law, order, and justice."
  deity_yamm: "Yamm"
