@@ -260,3 +260,47 @@ trichotos_ideas = {
 		state_maintenance_modifier = -0.20
 	}
 }
+
+tauryria_ideas = {
+	start = {
+		naval_morale = 0.15
+		privateer_efficiency = 0.25
+	}
+	bonus = {
+		trade_efficiency = 0.15
+	}
+	trigger = {
+		tag = A49
+	}
+	free = yes
+	
+	tauryria_1 = { #Boarding
+		leader_naval_shock = 2
+	}
+	
+	tauryria_2 = { #Big bote
+		global_ship_recruit_speed = -0.20
+		sea_repair = yes
+	}
+	
+	tauryria_3 = { #Modern bote
+		dip_tech_cost_modifier = -0.10
+	}
+	
+	tauryria_4 = { #Talk like a Pirate day
+		prestige = 1
+	}
+	
+	tauryria_5 = { #Actual Raids
+		may_perform_slave_raid = yes
+	}
+	
+	tauryria_6 = { #Obligatory military idea
+		infantry_power = 0.10
+	}
+	
+	tauryria_7 = { #Pirates don't care
+		tolerance_heretic = 1
+		tolerance_heathen = 1
+	}
+}

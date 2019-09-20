@@ -190,7 +190,7 @@
  tadipouro_7: "Practices for Standardization"
  tadipouro_7_desc: "Ultimately, our armies are an organizational mess. The regulars, the Black Army, the patrols and whatnot all act separately, with little cohesion. This has worked previously, but it can't work forever. We need to enforce coordination amongst them."
  
- #Template for copy and paste
+ #Hermusa
  hermusa_ideas: "Hermusan Ideas"
  hermusa_ideas_start: "Hermusan Traditions"
  hermusa_ideas_bonus: "Hermusan Ambition"
@@ -208,3 +208,22 @@
  hermusa_6_desc: "Wealth in the Northern coast of Atlantis largely moves through land rather than sea, due to the dangers of the open sea. Combine this factor with the planned expansion and we've effectively control the passage of goods around the North; our docks are the only ones that are good enough to keep large ships safe. This is our own little source of extra revenue."
  hermusa_7: "Legacy of Hermusan Autonomy"
  hermusa_7_desc: "Our little corner of the world has enjoyed special autonomy even back when we were under central rule from Atla. This will never change, for if the tides threaten to move that way, we'll fight to the last."
+ 
+ #Tauryria
+ tauryria_ideas: "Tauryrian Ideas"
+ tauryria_ideas_start: "Tauryrian Traditions"
+ tauryria_ideas_bonus: "Tauryrian Ambition"
+ tauryria_1: "Boarding Tactics"
+ tauryria_1_desc: "Our main offensive strategy at sea is to get close and mass board enemy ships. Our hardy seamen makes this tactic tried and true."
+ tauryria_2: "Maintenance Canoes"
+ tauryria_2_desc: "Using smaller boats to support the construction and maintenance of bigger ones will ensure our dock workers will be able to find out hull failures more easily and fix them."
+ tauryria_3: "Keeping up with Naval Advancements"
+ tauryria_3_desc: "The Nautean Islands - and all of Atlantis, for that matter - sees influence be concentrated on those nations who can project themselves at the sea. We can't let ourselves have outdated boats."
+ tauryria_4: "Talk Like a Pirate Day"
+ tauryria_4_desc: "We had the greatest idea of sending agents into Atlantis decades ago and start joking about talking like a pirate on a specific day, every year. And by a pirate, we mean speaking in a Nautean accent. This great feat of propaganda has gone completely unnoticed by other states as the Tauryrian speech starts to become charming in the whole continent's eyes!"
+ tauryria_5: "Western Slave-Raids"
+ tauryria_5_desc: "We're to blame everytime someone asks why Nauteans have so many native traits. After all, we're the main slave drivers around!"
+ tauryria_6: "Applying Boarding Experience"
+ tauryria_6_desc: "Our experience on boarding often means we start having close-quarters infantry fights with other crewsmen. Slowly, our navy has been budding some skilled infantrymen. Applying them in land combat is tough, but at least we have a recruiting pool now."
+ tauryria_7: "Pirate Freedom"
+ tauryria_7_desc: "Do what you want 'cause a pirate is free!"
