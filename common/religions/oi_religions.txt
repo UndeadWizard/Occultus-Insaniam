@@ -34,7 +34,7 @@ atlantean_pagan = {
 # ---- Christians ---- #
 christian = {
 	heptarchic = {
-		color = { 150 0 11 } 
+		color = { 246 181 17 } 
 		icon = 62
 		country = {
 			stability_cost_modifier = -0.1

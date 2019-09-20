@@ -9,3 +9,8 @@ losrorham_estuary_modifier = {
 	province_trade_power_value = 10
 	picture = "estuary_icon"
 }
+
+osoa_gemstone_cavern = {
+	trade_goods_size = 2
+	picture = "gems_icon"
+}

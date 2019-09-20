@@ -17,7 +17,7 @@ christian = {
 	
 	
 	catholic = {
-		color = { 204 204 0 }
+		color = { 254 230 244 } #204 204 0
 		icon = 1
 		allowed_conversion = {
 			reformed
@@ -513,7 +513,7 @@ christian = {
 	}
 
 	orthodox = {
-		color = { 178 127 0 }
+		color = { 130 22 64 } # 178 127 0 
 		icon = 4
 		country = {
 			stability_cost_modifier = -0.1
