@@ -841,7 +841,7 @@ atlantean_missions_economic = {
 	}
 	atlantean_industry = {
 		icon = mission_market_place_with_asian_traders
-		required_missions = { JAP_survey_the_secret_fields }
+		required_missions = { ATL_reform_serf_lands }
 		
 		trigger = {
 			custom_trigger_tooltip = {
