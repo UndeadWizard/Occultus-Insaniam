@@ -12,7 +12,7 @@ atlantean_missions_sea = {
 	has_country_shield = yes
 	
 	ATL_take_the_azores = {
-		icon = mission_japanese_fort
+		icon = mission_invade_island
 		required_missions = {}
 		provinces_to_highlight = {
 			OR = {
@@ -42,7 +42,7 @@ atlantean_missions_sea = {
 	}
 	
 	establish_footholding_in_morocco = {
-		icon = mission_manchu_warrior
+		icon = mission_arabian_fort
 		required_missions = { ATL_take_the_azores }
 		position = 3
 		provinces_to_highlight = {
@@ -87,7 +87,7 @@ atlantean_missions_sea = {
 	}
 	
 	ATL_portuguese_invasion = {
-		icon = mission_steppe_warriors
+		icon = mission_impaled_soldies
 		required_missions = { establish_footholding_in_morocco ATL_take_the_azores }
 		position = 5
 		
@@ -118,7 +118,7 @@ atlantean_missions_sea = {
 						owned_by = ROOT
 					}
 					add_province_modifier = {
-						name = "JAP_siberian_boom"
+						name = "ATL_european_goods"
 						duration = 3650
 					}
 				}
@@ -141,7 +141,7 @@ atlantean_missions_atlantic = {
 	has_country_shield = yes
 	
 	the_pride_of_atlantis = {
-		icon = mission_junk_boat
+		icon = mission_establish_high_seas_navy
 		trigger = {
 			num_of_heavy_ship = 10
 			navy_size_percentage = 0.9
@@ -149,14 +149,14 @@ atlantean_missions_atlantic = {
 		effect = {
 			add_navy_tradition = 30
 			add_country_modifier = {
-				name = "divine_wind_modifier"
+				name = "atlantean_pride_modifier"
 				duration = 7300
 			}
 		}
 	}
 	
 	conquer_antillia = {
-		icon = mission_great_wall
+		icon = mission_cannons_firing
 		required_missions = { the_pride_of_atlantis ATL_become_imperator }
 		position = 3
 		
@@ -203,7 +203,7 @@ atlantean_missions_atlantic = {
 	}
 	
 	ATL_african_holdings = {
-		icon = mission_japanese_samurai
+		icon = mission_african_soldier
 		required_missions = { conquer_antillia }
 		provinces_to_highlight = {
 			OR = {
@@ -240,7 +240,7 @@ atlantean_missions_atlantic = {
 					owned_by = ROOT
 				}
 				add_province_modifier = {
-					name = "integrating_ainu"
+					name = "african_foothold"
 					duration = 7300
 				}
 			}
@@ -276,8 +276,8 @@ atlantean_missions_atlantic = {
 	}
 	
 	ATL_secure_west_africa = {
-		icon = mission_chinese_general_riding
-		required_missions = { establish_footholding_in_morocco ATL_secure_cuba }
+		icon = mission_colonial
+		required_missions = { african_foothold }
 		position = 6
 		provinces_to_highlight = {
 			OR = {
@@ -334,12 +334,12 @@ atlantean_missions_atlantic = {
 	}
 	
 	ATL_go_to_colombia = {
-		icon = mission_junk_boat
+		icon = mission_colonial
 		required_missions = { ATL_secure_west_africa }
 		position = 6
 		
 		provinces_to_highlight = {
-			colonial_region = colonial_eastern_america
+			colonial_region = colonial_colombia
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 			has_discovered = ROOT
 		}
@@ -360,7 +360,7 @@ atlantean_missions_atlantic = {
 			}
 			else = {
 				custom_trigger_tooltip = {
-					tooltip = JAP_californian_colonization
+					tooltip = ATL_colombian_colonization
 					colonial_colombia = {
 						has_discovered = ROOT
 					}
@@ -392,21 +392,21 @@ atlantean_missions_the_empire = {
 	has_country_shield = yes
 	
 	ATL_establish_hegemony = {
-		icon = mission_japanese_fort
+		icon = mission_unite_home_region
 		
 		trigger = {
 			grown_by_states = 2
 		}
 		effect = {
 			add_country_modifier = {
-				name = JAP_sengoku_contender
+				name = promising_imperator_pretender
 				duration = 7300
 			}
 		}
 	}
 	
 	ATL_become_imperator = {
-		icon = mission_unite_home_region
+		icon = mission_empire
 		required_missions = { ATL_establish_hegemony }
 		
 		trigger = {
@@ -451,9 +451,8 @@ atlantean_missions_the_empire = {
 			owns_core_province = 481
 		}
 		effect = {
-			# province modifier in okinawa. 3 mountains.
 			add_country_modifier = {
-				name = "jap_three_mountains"
+				name = "atlantean_west"
 				duration = 7300
 			}
 			481 = {
@@ -559,7 +558,7 @@ atlantean_missions_the_empire = {
 			}
 			else = {
 				custom_trigger_tooltip = {
-					tooltip = JAP_californian_colonization
+					tooltip = ATL_east_america_colonization
 					colonial_eastern_america = {
 						has_discovered = ROOT
 					}
@@ -591,21 +590,21 @@ atlantean_missions_domestic = {
 	has_country_shield = yes
 	
 	strengthen_the_army = {
-		icon = mission_japanese_samurai
+		icon = mission_crusade_for_varna
 		required_missions = { }
 		trigger = {
 			army_tradition = 40
 		}
 		effect = {
 			add_country_modifier = {
-				name = "strengthened_bushido"
+				name = "roman_legacy"
 				duration = 7300
 			}
 		}
 	}
 	
 	unite_atlantis_mission = {
-		icon = mission_chinese_general_riding
+		icon = mission_pf_map_table
 		required_missions = { strengthen_the_army ATL_become_imperator }
 		position = 3
 		provinces_to_highlight = {
@@ -673,11 +672,11 @@ atlantean_missions_domestic = {
 			}
 		}
 		effect = {
-			custom_tooltip = JAP_gokaido_stations_for_everyone
+			custom_tooltip = ATL_all_roads_to_atla
 			hidden_effect = {
 				every_owned_province = {
 					add_province_modifier = {
-						name = JAP_gokaido_stations
+						name = all_roads_to_atla
 						duration = 3650
 					}
 				}
@@ -685,7 +684,7 @@ atlantean_missions_domestic = {
 		}
 	}
 	ATL_stablize_rule = {
-		icon = mission_japanese_fort
+		icon = mission_early_modern_university
 		required_missions = { ATL_construct_infra }
 		
 		trigger = {
@@ -694,7 +693,7 @@ atlantean_missions_domestic = {
 		}
 		effect = {
 			add_country_modifier = {
-				name = JAP_sankin_kotai_modifier
+				name = ATL_diplomacy_modifier
 				duration = -1
 			}
 		}
@@ -714,12 +713,12 @@ atlantean_missions_economic = {
 	}
 	has_country_shield = yes
 	
-	ATL_quell_faction_feuds = {
-		icon = mission_buddhist_monk_praying
+	ATL_quell_dissent = {
+		icon = mission_alliances
 		
 		trigger = {
 			custom_trigger_tooltip = {
-				tooltip = JAP_balance_the_four_divisions_tt
+				tooltip = ATL_quell_dissent_tt
 				OR = {
 					AND = {
 						if = {
@@ -796,14 +795,14 @@ atlantean_missions_economic = {
 	}
 	ATL_expand_income = {
 		icon = mission_war_chest
-		required_missions = { ATL_quell_faction_feuds }
+		required_missions = { ATL_quell_dissent }
 		
 		trigger = {
 			 share_of_starting_income = 2.0
 		}
 		effect = {
 			add_country_modifier = {
-				name = JAP_currency_regulations
+				name = new_atlantean_taxsystem
 				duration = 7300
 			}
 		}
@@ -822,8 +821,8 @@ atlantean_missions_economic = {
 			}
 		}
 	}
-	JAP_survey_the_secret_fields = {
-		icon = mission_rice_field
+	ATL_reform_serf_lands = {
+		icon = mission_noble_council
 		required_missions = { ATL_construct_infra ATL_great_treasury }
 		position = 5
 		
@@ -835,7 +834,7 @@ atlantean_missions_economic = {
 		}
 		effect = {
 			add_country_modifier = {
-				name = JAP_cadastral_surveys
+				name = ATL_hidden_property
 				duration = 7300
 			}
 		}
@@ -872,14 +871,14 @@ atlantean_missions_economic = {
 		}
 	}
 	prime_atlantean_traders = {
-		icon = mission_asian_trader
+		icon = mission_trade_company_region_abroad
 		required_missions = { atlantean_industry }
 		
 		provinces_to_highlight = {
 			OR = {
 				AND = {
-					province_id = 1376
-					1376 = {
+					province_id = 5546
+					5546 = {
 						NOT = {
 							trade_share = {
 								country = ROOT
@@ -889,7 +888,7 @@ atlantean_missions_economic = {
 					}
 				}
 				AND = {
-					province_id = 4233
+					province_id = 1516
 					4233 = {
 						NOT = {
 							trade_share = {
@@ -900,7 +899,7 @@ atlantean_missions_economic = {
 					}
 				}
 				AND = {
-					province_id = 1371
+					province_id = 2890
 					1371 = {
 						NOT = {
 							trade_share = {
@@ -911,7 +910,7 @@ atlantean_missions_economic = {
 					}
 				}
 				AND = {
-					province_id = 684
+					province_id = 1293
 					684 = {
 						NOT = {
 							trade_share = {
@@ -924,26 +923,26 @@ atlantean_missions_economic = {
 			}
 		}
 		trigger = {
-			1376 = {
+			5546 = {
 				trade_share = {
 					country = ROOT
 					share = 85
 				}
 			}
 			OR = {
-				4233 = { # Beijing
+				1516 = { # Carribean
 					trade_share = {
 						country = ROOT
 						share = 75
 					}
 				}
-				1371 = { # Canton
+				2890 = { # Amazenos
 					trade_share = {
 						country = ROOT
 						share = 75
 					}
 				}
-				684 = { # Hangzhou
+				1293 = { # Seville
 					trade_share = {
 						country = ROOT
 						share = 75
