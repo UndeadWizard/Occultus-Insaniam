@@ -24,7 +24,6 @@ atlantean_missions_sea = {
 		}
 		trigger = {
 			owns_core_province = 367
-			num_of_colonists = 1
 		}
 		effect = {
 			add_country_modifier = {
@@ -74,14 +73,14 @@ atlantean_missions_sea = {
 					NOT = { is_permanent_claim = ROOT	}
 					NOT = { is_core = ROOT	}
 				}
-				add_permanent_claim = ROOT
+				add_claim = ROOT
 			}
 			southern_morocco_area = {
 				limit = {
 					NOT = { is_permanent_claim = ROOT	}
 					NOT = { is_core = ROOT	}
 				}
-				add_permanent_claim = ROOT
+				add_claim = ROOT
 			}
 		}
 	}
@@ -190,14 +189,14 @@ atlantean_missions_atlantic = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
 				}
-				add_permanent_claim = ROOT
+				add_claim = ROOT
 			}
 			ansalli_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
 				}
-				add_permanent_claim = ROOT
+				add_claim = ROOT
 			}
 		}
 	}
@@ -258,7 +257,7 @@ atlantean_missions_atlantic = {
 			}
 			else = {
 				1118 = {
-					add_permanent_claim = ROOT
+					add_claim = ROOT
 				}
 			}
 			1119 = {
@@ -269,7 +268,7 @@ atlantean_missions_atlantic = {
 							is_core = ROOT
 						}
 					}
-					add_permanent_claim = ROOT
+					add_claim = ROOT
 				}
 			}
 		}
@@ -277,7 +276,7 @@ atlantean_missions_atlantic = {
 	
 	ATL_secure_west_africa = {
 		icon = mission_colonial
-		required_missions = { african_foothold }
+		required_missions = { ATL_african_holdings }
 		position = 6
 		provinces_to_highlight = {
 			OR = {
@@ -314,32 +313,32 @@ atlantean_missions_atlantic = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
 				}
-				add_permanent_claim = ROOT
+				add_claim = ROOT
 			}
 			lower_volta_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
 				}
-				add_permanent_claim = ROOT
+				add_claim = ROOT
 			}
 			massina_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
 				}
-				add_permanent_claim = ROOT
+				add_claim = ROOT
 			}
 		}
 	}
 	
-	ATL_go_to_colombia = {
+	ATL_colonize_eastern_america = {
 		icon = mission_colonial
 		required_missions = { ATL_secure_west_africa }
 		position = 6
 		
 		provinces_to_highlight = {
-			colonial_region = colonial_colombia
+			colonial_region = colonial_eastern_america
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 			has_discovered = ROOT
 		}
@@ -360,13 +359,13 @@ atlantean_missions_atlantic = {
 			}
 			else = {
 				custom_trigger_tooltip = {
-					tooltip = ATL_colombian_colonization
-					colonial_colombia = {
+					tooltip = ATL_east_america_colonization
+					colonial_eastern_america = {
 						has_discovered = ROOT
 					}
 					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 						value = 1
-						colonial_region = colonial_colombia
+						colonial_region = colonial_eastern_america
 						is_city = yes
 					}
 				}
@@ -410,21 +409,41 @@ atlantean_missions_the_empire = {
 		required_missions = { ATL_establish_hegemony }
 		
 		trigger = {
-			OR = {
-				has_reform = atlantean_warring_state
-				tag = ATL
-			}
+			tag = ATL
 		}
 		effect = {
-			add_prestige = 50
-			con_area = {
+			add_prestige = 20
+			atlantean_crownlands = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
 				}
 				add_permanent_claim = ROOT
 			}
-			ansolli_area = {
+			atlantean_midlands = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			atlantean_southlands = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			
+			atlantean_eastlands = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			
+			atlantean_westisles = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -532,12 +551,12 @@ atlantean_missions_the_empire = {
 		}
 	}
 	
-	ATL_colonize_eastern_america = {
+	ATL_go_to_colombia = {
 		icon = mission_establish_high_seas_navy
 		required_missions = { ATL_secure_cuba }
 		
 		provinces_to_highlight = {
-			colonial_region = colonial_eastern_america
+			colonial_region = colonial_colombia
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 			has_discovered = ROOT
 		}
@@ -558,13 +577,13 @@ atlantean_missions_the_empire = {
 			}
 			else = {
 				custom_trigger_tooltip = {
-					tooltip = ATL_east_america_colonization
-					colonial_eastern_america = {
+					tooltip = ATL_colombian_colonization
+					colonial_colombia = {
 						has_discovered = ROOT
 					}
 					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 						value = 1
-						colonial_region = colonial_eastern_america
+						colonial_region = colonial_colombia
 						is_city = yes
 					}
 				}
@@ -643,17 +662,7 @@ atlantean_missions_domestic = {
 			}
 		}
 		effect = {
-			1015 = {
-				if = {
-					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
-					}
-					add_permanent_claim = ROOT
-				}
-			}
+			add_prestige = 50
 		}
 	}
 	ATL_construct_infra= {

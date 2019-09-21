@@ -21,8 +21,8 @@
  ATL_secure_west_africa_title: "Secure West Africa"
  ATL_secure_west_africa_desc: "A fountain of gold flows from our African holdings, but it is still not enough. Our armies grow thin, and only gold can solve their ailment."
  
- ATL_go_to_colombia_title: "A Colony in Colombia"
- ATL_go_to_colombia_desc: ""
+ ATL_colonize_eastern_america_title: "Colonize Eastern America"
+ ATL_colonize_eastern_america_desc: ""
  
  ATL_establish_hegemony_title: "Establish Hegemony"
  ATL_establish_hegemony_desc: ""
@@ -39,8 +39,8 @@
  ATL_secure_cuba_title: "Secure Cuba"
  ATL_secure_cuba_desc: ""
  
- ATL_colonize_eastern_america_title: "Colonize Eastern America"
- ATL_colonize_eastern_america_desc: ""
+ ATL_go_to_colombia_title: "A Colony in Colombia"
+ ATL_go_to_colombia_desc: ""
  
  strengthen_the_army_title: "Strengthen the Army"
  strengthen_the_army_desc: ""
