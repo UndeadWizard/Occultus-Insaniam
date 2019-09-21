@@ -1,0 +1,961 @@
+atlantean_missions_sea = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			has_reform = atlantean_warring_state
+			tag = ATL
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	ATL_take_the_azores = {
+		icon = mission_japanese_fort
+		required_missions = {}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 367
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			owns_core_province = 367
+			num_of_colonists = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = "colonial_enthusiasm"
+				duration = 7300
+			}
+			macaronesia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	
+	establish_footholding_in_morocco = {
+		icon = mission_manchu_warrior
+		required_missions = { ATL_take_the_azores }
+		position = 3
+		provinces_to_highlight = {
+			OR = {
+				area = northern_morocco_area
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			OR = {
+				has_reform = atlantean_warring_state
+				tag = ATL
+			}
+			northern_morocco_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_mil_power = 100
+			add_country_modifier = {
+				name = "military_victory"
+				duration = 7300
+			}
+			western_morocco_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+			southern_morocco_area = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	
+	ATL_portuguese_invasion = {
+		icon = mission_steppe_warriors
+		required_missions = { establish_footholding_in_morocco ATL_take_the_azores }
+		position = 5
+		
+		provinces_to_highlight = {
+			OR = {
+				area = alentejo_area
+				area = beieras_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		
+		trigger = {
+			alentejo_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			beieras_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			custom_tooltip = ATL_portuguese_invasion_tt
+			hidden_effect = {
+				iberia_region = {
+					limit = {
+						owned_by = ROOT
+					}
+					add_province_modifier = {
+						name = "JAP_siberian_boom"
+						duration = 3650
+					}
+				}
+			}
+		}
+	}
+}
+
+atlantean_missions_atlantic = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			has_reform = atlantean_warring_state
+			tag = ATL
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	the_pride_of_atlantis = {
+		icon = mission_junk_boat
+		trigger = {
+			num_of_heavy_ship = 10
+			navy_size_percentage = 0.9
+		}
+		effect = {
+			add_navy_tradition = 30
+			add_country_modifier = {
+				name = "divine_wind_modifier"
+				duration = 7300
+			}
+		}
+	}
+	
+	conquer_antillia = {
+		icon = mission_great_wall
+		required_missions = { the_pride_of_atlantis ATL_become_imperator }
+		position = 3
+		
+		provinces_to_highlight = {
+			OR = {
+				area = con_area
+				area = ansolli_area
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			OR = {
+				has_reform = atlantean_warring_state
+				tag = ATL
+			}
+			con_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			ansolli_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_adm_power = 100
+			ansodi_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			ansalli_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	
+	ATL_african_holdings = {
+		icon = mission_japanese_samurai
+		required_missions = { conquer_antillia }
+		provinces_to_highlight = {
+			OR = {
+				province_id = 1114
+				province_id = 1117
+				province_id = 2238
+			}
+			OR = {
+				NOT = {
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+				NOT = {
+					religion = ROOT
+				}
+			}
+		}
+		trigger = {
+			1114 = {
+				country_or_non_sovereign_subject_holds = ROOT
+				religion = ROOT
+			}
+			1117 = {
+				country_or_non_sovereign_subject_holds = ROOT
+				religion = ROOT
+			}
+			2238 = {
+				country_or_non_sovereign_subject_holds = ROOT
+				religion = ROOT
+			}
+		}
+		effect = {
+			futa_jallon_area = {
+				limit = {
+					owned_by = ROOT
+				}
+				add_province_modifier = {
+					name = "integrating_ainu"
+					duration = 7300
+				}
+			}
+			if = {
+				limit = {
+					1118 = {
+						is_empty = yes
+					}
+				}
+				1118 = {
+					cede_province = ROOT
+					change_culture = ROOT
+					change_religion = ROOT
+				}
+			}
+			else = {
+				1118 = {
+					add_permanent_claim = ROOT
+				}
+			}
+			1119 = {
+				if = {
+					limit = {
+						NOT = {
+							is_permanent_claim = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+	
+	ATL_secure_west_africa = {
+		icon = mission_chinese_general_riding
+		required_missions = { establish_footholding_in_morocco ATL_secure_cuba }
+		position = 6
+		provinces_to_highlight = {
+			OR = {
+				area = manding_area
+				area = lower_volta_area
+				area = massina_area
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			OR = {
+				has_reform = atlantean_warring_state
+				tag = ATL
+			}
+			manding_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			lower_volta_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			massina_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_adm_power = 100
+			manding_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			lower_volta_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			massina_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	
+	ATL_go_to_colombia = {
+		icon = mission_junk_boat
+		required_missions = { ATL_secure_west_africa }
+		position = 6
+		
+		provinces_to_highlight = {
+			colonial_region = colonial_eastern_america
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		
+		trigger = {
+			if = {
+				limit = {
+					is_random_new_world = yes
+				}
+				custom_trigger_tooltip = {
+					tooltip = JAP_cn_in_rnw
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 10
+						continent = new_world
+						is_city = yes
+					}
+				}
+			}
+			else = {
+				custom_trigger_tooltip = {
+					tooltip = JAP_californian_colonization
+					colonial_colombia = {
+						has_discovered = ROOT
+					}
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 1
+						colonial_region = colonial_colombia
+						is_city = yes
+					}
+				}
+			}
+		}
+		effect = {
+			create_conquistador = 80
+		}
+	}
+}
+
+atlantean_missions_the_empire = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			has_reform = atlantean_warring_state
+			tag = ATL
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	ATL_establish_hegemony = {
+		icon = mission_japanese_fort
+		
+		trigger = {
+			grown_by_states = 2
+		}
+		effect = {
+			add_country_modifier = {
+				name = JAP_sengoku_contender
+				duration = 7300
+			}
+		}
+	}
+	
+	ATL_become_imperator = {
+		icon = mission_unite_home_region
+		required_missions = { ATL_establish_hegemony }
+		
+		trigger = {
+			OR = {
+				has_reform = atlantean_warring_state
+				tag = ATL
+			}
+		}
+		effect = {
+			add_prestige = 50
+			con_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			ansolli_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	
+	conquer_bermuda = {
+		icon = mission_invade_island
+		required_missions = { ATL_become_imperator unite_atlantis_mission }
+		position = 4
+		provinces_to_highlight = {
+			province_id = 481
+			NOT = {
+				AND = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_core = ROOT
+				}
+			}
+		}
+		trigger = {
+			owns_core_province = 481
+		}
+		effect = {
+			# province modifier in okinawa. 3 mountains.
+			add_country_modifier = {
+				name = "jap_three_mountains"
+				duration = 7300
+			}
+			481 = {
+					add_permanent_claim = ROOT
+			}
+		}
+	}
+	
+	ATL_colonize_leeward = {
+		icon = mission_colonial
+		required_missions = { conquer_bermuda }
+		provinces_to_highlight = {
+			area = leeward_islands_area
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			leeward_islands_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			create_explorer = 60
+			windward_islands_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_claim = ROOT }
+				}
+				add_claim = ROOT
+			}
+			east_cuba_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_claim = ROOT }
+				}
+				add_claim = ROOT
+			}
+			greater_antilles_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_claim = ROOT }
+				}
+				add_claim = ROOT
+			}
+			
+		}
+	}
+	
+	ATL_secure_cuba = {
+		icon = mission_invade_island
+		required_missions = { ATL_colonize_leeward }
+		provinces_to_highlight = {
+			OR = {
+				area = cuba_area
+				area = east_cuba_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		trigger = {
+			cuba_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			east_cuba_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_navy_tradition = 10
+			create_admiral = {
+				tradition = 50
+			}
+		}
+	}
+	
+	ATL_colonize_eastern_america = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { ATL_secure_cuba }
+		
+		provinces_to_highlight = {
+			colonial_region = colonial_eastern_america
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			has_discovered = ROOT
+		}
+		
+		trigger = {
+			if = {
+				limit = {
+					is_random_new_world = yes
+				}
+				custom_trigger_tooltip = {
+					tooltip = JAP_cn_in_rnw
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 10
+						continent = new_world
+						is_city = yes
+					}
+				}
+			}
+			else = {
+				custom_trigger_tooltip = {
+					tooltip = JAP_californian_colonization
+					colonial_eastern_america = {
+						has_discovered = ROOT
+					}
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 1
+						colonial_region = colonial_eastern_america
+						is_city = yes
+					}
+				}
+			}
+		}
+		effect = {
+			create_conquistador = 80
+		}
+	}
+}
+
+atlantean_missions_domestic = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			has_reform = atlantean_warring_state
+			tag = ATL
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	strengthen_the_army = {
+		icon = mission_japanese_samurai
+		required_missions = { }
+		trigger = {
+			army_tradition = 40
+		}
+		effect = {
+			add_country_modifier = {
+				name = "strengthened_bushido"
+				duration = 7300
+			}
+		}
+	}
+	
+	unite_atlantis_mission = {
+		icon = mission_chinese_general_riding
+		required_missions = { strengthen_the_army ATL_become_imperator }
+		position = 3
+		provinces_to_highlight = {
+			OR = {
+				region = atlantean_crownlands
+				region = atlantean_southlands
+				region = atlantean_midlands
+				region = atlantean_eastlands
+				region = atlantean_westisles
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			tag = ATL
+			atlantean_crownlands = {
+				type = all
+				owned_by = ROOT
+			}
+			atlantean_southlands = {
+				type = all
+				owned_by = ROOT
+			}
+			atlantean_midlands = {
+				type = all
+				owned_by = ROOT
+			}
+			atlantean_eastlands = {
+				type = all
+				owned_by = ROOT
+			}
+			atlantean_westisles = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			1015 = {
+				if = {
+					limit = {
+						NOT = {
+							is_permanent_claim = ROOT
+							is_core = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+	ATL_construct_infra= {
+		icon = mission_have_manufactories
+		required_missions = { unite_atlantis_mission }
+		
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 15
+				OR = {
+					has_building = temple
+					has_building = cathedral
+					has_building = workshop
+					has_building = counting_house
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = JAP_gokaido_stations_for_everyone
+			hidden_effect = {
+				every_owned_province = {
+					add_province_modifier = {
+						name = JAP_gokaido_stations
+						duration = 3650
+					}
+				}
+			}
+		}
+	}
+	ATL_stablize_rule = {
+		icon = mission_japanese_fort
+		required_missions = { ATL_construct_infra }
+		
+		trigger = {
+			stability = 3
+			legitimacy_equivalent = 80
+		}
+		effect = {
+			add_country_modifier = {
+				name = JAP_sankin_kotai_modifier
+				duration = -1
+			}
+		}
+	}
+}
+	
+atlantean_missions_economic = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			has_reform = atlantean_warring_state
+			tag = ATL
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	ATL_quell_faction_feuds = {
+		icon = mission_buddhist_monk_praying
+		
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = JAP_balance_the_four_divisions_tt
+				OR = {
+					AND = {
+						if = {
+							limit = {
+								has_estate = estate_burghers
+							}
+							estate_loyalty = {
+								estate = estate_burghers
+								loyalty = 70
+							}
+						}
+						if = {
+							limit = {
+								has_estate = estate_church
+							}
+							estate_loyalty = {
+								estate = estate_church
+								loyalty = 70
+							}
+						}
+					}
+					AND = {
+						if = {
+							limit = {
+								has_estate = estate_burghers
+							}
+							estate_loyalty = {
+								estate = estate_burghers
+								loyalty = 70
+							}
+						}
+						if = {
+							limit = {
+								has_estate = estate_nobles
+							}
+							estate_loyalty = {
+								estate = estate_nobles
+								loyalty = 70
+							}
+						}
+					}
+					AND = {
+						if = {
+							limit = {
+								has_estate = estate_church
+							}
+							estate_loyalty = {
+								estate = estate_church
+								loyalty = 70
+							}
+						}
+						if = {
+							limit = {
+								has_estate = estate_nobles
+							}
+							estate_loyalty = {
+								estate = estate_nobles
+								loyalty = 70
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = { NOT = { stability = 3 } }
+				add_stability = 1
+			}
+			else = {
+				add_adm_power = 100
+			}
+		}
+	}
+	ATL_expand_income = {
+		icon = mission_war_chest
+		required_missions = { ATL_quell_faction_feuds }
+		
+		trigger = {
+			 share_of_starting_income = 2.0
+		}
+		effect = {
+			add_country_modifier = {
+				name = JAP_currency_regulations
+				duration = 7300
+			}
+		}
+	}
+	ATL_great_treasury = {
+		icon = mission_high_income
+		required_missions = { ATL_expand_income }
+		
+		trigger = {
+			treasury = 2000
+		}
+		effect = {
+			add_country_modifier = {
+				name = "growing_economy"
+				duration = 9125 #25 years
+			}
+		}
+	}
+	JAP_survey_the_secret_fields = {
+		icon = mission_rice_field
+		required_missions = { ATL_construct_infra ATL_great_treasury }
+		position = 5
+		
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = JAP_no_corruption
+				NOT = { corruption = 0.1 }
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = JAP_cadastral_surveys
+				duration = 7300
+			}
+		}
+	}
+	atlantean_industry = {
+		icon = mission_market_place_with_asian_traders
+		required_missions = { JAP_survey_the_secret_fields }
+		
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = JAP_build_a_factroy
+				num_of_owned_provinces_with = {
+					value = 12
+					has_manufactory_trigger = yes
+				}
+			}
+		}
+		effect = {
+			add_adm_power = 100
+			if = {
+				limit = {
+					owns_core_province = 1818
+				}
+				1818 = {
+					add_base_production = 3
+				}
+			}
+			else = {
+				capital_scope = {
+					add_base_production = 3
+				}
+			}
+			add_mercantilism = 5
+		}
+	}
+	prime_atlantean_traders = {
+		icon = mission_asian_trader
+		required_missions = { atlantean_industry }
+		
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					province_id = 1376
+					1376 = {
+						NOT = {
+							trade_share = {
+								country = ROOT
+								share = 85
+							}
+						}
+					}
+				}
+				AND = {
+					province_id = 4233
+					4233 = {
+						NOT = {
+							trade_share = {
+								country = ROOT
+								share = 75
+							}
+						}
+					}
+				}
+				AND = {
+					province_id = 1371
+					1371 = {
+						NOT = {
+							trade_share = {
+								country = ROOT
+								share = 75
+							}
+						}
+					}
+				}
+				AND = {
+					province_id = 684
+					684 = {
+						NOT = {
+							trade_share = {
+								country = ROOT
+								share = 75
+							}
+						}
+					}
+				}
+			}
+		}
+		trigger = {
+			1376 = {
+				trade_share = {
+					country = ROOT
+					share = 85
+				}
+			}
+			OR = {
+				4233 = { # Beijing
+					trade_share = {
+						country = ROOT
+						share = 75
+					}
+				}
+				1371 = { # Canton
+					trade_share = {
+						country = ROOT
+						share = 75
+					}
+				}
+				684 = { # Hangzhou
+					trade_share = {
+						country = ROOT
+						share = 75
+					}
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "JAP_trade_hegemon"
+				duration = -1
+			}
+		}
+	}
+}
