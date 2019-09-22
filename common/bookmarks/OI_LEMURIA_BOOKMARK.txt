@@ -1,0 +1,11 @@
+bookmark =
+{
+	name = "BOOKMARK_OI_LEMURIA_BOOKMARK"
+	desc = "BOOKMARK_OI_LEMURIA_BOOKMARK_DESC"
+	date = 1444.11.11
+	center = 1646
+	default = yes
+	country = JFN
+	country = L00
+	country = L31
+}

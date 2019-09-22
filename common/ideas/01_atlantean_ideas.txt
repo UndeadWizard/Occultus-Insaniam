@@ -390,3 +390,48 @@ ansalli_ideas = {
 		heavy_ship_power = 0.15
 	}
 }
+
+artzainoi_ideas = {
+	start = {
+		light_ship_cost = -0.25
+		navy_tradition = 1
+	}
+	bonus = {
+		leader_naval_fire = 2
+	}
+	trigger = {
+		tag = A19
+	}
+	free = yes
+	
+	artzainoi_1 = { #Salarium
+		global_tax_modifier = 0.20
+	}
+	
+	artzainoi_2 = { #Anti-Embezzling Audits
+		yearly_corruption = -0.05
+	}
+	
+	artzainoi_3 = { #Salt Conservation
+		may_explore = yes
+		naval_attrition = -0.20
+	}
+	
+	artzainoi_4 = { #Atlantean Rediscoveries
+		prestige = 1
+	}
+	
+	artzainoi_5 = { #External Ventures
+		global_colonial_growth = 15
+		range = 0.25
+	}
+	
+	artzainoi_6 = { #Western Drill Sargeants
+		drill_gain_modifier = 0.30
+		drill_decay_modifier = -0.30
+	}
+	
+	artzainoi_7 = { #Early Firearm Trauma
+		fire_damage_received = -0.15
+	}
+}
