@@ -1,7 +1,7 @@
 ﻿l_english: 
  #Missions
  ATL_take_the_azores_title: "Conquer the Azores!"
- ATL_take_the_azores_desc: "The so-called Europeans have settled an island dangerously close to the Atlantean homeland. To secure our sovereignty we must push them back before they land on our shores!"
+ ATL_take_the_azores_desc: "The Europeans have settled on islands dangerously close to the Atlantean homeland. To secure our sovereignty we must push them back before they land on our shores!"
     
  establish_footholding_in_morocco_title: "Conquer North Morocco"
  establish_footholding_in_morocco_desc: "It is not simply enough for us to own the Azores, inevitably the Barbara will come knocking at our doors. Therefore, there is a need for overseas territory in which we can mount a reliable counter-defensive."
@@ -13,25 +13,25 @@
  the_pride_of_atlantis_desc: "During the Collapse, much of the Great Navy burned in docks of Atla. However, there is a new era coming, and a need for a new Great Fleet grows; bigger and greater than before."
  
  conquer_antillia_title: "Conquer Antillia"
- conquer_antillia_desc: "For centuries, the Antillians have been friend and foe to the Atlanteans. But such a dance cannot go on any longer. The Antillians must stand with us, or against us."
+ conquer_antillia_desc: "For centuries, the Antillians have been friend and foe to the Atlanteans, and many in both still consider Antillia an extension of the Atlantean continent. But such a dance cannot go on any longer. The Antillians must stand with us, or against us."
  
  ATL_african_holdings_title: "Holdings in Africa"
- ATL_african_holdings_desc: "We have seen how the Europeans grow strong from the lands they settle. To survive we must expand our overseas territories. Some land from the Barbara of Africa shall do nicely."
+ ATL_african_holdings_desc: "We have seen how the Europeans grow strong from the lands they settle. To survive, we too must expand our overseas territories. Some land from the Barbara of Africa shall do nicely."
  
  ATL_secure_west_africa_title: "Secure West Africa"
- ATL_secure_west_africa_desc: "A fountain of gold flows from our African holdings, but it is still not enough. Our armies grow thin, and only gold can solve their ailment."
+ ATL_secure_west_africa_desc: "A fountain of rare goods, such as gold, slaves and ivory, flow from our African holdings, but it is still not enough. Knowing how lucrative they are, we must seek to take more of those lands and ensure the continued flow."
  
  ATL_colonize_eastern_america_title: "Colonize Eastern America"
  ATL_colonize_eastern_america_desc: ""
  
- ATL_establish_hegemony_title: "Establish Hegemony"
+ ATL_establish_hegemony_title: "Estabilish Hegemony"
  ATL_establish_hegemony_desc: ""
  
  ATL_become_imperator_title: "Become Imperator"
- ATL_become_imperator_desc: ""
+ ATL_become_imperator_desc: "Ever since the Collapse, Atlanteans lacked an Emperor in anything other than in name. Now, a chance to solve that is within our grasp."
  
- conquer_bermuda_title: "Conquer Bermuda"
- conquer_bermuda_desc: ""
+ conquer_bermuda_title: "Conquer the Anthropofagoi"
+ conquer_bermuda_desc: "Those nasty natives find it not only normal, but pleasing and ritualistic, to eat human meat. Such behavior is outright unacceptable. Let us conquer them and civilize these peoples."
  
  ATL_colonize_leeward_title: "Colonize the Leeward Islands"
  ATL_colonize_leeward_desc: ""
@@ -67,10 +67,10 @@
  ATL_reform_serf_lands_desc: ""
  
  atlantean_industry_title: "Atlantean Industry"
- atlantean_industry_desc: ""
+ atlantean_industry_desc: "Atlantis has incredible diversity of goods compared to many other lands. Let us optimize these productions so we will always have something to export."
  
  prime_atlantean_traders_title: "Prime Atlantean Trade"
- prime_atlantean_traders_desc: ""
+ prime_atlantean_traders_desc: "Our growing presence in worldwide markets is a sign of a golden age to come in Atlantis. If we are to secure this gilded era, it's time to expand our trade presence and create our own mare clausum."
  
  
  #Tooltips
