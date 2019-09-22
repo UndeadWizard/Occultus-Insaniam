@@ -1,7 +1,7 @@
 bookmark =
 {
-	name = "BOOKMARK_POLYNESIAN_SETTLERS"
-	desc = "BOOKMARK_POLYNESIAN_SETTLERS_DESC"
+	name = "BOOKMARK_OI_MU_BOOKMARK"
+	desc = "BOOKMARK_OI_MU_BOOKMARK_DESC"
 	date = 1444.11.11
 	center = 5133
 	default = yes
