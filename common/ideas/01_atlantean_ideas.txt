@@ -435,3 +435,46 @@ artzainoi_ideas = {
 		fire_damage_received = -0.15
 	}
 }
+
+zephyria_ideas = { #Hello there! :tanoshii:
+	start = {
+		province_warscore_cost = -0.20
+		leader_siege = 1
+	}
+	bonus = {
+		global_trade_goods_size_modifier = 0.10
+	}
+	trigger = {
+		tag = A38
+	}
+	free = yes
+	
+	zephyria_1 = { #Religious Borderland
+		tolerance_heathen = 2
+	}
+	
+	zephyria_2 = { #Connective Infrastructure
+		movement_speed = 0.20
+	}
+	
+	zephyria_3 = { #Economic Penetration
+		trade_efficiency = 0.10
+	}
+	
+	zephyria_4 = { #Invite foreigners to contribute
+		improve_relation_modifier = 0.25
+	}
+	
+	zephyria_5 = { #Wagons: Sapping Trains
+		siege_ability = 0.20
+	}
+	
+	zephyria_6 = { #Wagons: Circular Defenses
+		fire_damage_received = -0.10
+		shock_damage_received = -0.10
+	}
+	
+	zephyria_7 = { #Integration by Roads
+		administrative_efficiency = 0.10
+	}
+}

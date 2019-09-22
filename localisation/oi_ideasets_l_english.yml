@@ -265,7 +265,7 @@
  ansalli_7: "Avoid Naval Neglect"
  ansalli_7_desc: "Our safety in Antillia's politics is due to our strong land force, for the singular island is easy to control by land. Yet, to project further, or simply defend ourselves, we will also need to keep our naval standards high."
  
- #Template for copy and paste
+ #Artzainoi
  artzainoi_ideas: "Artzainoi Ideas"
  artzainoi_ideas_start: "Artzainoi Traditions"
  artzainoi_ideas_bonus: "Artzainoi Ambition"
@@ -283,3 +283,22 @@
  artzainoi_6_desc: "After making contact with the Europeans, we have learned that they advanced further in warfare than we did. We could use some of their teachings to improve our own."
  artzainoi_7: "Early Firearm Trauma"
  artzainoi_7_desc: "We couldn't help but be shocked at how Europe handles its wars. Long ranged weapons that look like large sticks, but can kill a man in a single shot, pierce through most armor, and is hard to even spot the projectile. We'll start planning for encountering foes using such technologies."
+ 
+ #Zephyria
+ zephyria_ideas: "Zephyrian Ideas"
+ zephyria_ideas_start: "Zephyrian Traditions"
+ zephyria_ideas_bonus: "Zephyrian Ambition"
+ zephyria_1: "Religious Borderland"
+ zephyria_1_desc: "We sit right on the border between the pagan pantheons of Atlantis and the Christian denominations. These things are often the undoing of many states; let us not join those."
+ zephyria_2: "Large Connective Infrastructure"
+ zephyria_2_desc: "While the trend in Atlantis is to rely on large navies for connectivity, we have found that a valuable alternative is to use roads. Not only does it prevent the bottleneck of having to sail around the Trident's Gate to reach the external parts, it also means directly avoiding the risk of contesting Atlantean waters."
+ zephyria_3: "Road Network"
+ zephyria_3_desc: "The roads that connect our land are part of a megaproject on its own that employs quite a lot of labor. Yet, as they are finished, they promote increased integration of foreign lands."
+ zephyria_4: "Invite Foreigners to Contribute"
+ zephyria_4_desc: "After they realize how much the roads have helped us, plenty other Atlantean states will be interested in making their own. We could offer to connect our roads and assist them with the technical side, pushing us forward in the continental diplomacy."
+ zephyria_5: "Sapper Wagons"
+ zephyria_5_desc: "Covered trenches to enable the approach of our armies towards enemy lands permit us to more quickly tighten our sieges. Having wagons serve as vehicles as well as barriers for the sappers to advance to the digging positions has made them even more effective."
+ zephyria_6: "Defensive Wagons"
+ zephyria_6_desc: "And when not in sieges, wagons are an excellent protection against all sorts of enemies. Shock troops are forced into a chokepoint, while distant bows have to aim their shots upwards, and guns have to blast through the wagons."
+ zephyria_7: "Integrative Roads"
+ zephyria_7_desc: "The roads are already there; integrating outlying regions into our state thus becomes this much easier."
