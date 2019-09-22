@@ -304,3 +304,46 @@ tauryria_ideas = {
 		tolerance_heathen = 1
 	}
 }
+
+cannibal_ideas = { #Anthropofagoi!
+	start = {
+		shock_damage = 0.20 #Mouthes are an alternative weapon
+		diplomatic_reputation = -3 #No one likes cannibals
+	}
+	bonus = {
+		monarch_military_power = 2
+	}
+	trigger = {
+		tag = A50
+	}
+	free = yes
+	
+	cannibal_1 = { #Easy Access to Supplies... by eating people
+		land_attrition = -0.50
+	}
+	
+	cannibal_2 = { #People are scared of cannibals
+		land_morale = 0.20
+	}
+	
+	cannibal_3 = { #Eat your friends and don't starve during sieges
+		defensiveness = 0.25
+	}
+	
+	cannibal_4 = { #Eat the rebels
+		harsh_treatment_cost = -0.50
+		global_unrest = -2
+	}
+	
+	cannibal_5 = { #Well-nourished builders
+		build_cost = -0.20
+	}
+	
+	cannibal_6 = { #The Army as a method to secure food
+		global_manpower_modifier = 0.25
+	}
+	
+	cannibal_7 = { #Endorse Vore
+		tolerance_own = 4
+	}
+}

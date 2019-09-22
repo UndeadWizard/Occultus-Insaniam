@@ -57,7 +57,6 @@
  atla_gen_7_desc: "The European presence is making it increasingly clear that our navy is outdated and in need of a reform to keep up with the times. We never know when we'll need to defend ourselves, or perhaps project our influence outwards..."
  
  #Atlantean Islander
- 
  atlantis_islander_ideas: "Atlantean Islander Ideas"
  atlantis_islander_ideas_start: "Atlantean Islander Traditions"
  atlantis_islander_ideas_bonus: "Atlantean Islander Ambition"
@@ -227,3 +226,22 @@
  tauryria_6_desc: "Our experience on boarding often means we start having close-quarters infantry fights with other crewsmen. Slowly, our navy has been budding some skilled infantrymen. Applying them in land combat is tough, but at least we have a recruiting pool now."
  tauryria_7: "Pirate Freedom"
  tauryria_7_desc: "Do what you want 'cause a pirate is free!"
+ 
+ #Anthropofagoi
+ cannibal_ideas: "Anthropofagoi Ideas"
+ cannibal_ideas_start: "Anthropofagoi Traditions"
+ cannibal_ideas_bonus: "Anthropofagoi Ambition"
+ cannibal_1: "Easy Supply Access"
+ cannibal_1_desc: "It's hard to starve our people out when every dead soldier is actively contributing to our non-starvation."
+ cannibal_2: "Scare Tactics"
+ cannibal_2_desc: "Our enemies should have a solid idea of what their fate is should they fight us and lose. And damn, they're wholly correct."
+ cannibal_3: "Special Siege Logistics"
+ cannibal_3_desc: "So long as there are people in the cities we are defending, we are sure we won't suffer from starvation. This conviction shall carry ourselves to victory in sieges!"
+ cannibal_4: "The Fate of the Rebels"
+ cannibal_4_desc: "Is to fall prey to our armies!"
+ cannibal_5: "Nourished Builders"
+ cannibal_5_desc: "Working on an empty stomach is a terrifying thought, we can ensure our people are at their best by keeping them fed at all times. Our working builders are no exception."
+ cannibal_6: "Army Food Safety"
+ cannibal_6_desc: "The easiest way to fill your plate in the Anthropofagoi territory is to join our army, so long as there is war, it'll see plenty food."
+ cannibal_7: "The Way of Khronos"
+ cannibal_7_desc: "Our patron deity is more than just a patron, but a role model. Khronos' great deeds are heavily inspiring for us, and we seek to ensure that in our daily lives, we follow his footsteps."
