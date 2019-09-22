@@ -347,3 +347,46 @@ cannibal_ideas = { #Anthropofagoi!
 		tolerance_own = 4
 	}
 }
+
+ansalli_ideas = {
+	start = {
+		leader_land_shock = 1
+		manpower_recovery_speed = 0.20
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = AN0
+	}
+	free = yes
+	
+	ansalli_1 = { #The Enlightened
+		army_tradition = 1
+	}
+	
+	ansalli_2 = { #Institute of War
+		leader_cost = -0.25
+		army_tradition_decay = -0.01
+	}
+	
+	ansalli_3 = { #Case Studies
+		leader_land_manuever = 1
+	}
+	
+	ansalli_4 = { #Skilled Metallurgy
+		production_efficiency = 0.10
+	}
+	
+	ansalli_5 = { #Courses on Firearms
+		leader_land_fire = 1
+	}
+	
+	ansalli_6 = { #Theocracy
+		global_missionary_strength = 0.02
+	}
+	
+	ansalli_7 = { #Avoid Naval Neglect
+		heavy_ship_power = 0.15
+	}
+}
