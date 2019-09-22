@@ -1,5 +1,7 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
+government = republic
+add_government_reform = antillian_republic
+government_rank = 1
+mercantilism = 25
 technology_group = atlantean
 religion = heptarchic
 primary_culture = antillian
@@ -7,10 +9,11 @@ capital = 4780
 
 1444.1.1 = {
 	monarch = {
-		name = "Asbad IV"
+		name = "António"
+		dynasty = "Langus"
 		birth_date = 1400.4.10
 		adm = 3
-		dip = 3
-		mil = 2
+		dip = 4
+		mil = 3
 	}
 }

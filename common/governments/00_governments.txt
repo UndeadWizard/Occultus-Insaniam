@@ -201,6 +201,8 @@ republic = {
 				revolutionary_republic_reform
 				presidential_despot_reform
 				cossacks_reform
+				antillian_republic
+				patricianship
 			}
 		}
 		republican_virtues = {
