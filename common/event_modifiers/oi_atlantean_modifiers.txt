@@ -14,3 +14,7 @@ osoa_gemstone_cavern = {
 	trade_goods_size = 2
 	picture = "gems_icon"
 }
+
+salt_city = {
+	trade_goods_size = 3
+}
