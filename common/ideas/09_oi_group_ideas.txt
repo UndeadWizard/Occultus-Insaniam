@@ -201,6 +201,7 @@ antillian_ideas = {
 	}
 	trigger = {
 		primary_culture = antillian
+		NOT = { has_reform = antillian_republic }
 	}
 	free = yes
 	
@@ -287,42 +288,44 @@ polynesian_ideas = {
 
 antillian_republic_ideas = {
 	start = {
-		prestige = 1
-		prestige = 1
+		leader_naval_manuever = 1
+		shock_damage = 0.10
 	}
 	bonus = {
-		prestige = 1
+		prestige_decay = -0.015
 	}
 	trigger = {
-		always = no
+		has_reform = antillian_republic
 	}
 	free = yes
 	
-	antillian_republic_1 = {
-		prestige = 1
+	antillian_republic_1 = { #Citizenship by Conversion
+		global_missionary_strength = 0.02
+		tolerance_own = 2
 	}
 	
-	antillian_republic_2 = {
-		prestige = 1
+	antillian_republic_2 = { #Mixed War-Merchant Navy
+		naval_forcelimit_modifier = 0.10
+		global_ship_trade_power = 0.10
 	}
 	
-	antillian_republic_3 = {
-		prestige = 1
+	antillian_republic_3 = { #Visigothic Roots
+		army_tradition = 0.5
 	}
 	
-	antillian_republic_4 = {
-		prestige = 1
+	antillian_republic_4 = { #Proselytizing for Popularity
+		missionaries = 1
 	}
 	
-	antillian_republic_5 = {
-		prestige = 1
+	antillian_republic_5 = { #Planned Cities
+		development_cost = -0.10
 	}
 	
-	antillian_republic_6 = {
-		prestige = 1
+	antillian_republic_6 = { #Collect tithes
+		global_tax_modifier = 0.10
 	}
 	
-	antillian_republic_7 = {
-		prestige = 1
+	antillian_republic_7 = { #God's Own Republic
+		republican_tradition = 0.5
 	}
 }
