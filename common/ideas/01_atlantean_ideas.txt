@@ -478,3 +478,45 @@ zephyria_ideas = { #Hello there! :tanoshii:
 		administrative_efficiency = 0.10
 	}
 }
+
+antillian_state_ideas = {
+	start = {
+		prestige = 1
+		prestige = 1
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		always = no
+	}
+	free = yes
+	
+	antillian_state_1 = {
+		prestige = 1
+	}
+	
+	antillian_state_2 = {
+		prestige = 1
+	}
+	
+	antillian_state_3 = {
+		prestige = 1
+	}
+	
+	antillian_state_4 = {
+		prestige = 1
+	}
+	
+	antillian_state_5 = {
+		prestige = 1
+	}
+	
+	antillian_state_6 = {
+		prestige = 1
+	}
+	
+	antillian_state_7 = {
+		prestige = 1
+	}
+}

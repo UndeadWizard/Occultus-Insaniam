@@ -60,6 +60,7 @@ THL = "countries/Thule.txt" 		# Catholic, Irish, Monarchy
 
 #Antillia
 
+ANX = "countries/Antillia.txt" 		# Heptarchic, Antillian, Theocracy
 AN0 = "countries/Ansalli.txt" 		# Heptarchic, Antillian, Theocracy
 AN1 = "countries/Ansodi.txt" 		# Heptarchic, Antillian, Theocracy
 AN2 = "countries/ConBaptist.txt" 	# Heptarchic, Antillian, Theocracy

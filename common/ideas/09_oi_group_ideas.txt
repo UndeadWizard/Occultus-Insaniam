@@ -284,3 +284,45 @@ polynesian_ideas = {
 		local_production_efficiency = 0.10
 	}
 }
+
+antillian_republic_ideas = {
+	start = {
+		prestige = 1
+		prestige = 1
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		always = no
+	}
+	free = yes
+	
+	antillian_republic_1 = {
+		prestige = 1
+	}
+	
+	antillian_republic_2 = {
+		prestige = 1
+	}
+	
+	antillian_republic_3 = {
+		prestige = 1
+	}
+	
+	antillian_republic_4 = {
+		prestige = 1
+	}
+	
+	antillian_republic_5 = {
+		prestige = 1
+	}
+	
+	antillian_republic_6 = {
+		prestige = 1
+	}
+	
+	antillian_republic_7 = {
+		prestige = 1
+	}
+}
