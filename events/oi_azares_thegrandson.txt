@@ -25,7 +25,7 @@ country_event = {
 			add_core = A00
 		}
 		kill_ruler= yes
-		remove_country_modifier = aza_uncertainfuture"
+		remove_country_modifier = "aza_uncertainfuture"
 		hidden_effect = {
 			country_event = {
 				id = aza_thegrandson.2
@@ -63,6 +63,7 @@ country_event = {
 			 mil = 3
 		}
 		4710 = {
+			cede_province = A00
 			add_core = A00
 		}
 		
@@ -109,12 +110,18 @@ country_event = {
 	title = aza_thegrandson.3.t
 	desc = aza_thegrandson.3.d
 	
+	is_triggered_only = yes
+	
+	trigger = {
+		has_country_modifier = aza_newhope
+	}
+	
 	option = {
 		name = aza_thegrandson.3.a
 		ai_chance = { factor = 100 }
 		
-		release = A02
-		release = A03
+		release_all_subjects = yes
+		
 		4703 = {
 			add_claim = A00
 		}
@@ -130,12 +137,18 @@ country_event = {
 	title = aza_thegrandson.4.t
 	desc = aza_thegrandson.4.d
 	
+	is_triggered_only = yes
+	
+	trigger = {
+		has_country_modifier = aza_newhope
+	}
+	
 	option = {
 		name = aza_thegrandson.4.a
 		ai_chance = { factor = 100 }
 		
-		release = A04
-		release = A03
+		release_all_subjects = yes
+		
 		4710 = {
 			add_claim = A00
 		}
