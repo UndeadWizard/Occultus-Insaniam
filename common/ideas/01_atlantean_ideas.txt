@@ -293,6 +293,7 @@ tauryria_ideas = {
 	
 	tauryria_5 = { #Actual Raids
 		may_perform_slave_raid = yes
+		may_perform_slave_raid_on_same_religion = yes
 	}
 	
 	tauryria_6 = { #Obligatory military idea
@@ -481,42 +482,47 @@ zephyria_ideas = { #Hello there! :tanoshii:
 
 antillian_state_ideas = {
 	start = {
-		prestige = 1
-		prestige = 1
+		land_morale = 0.10
+		global_missionary_strength = 0.03
 	}
 	bonus = {
-		prestige = 1
+		infantry_power = 0.15
 	}
 	trigger = {
-		always = no
+		tag = ANX
 	}
 	free = yes
 	
-	antillian_state_1 = {
-		prestige = 1
+	antillian_state_1 = { #Mandate from God
+		missionaries = 1
+		legitimacy = 1
+		republican_tradition = 0.5
+		devotion = 1
 	}
 	
-	antillian_state_2 = {
-		prestige = 1
+	antillian_state_2 = { #The New Visigothic State
+		army_tradition = 1
 	}
 	
-	antillian_state_3 = {
-		prestige = 1
+	antillian_state_2 = { #The Christian Island
+		tolerance_own = 2
+		tolerance_heretic = 1
 	}
 	
-	antillian_state_4 = {
-		prestige = 1
+	antillian_state_3 = { #Clerical Diplomacy
+		diplomatic_reputation = 1
 	}
 	
-	antillian_state_5 = {
-		prestige = 1
+	antillian_state_4 = { #Outwards Projection
+		heavy_ship_power = 0.10
+		may_explore = yes
 	}
 	
-	antillian_state_6 = {
-		prestige = 1
+	antillian_state_6 = { #Clerical Bureaucracy
+		core_creation = -0.10
 	}
 	
-	antillian_state_7 = {
-		prestige = 1
+	antillian_state_7 = { #Atlantic Stopping Point
+		global_trade_power = 0.20
 	}
 }
