@@ -18,6 +18,8 @@ country_event = {
 	option = {	
 		name = aza_thegrandson.1.a
 		ai_chance = { factor = 100 }
-		kill_king = yes
+		kill_ruler= yes
+		remove_country_modifier = aza_uncertainfuture"
+		add_stability = 3
 	}
 }
