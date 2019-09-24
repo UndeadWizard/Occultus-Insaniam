@@ -1,5 +1,7 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
+government = republic
+add_government_reform = antillian_republic
+government_rank = 1
+mercantilism = 25
 technology_group = atlantean
 religion = heptarchic
 primary_culture = antillian
@@ -7,7 +9,8 @@ capital = 4777
 
 1444.1.1 = {
 	monarch = {
-		name = "Ariaric II"
+		name = "Ariaric"
+		dynasty = "Stult"
 		birth_date = 1395.8.4
 		adm = 1
 		dip = 4

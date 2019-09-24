@@ -3,7 +3,7 @@ add_government_reform = atlantean_warring_state
 technology_group = atlantean
 religion = atlanic
 primary_culture = high_atlantean
-capital = 4710
+capital = 4702
 
 #Trident Shattered
 
@@ -14,6 +14,6 @@ capital = 4710
 		adm = 3
 		dip = 4
 		mil = 3
-		birth_date = 1397.10.10
+		birth_date = 1390.8.10
 	}
 }

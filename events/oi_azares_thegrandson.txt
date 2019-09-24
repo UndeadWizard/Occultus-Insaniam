@@ -15,11 +15,132 @@ country_event = {
 	trigger = {
 		has_country_modifier = aza_newhope
 	}
+	
 	option = {	
 		name = aza_thegrandson.1.a
 		ai_chance = { factor = 100 }
+		add_stability = 3
+		4702 = {
+			cede_province = A00
+			add_core = A00
+		}
 		kill_ruler= yes
 		remove_country_modifier = aza_uncertainfuture"
-		add_stability = 3
+		hidden_effect = {
+			country_event = {
+				id = aza_thegrandson.2
+				days = 7
+			}
+		}
+	}
+}
+
+# A Wife
+country_event = {
+	id = aza_thegrandson.2
+	title = aza_thegrandson.2.t
+	desc = aza_thegrandson.2.d
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		has_country_modifier = aza_newhope
+	}
+	
+	option = { #Wife from Ionmym
+		name = aza_thegrandson.2.a
+		ai_chance = { factor = 50 }
+		define_consort = {
+			 name = "Adelpha"
+			 dynasty = "Ulfila"
+			 age = 20
+			 female = yes
+			 country_of_origin = A04
+			 culture = high_atlantean
+			 religion = atlanic
+			 adm = 2
+			 dip = 4
+			 mil = 3
+		}
+		4710 = {
+			add_core = A00
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = aza_thegrandson.3 #Diaprepes Secedes
+				days = 7
+			}
+		}
+	}
+	option = { #Wife from Diaprepes
+		name = aza_thegrandson.2.b
+		ai_chance = { factor = 50 }
+		
+		define_consort = {
+			 name = "Eudocia"
+			 dynasty = "Attaleiates"
+			 age = 22
+			 female = yes
+			 country_of_origin = A02
+			 culture = high_atlantean
+			 religion = atlanic
+			 adm = 5
+			 dip = 2
+			 mil = 3
+		}
+		4703 = {
+			cede_province = A00
+			add_core = A00
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = aza_thegrandson.4 #Ionmym Secedes
+				days = 7
+			}
+		}
+	}
+}
+
+# Diaprepes Secedes
+country_event = { 
+	id = aza_thegrandson.3
+	title = aza_thegrandson.3.t
+	desc = aza_thegrandson.3.d
+	
+	option = {
+		name = aza_thegrandson.3.a
+		ai_chance = { factor = 100 }
+		
+		release = A02
+		release = A03
+		4703 = {
+			add_claim = A00
+		}
+		4705 = {
+			add_claim = A00
+		}
+	}
+}
+
+# Ionmym Secedes
+country_event = { 
+	id = aza_thegrandson.4
+	title = aza_thegrandson.4.t
+	desc = aza_thegrandson.4.d
+	
+	option = {
+		name = aza_thegrandson.4.a
+		ai_chance = { factor = 100 }
+		
+		release = A04
+		release = A03
+		4710 = {
+			add_claim = A00
+		}
+		4705 = {
+			add_claim = A00
+		}
 	}
 }
