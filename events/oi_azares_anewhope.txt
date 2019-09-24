@@ -103,7 +103,7 @@ country_event = {
 	id = aza_anewhope.4
 	title = aza_anewhope.4.t
 	desc = aza_anewhope.4.d
-	picture = GOOD_WITH_MONARCH_eventPicture
+	picture = KING_SICK_IN_BED_eventPicture
 
 	is_triggered_only = yes
 		
@@ -114,9 +114,20 @@ country_event = {
 	option = {	
 		name = aza_anewhope.4.a
 		ai_chance = { factor = 100 }
+		
 		add_country_modifier = {
-			name = "aza_anewhope"
+			name = "aza_newhope"
 			duration = -1
+		}
+		define_heir = {
+			male = yes
+			dynasty = ROOT
+			name = "Vlassis"
+			birth_date = 1420.6.3
+			claim = 100
+			dip = 3
+			adm = 5
+			mil = 6
 		}
 		#Next event
 		hidden_effect = {
@@ -125,5 +136,6 @@ country_event = {
 				days = 7
 			}
 		}
+		
 	}
 }

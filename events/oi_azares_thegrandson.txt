@@ -11,9 +11,13 @@ country_event = {
 	desc = aza_thegrandson.1.d
 	
 	is_triggered_only = yes
-	fire_only_once = yes
 	
 	trigger = {
-		has_country_modifier = aza_anewhope
+		has_country_modifier = aza_newhope
+	}
+	option = {	
+		name = aza_thegrandson.1.a
+		ai_chance = { factor = 100 }
+		kill_king = yes
 	}
 }
