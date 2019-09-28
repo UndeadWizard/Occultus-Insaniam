@@ -4,7 +4,7 @@ namespace = aza_thecouncil
 ###### ATLANTEAN THE COUNCIL CHAIN
 
 
-# The Grandson
+# Death of a Imperator
 country_event = {
 	id = aza_thecouncil.1
 	title = aza_thecouncil.1.t

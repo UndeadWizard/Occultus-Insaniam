@@ -70,7 +70,7 @@ country_event = {
 		hidden_effect = {
 			country_event = {
 				id = aza_thegrandson.3 #Diaprepes Secedes
-				days = 7
+				days = 15
 			}
 		}
 	}
@@ -98,7 +98,7 @@ country_event = {
 		hidden_effect = {
 			country_event = {
 				id = aza_thegrandson.4 #Ionmym Secedes
-				days = 7
+				days = 15
 			}
 		}
 	}
