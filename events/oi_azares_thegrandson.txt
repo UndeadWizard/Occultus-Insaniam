@@ -9,7 +9,8 @@ country_event = {
 	id = aza_thegrandson.1
 	title = aza_thegrandson.1.t
 	desc = aza_thegrandson.1.d
-	
+	picture = DEATH_OF_HEIR_eventPicture
+
 	is_triggered_only = yes
 	
 	trigger = {
@@ -40,7 +41,8 @@ country_event = {
 	id = aza_thegrandson.2
 	title = aza_thegrandson.2.t
 	desc = aza_thegrandson.2.d
-	
+	picture = ROYAL_COUPLE_FUTURE_eventPicture
+
 	is_triggered_only = yes
 	
 	trigger = {
@@ -109,6 +111,7 @@ country_event = {
 	id = aza_thegrandson.3
 	title = aza_thegrandson.3.t
 	desc = aza_thegrandson.3.d
+	picture = BORDER_TENSION_eventPicture
 	
 	is_triggered_only = yes
 	
@@ -136,6 +139,7 @@ country_event = {
 	id = aza_thegrandson.4
 	title = aza_thegrandson.4.t
 	desc = aza_thegrandson.4.d
+	picture = BORDER_TENSION_eventPicture
 	
 	is_triggered_only = yes
 	

@@ -54,6 +54,7 @@ A47 = "countries/Elasippus.txt"     # Atlanic, Nautean, Monarchy
 A48 = "countries/Askloy.txt"		# Atlanic, Nautean, Monarchy
 A49 = "countries/Tauryria.txt"		# Atlanic, Nautean, Monarchy
 A50 = "countries/Anthropofagoi.txt" # Atlanic, Anthrean, Monarchy
+A51 = "countries/Atlani.txt"		# Atlanic, High Atlantean, Republic
 
 #Thule
 THL = "countries/Thule.txt" 		# Catholic, Irish, Monarchy

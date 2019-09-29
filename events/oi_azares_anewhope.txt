@@ -67,8 +67,8 @@ country_event = {
 		#Next event
 		hidden_effect = {
 			country_event = {
-				id = aza_anewhope.3
-				days = 7
+				id = aza_thecouncil.1
+				days = 12
 			}
 		}
 	}
