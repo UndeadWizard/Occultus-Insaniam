@@ -9,3 +9,8 @@ aza_newhope = {
 aza_brokendreams = {
 	global_unrest = 3
 }
+
+freedom_of_religion_decree = {
+	global_unrest = -2
+	global_tax_modifier = 0.05	
+}
