@@ -1,0 +1,87 @@
+namespace = oi_discovery
+
+# Atlantis
+country_event = {
+	id = oi_discovery.1
+	title = oi_discovery.1.t
+	desc = oi_discovery.1.d
+	picture = NAVAL_MILITARY_eventPicture
+    
+    trigger = {
+        NOT = { technology_group = atlantean }
+        NOT = { has_global_flag = european_discovers_heptarchic }
+        
+        any_known_country = {
+			technology_group = atlantean
+			religion = heptarchic
+        }
+    }
+    
+    mean_time_to_happen = {
+		months = 1
+	}
+    
+    immediate = {
+        hidden_effect = {
+            set_global_flag = european_discovers_heptarchic
+        }
+    }
+    
+	option = {
+		name = oi_discovery.1.a
+		ai_chance = { 
+			factor = 1
+			modifier = {
+				OR = {
+					religion = protestant
+					religion = anglican
+					religion = reformed
+				}
+				factor = 4
+			}
+		}
+		atlantis = {
+			discover_country = ROOT
+		}
+		antillia = {
+			discover_country = ROOT
+		}
+		every_country = { 
+			limit = {
+				religion = heptarchic
+			}
+			add_opinion = {
+				    modifier = antillian_christians
+			}
+		}
+	}
+	
+	option = {
+		name = oi_discovery.1.b
+		ai_chance = { 
+			factor = 2
+			modifier = {
+				OR = {
+					tag = SPA
+					tag = POR
+					tag = CAS
+				}
+				factor = 4
+			}
+		}
+		atlantis = {
+			discover_country = ROOT
+		}
+		antillia = {
+			discover_country = ROOT
+		}
+		every_country = { 
+			limit = {
+				religion = heptarchic
+			}
+			add_opinion = {
+				    modifier = antillian_heretics
+			}
+		}
+	}
+}

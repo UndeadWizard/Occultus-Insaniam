@@ -1,0 +1,9 @@
+antillian_heretics = {
+	opinion = -40
+	months = 300
+}
+
+antillian_christians = {
+	opinion = 25
+	months = 240
+}
