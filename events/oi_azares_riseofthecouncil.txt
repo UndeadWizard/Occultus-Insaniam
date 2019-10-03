@@ -25,6 +25,7 @@ country_event = {
 			name = "aza_brokendreams"
 			duration = 1825
 		}
+		release_all_subjects = yes
 		define_heir = {
 			male = yes
 			age = 42
