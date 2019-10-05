@@ -10,7 +10,7 @@ base_production = 6
 base_manpower = 5
 
 culture = poenici
-religion = atlanic
+religion = heptarchic
 trade_goods = wine
 hre = no
 

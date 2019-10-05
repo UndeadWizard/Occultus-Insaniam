@@ -7,3 +7,8 @@ antillian_christians = {
 	opinion = 25
 	months = 240
 }
+
+victoryofturks = {
+	opinion = -150
+	months = 300
+}

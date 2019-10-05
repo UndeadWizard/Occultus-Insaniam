@@ -46,11 +46,15 @@ country_event = {
 		antillia = {
 			discover_country = ROOT
 		}
+		atlantean_sea_region = {
+			discover_country = ROOT
+		}
 		every_country = { 
 			limit = {
 				religion = heptarchic
 			}
-			add_opinion = {
+			reverse_add_opinion	 = {
+					who = ROOT
 				    modifier = antillian_christians
 			}
 		}
@@ -75,13 +79,121 @@ country_event = {
 		antillia = {
 			discover_country = ROOT
 		}
+		atlantean_sea_region = {
+			discover_country = ROOT
+		}
 		every_country = { 
 			limit = {
 				religion = heptarchic
 			}
-			add_opinion = {
+			reverse_add_opinion	 = {
+					who = ROOT
 				    modifier = antillian_heretics
 			}
 		}
 	}
+}
+
+country_event = {
+	id = oi_discovery.2
+	title = oi_discovery.2.t
+	desc = oi_discovery.2.d
+	picture = NAVAL_MILITARY_eventPicture
+	
+	 trigger = {
+		technology_group = atlantean
+		has_global_flag = european_discovers_heptarchic
+		culture_group = antillia_group
+	 }
+	    
+     mean_time_to_happen = {
+		months = 1
+	 }
+	 
+	 immediate = {
+        hidden_effect = {
+            set_global_flag = european_antillian_religious_exchange
+        }
+     }
+	 
+	 option = {
+		name = oi_discovery.2.a
+		
+		iberia_region = {
+			discover_country = ROOT
+		}
+		france_region = {
+			discover_country = ROOT
+		}
+		british_isles_region = {
+			discover_country = ROOT
+		}
+	 }
+}
+
+ountry_event = {
+	id = oi_discovery.3
+	title = oi_discovery.3.t
+	desc = oi_discovery.3.d
+	picture = NAVAL_MILITARY_eventPicture
+	
+	 trigger = {
+		technology_group = atlantean
+		has_global_flag = european_discovers_heptarchic
+		culture_group = atlantean_group
+		NOT = { culture = anthrean }
+	 }
+	    
+     mean_time_to_happen = {
+		months = 1
+	 }
+	 
+	 immediate = {
+        hidden_effect = {
+            set_global_flag = european_atlantean_contact
+        }
+     }
+	 
+	 option = {
+		name = oi_discovery.3.a
+		ai_chance = { 
+			factor = 0
+		}
+		iberia_region = {
+			discover_country = ROOT
+		}
+		france_region = {
+			discover_country = ROOT
+		}
+		british_isles_region = {
+			discover_country = ROOT
+		}
+	 }
+	 
+	  option = {
+		name = oi_discovery.3.b
+		
+		trigger = {
+			tag = A40 #Trichotos
+		}
+		ai_chance = { 
+			factor = 1
+		}
+		TUR = {
+			who = ROOT
+			reverse_add_opinion = victoryofturks
+		}
+		iberia_region = {
+			discover_country = ROOT
+		}
+		france_region = {
+			discover_country = ROOT
+		}
+		british_isles_region = {
+			discover_country = ROOT
+		}
+		151 = {
+			discover_country = ROOT
+		}
+	 }
 }
