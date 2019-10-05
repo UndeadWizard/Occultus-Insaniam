@@ -105,7 +105,9 @@ country_event = {
 		has_global_flag = european_discovers_heptarchic
 		culture_group = antillia_group
 	 }
-	    
+	 
+	fire_only_once = yes
+	
      mean_time_to_happen = {
 		months = 1
 	 }
@@ -128,10 +130,22 @@ country_event = {
 		british_isles_region = {
 			discover_country = ROOT
 		}
+		north_atlantic_area = {
+			discover_country = ROOT
+		}
+		bay_of_biscay_area = {
+			discover_country = ROOT
+		}
+		celtic_sea_area = {
+			discover_country = ROOT
+		}
+		english_channel_area = {
+			discover_country = ROOT
+		}
 	 }
 }
 
-ountry_event = {
+country_event = {
 	id = oi_discovery.3
 	title = oi_discovery.3.t
 	desc = oi_discovery.3.d
@@ -143,7 +157,9 @@ ountry_event = {
 		culture_group = atlantean_group
 		NOT = { culture = anthrean }
 	 }
-	    
+	
+	fire_only_once = yes
+    
      mean_time_to_happen = {
 		months = 1
 	 }
@@ -168,6 +184,18 @@ ountry_event = {
 		british_isles_region = {
 			discover_country = ROOT
 		}
+		north_atlantic_area = {
+			discover_country = ROOT
+		}
+		bay_of_biscay_area = {
+			discover_country = ROOT
+		}
+		celtic_sea_area = {
+			discover_country = ROOT
+		}
+		english_channel_area = {
+			discover_country = ROOT
+		}
 	 }
 	 
 	  option = {
@@ -190,6 +218,18 @@ ountry_event = {
 			discover_country = ROOT
 		}
 		british_isles_region = {
+			discover_country = ROOT
+		}
+		north_atlantic_area = {
+			discover_country = ROOT
+		}
+		bay_of_biscay_area = {
+			discover_country = ROOT
+		}
+		celtic_sea_area = {
+			discover_country = ROOT
+		}
+		english_channel_area = {
 			discover_country = ROOT
 		}
 		151 = {

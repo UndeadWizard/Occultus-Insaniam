@@ -690,7 +690,7 @@ hudson_bay_sea_area = {
 }
 
 denmark_strait_area = {
-	1477 1480 1481 1482 1610 1924
+	1477 1480 1481 1482 1497 1498 1610 1924 
 }
 
 gulf_of_guinea_sea_area = {
@@ -762,7 +762,7 @@ sargasso_sea_area = {
 }
 
 north_atlantic_area = {
-	1283 1286 1287 1290 1291 1292 1478 1479 1497 1498 1563 1566 
+	1283 1286 1287 1290 1291 1292 1478 1479 1563 1566 
 }
 
 bahama_channel_area = {
