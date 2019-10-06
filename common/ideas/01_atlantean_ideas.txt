@@ -613,3 +613,49 @@ atla_republic_ideas = {
 		prestige = 1
 	}
 }
+
+avalon_ideas = {
+    start = {
+        army_tradition = 0.5
+        diplomatic_reputation = 1
+    }
+    bonus = {
+        discipline = 0.05
+    }
+    trigger = {
+        always = no #Unused
+    }
+    free = yes
+    
+    avalon_1 = {
+        land_morale = 0.15
+    }
+    
+    avalon_2 = {
+        production_efficiency = 0.10
+        trade_efficiency = 0.10
+    }
+    
+    avalon_3 = {
+        technology_cost = -0.05
+        tolerance_heretic = 1
+    }
+    
+    avalon_4 = {
+        global_ship_cost = -0.20
+        naval_attrition = -0.20
+    }
+    
+    avalon_5 = {
+        garrison_size = 0.25
+    }
+    
+    avalon_6 = {
+        culture_conversion_cost = -0.25
+        core_creation = -0.10
+    }
+    
+    avalon_7 = {
+        diplomatic_upkeep = 1
+    }
+}
