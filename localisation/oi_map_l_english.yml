@@ -8,9 +8,9 @@
  
  # Regions
  atlantean_crownlands: "Crownlands"
- atlantean_southlands: "Ayadon"
- atlantean_midlands: "Midlands"
- atlantean_eastlands: "Eastlands"
+ atlantean_southlands: "Western Trident's Gate"
+ atlantean_midlands: "Charsumia"
+ atlantean_eastlands: "Eastern Trident's Gate"
  atlantean_westisles: "Nautean Islands"
  
  atlantean_sea_region: "Atlantean Sea"

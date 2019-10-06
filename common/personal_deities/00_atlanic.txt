@@ -18,8 +18,8 @@ deity_mero = {
 }
 
 deity_khronos = {
-	supply_limit_modifier = 0.15
-	local_friendly_movement_speed = 0.10
+	supply_limit_modifier = 0.25
+	movement_speed = 0.10
 	
 	allow = {
 		AND = {
@@ -35,8 +35,8 @@ deity_khronos = {
 }
 
 deity_jupiter = {
-	prestige_decay = -0.01
-	war_exhaustion_cost = -0.1
+	prestige = 1
+	war_exhaustion = -0.025
 	
 	allow = { religion = atlanic }
 	sprite = 14
@@ -55,8 +55,8 @@ deity_jupiter = {
 }
 
 deity_yamm= {
-	naval_maintenance_modifier = -0.1
-	trade_range_modifier = 0.15
+	naval_morale = 0.10
+	navy_tradition = 0.50
 	
 	allow = { religion = atlanic }
 	sprite = 13
@@ -75,8 +75,8 @@ deity_yamm= {
 }
 
 deity_haides = {
-	ae_impact = -0.05
-	global_unrest = -1
+	ae_impact = -0.10
+	shock_damage = 0.1
 	
 	allow = { religion = atlanic }
 	sprite = 15
@@ -95,8 +95,8 @@ deity_haides = {
 }
 
 deity_juno = {
-	culture_conversion_cost = -0.1
-	diplomatic_annexation_cost = -0.10
+	global_unrest = -1
+	diplomatic_annexation_cost = -0.15
 	
 	allow = { religion = atlanic }
 	sprite = 16
@@ -115,7 +115,7 @@ deity_juno = {
 }
 
 deity_minrva = {
-	land_morale = 0.1
+	land_morale = 0.10
 	mil_tech_cost_modifier = -0.05
 	
 	allow = { religion = atlanic }
@@ -141,7 +141,7 @@ deity_minrva = {
 
 deity_astarte = {
 	diplomatic_upkeep = 1
-	improve_relation_modifier = 0.30
+	improve_relation_modifier = 0.25
 	
 	allow = { religion = atlanic }
 	sprite = 18

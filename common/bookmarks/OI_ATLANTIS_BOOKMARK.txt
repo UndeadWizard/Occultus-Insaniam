@@ -13,6 +13,6 @@ bookmark =
 	country = A38
 	country = A40
 	country = A44
-	country = A47
+	country = A49
 	country = AN0
 }
