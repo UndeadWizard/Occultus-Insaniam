@@ -536,7 +536,7 @@ atla_kingdom_ideas = {
 		navy_tradition = 1
 	}
 	trigger = {
-		tag = A00 #Needs more specification
+		tag = A00
 	}
 	free = yes
 	
@@ -580,8 +580,7 @@ atla_republic_ideas = {
 		navy_tradition = 1
 	}
 	trigger = {
-		#tag = A00 #Needs more specification
-		always = no
+		tag = A50
 	}
 	free = yes
 	
