@@ -659,3 +659,46 @@ avalon_ideas = {
         diplomatic_upkeep = 1
     }
 }
+
+imperial_atlantean_ideas = {
+	start = {
+		infantry_power = 0.15
+		naval_morale = 0.20
+	}
+	bonus = {
+		administrative_efficiency = 0.10
+	}
+	trigger = {
+		tag = ATL
+	}
+	free = yes
+	
+	imperial_atlantean_1 = { #Rebuild our Legacy
+		development_cost = -0.10
+		build_cost = -0.10
+	}
+	
+	imperial_atlantean_2 = { #Mare Tridentum Clausum
+		trade_efficiency = 0.15
+	}
+	
+	imperial_atlantean_3 = { #Versatile Army Corps
+		discipline = 0.05
+	}
+	
+	imperial_atlantean_4 = { #Atlantic Endeavors
+		leader_naval_manuever = 2
+	}
+	
+	imperial_atlantean_5 = { #Center of the World's Trade
+		technology_cost = -0.10
+	}
+	
+	imperial_atlantean_6 = { #Mythical Empire
+		diplomatic_reputation = 2
+	}
+	
+	imperial_atlantean_7 = { #Beyond the Trident
+		colonists = 1
+	}
+}
