@@ -526,3 +526,91 @@ antillian_state_ideas = {
 		global_trade_power = 0.20
 	}
 }
+
+atla_kingdom_ideas = {
+	start = {
+		infantry_power = 0.10
+		naval_morale = 0.15
+	}
+	bonus = {
+		navy_tradition = 1
+	}
+	trigger = {
+		tag = A00 #Needs more specification
+	}
+	free = yes
+	
+	atla_kingdom_1 = { #One True Emperor
+		legitimacy = 1
+		stability_cost_modifier = -0.10
+	}
+	
+	atla_kingdom_2 = { #Reintegrate the provinces
+		core_creation = -0.10
+		global_autonomy = -0.025
+	}
+	
+	atla_kingdom_3 = { #Aquila's Loyalty Reforms
+		discipline = 0.05
+	}
+	
+	atla_kingdom_4 = { #Restored Capital
+		build_cost = -0.15
+	}
+	
+	atla_kingdom_5 = { #Trident Navy
+		ship_durability = 0.05
+	}
+	
+	atla_kingdom_6 = { #Atlantean Golden Age (Monarchy)
+		adm_tech_cost_modifier = -0.10
+	}
+	
+	atla_kingdom_7 = { #Authority Restored
+		prestige = 1
+	}
+}
+
+atla_republic_ideas = {
+	start = {
+		infantry_power = 0.10
+		naval_morale = 0.15
+	}
+	bonus = {
+		navy_tradition = 1
+	}
+	trigger = {
+		#tag = A00 #Needs more specification
+		always = no
+	}
+	free = yes
+	
+	atla_republic_1 = { #The Council Triumphs
+		republican_tradition = 0.5
+	}
+	
+	atla_republic_2 = { #Reintegrate the provinces
+		core_creation = -0.10
+		global_autonomy = -0.025
+	}
+	
+	atla_republic_3 = { #Consular Military Reforms
+		shock_damage_received = -0.10
+	}
+	
+	atla_republic_4 = { #Restored Capital
+		build_cost = -0.15
+	}
+	
+	atla_republic_5 = { #Trident Navy
+		ship_durability = 0.05
+	}
+	
+	atla_republic_6 = { #Atlantean Golden Age (Republic)
+		dip_tech_cost_modifier = -0.10
+	}
+	
+	atla_republic_7 = { #Authority Restored
+		prestige = 1
+	}
+}
