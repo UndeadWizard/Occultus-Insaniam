@@ -25,5 +25,6 @@ capital = 481
 		mil = 3
 		claim = 50
 		birth_date = 1438.1.12
+		death_date = 1481.2.25
 	}
 }
