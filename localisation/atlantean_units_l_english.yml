@@ -43,26 +43,26 @@
  
  ### CAVALRY ###
  
- atla_cavalry_1a:0 "" #Atlantis too poor, standing army often assigned to cavalry
+ atla_cavalry_1a:0 "Atlantean Horsemen" #Atlantis too poor, standing army often assigned to cavalry
  atla_cavalry_1aDESCR:0 ""
  
- atla_cavalry_1b:0 "" #Antillian cavalry; not enough good horses to go by
+ atla_cavalry_1b:0 "Antillian Horsemen" #Antillian cavalry; not enough good horses to go by
  atla_cavalry_1bDESCR:0 ""
  
- atla_cavalry_6:0 "" #Atlantean Cataphracts!
+ atla_cavalry_6:0 "Atlantean Cataphracts" #Atlantean Cataphracts!
  atla_cavalry_6DESCR: ""
  
- atla_cavalry_10:0 "" #Not much to say here. Tougher armor?
+ atla_cavalry_10:0 "Atlantean Immortals" #Not much to say here. Tougher armor?
  atla_cavalry_10DESCR:0 ""
  
- atla_cavalry_14:0 "" #Early hussars dominate Europe, middle weight armors to counter artillery
+ atla_cavalry_14:0 "Atlantic Musketeer Horsemen" #Early hussars dominate Europe, middle weight armors to counter artillery
  atla_cavalry_14DESCR:0 ""
  
- atla_cavalry_18:0 "" #Second dawn of heavy cavalry as an option for long, in-depth battles
+ atla_cavalry_18:0 "Island Hussars" #Second dawn of heavy cavalry as an option for long, in-depth battles
  atla_cavalry_18DESCR:0 ""
  
- atla_cavalry_22:0 "" #Age of the Winged Hussars, superheavy horsemen.
+ atla_cavalry_22:0 "Western Lancers" #Age of the Winged Hussars, superheavy horsemen.
  atla_cavalry_22DESCR:0 ""
  
- atla_cavalry_28:0 "" #Dragoons, the last hurrah of cavalry in world military history
+ atla_cavalry_28:0 "Atlantean Dragoons" #Dragoons, the last hurrah of cavalry in world military history
  atla_cavalry_28DESCR:0 ""
