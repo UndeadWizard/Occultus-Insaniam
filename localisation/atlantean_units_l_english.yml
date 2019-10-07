@@ -2,44 +2,44 @@
 
 ### INFANTRY ###
 
- atla_infantry_1a:0 "" #Aggressive Atlantean warlord unit
- atla_infantry_1aDESCR:0 ""
+ atla_infantry_1a:0 "Atlantean Draftsmen" #Aggressive Atlantean warlord unit
+ atla_infantry_1aDESCR:0 "Ever since the collapse of central authority, the Atlantean militaries have been drafted men from the provinces accordingly to the needs of their respective warlords and de facto rulers."
  
- atla_infantry_1b:0 "" #Defensive Antillian unit
- atla_infantry_1bDESCR:0 ""
+ atla_infantry_1b:0 "Antillian Guardsmen" #Defensive Antillian unit
+ atla_infantry_1bDESCR:0 "Antillia's states have constantly kept each other on their edges by using lightly-trained infantrymen taught to hold their ground and fight defensively, sometimes tasked to garrison small villages or guard churches to gain experience. There is very little in-depth battle knowledge for them, however."
 
- atla_infantry_5a:0 "" #Standing army for Atlantis
- atla_infantry_5DESCR:0 ""
+ atla_infantry_5a:0 "Atlantean Legionaries" #Standing army for Atlantis
+ atla_infantry_5DESCR:0 "As Atlantis heads towards more regional entities and centralization, armies of the surviving warlords slowly reform to adopt the old Imperial tactics learned from the Romans. First and foremost comes a strong, standing army core."
  
- atla_infantry_5b:0 "" #Standing army for Antillia
- atla_infantry_5DESCR:0 ""
+ atla_infantry_5b:0 "Antillian Palatii" #Standing army for Antillia
+ atla_infantry_5DESCR:0 "Antillian church towns have long had a program to train standing men to garrison important treasures. It's imperative that we modernize our force by making this training be part of the standard soldier's drill, and not the exception."
  
- atla_infantry_7:0 "" #Standard Pikes
- atla_infantry_7DESCR:0 ""
+ atla_infantry_7:0 "Azarean Pikemen" #Standardized Pikes, Vlassian or Consular reforms
+ atla_infantry_7DESCR:0 "The reforms to the core of the Azarean army in their attempt to rise from the ashes left an important mark in Atlantis' military history, most notably being to standardize the size of piercing weapons such as pikes, spears and tridents."
  
- atla_infantry_9:0 "" #Power Spike starts here right before the Westerners take the lead
- atla_infantry_9DESCR:0 ""
+ atla_infantry_9:0 "Trident Pikemen" #Power Spike starts here right before the Westerners take the lead
+ atla_infantry_9DESCR:0 "The adoption of the piercer tridents to fight skirmishers from a lesser range than pike but with much more aggressiveness has done wonders to assist Atlantean men's combat effectiveness."
  
- atla_infantry_12:0 "" #Power Spike showing; Tercios are popular in Spain; crossbows rather than muskets?
- atla_infantry_12DESCR:0 ""
+ atla_infantry_12:0 "Antillian Tercio" #Power Spike showing; Tercios are popular in Spain; crossbows rather than muskets?
+ atla_infantry_12DESCR:0 "The adoption of the Tercio units from Iberia in Antillia revolutionized local warfare. Lacking proper firearms, however, the Antillians resorted to filling their back lines with Atlantean-style crossbows when in a shortage."
 
- atla_infantry_15:0 "" #At this point, Atlantean units are the best in the game
- atla_infantry_15DESCR:0 ""
+ atla_infantry_15:0 "Atlantic Reformed Tercio" #At this point, Atlantean units are the best in the game
+ atla_infantry_15DESCR:0 "Atlantian officers have maximized the efficiency of Tercio formations by adopting more and more firearms rather than crossbows, as well as replacing their tridents with longer pikes once more, thus creating a fierce ranged unit in combat."
  
- atla_infantry_19:0 "" #Based on Swedish infantry in the 30YW; flintlocks. Power evens out with Europe here
- atla_infantry_19DESCR:0 ""
+ atla_infantry_19:0 "Atlantic Flintlock" #Based on Swedish infantry in the 30YW; flintlocks. Power evens out with Europe here
+ atla_infantry_19DESCR:0 "The European invention of the flintlock has revolutionized warfare across the continent, providing a more reliable gunpowder weapon that is also much better to aim with. In Atlantis and Antillia, it meant the end of the traditional crossbows."
 
- atla_infantry_23:0 "" #Caroleans and Petrines, high inf-art coordination, "see the white in their eyes" tactics
- atla_infantry_23DESCR:0 ""
+ atla_infantry_23:0 "Imperial Infantry" #Caroleans and Petrines, high inf-art coordination, "see the white in their eyes" tactics
+ atla_infantry_23DESCR:0 "Infantrymen trained to peak discipline, told not to be allowed to fire from a distance, but to approach until they can see the enemy's eyes clearly, guaranteeing a surefire shot and a swift victory in battle."
  
- atla_infantry_26:0 "" #Redcoats equivalent. Silken bulletproof vests.
- atla_infantry_26DESCR:0 ""
+ atla_infantry_26:0 "Bluecoat Infantry" #Redcoats equivalent. Silken bulletproof vests.
+ atla_infantry_26DESCR:0 "It's been noticed that silk's properties absorb shock to some extent, and bullets can be slowed considerably with it. Using silken vests provides as much protection to gunfire as metallic armors of the past did, while being much lighter."
  
- atla_infantry_30:0 "" #Napoleonic hollow square infantries to maximize infantry defense and aggressive shooting
- atla_infantry_30DESCR:0 ""
+ atla_infantry_30:0 "Atlantic Hollow Square" #Napoleonic hollow square infantries to maximize infantry defense and aggressive shooting
+ atla_infantry_30DESCR:0 "Hollow square formations for infantry are growing worldwide due to their efficacy at minimizing infantry casualties without hurting said infantry's capacity to deliver pain to the enemy too badly."
  
- atla_infantry_32:0 "" #Invention of the Chassepot Carbines; Atlantis stronk! Probably removable for balance.
- atla_infantry_32DESCR:0 ""
+ atla_infantry_32:0 "Atlantean Karampina Infantry" #Invention of the Chassepot Carbines; Atlantis stronk! Probably removable for balance.
+ atla_infantry_32DESCR:0 "The invention of the carbine rifles by an Atlantean scientiest changed warfare as much as the flintlock once did. These guns are a lot more precise and hurt much more; the increased range and lethality being tremendously helpful in combat. They're also much more easy to use than the old muskets."
  
  ### CAVALRY ###
  
