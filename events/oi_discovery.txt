@@ -10,7 +10,8 @@ country_event = {
     trigger = {
         NOT = { technology_group = atlantean }
         NOT = { has_global_flag = european_discovers_heptarchic }
-        
+        NOT = { has_country_flag = founda_weird_church}
+		
         any_known_country = {
 			technology_group = atlantean
 			religion = heptarchic
@@ -24,6 +25,7 @@ country_event = {
     immediate = {
         hidden_effect = {
             set_global_flag = european_discovers_heptarchic
+			set_country_flag = founda_weird_church
         }
     }
     
@@ -104,9 +106,9 @@ country_event = {
 		technology_group = atlantean
 		has_global_flag = european_discovers_heptarchic
 		culture_group = antillia_group
+		
+		NOT = { has_country_flag = met_the_euros}
 	 }
-	 
-	fire_only_once = yes
 	
      mean_time_to_happen = {
 		months = 1
@@ -115,6 +117,7 @@ country_event = {
 	 immediate = {
         hidden_effect = {
             set_global_flag = european_antillian_religious_exchange
+			set_country_flag = met_the_euros
         }
      }
 	 
@@ -156,9 +159,8 @@ country_event = {
 		has_global_flag = european_discovers_heptarchic
 		culture_group = atlantean_group
 		NOT = { culture = anthrean }
+		NOT = { has_country_flag = met_the_euros}
 	 }
-	
-	fire_only_once = yes
     
      mean_time_to_happen = {
 		months = 1
@@ -167,6 +169,7 @@ country_event = {
 	 immediate = {
         hidden_effect = {
             set_global_flag = european_atlantean_contact
+			set_country_flag = met_the_euros
         }
      }
 	 
