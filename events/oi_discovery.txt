@@ -9,7 +9,6 @@ country_event = {
     
     trigger = {
         NOT = { technology_group = atlantean }
-        NOT = { has_global_flag = european_discovers_heptarchic }
         NOT = { has_country_flag = founda_weird_church}
 		
         any_known_country = {
