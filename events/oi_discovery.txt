@@ -209,9 +209,14 @@ country_event = {
 		ai_chance = { 
 			factor = 1
 		}
-		TUR = {
-			who = ROOT
-			reverse_add_opinion = victoryofturks
+		every_country = { 
+			limit = {
+				tag = TUR
+			}
+			reverse_add_opinion	 = {
+					who = ROOT
+				    modifier = victoryofturks
+			}
 		}
 		iberia_region = {
 			discover_country = ROOT
