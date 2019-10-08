@@ -16,23 +16,23 @@ historical_idea_groups = {
 }
 
 historical_units = {
-	atlantean_infantry_1_a
-    atlantean_infantry_5_a
-    atlantean_infantry_9_a
-    atlantean_infantry_12_a
-    atlantean_infantry_15_a
-    atlantean_infantry_19_a
-    atlantean_infantry_23_a
-    atlantean_infantry_26_a
-    atlantean_infantry_28_a
-    atlantean_infantry_30_a
-    atlantean_cavalry_1_a
-    atlantean_cavalry_10_a
-    atlantean_cavalry_14_a
-    atlantean_cavalry_18_a
-    atlantean_cavalry_23_a
-    atlantean_cavalry_26_a
-    atlantean_cavalry_28_a
+	atla_infantry_1a
+    atla_infantry_5a
+    atla_infantry_9
+    atla_infantry_12
+    atla_infantry_15
+    atla_infantry_19
+    atla_infantry_23
+    atla_infantry_26
+    atla_infantry_30
+    atla_infantry_32
+    atla_cavalry_1a
+    atla_cavalry_10
+    atla_cavalry_14
+    atla_cavalry_18
+    atla_cavalry_22
+    atla_cavalry_28
+    
 }
 
 monarch_names = {
