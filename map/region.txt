@@ -227,7 +227,6 @@ eastern_lemurian_ocean = {
 mu_region = {
 	areas = {
 		mu_western_islands
-		mu_west_mainland
 		mu_south
 		mu_gulf_north
 		mu_gulf_south
@@ -237,6 +236,22 @@ mu_region = {
 	}
 }
 
+mu_west_mainland = {
+	areas = {
+		leapea_area
+		lonmu_area
+		kanovili_area
+		havema_area
+		pavao_area
+		aletapu_area
+		patia_area
+		mataapeka_area
+		kitotala_area
+		fakatoni_area
+		tufutufu_area
+		puputua_area
+	}
+}
 rlyeh_region = {
 	areas = {
 		rlyeh

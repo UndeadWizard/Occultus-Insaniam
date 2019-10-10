@@ -21,6 +21,7 @@ lemurian_superregion = {
 
 mu_superregion = {
 	mu_region
+	mu_west_mainland
 }
 
 india_superregion = {
