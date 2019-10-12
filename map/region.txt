@@ -227,9 +227,6 @@ eastern_lemurian_ocean = {
 mu_region = {
 	areas = {
 		mu_western_islands
-		mu_central
-		mu_northeast
-		mu_southeast
 	}
 }
 
@@ -281,11 +278,13 @@ mu_gulf = {
 }
 
 mu_gulf_south = {
-	drevutoka_area
-	opukoura_area
-	cheltigo_area
-	patalaeulu_area
-	nuomanu_area
+	areas = {
+		drevutoka_area
+		opukoura_area
+		cheltigo_area
+		patalaeulu_area
+		nuomanu_area
+	}
 }
 
 mu_central = {
@@ -297,6 +296,46 @@ mu_central = {
 		qizihua_area
 		uasemei_area
 		sutong_area
+	}
+}
+
+mu_northeast = {
+	areas = {
+		amatogu_area
+		muoona_area
+		tlinake_area
+		liranara_area
+		amaweva_area
+		hisavana_area
+		okuta_area
+		uewite_area
+		tatou_area
+	}
+}
+
+mu_naacal = {
+	areas = {
+		rahiona_area
+		okookoata_area
+		weowil_area
+		segazoc_area
+		yolokiu_area
+		vakase_area
+		tawine_area
+		hotakia_area
+		yolpimei_area
+		aummau_area
+		nuiganam_area
+	}
+}
+
+mu_southeast = {
+	areas = {
+		aseweata_area
+		girdurra_area
+		tirokta_area
+		utao_area
+		pigae_area
 	}
 }
 rlyeh_region = {

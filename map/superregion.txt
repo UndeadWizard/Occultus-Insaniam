@@ -25,6 +25,10 @@ mu_superregion = {
 	mu_south
 	mu_gulf
 	mu_gulf_south
+	mu_central
+	mu_northeast
+	mu_naacal
+	mu_southeast
 }
 
 india_superregion = {
