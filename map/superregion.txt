@@ -24,6 +24,7 @@ mu_superregion = {
 	mu_west_mainland
 	mu_south
 	mu_gulf
+	mu_gulf_south
 }
 
 india_superregion = {

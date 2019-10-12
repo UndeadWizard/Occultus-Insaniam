@@ -227,7 +227,6 @@ eastern_lemurian_ocean = {
 mu_region = {
 	areas = {
 		mu_western_islands
-		mu_gulf_south
 		mu_central
 		mu_northeast
 		mu_southeast
@@ -278,6 +277,26 @@ mu_gulf = {
 		kituri_area
 		havetati_area
 		tafamuka_area
+	}
+}
+
+mu_gulf_south = {
+	drevutoka_area
+	opukoura_area
+	cheltigo_area
+	patalaeulu_area
+	nuomanu_area
+}
+
+mu_central = {
+	areas = {
+		suqihar_area
+		nanhar_area
+		xinmay_area
+		qihai_area
+		qizihua_area
+		uasemei_area
+		sutong_area
 	}
 }
 rlyeh_region = {
