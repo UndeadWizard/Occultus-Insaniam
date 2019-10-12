@@ -227,8 +227,6 @@ eastern_lemurian_ocean = {
 mu_region = {
 	areas = {
 		mu_western_islands
-		mu_south
-		mu_gulf_north
 		mu_gulf_south
 		mu_central
 		mu_northeast
@@ -250,6 +248,36 @@ mu_west_mainland = {
 		fakatoni_area
 		tufutufu_area
 		puputua_area
+	}
+}
+
+mu_south = {
+	areas = {
+		manasia_area
+		hunhi_area
+		poununu_area
+		lalonongi_area
+		vaika_area
+		moeraus_area
+		maputangata_area
+		dabawai_area
+		autotebik_area
+	}
+}
+
+mu_gulf = {
+	areas = {
+		afenpea_area
+		sapagiangi_area
+		aontania_area
+		opumana_area
+		tafalufi_area
+		wanariu_area
+		sautodi_area
+		taelesi_area
+		kituri_area
+		havetati_area
+		tafamuka_area
 	}
 }
 rlyeh_region = {

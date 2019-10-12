@@ -3,7 +3,7 @@ ATL = "countries/Atlantis.txt"
 AYA = "countries/Ayadon.txt"
 
 # Atlantis
-A00 = "countries/Azaes.txt"         # Atlanic, High Atlantean, Monarchy
+A00 = "countries/Azares.txt"        # Atlanic, High Atlantean, Monarchy
 A01 = "countries/Doroncen.txt"		# Atlanic, High Atlantean, Monarchy
 A02 = "countries/Diaprepes.txt"     # Atlanic, High Atlantean, Monarchy
 A03 = "countries/Chrysoses.txt"     # Atlanic, High Atlantean, Monarchy
