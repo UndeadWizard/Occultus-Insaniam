@@ -224,9 +224,13 @@ eastern_lemurian_ocean = {
 ########################################
 # Mu                                   #
 ########################################
-mu_region = {
+mu_western_islands = {
 	areas = {
-		mu_western_islands
+		panhou_area
+		grao_area
+		suyats_area
+		myug_area
+		khulig_area
 	}
 }
 
@@ -341,6 +345,20 @@ mu_southeast = {
 rlyeh_region = {
 	areas = {
 		rlyeh
+	}
+}
+
+mu_north_sea_region = {
+	areas = {
+		hawaii_sea_area
+		maz_sea_area
+	}
+}
+
+mu_east_sea_region = {
+	areas = {
+		east_mu_sea_area
+		naacal_sea_area
 	}
 }
 #-----------------#
@@ -1790,8 +1808,11 @@ south_west_pacific_region = {
 
 south_east_pacific_region = {
 	areas = {
-		south_pacific_area
 		polynesian_triangle_area
+		mueini_gulf_area
+		occult_triangle_area
+		sea_of_dragons_area
+		dawa_sea_area
 	}
 }
 
@@ -1809,6 +1830,7 @@ pacific_south_america_region = {
 		chilean_sea_area
 		sea_of_grau_area
 		gulf_of_panama_area
+		south_pacific_area
 	}
 }
 

@@ -20,7 +20,7 @@ lemurian_superregion = {
 }
 
 mu_superregion = {
-	mu_region
+	mu_western_islands
 	mu_west_mainland
 	mu_south
 	mu_gulf
