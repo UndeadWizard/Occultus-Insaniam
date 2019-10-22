@@ -1,6 +1,7 @@
 # Formables
 ATL = "countries/Atlantis.txt"
 AYA = "countries/Ayadon.txt"
+ANX = "countries/Antillia.txt"
 
 # Atlantis
 A00 = "countries/Azares.txt"        # Atlanic, High Atlantean, Monarchy
@@ -61,7 +62,6 @@ THL = "countries/Thule.txt" 		# Catholic, Irish, Monarchy
 
 #Antillia
 
-ANX = "countries/Antillia.txt" 		# Heptarchic, Antillian, Theocracy
 AN0 = "countries/Ansalli.txt" 		# Heptarchic, Antillian, Theocracy
 AN1 = "countries/Ansodi.txt" 		# Heptarchic, Antillian, Theocracy
 AN2 = "countries/ConBaptist.txt" 	# Heptarchic, Antillian, Theocracy

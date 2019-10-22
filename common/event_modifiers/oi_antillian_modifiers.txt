@@ -1,0 +1,13 @@
+### Modifiers for Antillian Missions
+
+ANX_lowered_maintenance = {
+	land_maintenance_modifier = -0.1	
+}
+
+ANX_defused_tensions = {
+	ae_impact = -0.1
+}
+
+ANX_morale_boost = {
+	land_morale = 0.1
+}

@@ -1,5 +1,5 @@
 ﻿l_english: 
- #Missions
+ # Atlanis Missions
  ATL_take_the_azores_title: "Conquer the Azores!"
  ATL_take_the_azores_desc: "The Europeans have settled on islands dangerously close to the Atlantean homeland. To secure our sovereignty we must push them back before they land on our shores!"
     
@@ -72,7 +72,18 @@
  prime_atlantean_traders_title: "Prime Atlantean Trade"
  prime_atlantean_traders_desc: "Our growing presence in worldwide markets is a sign of a golden age to come in Atlantis. If we are to secure this gilded era, it's time to expand our trade presence and create our own mare clausum."
  
+ # Antillian Missions
+ ANX_war_chest_title: "War Chest"
+ ANX_war_chest_desc: ""
  
+ ANX_diplomatic_initiative_title: "Diplomatic Initiative"
+ ANX_diplomatic_initiative_desc: ""
+ 
+ ANX_conclude_a_draft_title: "Conclude a Draft"
+ ANX_conclude_a_draft_desc: ""
+ 
+ ANX_preparations_complete_title: "Preparations Complete"
+ ANX_preparations_complete_desc: ""
  #Tooltips
  
  ATL_colombian_colonization:0 "§Y[Root.GetName]§! or their subjects own at least one fully colonized province in the Colonial Colombian colonial region."
