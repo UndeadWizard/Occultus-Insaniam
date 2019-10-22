@@ -1,0 +1,21 @@
+country_decisions = {
+    spreading_atlanic_rituals = {
+		potential = {
+			religion = atlanic
+			NOT = { has_country_modifier = spreading_atlanic_rituals }
+		}
+		allow = {
+			stability = 1
+			ADM = 3
+		}
+		effect = {
+			add_country_modifier = {
+				name = "spreading_atlanic_rituals"
+				duration = -1
+			}
+        }
+		ai_will_do = {
+			factor = 1
+		}	
+	}
+}

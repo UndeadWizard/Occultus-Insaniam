@@ -1,0 +1,13 @@
+atlantean_missions_sea = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			has_reform = atlantean_warring_state
+			tag = ATL
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+}

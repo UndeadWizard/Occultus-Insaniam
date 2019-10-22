@@ -18,3 +18,10 @@ osoa_gemstone_cavern = {
 salt_city = {
 	trade_goods_size = 3
 }
+
+### Modifiers for Atlanic
+
+spreading_atlanic_rituals = {
+	global_missionary_strength = 0.02
+	religion = yes
+}
