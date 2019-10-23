@@ -364,7 +364,7 @@ atlantean_missions_atlantic = {
 						has_discovered = ROOT
 					}
 					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
-						value = 1
+						value = 5
 						colonial_region = colonial_eastern_america
 						is_city = yes
 					}
@@ -582,7 +582,7 @@ atlantean_missions_the_empire = {
 						has_discovered = ROOT
 					}
 					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
-						value = 1
+						value = 5
 						colonial_region = colonial_colombia
 						is_city = yes
 					}

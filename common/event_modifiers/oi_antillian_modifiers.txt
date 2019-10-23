@@ -11,3 +11,25 @@ ANX_defused_tensions = {
 ANX_morale_boost = {
 	land_morale = 0.1
 }
+
+ANX_settler_growth = {
+	global_colonial_growth = 10	
+}
+
+ANX_antillian_glory = {
+	legitimacy = 1
+	devotion = 1
+	republican_tradition = 0.5
+}
+
+ANX_dip_rep = {
+	diplomatic_reputation = 1
+}
+
+ANX_carribean_goods = {
+	trade_goods_size_modifier = 0.1
+}
+
+ANX_reconnected_roots = {
+	global_missionary_strength = .02
+}

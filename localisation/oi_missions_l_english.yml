@@ -84,12 +84,37 @@
  
  ANX_preparations_complete_title: "Preparations Complete"
  ANX_preparations_complete_desc: ""
+ 
+ ANX_new_lands_title: "New Lands"
+ ANX_new_lands_desc: ""
+ 
+ ANX_victors_payoff_title: "Victor's Payoff"
+ ANX_victors_payoff_desc: ""
+ 
+ ANX_rediscover_the_old_title: "Rediscover the Old"
+ ANX_rediscover_the_old_desc: ""
+ 
+ ANX_land_of_true_cross_title: "Land of the True Cross"
+ ANX_land_of_true_cross_desc: ""
+ 
+ ANX_farther_antilles_title: "Farther Antilles"
+ ANX_farther_antilles_desc: ""
+ 
+ ANX_unify_antillia_title: "Unify Antillia"
+ ANX_unify_antillia_desc: ""
+ 
+ ANX_african_security_title: "African Security"
+ ANX_african_security_desc: ""
+ 
+ ANX_our_roots_title: "Our Roots"
+ ANX_our_roots_desc: ""
  #Tooltips
  
  ATL_colombian_colonization:0 "§Y[Root.GetName]§! or their subjects own at least one fully colonized province in the Colonial Colombian colonial region."
  ATL_east_america_colonization:0 "§Y[Root.GetName]§! or their subjects own at least one fully colonized province in the Colonial Eastern America colonial region."
  ATL_all_roads_to_atla:0 "Every owned province in the country will receive the §YAll Roads to Atla§! modifier for 20 years, giving the following effects:\nFriendly Movement Speed: §G+10.0%§!\nMonthly Autonomy Change: §G-0.05§!"
  ATL_quell_dissent_tt:0 "§YTwo estates§! must have §Y70§! or greater loyalty"0
+ ANX_discover_new_lands_tt:0 "There are rumours of lands to the west from fishing boats and sailors that have strayed to far from Antillia, discovering them would certainly be a boon to our people."
  
  #Modifer Desc
  atlantean_pride_modifier: "Pride of Atlanteans"
