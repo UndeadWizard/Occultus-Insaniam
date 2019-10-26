@@ -57,3 +57,7 @@ ANX_pushing_east = {
 ANX_global_trade = {
 	trade_efficiency = .1
 }
+
+ANX_brazil_trade = {
+	global_trade_power = 0.1	
+}

@@ -11,7 +11,7 @@ country_event = { #Revitalizing Atlantium
 	is_triggered_only = yes
 	
     trigger = {
-		has_country_modifier = aza_newhope
+		tag = AZA
 	}
 	
 	option = {	
@@ -28,7 +28,7 @@ country_event = { #Revitalizing Atlantium
 		hidden_effect = {
 			country_event = {
 				id = aza_theemperor.2
-				days = 40
+				days = 120
 			}	
 		}
 	}
@@ -49,7 +49,7 @@ country_event = { #Revitalizing Atlantium
 		hidden_effect = {
 			country_event = {
 				id = aza_theemperor.2
-				days = 40
+				days = 120
 			}	
 		}
 	}
@@ -64,7 +64,7 @@ country_event = { #Atlantean Industry
 	is_triggered_only = yes
 	
     trigger = {
-		has_country_modifier = aza_newhope
+		tag = AZA
 	}
 	
 	option = {	
@@ -79,7 +79,7 @@ country_event = { #Atlantean Industry
 		hidden_effect = {
 			country_event = {
 				id = aza_theemperor.3
-				days = 60
+				days = 160
 			}	
 		}
 	}
@@ -97,7 +97,7 @@ country_event = { #Atlantean Industry
 		hidden_effect = {
 			country_event = {
 				id = aza_theemperor.3
-				days = 60
+				days = 160
 			}	
 		}
 	}
@@ -112,30 +112,34 @@ country_event = { #Atlantean Industry
 	is_triggered_only = yes
 	
     trigger = {
-		has_country_modifier = aza_newhope
+		tag = AZA
 	}
 	
 	option = {	
 		name = aza_theemperor.3.a
-		add_base_manpower = 2
 		add_treasury = -50
-		add_building = fort_15th
+		4704 = {
+			add_base_manpower = 2
+			add_building = fort_15th
+		}
 		hidden_effect = {
 			country_event = {
 				id = aza_theemperor.4
-				days = 80
+				days = 360
 			}	
 		}
 	}
 	option = {
 		name = aza_theemperor.3.b
-		add_base_tax = 1
 		add_treasury = 10
-		add_building = marketplace
+		4704 = {
+			add_base_tax = 1
+			add_building = marketplace
+		}
 		hidden_effect = {
 			country_event = {
 				id = aza_theemperor.4
-				days = 80
+				days = 360
 			}	
 		}
 	}

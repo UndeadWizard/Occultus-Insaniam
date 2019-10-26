@@ -23,28 +23,12 @@ antillian_missions_far_left = {
 			}
 		}
 		effect = {
-			add_trade_modifier = {
-				who = ROOT
-				duration = 9125
-				power = 10
-				key = STRONG_MERCHANTS
+			add_country_modifier = {
+				name = "ANX_brazil_trade"
+				duration = 3650 #10 years
 			}
 		}
 	}
-}
-
-antilliaisformed_missions_far_left = {
-	slot = 1
-	generic = no
-	ai = yes
-	potential = {
-		AND = {
-			culture_group = antillia_group
-			tag = ANX
-		}
-		NOT = { map_setup = map_setup_random }
-	}
-	has_country_shield = yes
 	
 	ANX_fell_the_nahua = {
 		icon = mission_establish_high_seas_navy
@@ -151,19 +135,6 @@ antillian_missions_left = {
 			}
 		}
 	}
-}
-antilliaisformed_missions_left = {
-	slot = 2
-	generic = no
-	ai = yes
-	potential = {
-		AND = {
-			culture_group = antillia_group
-			tag = ANX
-		}
-		NOT = { map_setup = map_setup_random }
-	}
-	has_country_shield = yes
 	
 	ANX_mare_clausum = {
 		icon = mission_market_place_with_asian_traders
@@ -280,21 +251,6 @@ antillian_missions_middle = {
             add_prestige = 10
 		}
 	}
-}
-
-antilliaisformed_missions_middle = {
-	slot = 3
-	generic = no
-	ai = yes
-	potential = {
-		AND = {
-			culture_group = antillia_group
-			tag = ANX
-		}
-		NOT = { map_setup = map_setup_random }
-	}
-	has_country_shield = yes
-	
 	ANX_atlantean_intervention = {
 		icon = mission_build_up_to_force_limit
 		required_missions = { ANX_unify_antillia }
@@ -367,7 +323,8 @@ antilliaisformed_missions_middle = {
 			set_government_rank = 3
 		}
 	}
-}	
+}
+
 antillian_missions_right = {
 	slot = 4
 	generic = no
@@ -437,21 +394,6 @@ antillian_missions_right = {
 			}
 		}
 	}
-}
-
-antilliaisformed_missions_right = {
-	slot = 4
-	generic = no
-	ai = yes
-	potential = {
-		AND = {
-			culture_group = antillia_group
-			tag = ANX
-		}
-		NOT = { map_setup = map_setup_random }
-	}
-	has_country_shield = yes
-	
 	ANX_eastwards_push = {
 		icon = mission_market_place_with_asian_traders
 		required_missions = { ANX_african_security ANX_unify_antillia}
@@ -538,7 +480,6 @@ antilliaisformed_missions_far_right = {
 		has_dlc = "Rights of Man" 
 		AND = {
 			culture_group = antillia_group
-			tag = ANX
 		}
 		NOT = { map_setup = map_setup_random }
 	}
@@ -569,7 +510,6 @@ antilliaisformed_nodlc_missions_far_right = {
 	potential = {
 		AND = {
 			culture_group = antillia_group
-			tag = ANX
 		}
 		NOT = { map_setup = map_setup_random }
 		NOT = { has_dlc = "Rights of Man" }
