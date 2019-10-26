@@ -44,7 +44,6 @@ atlantean_midlands = {
 		voreias_area
 		vescleves_areas
 		meropisa_area
-		avalon_area
 	}
 }
 

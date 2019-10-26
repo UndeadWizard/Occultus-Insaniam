@@ -108,6 +108,27 @@
  
  ANX_our_roots_title: "Our Roots"
  ANX_our_roots_desc: ""
+ 
+ ANX_fell_the_nahua_title: "Fell the Nahua"
+ ANX_fell_the_nahua_desc: ""
+ 
+ ANX_mare_clausum_title: "Mare Clausum"
+ ANX_mare_clausum_desc: ""
+ 
+ ANX_atlantean_intervention_title: "Atlantean Intervention"
+ ANX_atlantean_intervention_desc: ""
+ 
+ ANX_antillian_atlantis_title: "Antillian Atlantis"
+ ANX_antillian_atlantis_desc: ""
+ 
+ ANX_imperii_antillium_title: "Imperii Antillium"
+ ANX_imperii_antillium_desc: ""
+ 
+ ANX_eastwards_push_title: "Eastwards Push"
+ ANX_eastwards_push_desc: ""
+ 
+ ANX_global_power_title: "Global Power"
+ ANX_global_power_desc: ""
  #Tooltips
  
  ATL_colombian_colonization:0 "§Y[Root.GetName]§! or their subjects own at least one fully colonized province in the Colonial Colombian colonial region."

@@ -3,7 +3,7 @@ antillian_missions_far_left = {
 	generic = no
 	ai = yes
 	potential = {
-		OR = {
+		AND = {
 			culture_group = antillia_group
 		}
 		NOT = { map_setup = map_setup_random }
@@ -32,12 +32,47 @@ antillian_missions_far_left = {
 		}
 	}
 }
+
+antilliaisformed_missions_far_left = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = antillia_group
+			tag = ANX
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	ANX_fell_the_nahua = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { ANX_land_of_true_cross ANX_mare_clausum }
+		position = 6
+		
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 5
+					colonial_region = colonial_mexico
+					is_city = yes
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ANX_nahua_gold"
+				duration = -1
+			}
+		}
+	}
+}
+
 antillian_missions_left = {
 	slot = 2
 	generic = no
 	ai = yes
 	potential = {
-		OR = {
+		AND = {
 			culture_group = antillia_group
 		}
 		NOT = { map_setup = map_setup_random }
@@ -117,13 +152,55 @@ antillian_missions_left = {
 		}
 	}
 }
+antilliaisformed_missions_left = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = antillia_group
+			tag = ANX
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	ANX_mare_clausum = {
+		icon = mission_market_place_with_asian_traders
+		required_missions = { ANX_farther_antilles ANX_unify_antillia}
+		position = 5
+		
+		trigger = {
+			AND = {
+				1516 = { # Carribean
+					trade_share = {
+						country = ROOT
+						share = 50
+					}
+				}
+				4783 = { # Carribean
+					trade_share = {
+						country = ROOT
+						share = 50
+					}
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ANX_dominate_traders"
+				duration = 9125 #25 years
+			}
+		}
+	}
+}
 
 antillian_missions_middle = {
 	slot = 3
 	generic = no
 	ai = yes
 	potential = {
-		OR = {
+		AND = {
 			culture_group = antillia_group
 		}
 		NOT = { map_setup = map_setup_random }
@@ -199,18 +276,104 @@ antillian_missions_middle = {
 		}
 		effect = {
 			change_tag = ANX
-			set_government_rank = 3
+			set_government_rank = 2
             add_prestige = 10
 		}
 	}
 }
 
+antilliaisformed_missions_middle = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = antillia_group
+			tag = ANX
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	ANX_atlantean_intervention = {
+		icon = mission_build_up_to_force_limit
+		required_missions = { ANX_unify_antillia }
+		position = 5
+		
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 1
+					superregion = atlantean_superregion
+					is_city = yes
+					is_core = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ANX_intervening_atlantis"
+				duration = 9125 #25 years
+			}
+		}
+	}
+	
+	ANX_antillian_atlantis = {
+		icon = mission_build_up_to_force_limit
+		required_missions = { ANX_atlantean_intervention }
+		position = 6
+		
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 10
+					superregion = atlantean_superregion
+					is_city = yes
+					is_core = ROOT
+			}
+		}
+		effect = {
+			atlantean_southlands = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_claim = ROOT
+			}
+			atlantean_eastlands= {
+				limit = {
+					NOT = { is_permanent_claim = ROOT	}
+					NOT = { is_core = ROOT	}
+				}
+				add_claim = ROOT
+			}
+		}
+	}
+	
+	ANX_imperii_antillium = {
+		icon = mission_build_up_to_force_limit
+		required_missions = { ANX_antillian_atlantis }
+		position = 7
+		
+		trigger = {
+			atlantean_superregion = {
+					limit = {
+						owned_by = ROOT
+					}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ANX_imperial_antillia"
+				duration = -1
+			}
+			set_government_rank = 3
+		}
+	}
+}	
 antillian_missions_right = {
 	slot = 4
 	generic = no
 	ai = yes
 	potential = {
-		OR = {
+		AND = {
 			culture_group = antillia_group
 		}
 		NOT = { map_setup = map_setup_random }
@@ -276,12 +439,64 @@ antillian_missions_right = {
 	}
 }
 
+antilliaisformed_missions_right = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = antillia_group
+			tag = ANX
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	ANX_eastwards_push = {
+		icon = mission_market_place_with_asian_traders
+		required_missions = { ANX_african_security ANX_unify_antillia}
+		position = 6
+		
+		trigger = {
+			OR = {
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 1
+					superregion = india_superregion
+					is_city = yes
+					is_core = ROOT
+				}
+			
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 1
+					superregion = china_superregion
+					is_city = yes
+					is_core = ROOT
+				}
+			
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 1
+					superregion = east_indies_superregion
+					is_city = yes
+					is_core = ROOT
+				}
+			}
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = "ANX_pushing_east"
+				duration = -1 
+			}
+		}
+	}
+}
+
 antillian_missions_far_right = {
 	slot = 5
 	generic = no
 	ai = yes
 	potential = {
-		OR = {
+		AND = {
 			culture_group = antillia_group
 		}
 		NOT = { map_setup = map_setup_random }
@@ -307,6 +522,73 @@ antillian_missions_far_right = {
 			add_country_modifier = {
 				name = "ANX_reconnected_roots"
 				duration = 3650 #10 years
+			}
+		}
+	}
+}
+
+antilliaisformed_missions_far_right = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential_on_load = {
+		has_dlc = "Rights of Man" 
+	}
+	potential = {
+		has_dlc = "Rights of Man" 
+		AND = {
+			culture_group = antillia_group
+			tag = ANX
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	ANX_global_power = {
+		icon = mission_african_soldier
+		required_missions = { ANX_eastwards_push ANX_our_roots }
+		position = 6
+		
+		trigger = {
+			is_great_power = yes
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = "ANX_global_trade"
+				duration = -1 
+			}
+		}
+	}
+}
+
+antilliaisformed_nodlc_missions_far_right = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = antillia_group
+			tag = ANX
+		}
+		NOT = { map_setup = map_setup_random }
+		NOT = { has_dlc = "Rights of Man" }
+	}
+	has_country_shield = yes
+	
+	ANX_global_power = {
+		icon = mission_african_soldier
+		required_missions = { ANX_eastwards_push ANX_our_roots }
+		position = 6
+		
+		trigger = {
+			total_development = 750
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = "ANX_global_trade"
+				duration = -1 
 			}
 		}
 	}

@@ -33,3 +33,27 @@ ANX_carribean_goods = {
 ANX_reconnected_roots = {
 	global_missionary_strength = .02
 }
+
+ANX_nahua_gold = {
+	inflation_reduction = -0.05
+}
+
+ANX_dominate_traders = {
+	trade_efficiency = 0.05
+}
+
+ANX_intervening_atlantis = {
+	land_morale = 0.05
+}
+
+ANX_imperial_antillia = {
+	core_creation = -0.1
+}
+
+ANX_pushing_east = {
+	merchants = 1	
+}
+
+ANX_global_trade = {
+	trade_efficiency = .1
+}
