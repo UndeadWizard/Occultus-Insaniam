@@ -14,3 +14,19 @@ freedom_of_religion_decree = {
 	global_unrest = -2
 	global_tax_modifier = 0.05	
 }
+
+aza_farmer_immigrants = {
+	build_cost = -0.1	
+}
+
+aza_traders_monopolies = {
+	trade_efficiency = 0.05
+}
+
+aza_expanded_silk_district = {
+	trade_goods_size = 3
+}
+
+aza_azaresi_gladiators = {
+	tax_income = 1
+}

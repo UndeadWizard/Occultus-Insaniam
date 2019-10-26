@@ -35,9 +35,13 @@ country_event = {
 			
 			country_event = {
 				id = aza_thebishop.1
-				days = 120
+				days = 150
 			}	
-		
+			
+			country_event = {
+				id = aza_theemperor.1
+				days = 60
+			}	
 		}
 	}
 }
