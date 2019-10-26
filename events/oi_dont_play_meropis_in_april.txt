@@ -18,6 +18,10 @@ country_event = {
     trigger = {
 		tag = A44
 		real_month_of_year = 3
+		
+		NOT ={
+			real_month_of_year = 4
+		}
 	}
 	
 	option = {	
