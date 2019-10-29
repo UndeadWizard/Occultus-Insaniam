@@ -12,3 +12,18 @@ victoryofturks = {
 	opinion = -150
 	months = 300
 }
+
+forgiving_imperator = {
+	opinion = 10
+	months = 180
+}
+
+forgiving_imperator = {
+	opinion = 10
+	months = 180
+}
+
+vengeful_imperator = {
+	opinion = -30
+	months = 180
+}

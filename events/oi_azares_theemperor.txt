@@ -144,3 +144,127 @@ country_event = { #Atlantean Industry
 		}
 	}
 }
+
+country_event = { #A Royal Decree
+	id = aza_theemperor.4
+	title = aza_theemperor.4.t
+	desc = aza_theemperor.4.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	is_triggered_only = yes
+	
+    trigger = {
+		tag = AZA
+	}
+	
+	option = {  #Great Absolution
+		name = aza_theemperor.4.a
+		set_global_flag = magna_amen
+		add_prestige = -10
+		hidden_effect = {
+			country_event = {
+				id = aza_theemperor.5
+				days = 60
+			}	
+		}
+	}
+	
+	option = {  #Great Punishment
+		name = aza_theemperor.4.b
+		set_global_flag = magna_poena 
+		add_prestige = 10
+		hidden_effect = {
+			country_event = {
+				id = aza_theemperor.6
+				days = 60
+			}	
+		}
+	}	
+}
+
+country_event = { #Great Absolution
+	id = aza_theemperor.5
+	title = aza_theemperor.5.t
+	desc = aza_theemperor.5.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	is_triggered_only = yes
+	
+    trigger = {
+		primary_culture = high_atlantean
+		NOT = {
+			tag = A00
+			tag = A02
+			tag = A03
+			tag = A04
+		}
+		has_global_flag = magna_amen
+	}
+	
+	option = {
+		ai_chance = { factor = 5 }
+		A00 = {
+			vassalize = ROOT
+		}
+		add_prestige = -5
+		every_country = { 
+			limit = {
+				primary_culture = high_atlantean
+			}
+			reverse_add_opinion	 = {
+					who = ROOT
+				    modifier = forgiving_imperator
+			}
+		}
+	}
+	
+	option = {
+		ai_chance = { factor = 95 }
+		add_prestige = 10
+		every_country = { 
+			limit = {
+				primary_culture = high_atlantean
+			}
+			reverse_add_opinion	 = {
+					who = ROOT
+				    modifier = forgiving_imperator
+			}
+		}
+	}
+}
+
+country_event = { #Great Punishment
+	id = aza_theemperor.5
+	title = aza_theemperor.5.t
+	desc = aza_theemperor.5.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	is_triggered_only = yes
+	
+    trigger = {
+		primary_culture = high_atlantean
+		NOT = {
+			tag = A00
+			tag = A02
+			tag = A03
+			tag = A04
+		}
+		has_global_flag = magna_poena
+	}
+	
+	option = {
+		every_country = { 
+			limit = {
+				culture_group = atlantean_group
+				NOT = {
+					primary_culture = anthrean
+					primary_culture = high_atlantean
+				}
+			}
+			reverse_add_opinion	 = {
+					who = ROOT
+				    modifier = vengeful_imperator
+			}
+		}
+	}
+}	
