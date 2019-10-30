@@ -69,61 +69,61 @@
  
  # Antillian Missions
  ANX_war_chest_title: "War Chest"
- ANX_war_chest_desc: ""
+ ANX_war_chest_desc: "Antillia is a fairly poor island, yet still we need to pay our armies, else they cease to function. Before we engage on any serious change, we need to accumulate a small fortune."
  
  ANX_diplomatic_initiative_title: "Diplomatic Initiative"
- ANX_diplomatic_initiative_desc: ""
+ ANX_diplomatic_initiative_desc: "Many wars are won before the first arrow is fired, through mighty words rather than swords. Deals with our neighbors can assure we're in a privileged position in the regional political landscape."
  
  ANX_conclude_a_draft_title: "Conclude a Draft"
- ANX_conclude_a_draft_desc: ""
+ ANX_conclude_a_draft_desc: "The threat of our rival states demands that we bear an army greater than theirs by as much as possible. Running a drafting campaign shall fill in our ranks."
  
  ANX_preparations_complete_title: "Preparations Complete"
- ANX_preparations_complete_desc: ""
+ ANX_preparations_complete_desc: "We have put ourselves in an advantageous position to grow our influence within Antillia. The next step is to put our new resources to use against our rivals."
  
  ANX_new_lands_title: "New Lands"
- ANX_new_lands_desc: ""
+ ANX_new_lands_desc: "There are many who think there is more ot see to the West, beyond Antillia. Some of us consider it impossible, but then again, in the days of old, many did not think we'd ever make landfall in the journey that led us to Antillia. Some investigation is due."
  
  ANX_victors_payoff_title: "Victor's Payoff"
- ANX_victors_payoff_desc: ""
+ ANX_victors_payoff_desc: "We have witnessed the fall of one of our old rivals and taken the initiative in the conflict. With our newly increased power base, our legitimacy as the main power in Antillia is more visible to our citizens."
  
  ANX_rediscover_the_old_title: "Rediscover the Old"
- ANX_rediscover_the_old_desc: ""
+ ANX_rediscover_the_old_desc: "Nostalgic sentiments of our old home are a rising trend, and perhaps the best way to handle it is to finally rediscover our old homes, seeing it's current state, and deciding whether or not the nostalgia was justified."
  
  ANX_land_of_true_cross_title: "Land of the True Cross"
- ANX_land_of_true_cross_desc: ""
+ ANX_land_of_true_cross_desc: "Southwest of Antillia lies a land of seemingly endless jungles right off the coast. In the name of the Lord, we must claim these lands for ourselves and spread our faith to any natives."
  
  ANX_farther_antilles_title: "Farther Antilles"
- ANX_farther_antilles_desc: ""
+ ANX_farther_antilles_desc: "To the Northwest, lies a chain of hundreds upon hundreds of islands, small yet blessed with a fantastic climate to live in, and even more fantastic to grow goods in."
  
  ANX_unify_antillia_title: "Unify Antillia"
- ANX_unify_antillia_desc: ""
+ ANX_unify_antillia_desc: "At last, the dreams of unifying the island have shaped themselves into reality. Antillia has not had a single ruler ever since the first few days of our ancestors' landings, and we finally seem capable to reverse that."
  
  ANX_african_security_title: "African Security"
- ANX_african_security_desc: ""
+ ANX_african_security_desc: "Spreading our influence over the African continent is a surefire way to guarantee our economic expansion won't fail. It has some interesting luxury goods such as ivory and salt, but, most importantly, we want the gold."
  
  ANX_our_roots_title: "Our Roots"
- ANX_our_roots_desc: ""
+ ANX_our_roots_desc: "A chance to reinsert ourselves in the politics of Iberia would open up plenty of diplomatic opportunities with Europe. But far more importantly, it also means we'll be able to rediscover our roots fully."
  
  ANX_fell_the_nahua_title: "Fell the Nahua"
- ANX_fell_the_nahua_desc: ""
+ ANX_fell_the_nahua_desc: "The Nahua peoples of Mexico are quite... gross. Their rituals including sacrifice, both human and animal, and their rulers violently harass their rival states by demanding tributes in lives. On top of it all, they are sitting right on top of a lot of gold. Both of these are good enough reasons to invade their lands."
  
  ANX_mare_clausum_title: "Mare Clausum"
- ANX_mare_clausum_desc: ""
+ ANX_mare_clausum_desc: "Our foreign influence is growing by the day. Should we maintain our dominance in our seas, we will be able to close it down and institute a policy of Mare Clausum. No foreigners will be able to go through our seas without showing some respect and paying some tolls."
  
  ANX_atlantean_intervention_title: "Atlantean Intervention"
- ANX_atlantean_intervention_desc: ""
+ ANX_atlantean_intervention_desc: "Atlanteans have always been generally wealthier than Antillians, due to our island being less populated, harder to traverse, and messier to navigate. But now we're in a position to actively threaten their naval power. Owning a base in their continent would be a huge step forward..."
  
  ANX_antillian_atlantis_title: "Antillian Atlantis"
- ANX_antillian_atlantis_desc: ""
+ ANX_antillian_atlantis_desc: "Having secured a place to land our troops in and check our supplies, a full conquest of Atlantis sounds very much plausible, provided we commit enough men and resources for that endeavor."
  
  ANX_imperii_antillium_title: "Imperii Antillium"
- ANX_imperii_antillium_desc: ""
+ ANX_imperii_antillium_desc: "The Atlantean crisis over emperorship is drawing to a close, as it seems their unifier is not going to be some local warlord, but rather, us mighty Antillians. We shall institute our own imperial government, ruling both Atlantis and Antillia, grander than the Old Empire that the Atlanteans are so proud of!"
  
  ANX_eastwards_push_title: "Eastwards Push"
- ANX_eastwards_push_desc: ""
+ ANX_eastwards_push_desc: "Far to the East lie regions that supply the world with spice, silk and procelain, as well as many other goods not easily found or produced elsewhere. They are super lucrative when sold domestically, or in Europe and Atlantis. It's in our interest to control our share of their trade..."
  
  ANX_global_power_title: "Global Power"
- ANX_global_power_desc: ""
+ ANX_global_power_desc: "We've risen to project our influence far beyond the borders of our fairly small island, and it shows. Our place as a leading world power is cemented; from now on, we must work on maintaining our dominant position."
  
  #Tooltips
  ATL_new_world_tt: "Old Atlantean Records speak of territories to the west where many of the Nauteans ancestors originated from, with a more stable homeland we should find these once more."
