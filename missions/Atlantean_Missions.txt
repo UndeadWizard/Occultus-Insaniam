@@ -503,12 +503,12 @@ atlantean_missions_far_right = {
 					value = 150
 				}
 			}
-		
+		}
 		effect = {
 			add_country_modifier = {
 				name = "ATL_open_to_negotiation"
 				duration = 7300 # 20 Years
-			}
+				}
 		}
 	}
 	

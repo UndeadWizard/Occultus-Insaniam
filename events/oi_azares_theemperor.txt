@@ -11,7 +11,7 @@ country_event = { #Revitalizing Atlantium
 	is_triggered_only = yes
 	
     trigger = {
-		tag = AZA
+		tag = A00
 	}
 	
 	option = {	
@@ -64,7 +64,7 @@ country_event = { #Atlantean Industry
 	is_triggered_only = yes
 	
     trigger = {
-		tag = AZA
+		tag = A00
 	}
 	
 	option = {	
@@ -112,7 +112,7 @@ country_event = { #Atlantean Industry
 	is_triggered_only = yes
 	
     trigger = {
-		tag = AZA
+		tag = A00
 	}
 	
 	option = {	
@@ -154,7 +154,7 @@ country_event = { #A Royal Decree
 	is_triggered_only = yes
 	
     trigger = {
-		tag = AZA
+		tag = A00
 	}
 	
 	option = {  #Great Absolution
@@ -202,6 +202,7 @@ country_event = { #Great Absolution
 	}
 	
 	option = {
+		name = aza_theemperor.5.a
 		ai_chance = { factor = 5 }
 		A00 = {
 			vassalize = ROOT
@@ -212,13 +213,14 @@ country_event = { #Great Absolution
 				primary_culture = high_atlantean
 			}
 			reverse_add_opinion	 = {
-					who = ROOT
+					who = A00
 				    modifier = forgiving_imperator
 			}
 		}
 	}
 	
 	option = {
+		name = aza_theemperor.5.b
 		ai_chance = { factor = 95 }
 		add_prestige = 10
 		every_country = { 
@@ -226,7 +228,7 @@ country_event = { #Great Absolution
 				primary_culture = high_atlantean
 			}
 			reverse_add_opinion	 = {
-					who = ROOT
+					who = A00
 				    modifier = forgiving_imperator
 			}
 		}
@@ -234,9 +236,9 @@ country_event = { #Great Absolution
 }
 
 country_event = { #Great Punishment
-	id = aza_theemperor.5
-	title = aza_theemperor.5.t
-	desc = aza_theemperor.5.d
+	id = aza_theemperor.6
+	title = aza_theemperor.6.t
+	desc = aza_theemperor.6.d
 	picture = GREAT_BUILDING_eventPicture
 	
 	is_triggered_only = yes
@@ -253,6 +255,7 @@ country_event = { #Great Punishment
 	}
 	
 	option = {
+		name = aza_theemperor.6.a
 		every_country = { 
 			limit = {
 				culture_group = atlantean_group
@@ -262,7 +265,7 @@ country_event = { #Great Punishment
 				}
 			}
 			reverse_add_opinion	 = {
-					who = ROOT
+					who = A00
 				    modifier = vengeful_imperator
 			}
 		}
