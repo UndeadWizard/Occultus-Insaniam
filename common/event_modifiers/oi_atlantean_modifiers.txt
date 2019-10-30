@@ -25,3 +25,50 @@ spreading_atlanic_rituals = {
 	global_missionary_strength = 0.02
 	religion = yes
 }
+
+#Atlantean Missions
+
+ATL_colonial_tariffs = {
+	global_tariffs = 0.2
+}
+
+ATL_no_barriers = {
+	trade_efficiency = 0.05
+}
+
+ATL_atlantean_pride = {
+	navy_tradition = 0.3
+	recover_navy_morale_speed = 0.1
+}
+
+ATL_roman_legacy = {
+	discipline = 0.015
+}
+
+ATL_renewed_security = {
+	years_of_nationalism = -5
+}
+
+ATL_atlantean_bureaucracy = {
+	local_core_creation = -0.2
+}
+
+ATL_established_state = {
+	army_tradition = 1
+}
+
+ATL_atlantean_diplomats = {
+	diplomatic_reputation = 1
+}
+
+ATL_open_to_negotiation = {
+	ae_impact = -0.15
+}
+
+ATL_experienced_diplomats = {
+	improve_relation_modifier = 0.2	
+}
+
+ATL_path_to_europe = {
+	trade_efficiency = 0.05
+}
