@@ -129,23 +129,10 @@
  
  ANX_global_power_title: "Global Power"
  ANX_global_power_desc: ""
- #Tooltips
  
+ #Tooltips
  ATL_colombian_colonization:0 "§Y[Root.GetName]§! or their subjects own at least one fully colonized province in the Colonial Colombian colonial region."
  ATL_east_america_colonization:0 "§Y[Root.GetName]§! or their subjects own at least one fully colonized province in the Colonial Eastern America colonial region."
  ATL_all_roads_to_atla:0 "Every owned province in the country will receive the §YAll Roads to Atla§! modifier for 20 years, giving the following effects:\nFriendly Movement Speed: §G+10.0%§!\nMonthly Autonomy Change: §G-0.05§!"
  ATL_quell_dissent_tt:0 "§YTwo estates§! must have §Y70§! or greater loyalty"0
  ANX_discover_new_lands_tt:0 "There are rumours of lands to the west from fishing boats and sailors that have strayed to far from Antillia, discovering them would certainly be a boon to our people."
- 
- #Modifer Desc
- atlantean_pride_modifier: "Pride of Atlanteans"
- african_foothold: "African Foothold"
- promising_imperator_pretender: "Promising Imperator Pretender"
- atlantean_west: "Heading West"
- roman_legacy: "Roman Legacy"
- all_roads_to_atla: "All Roads to Atla"
- new_atlantean_taxsystem: "New Atlantean Tax System"
- ATL_diplomacy_modifier: "Atlantean Diplomacy"
- desc_ATL_diplomacy_modifier:1 "Accommodating a vast and constantly-changing audience of lords in the capital has made the government particularly adept at handling many diplomatic issues at once."
- ATL_european_goods: "Goods from Europe"
- ATL_hidden_property: "Hidden Properties"

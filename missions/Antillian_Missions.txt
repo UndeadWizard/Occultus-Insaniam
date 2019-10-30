@@ -397,7 +397,7 @@ antillian_missions_right = {
 	ANX_eastwards_push = {
 		icon = mission_market_place_with_asian_traders
 		required_missions = { ANX_african_security ANX_unify_antillia}
-		position = 6
+		position = 5
 		
 		trigger = {
 			OR = {
