@@ -447,7 +447,7 @@ defined_text = {
 		localization_key = string_start_atlantis
 		trigger = {
 			capital_scope = {
-				superregion = atlantean_superregion
+				continent = atlantis
 			}
 		}
 	}
@@ -456,7 +456,7 @@ defined_text = {
 		localization_key = string_start_antillia
 		trigger = {
 			capital_scope = {
-				region = antillia_region
+				continent = antillia
 			}
 		}
 	}
