@@ -66,7 +66,8 @@ country_event = {
 		}
 	}
 	
-	effect = {
+	option = {
+		name = oi_institutions.1.a
 		set_global_flag = atlantean_renaissance
 		capital_scope = {
 			add_institution_embracement = {
@@ -86,7 +87,7 @@ country_event = {
 	}
  }
  
- # Rebirth of Atlantis
+# Rebirth of Atlantis
 country_event = {
 	id = oi_institutions.2
 	title = oi_institutions.2.t
@@ -103,7 +104,8 @@ country_event = {
 		months = 12
 	}
 	
-	effect = {
+	option = {
+		name = oi_institutions.2.a
 		set_global_flag = atlantean_renaissance
 		capital_scope = {
 			add_institution_embracement = {
@@ -121,3 +123,63 @@ country_event = {
 		}
 		add_prestige = 10
 	}
+}
+
+# Artworks in Antillia
+country_event = {
+	id = oi_institutions.3
+	title = oi_institutions.3.t
+	desc = oi_institutions.3.d
+	picture = NAVAL_MILITARY_eventPicture
+    
+	trigger = {
+		capital_scope = {
+			continent = antillia
+		}
+		OR = {
+			has_global_flag = atlantean_renaissance
+			any_known_country = {
+				technology_group = western
+			}
+		}
+		OR = {
+				year = 1475			
+				tag = ANX
+		}
+		is_institution_enabled = renaissance
+	}
+	
+	mean_time_to_happen = {
+		months = 120
+		
+		modifer = {
+			factor = 0.80
+			tag = ANX
+		}
+		
+		modifer = {
+			factor = 0.80
+			every_owned_province = {
+				development = 25
+			}
+		}
+		
+		modifer = {
+			factor = 0.80
+			every_owned_province = {
+				province_has_center_of_trade_of_level = 3
+			}
+		}
+	}
+	
+	option = {
+		name = oi_institutions.3.a
+		capital_scope = {
+			add_institution_embracement = {
+					which = renaissance
+					value = 100
+			}
+		}
+		add_prestige = 10
+	}
+}
