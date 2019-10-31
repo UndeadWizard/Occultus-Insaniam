@@ -1,0 +1,123 @@
+namespace = oi_institutions
+
+# Atlantean Renaissance
+country_event = {
+	id = oi_institutions.1
+	title = oi_institutions.1.t
+	desc = oi_institutions.1.d
+	picture = NAVAL_MILITARY_eventPicture
+    
+	trigger = {
+		technology_group = atlantean
+		is_year = 1470
+		NOT = { exists = ATL }
+		NOT = { has_global_flag = atlantean_renaissance}
+		capital_scope = {
+			continent = atlantis
+		}
+		any_known_country = {
+			technology_group = western
+        }
+	}
+	
+	mean_time_to_happen = {
+		months = 360
+		
+		modifer = {
+			factor = 0.80
+			total_development = 150
+		}
+		modifer = {
+			factor = 0.75
+			total_development = 200
+		}
+		modifer = {
+			factor = 0.80
+			is_great_power = yes
+		}
+		modifer = {
+			factor = 0.80
+			every_country = {
+				limit = {
+					vassal_of = ROOT
+				}
+				technology_group = western
+			}
+		}
+		modifer = {
+			factor = 0.80
+			every_ally  = {
+				technology_group = western
+			}
+		}
+		
+		modifer = {
+			factor = 0.80
+			every_owned_province = {
+				development = 25
+			}
+		}
+		
+		modifer = {
+			factor = 0.80
+			every_owned_province = {
+				province_has_center_of_trade_of_level = 3
+			}
+		}
+	}
+	
+	effect = {
+		set_global_flag = atlantean_renaissance
+		capital_scope = {
+			add_institution_embracement = {
+					which = renaissance
+					value = 50
+			}
+		}
+		capital_scope = {
+			all_province_in_state = {	
+				add_institution_embracement = {
+					which = renaissance
+					value = 50
+				}
+			}
+		}
+		add_prestige = 10
+	}
+ }
+ 
+ # Rebirth of Atlantis
+country_event = {
+	id = oi_institutions.2
+	title = oi_institutions.2.t
+	desc = oi_institutions.2.d
+	picture = NAVAL_MILITARY_eventPicture
+    
+	trigger = {
+		tag = ATL
+		NOT = { has_global_flag = atlantean_renaissance}
+		is_institution_enabled = renaissance
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	effect = {
+		set_global_flag = atlantean_renaissance
+		capital_scope = {
+			add_institution_embracement = {
+					which = renaissance
+					value = 50
+			}
+		}
+		capital_scope = {
+			all_province_in_state = {	
+				add_institution_embracement = {
+					which = renaissance
+					value = 50
+				}
+			}
+		}
+		add_prestige = 10
+	}
