@@ -23,19 +23,19 @@ country_event = {
 	mean_time_to_happen = {
 		months = 360
 		
-		modifer = {
+		modifier = {
 			factor = 0.80
 			total_development = 150
 		}
-		modifer = {
+		modifier = {
 			factor = 0.75
 			total_development = 200
 		}
-		modifer = {
+		modifier = {
 			factor = 0.80
 			is_great_power = yes
 		}
-		modifer = {
+		modifier = {
 			factor = 0.80
 			every_country = {
 				limit = {
@@ -44,21 +44,21 @@ country_event = {
 				technology_group = western
 			}
 		}
-		modifer = {
+		modifier = {
 			factor = 0.80
 			every_ally  = {
 				technology_group = western
 			}
 		}
 		
-		modifer = {
+		modifier = {
 			factor = 0.80
 			every_owned_province = {
 				development = 25
 			}
 		}
 		
-		modifer = {
+		modifier = {
 			factor = 0.80
 			every_owned_province = {
 				province_has_center_of_trade_of_level = 3
@@ -72,7 +72,7 @@ country_event = {
 		capital_scope = {
 			add_institution_embracement = {
 					which = renaissance
-					value = 50
+					value = 100
 			}
 		}
 		capital_scope = {
@@ -110,7 +110,7 @@ country_event = {
 		capital_scope = {
 			add_institution_embracement = {
 					which = renaissance
-					value = 50
+					value = 100
 			}
 		}
 		capital_scope = {
@@ -152,19 +152,19 @@ country_event = {
 	mean_time_to_happen = {
 		months = 120
 		
-		modifer = {
+		modifier = {
 			factor = 0.80
 			tag = ANX
 		}
 		
-		modifer = {
+		modifier = {
 			factor = 0.80
 			every_owned_province = {
 				development = 25
 			}
 		}
 		
-		modifer = {
+		modifier = {
 			factor = 0.80
 			every_owned_province = {
 				province_has_center_of_trade_of_level = 3

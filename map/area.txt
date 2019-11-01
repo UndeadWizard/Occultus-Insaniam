@@ -104,8 +104,12 @@ voreinisi_area ={
 	4748 4749 4753 4754
 }
 
-eusebes_area ={
-	4756 4757 4758 4759 4760 4761
+arrantza_area = {
+	4756 4757 4761
+}
+
+philippi_area = {
+	4758 4759 4760
 }
 
 askloy_area ={

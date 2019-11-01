@@ -58,7 +58,8 @@ atlantean_eastlands = {
 
 atlantean_westisles ={
 	areas = {
-		eusebes_area
+		arrantza_area
+		philippi_area
 		askloy_area
 	}
 }
