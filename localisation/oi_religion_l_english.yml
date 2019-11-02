@@ -5,7 +5,8 @@
  
  heptarchic: "Heptarchic"
  heptarchic_religion_desc: "Heptarchism has its roots in the Seven Bishops, alternatively known as the Seven Saints, who journeyed from Iberia during the Moorish Invasion. They sport a blend between Hellenistic beliefs, and traditional Catholicism." 
- HEPTARCHIC_ASPECTS: "Heptarchic Aspects" 
+ HEPTARCHIC_ASPECTS_LONG:0 "Glory of the Seven"
+ HEPTARCHIC_ASPECTS_SHORT:0 "aspects" 
  
  tiki: "Tiki"
  tiki_religion_desc: "In Maori mythology, Tiki is the first man created."
@@ -39,5 +40,5 @@ edict_of_salvation_aspect: "Edict of Salvation"
 edict_of_tolerance_aspect: "Edict of Tolerance"
 edict_of_the_devout_aspect: "Edict of the Devout"
 decree_of_the_seven_aspect: "Decree of the Seven"
-decree_of_sotiras: "Decree of Sotiras"
+decree_of_sotiras_aspect: "Decree of Sotiras"
 decree_of_the_righteous_aspect: "Decree of the Righteous"
