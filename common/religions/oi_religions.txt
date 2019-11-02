@@ -52,18 +52,15 @@ christian = {
 		
 		uses_church_power = yes				# Uses church power/aspect mechanics
 		aspects = {
-			organised_through_bishops_aspect
-			priests_may_marry_aspect
-			adult_baptism_aspect
-			holy_sacraments_aspect
-			saints_accept_prayers_aspect
-			icons_images_aspect
-			legalised_divorces_aspect
-			heretics_deported_aspect
-			parish_registers_aspect
-			individual_creeds_aspect
-			allow_usury_aspect
-			translated_bibles_aspect
+			book_of_preeminence_aspect
+			book_of_ansis_aspect
+			book_of_bermudo_aspect
+			edict_of_salvation_aspect
+			edict_of_tolerance_aspect
+			edict_of_the_devout_aspect
+			decree_of_the_seven_aspect
+			decree_of_sotiras_aspect
+			decree_of_the_righteous_aspect
 		}
 		aspects_name = HEPTARCHIC_ASPECTS
 	}

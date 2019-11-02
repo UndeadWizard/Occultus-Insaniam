@@ -114,7 +114,7 @@ decree_of_the_seven_aspect = {
 	}
 }
 
-decree_of_sotiras = {
+decree_of_sotiras_aspect = {
 	cost = 100
 	modifier = {
 		range = 0.1
