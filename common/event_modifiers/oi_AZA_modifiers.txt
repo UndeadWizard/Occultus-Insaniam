@@ -11,7 +11,7 @@ aza_brokendreams = {
 }
 
 freedom_of_religion_decree = {
-	global_unrest = -2
+	tolerance_heathen = 1	
 	global_tax_modifier = 0.05	
 }
 
