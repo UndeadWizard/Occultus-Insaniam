@@ -1,13 +1,15 @@
 country_decisions = {
     oi_conversion_catholicism = {
 		potential = {
-			OR = {
-				culture_group = antillia_group
-				culture_group = atlantean_group
-			}
-			OR = {
-				religion = atlanic
-				religion = heptarchic
+			AND = {
+				OR = {
+					culture_group = antillia_group
+					culture_group = atlantean_group
+				}
+				OR = {
+					religion = atlanic
+					religion = heptarchic
+				}
 			}
 		}
 		allow = {
@@ -17,8 +19,12 @@ country_decisions = {
 			}
 			every_owned_province = {
 				num_of_religion = {
-					religion = catholic
-					value = 0.01
+						OR = {
+							religion = catholic
+							religion = orthodox
+							religion = heptarchic
+						}
+					value = 0.1
 				}
 			}
 			is_year = 1475
@@ -49,7 +55,7 @@ country_decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0
 			modifier = {
 				culture_group = antillia_group
 				factor = 50
@@ -88,7 +94,11 @@ country_decisions = {
 			}
 			every_owned_province = {
 				num_of_religion = {
-					religion = orthodox
+					OR = {
+							religion = catholic
+							religion = orthodox
+							religion = heptarchic
+					}
 					value = 0.01
 				}
 			}
@@ -97,14 +107,14 @@ country_decisions = {
 		effect = {
 			change_religion = orthodox
 			add_stability = -1
-			add_patriarch_authority = 10
+			add_patriarch_authority = .1
 			add_country_modifier = {
 				name = "missionary_zeal"
 				duration = -1
 			}
         }
 		ai_will_do = {
-			factor = 1
+			factor = 0
 			modifier = {
 				culture_group = antillia_group
 				factor = 50
@@ -137,7 +147,7 @@ country_decisions = {
 		}
 		effect = {
 			change_religion = orthodox
-			add_patriarch_authority = 50
+			add_patriarch_authority = .5
 			add_prestige = 10
 			add_country_modifier = {
 				name = "missionary_zeal"
