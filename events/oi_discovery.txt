@@ -89,7 +89,7 @@ country_event = {
 			}
 			reverse_add_opinion	 = {
 					who = ROOT
-				    modifier = antillian_heretics
+				    modifier = fellow_converts
 			}
 		}
 	}

@@ -22,3 +22,7 @@ vengeful_imperator = {
 	opinion = -30
 	months = 180
 }
+
+fellow_converts = {
+	opinion = 10
+}
