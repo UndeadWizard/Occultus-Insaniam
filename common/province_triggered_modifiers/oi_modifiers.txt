@@ -117,3 +117,29 @@ great_oracle = {
 	
 	}
 }
+
+birthplace_of_ar = {
+	potential = {
+		normal_or_historical_nations = yes
+	}
+	
+	#viewer = {
+	#}
+	
+	trigger = {
+		owner = {
+			culture_group = atlantean_group
+		}
+	}
+	
+	prestige = 0.5
+	
+	#Province scope
+	on_activation = {
+	
+	}
+	
+	on_deactivation = {
+	
+	}
+}

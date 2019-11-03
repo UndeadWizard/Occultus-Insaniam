@@ -234,7 +234,7 @@ country_event = { #Great Absolution
 				primary_culture = high_atlantean
 			}
 			reverse_add_opinion	 = {
-					who = A00
+					who = ROOT
 				    modifier = forgiving_imperator
 			}
 		}
@@ -275,7 +275,7 @@ country_event = { #Great Punishment
 				}
 			}
 			reverse_add_opinion	 = {
-					who = A00
+					who = ROOT
 				    modifier = vengeful_imperator
 			}
 		}

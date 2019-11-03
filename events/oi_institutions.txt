@@ -75,14 +75,7 @@ country_event = {
 					value = 100
 			}
 		}
-		capital_scope = {
-			all_province_in_state = {	
-				add_institution_embracement = {
-					which = renaissance
-					value = 50
-				}
-			}
-		}
+		add_province_triggered_modifier = birthplace_of_ar
 		add_prestige = 10
 	}
  }
@@ -113,14 +106,7 @@ country_event = {
 					value = 100
 			}
 		}
-		capital_scope = {
-			all_province_in_state = {	
-				add_institution_embracement = {
-					which = renaissance
-					value = 50
-				}
-			}
-		}
+		add_province_triggered_modifier = birthplace_of_ar
 		add_prestige = 10
 	}
 }

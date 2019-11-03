@@ -59,7 +59,7 @@ country_decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 1
+			factor = 0
 			modifier = {
 				culture_group = antillia_group
 				factor = 50
@@ -123,7 +123,7 @@ country_decisions = {
 			}
         }
 		ai_will_do = {
-			factor = 1
+			factor = 0
 			modifier = {
 				culture_group = antillia_group
 				factor = 50
