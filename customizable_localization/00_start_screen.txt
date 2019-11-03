@@ -440,26 +440,30 @@ defined_text = {
 			current_age = age_of_revolutions
 		}		
 	}
-	#Country Specific:
 	
-	#Atlantis
-	text = {
-		localization_key = string_start_atlantis
+	#New
+	
+	#Atlantic
+	
+	text = { #Atlantis
+		localisation_key = string_start_atlantis
 		trigger = {
-			capital_scope = {
-				continent = atlantis
+			OR = {
+				culture_group = atlantean_group
 			}
 		}
 	}
 	
 	text = { #Antillia
-		localization_key = string_start_antillia
+		localisation_key = string_start_antillia
 		trigger = {
-			capital_scope = {
-				continent = antillia
+			OR = {
+				culture_group = antillia_group
 			}
 		}
 	}
+
+	#Country Specific:
 	
 	#Africa
 	text = { # Maghreb
