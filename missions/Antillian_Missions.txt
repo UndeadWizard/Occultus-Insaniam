@@ -11,7 +11,7 @@ antillian_missions_far_left = {
 	has_country_shield = yes
 	
 	ANX_land_of_true_cross = {
-		icon = mission_establish_high_seas_navy
+		icon = mission_colonial
 		required_missions = { ANX_new_lands }
 		position = 4
 		
@@ -31,7 +31,7 @@ antillian_missions_far_left = {
 	}
 	
 	ANX_fell_the_nahua = {
-		icon = mission_establish_high_seas_navy
+		icon = mission_italian_condottiere
 		required_missions = { ANX_land_of_true_cross ANX_mare_clausum }
 		position = 6
 		
@@ -79,7 +79,7 @@ antillian_missions_left = {
 		}
 	}
 	ANX_new_lands = {
-		icon = mission_colonial
+		icon = mission_establish_high_seas_navy
 		required_missions = { ANX_preparations_complete }
 		position = 3
 		
@@ -117,7 +117,7 @@ antillian_missions_left = {
 	}
 	
 	ANX_farther_antilles = {
-		icon = mission_establish_high_seas_navy
+		icon = mission_iberian_conquistador
 		required_missions = { ANX_new_lands }
 		position = 4
 		
@@ -137,7 +137,7 @@ antillian_missions_left = {
 	}
 	
 	ANX_mare_clausum = {
-		icon = mission_market_place_with_asian_traders
+		icon = mission_dominate_home_trade_node
 		required_missions = { ANX_farther_antilles ANX_unify_antillia}
 		position = 5
 		
@@ -214,7 +214,7 @@ antillian_missions_middle = {
 		}
 	}
 	ANX_victors_payoff = {
-		icon = mission_unite_home_region
+		icon = mission_monarch_in_throne_room
 		required_missions = { ANX_preparations_complete }
 		position  = 3
 		
@@ -235,7 +235,7 @@ antillian_missions_middle = {
 	}
 	
 	ANX_unify_antillia = {
-		icon = mission_unite_home_region
+		icon = mission_empire
 		required_missions = { ANX_victors_payoff }
 		position  = 4
 		
@@ -258,7 +258,7 @@ antillian_missions_middle = {
 		}
 	}
 	ANX_atlantean_intervention = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_conquer_50_development
 		required_missions = { ANX_unify_antillia }
 		position = 5
 		
@@ -279,7 +279,7 @@ antillian_missions_middle = {
 	}
 	
 	ANX_antillian_atlantis = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_assemble_an_army
 		required_missions = { ANX_atlantean_intervention }
 		position = 6
 		
@@ -310,7 +310,7 @@ antillian_missions_middle = {
 	}
 	
 	ANX_imperii_antillium = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_early_modern_university
 		required_missions = { ANX_antillian_atlantis }
 		position = 7
 		
@@ -358,7 +358,7 @@ antillian_missions_right = {
 		}
 	}
 	ANX_rediscover_the_old = {
-		icon = mission_build_up_to_force_limit
+		icon = mission_establish_high_seas_navy
 		required_missions = { ANX_preparations_complete }
 		position = 3
 		
@@ -492,7 +492,7 @@ antilliaisformed_missions_far_right = {
 	has_country_shield = yes
 	
 	ANX_global_power = {
-		icon = mission_african_soldier
+		icon = mission_trade_company_region_abroad
 		required_missions = { ANX_eastwards_push ANX_our_roots }
 		position = 6
 		
@@ -523,7 +523,7 @@ antilliaisformed_nodlc_missions_far_right = {
 	has_country_shield = yes
 	
 	ANX_global_power = {
-		icon = mission_african_soldier
+		icon = mission_trade_company_region_abroad
 		required_missions = { ANX_eastwards_push ANX_our_roots }
 		position = 6
 		

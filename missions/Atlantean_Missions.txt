@@ -11,7 +11,7 @@ atlantean_missions_far_left = {
 	has_country_shield = yes
 	
 	ATL_nautean_expedition = {
-		icon = mission_establish_high_seas_navy
+		icon = mission_invade_island
 		required_missions = { }
 		position = 1
 		
@@ -29,7 +29,14 @@ atlantean_missions_far_left = {
 		}
 		
 		effect = {
-			eusebes_area = {
+			arrantza_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_claim = ROOT
+			}
+			philippi_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -69,7 +76,7 @@ atlantean_missions_far_left = {
 	}
 	
 	ATL_new_world = {
-		icon = mission_impaled_soldies
+		icon = mission_iroquois_warriors
 		required_missions = { ATL_cannibal_island }
 		position = 3
 		
@@ -108,7 +115,7 @@ atlantean_missions_far_left = {
 	}
 	
 	ATL_second_exile = {
-		icon = mission_establish_high_seas_navy
+		icon = mission_colonial
 		required_missions = { ATL_new_world }
 		position = 4
 		
@@ -163,7 +170,7 @@ atlantean_missions_far_left = {
 	}
 	
 	ATL_closing_the_atlantic = {
-		icon = mission_establish_high_seas_navy
+		icon = mission_galleys_in_port
 		required_missions = { ATL_second_exile }
 		position = 5
 		
@@ -214,7 +221,7 @@ atlantean_missions_left = {
 	}
 	
 	ATL_island_presence = {
-		icon = mission_establish_high_seas_navy
+		icon = mission_hanseatic_city
 		required_missions = { ATL_the_pride_of_atlantis }
 		position = 2
 		
@@ -241,7 +248,7 @@ atlantean_missions_left = {
 	}
 	
 	ATL_reclaim_the_islands = {
-		icon = mission_establish_high_seas_navy
+		icon = mission_invade_island
 		required_missions = { ATL_prepare_imperial_army }
 		position = 5
 		
@@ -287,7 +294,7 @@ atlantean_missions_middle = {
 	has_country_shield = yes
 	
 	ATL_strengthen_the_army = {
-		icon = mission_crusade_for_varna
+		icon = mission_build_up_to_force_limit
 		required_missions = { }
 		position = 1
 		
@@ -323,7 +330,7 @@ atlantean_missions_middle = {
 	}
 	
 	ATL_the_new_empire = {
-		icon = mission_crusade_for_varna
+		icon = mission_empire
 		required_missions = { ATL_island_presence ATL_march_to_crownlands ATL_eliminate_rivals }
 		position = 3
 		
@@ -340,7 +347,7 @@ atlantean_missions_middle = {
 	}
 	
 	ATL_prepare_imperial_army = {
-		icon = mission_crusade_for_varna
+		icon = mission_assemble_an_army
 		required_missions = { ATL_the_new_empire }
 		position = 4
 		
@@ -358,7 +365,7 @@ atlantean_missions_middle = {
 	}
 	
 	ATL_reclaim_the_center = {
-		icon = mission_crusade_for_varna
+		icon = mission_cannons_firing
 		required_missions = { ATL_prepare_imperial_army }
 		position = 5
 		
@@ -380,7 +387,7 @@ atlantean_missions_middle = {
 	}
 	
 	ATL_imperium_sine = {
-		icon = mission_crusade_for_varna
+		icon = mission_early_modern_university
 		required_missions = { ATL_reclaim_the_center }
 		position = 6
 		
@@ -422,7 +429,7 @@ atlantean_missions_right = {
 	}
 	
 	ATL_eliminate_rivals = {
-		icon = mission_unite_home_region
+		icon = mission_conquer_50_development
 		required_missions = { ATL_establish_hegemony }
 		position = 2
 		
@@ -440,7 +447,7 @@ atlantean_missions_right = {
 	}
 	
 	ATL_reclaim_the_gate = {
-		icon = mission_unite_home_region
+		icon = mission_sea_battles
 		required_missions = { ATL_prepare_imperial_army }
 		position = 5
 		
@@ -472,7 +479,7 @@ atlantean_missions_far_right = {
 	has_country_shield = yes
 	
 	ATL_peace_at_home = {
-		icon = mission_unite_home_region
+		icon = mission_hands_praying
 		required_missions = { }
 		position = 1
 		
@@ -488,7 +495,7 @@ atlantean_missions_far_right = {
 		}
 	}
 	ATL_diplomatic_priority = {
-		icon = mission_unite_home_region
+		icon = mission_alliances
 		required_missions = { ATL_peace_at_home }
 		position = 2
 		
@@ -513,7 +520,7 @@ atlantean_missions_far_right = {
 	}
 	
 	ATL_deal_with_foreigners = {
-		icon = mission_unite_home_region
+		icon = mission_noble_council
 		required_missions = { ATL_diplomatic_priority }
 		position = 3
 		
@@ -537,7 +544,7 @@ atlantean_missions_far_right = {
 	}
 	
 	ATL_european_reforms = {
-		icon = mission_unite_home_region
+		icon = mission_early_game_buildings
 		required_missions = { ATL_deal_with_foreigners }
 		position = 4
 		
@@ -553,7 +560,7 @@ atlantean_missions_far_right = {
 	}
 	
 	ATL_pathway_to_europe = {
-		icon = mission_unite_home_region
+		icon = mission_galleys_in_port
 		required_missions = { ATL_european_reforms }
 		position = 5
 		
