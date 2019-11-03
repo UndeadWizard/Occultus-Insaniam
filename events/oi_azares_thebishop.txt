@@ -23,7 +23,7 @@ country_event = {
 		add_prestige = 30
 	}
 	
-		option = {	# Convert
+	option = {	# Convert
 		name = aza_thebishop.1.b
 		ai_chance = { factor = 20 }
 		change_religion = heptarchic	
@@ -34,6 +34,7 @@ country_event = {
 				days = 60
 			}
 		}
+		set_global_flag = heptarchic_imperator
 	}
 }
 
@@ -72,4 +73,40 @@ country_event = {
 			change_religion = heptarchic
 		}
 	}	
+}
+
+country_event = {
+	id = aza_thebishop.3
+	title = aza_thebishop.3.t
+	desc = aza_thebishop.3.d
+	picture = POPE_PREACHING_eventPicture
+
+	 trigger = {
+		primary_culture = high_atlantean
+		NOT = { tag = A00 }
+		has_global_flag = heptarchic_imperator
+		NOT = { has_country_flag = responded_to_bishop }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+    
+	option = {	# Old Ways are Best
+		name = aza_thebishop.3.a
+		ai_chance = { factor = 80 }
+		add_prestige = 30
+		set_country_flag = responded_to_bishop
+	}
+	
+	option = {	# Convert
+		name = aza_thebishop.3.b
+		ai_chance = { factor = 20 }
+		change_religion = heptarchic	
+		set_ruler_religion = heptarchic
+		set_country_flag = responded_to_bishop
+		capital_scope = {
+			change_religion = heptarchic
+		}
+	}
 }
