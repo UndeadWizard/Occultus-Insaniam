@@ -13,5 +13,6 @@ base_manpower = 3
 
 trade_goods = iron 
 hre = no
+add_province_triggered_modifier = bermudo_temple
 
 discovered_by = atlantean

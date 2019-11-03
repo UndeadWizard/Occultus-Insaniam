@@ -12,8 +12,9 @@ antillian_republic = {
 		}
 	}
 	modifiers = {
-		global_tax_modifier = 0.05
-		max_absolutism = -20
+		global_tax_modifier = 0.03
+		max_absolutism = -10
+		missionaries = 1
 	}
 	custom_attributes = {
 		enables_plutocratic_idea_group = yes

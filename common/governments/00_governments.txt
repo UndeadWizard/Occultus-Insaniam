@@ -28,6 +28,7 @@ monarchy = {
 				mandala_reform
 				revolutionary_empire_reform
 				atlantean_warring_state
+				decentralized_imperatorship_reform
 			}
 		}
 		hereditary_vs_nobility = {
@@ -375,6 +376,7 @@ theocracy = {
 				leading_clergy_reform
 				monastic_order_reform
 				papacy_reform
+				archbishop_reform
 			}
 		}
 		internal_vs_external_mission = {

@@ -14,5 +14,6 @@ base_manpower = 2
 
 trade_goods = cloth 
 hre = no
+add_province_triggered_modifier = great_oracle
 
 discovered_by = atlantean

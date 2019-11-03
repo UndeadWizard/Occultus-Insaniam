@@ -15,6 +15,9 @@ april_sucks = {
 	trigger = {
 		tag = A44
 		real_month_of_year = 3
+		NOT ={
+			real_month_of_year = 4
+		}
 	}
 
 	local_unrest = 5
@@ -29,4 +32,88 @@ april_sucks = {
 	
 	}
 	
+}
+
+bermudo_temple = {
+	potential = {
+		normal_or_historical_nations = yes
+	}
+	
+	#viewer = {
+	#}
+	
+	trigger = {
+		owner = {
+			religion = heptarchic
+		}
+	}
+	
+	prestige = 0.5
+	missionaries = 1
+	tolerance_own = 1
+	
+	#Province scope
+	on_activation = {
+	
+	}
+	
+	on_deactivation = {
+	
+	}
+	
+}
+
+oracle_of_daephi = {
+	potential = {
+		normal_or_historical_nations = yes
+	}
+	
+	#viewer = {
+	#}
+	
+	trigger = {
+		owner = {
+			religion = atlanic
+		}
+	}
+	
+	prestige = 0.1
+	missionaries = 1
+	
+	#Province scope
+	on_activation = {
+	
+	}
+	
+	on_deactivation = {
+	
+	}
+}
+
+great_oracle = {
+	potential = {
+		normal_or_historical_nations = yes
+	}
+	
+	#viewer = {
+	#}
+	
+	trigger = {
+		owner = {
+			religion = atlanic
+		}
+	}
+	
+	prestige = 0.5
+	missionaries = 1
+	tolerance_own = 1
+	
+	#Province scope
+	on_activation = {
+	
+	}
+	
+	on_deactivation = {
+	
+	}
 }
