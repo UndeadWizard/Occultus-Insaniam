@@ -59,7 +59,7 @@ country_decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 0
+			factor = 1
 			modifier = {
 				culture_group = antillia_group
 				factor = 50
@@ -115,6 +115,7 @@ country_decisions = {
 		effect = {
 			change_religion = orthodox
 			add_stability = -1
+			add_prestige = -50
 			add_patriarch_authority = 10
 			add_country_modifier = {
 				name = "missionary_zeal"
@@ -122,7 +123,7 @@ country_decisions = {
 			}
         }
 		ai_will_do = {
-			factor = 0
+			factor = 1
 			modifier = {
 				culture_group = antillia_group
 				factor = 50
@@ -140,6 +141,10 @@ country_decisions = {
 			}
 			modifier = {
 				tag = A40
+				factor = 0
+			}
+			modifier = {
+				NOT = { prestige = 50 }
 				factor = 0
 			}
 		}
@@ -166,7 +171,11 @@ country_decisions = {
 			}
         }
 		ai_will_do = {
-			factor = 10
+			factor = 1
+			modifier = {
+				NOT = { prestige = 20 }
+				factor = 0
+			}
 		}
 	}
 }

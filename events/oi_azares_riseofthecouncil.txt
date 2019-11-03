@@ -62,7 +62,7 @@ country_event = {
 		name = aza_thecouncil.2.a
 		change_tag = A51
 		change_government = republic
-		add_government_reform = patricianship	
+		add_government_reform = council_reform	
 		release_all_subjects = yes
 	}
 }

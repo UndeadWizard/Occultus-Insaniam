@@ -29,6 +29,7 @@ monarchy = {
 				revolutionary_empire_reform
 				atlantean_warring_state
 				decentralized_imperatorship_reform
+				centralized_imperatorship_reform
 			}
 		}
 		hereditary_vs_nobility = {
@@ -204,6 +205,7 @@ republic = {
 				cossacks_reform
 				antillian_republic
 				patricianship
+				council_reform
 			}
 		}
 		republican_virtues = {

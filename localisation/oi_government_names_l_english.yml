@@ -7,12 +7,18 @@ atlantean_warring_state_desc: "After the Collapse, many Atlantean states adopted
 decentralized_imperatorship_reform: "Decentralized Imperatorship"
 decentralized_imperatorship_reform_desc: "The power of the Imperator has waned over the last century, with many affairs of state being delegated to vassals. While this has made it more efficent to raise armies and collect taxes, it has also made it difficult for the will of the Imperator to be imposed."
 
+centralized_imperatorship_reform: "Centralized Imperatorship"
+centralized_imperatorship_reform_desc: "A stronger Imperator means a stronger Atlantis, no more shall the scourge of the noble infringe on your divine right to Atlantis."
+
 #Republics
 patricianship: "Patricianship"
 patricianship_desc: "A governmental form where power lies in the hands of a rotating circuit of noble rulers. All families share in the power, carefully electing one of their own to reign for life so that no family will grow too powerful."
 
 antillian_republic: "Antillian Republic"
 antillian_republic_desc: ""
+
+council_reform: "The Council"
+council_reform_desc: "The tyranny of the Imperator shall be no more, for all that stands in Atlantium is only and will only be the Council."
 
 #Theocracies
 archbishop_reform: "Supreme Archdiocese"

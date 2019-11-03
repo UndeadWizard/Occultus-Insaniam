@@ -206,10 +206,10 @@ antillian_missions_middle = {
 		effect = {
 			antillia_region = {
 				limit = {
-					NOT = { is_permanent_claim = ROOT }
+					NOT = { is_claim = ROOT }
 					NOT = { is_core = ROOT	}
 				}
-				add_permanent_claim = ROOT
+				add_claim = ROOT
 			}
 		}
 	}
@@ -249,6 +249,12 @@ antillian_missions_middle = {
 			change_tag = ANX
 			set_government_rank = 2
             add_prestige = 10
+			antillia_region = {
+				limit = {
+					NOT = { is_permanent_claim = ROOT }
+				}
+				is_permanent_claim = ROOT
+			}
 		}
 	}
 	ANX_atlantean_intervention = {

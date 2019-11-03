@@ -13,7 +13,6 @@ atlantean_warring_state = {
 		}
 	}
 	modifiers = {
-		global_manpower_modifier = 0.05
 		land_morale = 0.05
 		infantry_power = 0.05
 		global_autonomy = 0.05
@@ -40,9 +39,31 @@ decentralized_imperatorship_reform = {
 	modifiers = {
 		global_tax_modifier = 0.05	
 		land_morale = 0.05
-		discipline = 0.01
 		leader_land_shock = 1	
 		max_absolutism = -30
+	}
+		
+	ai = {
+		factor = 5
+	}
+}
+
+centralized_imperatorship_reform = {
+	icon = "castle"
+	lock_level_when_selected = yes
+	allow_normal_conversion = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	potential = {
+		OR = {
+			tag = ATL
+		}
+	}
+	modifiers = {
+		global_tax_modifier = 0.05	
+		discipline = 0.01
+		leader_land_siege = 1	
+		max_absolutism = 20
 	}
 		
 	ai = {
