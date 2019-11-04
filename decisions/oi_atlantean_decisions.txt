@@ -1,25 +1,37 @@
 country_decisions = {
-    spreading_atlanic_rituals = {
+    visit_the_oracle = {
 		potential = {
 			religion = atlanic
-			NOT = { has_country_modifier = spreading_atlanic_rituals }
-		}
-		allow = {
-			stability = 1
-			ADM = 3
+			OR = {
+				NOT = { has_ruler_modifier = ORACLE_legitimate }
+				NOT = { has_ruler_modifier = ORACLE_boon_of_minrva }
+				NOT = { has_ruler_modifier = ORACLE_jupiter_and_juno }
+				NOT = { has_ruler_modifier = ORACLE_boon_of_yamm }
+				NOT = { has_ruler_modifier = ORACLE_given_nothing }
+			}
 		}
 		effect = {
-			add_country_modifier = {
-				name = "spreading_atlanic_rituals"
-				duration = -1
-			}
-        }
-		ai_will_do = {
-			factor = 1
-			factor = 1
-			modifier = {
-				has_idea_group = humanist_ideas
-				factor = 0
+			random_list = {
+				country_event = {
+					id = oi_oracle.1
+					days = 7
+				}
+				country_event = {
+					id = oi_oracle.2
+					days = 7
+				}
+				country_event = {
+					id = oi_oracle.3
+					days = 7
+				}
+				country_event = {
+					id = oi_oracle.4
+					days = 7
+				}
+				country_event = {
+					id = oi_oracle.5
+					days = 7
+				}
 			}
 		}	
 	}

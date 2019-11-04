@@ -1,0 +1,69 @@
+namespace = oi_oracle
+
+# Legitimacy
+country_event = {
+	id = oi_oracle.1
+	title = oi_oracle.1.t
+	desc = oi_oracle.1.d
+	picture = GOOD_WITH_MONARCH_eventPicture
+
+	option = {
+		name = oi_oracle.1.a
+		add_ruler_modifier = { name = ORACLE_legitimate }
+		add_legitimacy = 10
+		add_prestige = 10
+	}
+}
+
+# Warrior
+country_event = {
+	id = oi_oracle.2
+	title = oi_oracle.2.t
+	desc = oi_oracle.2.d
+	picture = BATTLE_eventPicture
+
+	option = {
+		name = oi_oracle.2.a
+		add_ruler_modifier = { name = ORACLE_boon_of_minrva }
+	}
+}
+
+# Conqueror
+country_event = {
+	id = oi_oracle.3
+	title = oi_oracle.3.t
+	desc = oi_oracle.3.d
+	picture = SIEGE_eventPicture
+
+	option = {
+		name = oi_oracle.3.a
+		add_ruler_modifier = { name = ORACLE_jupiter_and_juno }
+	}
+}
+
+# Naval
+country_event = {
+	id = oi_oracle.4
+	title = oi_oracle.4.t
+	desc = oi_oracle.4.d
+	picture = SHIP_SAILING_eventPicture
+
+	option = {
+		name = oi_oracle.4.a
+		add_ruler_modifier = { name = ORACLE_boon_of_yamm }
+	}
+}
+
+# Nothing
+country_event = {
+	id = oi_oracle.5
+	title = oi_oracle.5.t
+	desc = oi_oracle.5.d
+	picture = BANKRUPTCY_eventPicture
+
+	option = {
+		name = oi_oracle.5.a
+		add_ruler_modifier = { name = ORACLE_given_nothing }
+		#Nothing?!
+	}
+}

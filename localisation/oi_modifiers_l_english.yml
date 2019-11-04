@@ -61,6 +61,7 @@
  aza_expanded_silk_district: "Expanded Silk District"
  aza_azaresi_gladiators: "Azaresi Gladiators"
 
+#Province Trigger Modifiers
  bermudo_temple: "Great Bermudo Temple"
  desc_bermudo_temple: "According to the Book of Bermudo, after the Antillians arrived in the Second Holy Land, Saint Bermudo saw a vision from God to build a temple on this very site."
  oracle_of_daephi: "Oracle of Daephi"
@@ -69,3 +70,10 @@
  desc_great_oracle: "Centuries ago an Imperator of Atlantis had heard of the Oracle of Daephi and wished to have her in his court, but she refused to his dismay. Instead he settled for one of the Daephi Order apprentices, whom he declared as the Great Oracle."  
  birthplace_of_ar: "Birthplace of the Atlantean Renassiance"
  birthplace_of_ar_desc: "It was in this province that Atlantean painters truly found their inspiration, and ushered in a new dawn of beauty for Atlantis."
+
+ # Oracle Modifiers
+ ORACLE_legitimate: "Legitimate Ruler"
+ ORACLE_boon_of_minrva: "Boon of Minrva"
+ ORACLE_jupiter_and_juno: "Boon of Jupiter and Juno"
+ ORACLE_boon_of_yamm: "Boon of Yamm"
+ ORACLE_given_nothing: "Nothing?!"

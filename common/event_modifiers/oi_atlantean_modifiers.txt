@@ -72,3 +72,25 @@ ATL_experienced_diplomats = {
 ATL_path_to_europe = {
 	trade_efficiency = 0.05
 }
+
+#Oracle Modifiers
+
+ORACLE_legitimate = {
+
+}
+
+ORACLE_boon_of_minrva = {
+	land_morale = 0.05
+}
+
+ORACLE_jupiter_and_juno = {
+	core_creation = -0.1	
+}
+
+ORACLE_boon_of_yamm = {
+	naval_morale = 0.1	
+}
+
+ORACLE_given_nothing = {
+
+}
