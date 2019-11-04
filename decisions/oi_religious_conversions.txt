@@ -31,7 +31,6 @@ country_decisions = {
 					value = 1
 				}
 			}
-			is_year = 1475
 		}
 		effect = {
 			change_religion = catholic
@@ -110,7 +109,6 @@ country_decisions = {
 					value = 1
 				}
 			}
-			is_year = 1475
 		}
 		effect = {
 			change_religion = orthodox
@@ -159,7 +157,6 @@ country_decisions = {
 		}
 		allow = {
 			has_global flag = european_atlantean_contact
-			is_year = 1475
 		}
 		effect = {
 			change_religion = orthodox

@@ -19,12 +19,46 @@ country_event = {
 	
 	option = {	
 		name = aza_thegrandson.1.a
+		trigger = {
+			A01 = {
+				was_player = no
+			}
+		}
 		ai_chance = { factor = 100 }
 		add_stability = 3
 		4702 = {
 			cede_province = A00
 			add_core = A00
 		}
+		kill_ruler= yes
+		remove_country_modifier = "aza_uncertainfuture"
+		hidden_effect = {
+			country_event = {
+				id = aza_thegrandson.2
+				days = 7
+			}
+			
+			country_event = {
+				id = aza_thebishop.1
+				days = 150
+			}	
+			
+			country_event = {
+				id = aza_theemperor.1
+				days = 60
+			}	
+		}
+	}
+
+	option = {	
+		name = aza_thegrandson.1.ap
+		trigger = {
+			A01 = {
+				was_player = yes
+			}
+		}
+		ai_chance = { factor = 100 }
+		add_stability = 3
 		kill_ruler= yes
 		remove_country_modifier = "aza_uncertainfuture"
 		hidden_effect = {
@@ -61,6 +95,11 @@ country_event = {
 	
 	option = { #Wife from Ionmym
 		name = aza_thegrandson.2.a
+		trigger = {
+			A04 = {
+				was_player = no
+			}
+		}
 		ai_chance = { factor = 50 }
 		define_consort = {
 			 name = "Adelpha"
@@ -88,6 +127,11 @@ country_event = {
 	}
 	option = { #Wife from Diaprepes
 		name = aza_thegrandson.2.b
+		trigger = {
+			A02 = {
+				was_player = no
+			}
+		}
 		ai_chance = { factor = 50 }
 		
 		define_consort = {
