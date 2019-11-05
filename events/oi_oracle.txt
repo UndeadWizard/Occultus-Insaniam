@@ -67,3 +67,40 @@ country_event = {
 		#Nothing?!
 	}
 }
+
+country_event = {
+	id = oi_oracle.6
+	title = oi_oracle.6.t
+	desc = oi_oracle.6.d
+	picture = SHIP_SAILING_eventPicture
+
+	option = {
+		name = oi_oracle.6.a
+		add_ruler_modifier = { name = ORACLE_famine }
+	}
+}
+
+#Famine
+country_event = {
+	id = oi_oracle.7
+	title = oi_oracle.7.t
+	desc = oi_oracle.7.d
+	picture = PLAGUE_eventPicture
+
+	option = {
+		name = oi_oracle.7.a
+		add_ruler_modifier = { name = ORACLE_famine }
+	}
+}
+
+country_event = {
+	id = oi_oracle.8
+	title = oi_oracle.8.t
+	desc = oi_oracle.8.d
+	picture = DEATH_OF_HEIR_eventPicture
+
+	option = {
+		name = oi_oracle.8.a
+		kill_ruler= yes
+	}
+}

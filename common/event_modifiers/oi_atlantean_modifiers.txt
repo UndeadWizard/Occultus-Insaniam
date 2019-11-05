@@ -94,3 +94,12 @@ ORACLE_boon_of_yamm = {
 ORACLE_given_nothing = {
 
 }
+
+ORACLE_famine = {
+	development_cost =  0.1
+	global_tax_modifier = -0.05	
+}
+
+ORACLE_poor_army = {
+	discipline = = -0.1	
+}
