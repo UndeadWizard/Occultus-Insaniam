@@ -6,7 +6,9 @@ country_event = {
 	title = oi_oracle.1.t
 	desc = oi_oracle.1.d
 	picture = GOOD_WITH_MONARCH_eventPicture
-
+	
+	is_triggered_only = yes
+	
 	option = {
 		name = oi_oracle.1.a
 		add_ruler_modifier = { name = ORACLE_legitimate }
@@ -21,7 +23,9 @@ country_event = {
 	title = oi_oracle.2.t
 	desc = oi_oracle.2.d
 	picture = BATTLE_eventPicture
-
+	
+	is_triggered_only = yes
+	
 	option = {
 		name = oi_oracle.2.a
 		add_ruler_modifier = { name = ORACLE_boon_of_minrva }
@@ -34,7 +38,9 @@ country_event = {
 	title = oi_oracle.3.t
 	desc = oi_oracle.3.d
 	picture = SIEGE_eventPicture
-
+	
+	is_triggered_only = yes
+	
 	option = {
 		name = oi_oracle.3.a
 		add_ruler_modifier = { name = ORACLE_jupiter_and_juno }
@@ -47,7 +53,9 @@ country_event = {
 	title = oi_oracle.4.t
 	desc = oi_oracle.4.d
 	picture = SHIP_SAILING_eventPicture
-
+	
+	is_triggered_only = yes
+	
 	option = {
 		name = oi_oracle.4.a
 		add_ruler_modifier = { name = ORACLE_boon_of_yamm }
@@ -60,7 +68,9 @@ country_event = {
 	title = oi_oracle.5.t
 	desc = oi_oracle.5.d
 	picture = BANKRUPTCY_eventPicture
-
+	
+	is_triggered_only = yes
+	
 	option = {
 		name = oi_oracle.5.a
 		add_ruler_modifier = { name = ORACLE_given_nothing }
@@ -68,37 +78,46 @@ country_event = {
 	}
 }
 
+# Famine
+
 country_event = {
 	id = oi_oracle.6
 	title = oi_oracle.6.t
 	desc = oi_oracle.6.d
-	picture = SHIP_SAILING_eventPicture
-
+	picture = FAMINE_eventPicture
+	
+	is_triggered_only = yes
+	
 	option = {
 		name = oi_oracle.6.a
 		add_ruler_modifier = { name = ORACLE_famine }
 	}
 }
 
-#Famine
+# Poor Army
 country_event = {
 	id = oi_oracle.7
 	title = oi_oracle.7.t
 	desc = oi_oracle.7.d
-	picture = PLAGUE_eventPicture
-
+	picture = BORDER_TENSIONS_eventPicture
+	
+	is_triggered_only = yes
+	
 	option = {
 		name = oi_oracle.7.a
-		add_ruler_modifier = { name = ORACLE_famine }
+		add_ruler_modifier = { name = ORACLE_poor_army }
 	}
 }
 
+# Assassinated
 country_event = {
 	id = oi_oracle.8
 	title = oi_oracle.8.t
 	desc = oi_oracle.8.d
 	picture = DEATH_OF_HEIR_eventPicture
-
+	
+	is_triggered_only = yes
+	
 	option = {
 		name = oi_oracle.8.a
 		kill_ruler= yes
