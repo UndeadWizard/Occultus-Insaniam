@@ -26,7 +26,7 @@ country_event = {
 		}
 		ai_chance = { factor = 100 }
 		add_stability = 3
-		4702 = {
+		5597 = {
 			cede_province = A00
 			add_core = A00
 		}
@@ -113,7 +113,7 @@ country_event = {
 			 dip = 4
 			 mil = 3
 		}
-		4710 = {
+		5605 = {
 			cede_province = A00
 			add_core = A00
 		}
@@ -146,7 +146,7 @@ country_event = {
 			 dip = 2
 			 mil = 3
 		}
-		4703 = {
+		5598 = {
 			cede_province = A00
 			add_core = A00
 		}
@@ -179,10 +179,10 @@ country_event = {
 		
 		release_all_subjects = yes
 		
-		4703 = {
+		5598 = {
 			add_claim = A00
 		}
-		4705 = {
+		5600 = {
 			add_claim = A00
 		}
 	}
@@ -207,10 +207,10 @@ country_event = {
 		
 		release_all_subjects = yes
 		
-		4710 = {
+		5605 = {
 			add_claim = A00
 		}
-		4705 = {
+		5600 = {
 			add_claim = A00
 		}
 	}

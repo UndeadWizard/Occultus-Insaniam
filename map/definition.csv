@@ -4692,31 +4692,31 @@ province;red;green;blue;x;x
 4691;255;227;0;As;x
 4692;255;213;0;Turgay;x
 4693;254;103;217;Keriya;x
-4694;30;131;153;Schiza;Atlantis
-4695;202;158;199;Thautori;Atlantis
-4696;180;220;217;Chrysos;Atlantis
-4697;238;90;111;Erredurak;Atlantis
-4698;129;115;87;Kosmima;Atlantis
-4699;149;21;129;Zomos;Atlantis
-4700;166;25;181;Anatolikos;Atlantis
-4701;228;87;182;Rakkad;Atlantis
-4702;216;202;115;Acens;Atlantis
-4703;223;177;208;Decerikon;Atlantis
-4704;97;14;51;Ura;Atlantis
-4705;54;232;122;Nea Gnaisis;Atlantis
-4706;12;75;22;Apoak;Atlantis
-4707;176;118;78;Telamon;Atlantis
-4708;239;205;122;Yamylaik;Atlantis
-4709;106;130;11;Mount Atlas;Wasteland
-4710;56;104;14;Ionmym;Atlantis
-4711;246;93;216;Thonrodo;Atlantis
-4712;147;20;14;Sounlymphi;Atlantis
-4713;184;13;220;Pialisdau;Atlantis
-4714;242;88;85;Zuhaitz;Atlantis
-4715;228;211;71;Voreias;Atlantis
-4716;228;95;143;Bihotza;Atlantis
-4717;106;120;11;Charsum Ridge;Wasteland
-4718;162;219;147;Tadora;Atlantis
+4694;-1;-1;-1;x;Unused
+4695;-1;-1;-1;x;Unused
+4696;-1;-1;-1;x;Unused
+4697;-1;-1;-1;x;Unused
+4698;-1;-1;-1;x;Unused
+4699;-1;-1;-1;x;Unused
+4700;-1;-1;-1;x;Unused
+4701;-1;-1;-1;x;Unused
+4702;-1;-1;-1;x;Unused
+4703;-1;-1;-1;x;Unused
+4704;-1;-1;-1;x;Unused
+4705;-1;-1;-1;x;Unused
+4706;-1;-1;-1;x;Unused
+4707;-1;-1;-1;x;Unused
+4708;-1;-1;-1;x;Unused
+4709;-1;-1;-1;x;Unused
+4710;-1;-1;-1;x;Unused
+4711;-1;-1;-1;x;Unused
+4712;-1;-1;-1;x;Unused
+4713;-1;-1;-1;x;Unused
+4714;-1;-1;-1;x;Unused
+4715;-1;-1;-1;x;Unused
+4716;-1;-1;-1;x;Unused
+4717;-1;-1;-1;x;Unused
+4718;-1;-1;-1;x;Unused
 4719;35;199;21;Estu;Atlantis
 4720;110;75;30;Zekes;Atlantis
 4721;51;210;118;Naimyte;Atlantis
@@ -5587,4 +5587,28 @@ province;red;green;blue;x;x
 5586;121;199;119;Polismos Ridge;Wasteland
 5587;240;182;130;Vounospiti;Atlantis
 5588;132;13;129;Katoikia;Atlantis
-5589;20;20;20;Avalon;Atlantis
+5589;30;131;153;Schiza;Atlantis
+5590;202;158;199;Thautori;Atlantis
+5591;180;220;217;Nea Gnaisis;Atlantis
+5592;238;90;111;Erredurak;Atlantis
+5593;129;115;87;Kosmima;Atlantis
+5594;149;21;129;Dryca;Atlantis
+5595;166;25;181;Anatolikos;Atlantis
+5596;228;87;182;Rakkad;Atlantis
+5597;216;202;115;Acens;Atlantis
+5598;223;177;208;Decerikon;Atlantis
+5599;97;14;51;Ura;Atlantis
+5600;54;232;122;Chrysos;Atlantis
+5601;12;75;22;Apoak;Atlantis
+5602;176;118;78;Telamon;Atlantis
+5603;239;205;122;Yamylaik;Atlantis
+5604;106;130;11;Mount Atlas;Wasteland
+5605;56;104;14;Ionmym;Atlantis
+5606;246;93;216;Thonrodo;Atlantis
+5607;147;20;14;Sounlymphi;Atlantis
+5608;184;13;220;Pialisdau;Atlantis
+5609;242;88;85;Zuhaitz;Atlantis
+5610;228;211;71;Voreias;Atlantis
+5611;228;95;143;Bihotza;Atlantis
+5612;106;120;11;Charsum Ridge;Wasteland
+5613;162;219;147;Tadora;Atlantis

@@ -66,10 +66,10 @@ country_event = {
 		ai_chance = { factor = 50 }
 		add_prestige = -10
 		add_treasury = 50	
-		4702 = {
+		5597 = {
 			change_religion = heptarchic
 		}
-		4704 = {
+		5599 = {
 			change_religion = heptarchic
 		}
 	}	
