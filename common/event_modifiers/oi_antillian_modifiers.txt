@@ -31,7 +31,7 @@ ANX_carribean_goods = {
 }
 
 ANX_reconnected_roots = {
-	global_missionary_strength = .02
+	global_missionary_strength = 0.02
 }
 
 ANX_nahua_gold = {
@@ -55,7 +55,7 @@ ANX_pushing_east = {
 }
 
 ANX_global_trade = {
-	trade_efficiency = .1
+	trade_efficiency = 0.1
 }
 
 ANX_brazil_trade = {

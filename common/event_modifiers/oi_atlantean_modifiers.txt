@@ -101,5 +101,5 @@ ORACLE_famine = {
 }
 
 ORACLE_poor_army = {
-	discipline = = -0.1	
+	discipline = -0.1	
 }

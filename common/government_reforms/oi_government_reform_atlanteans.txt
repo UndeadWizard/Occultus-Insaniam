@@ -62,7 +62,7 @@ centralized_imperatorship_reform = {
 	modifiers = {
 		global_tax_modifier = 0.05	
 		discipline = 0.01
-		leader_land_siege = 1	
+		leader_siege = 1	
 		max_absolutism = 20
 	}
 		
