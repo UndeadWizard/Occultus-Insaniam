@@ -27,9 +27,11 @@ monarchy = {
 				english_monarchy
 				mandala_reform
 				revolutionary_empire_reform
+				#OI Governments
 				atlantean_warring_state
 				decentralized_imperatorship_reform
 				centralized_imperatorship_reform
+				dragon_empire
 			}
 		}
 		hereditary_vs_nobility = {
@@ -203,6 +205,7 @@ republic = {
 				revolutionary_republic_reform
 				presidential_despot_reform
 				cossacks_reform
+				#OI Governments
 				antillian_republic
 				patricianship
 				council_reform
@@ -378,6 +381,7 @@ theocracy = {
 				leading_clergy_reform
 				monastic_order_reform
 				papacy_reform
+				#OI Governments
 				archbishop_reform
 			}
 		}

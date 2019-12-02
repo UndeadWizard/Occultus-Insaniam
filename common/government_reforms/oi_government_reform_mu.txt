@@ -1,0 +1,34 @@
+# Mu Dragon Empire government
+dragon_empire = {
+	icon = "celestial_empire"
+	allow_normal_conversion = no
+	potential = {
+		OR = {
+			has_reform = dragon_empire
+			has_had_reform = dragon_empire
+		}
+	}
+	#legacy_equivalent = dragon_empire_legacy
+	maintain_dynasty = yes
+	allow_force_tributary = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 10
+	lock_level_when_selected = yes
+	nation_designer_trigger = {
+		culture_group = mu_group
+		technology_group = muror
+		capital_scope = {
+			continent = mu
+		}
+	}
+	fixed_rank = 3
+
+	modifiers = {
+		prestige = 0.5
+		technology_cost = -0.1
+	}
+	
+	ai = {
+		factor = 1000 # should always be picked if available
+	}
+}

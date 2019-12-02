@@ -1,0 +1,97 @@
+dragon_empire_gov = {
+	rank = {
+		3 = dragon_empire
+	}
+	
+	ruler_male = {
+		3 = EMPEROR
+	}
+	
+	ruler_female = {
+		3 = EMPRESS
+	}
+	
+	trigger = {
+		has_reform = dragon_empire
+	}
+}
+
+patricianship_gov = {
+	rank = {
+		1 = patricianship
+		2 = patricianship
+		3 = patricianship
+	}
+	
+	ruler_male = {
+		1 = SYNDIC
+		2 = GRAND_SYNDIC
+		3 = PRESIDENT
+	}
+	
+	ruler_female = {
+		1 = SYNDIC_fem
+		2 = GRAND_SYNDIC_fem
+		3 = PRESIDENT_fem
+	}
+	
+	trigger = {
+		has_reform = patricianship
+	}
+}
+
+decentralized_imperatorship_reform  ={
+	rank = {
+		1 = PRINCEDOM
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	ruler_male = {
+		1 = IMPERATOR
+		2 = IMPERATOR
+		3 = IMPERATOR
+	}
+	ruler_female = {
+		1 = IMPERATORESS
+		2 = IMPERATORESS
+		3 = IMPERATORESS
+	}
+}
+
+centralized_imperatorship_reform  ={
+	rank = {
+		1 = PRINCEDOM
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	ruler_male = {
+		1 = IMPERATOR
+		2 = IMPERATOR
+		3 = IMPERATOR
+	}
+	ruler_female = {
+		1 = IMPERATORESS
+		2 = IMPERATORESS
+		3 = IMPERATORESS
+	}
+}
+
+archbishop_reform = {
+	rank = {
+		1 = BISHOPRIC
+		2 = ARCHBISHOPRIC
+		3 = PRIME_ARCHBISHOPRIC
+	}
+	
+	ruler_male = {
+		1 = BISHOP
+		2 = ARCHBISHOP
+		3 = SUPREME_ARCHBISHOP
+	}
+
+	ruler_female = {
+		1 = BISHOP_fem
+		2 = ARCHBISHOP_fem
+		3 = MATRIARCH
+	}
+}

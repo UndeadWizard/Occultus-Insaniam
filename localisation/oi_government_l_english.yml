@@ -1,5 +1,11 @@
 ﻿l_english:
 
+IMPERATOR: "Imperator"
+IMPERATORESS: "Imperatoress"
+SUPREME_ARCHBISHOP: "Supreme Archbishop"
+
+PRIME_ARCHBISHOPRIC: "Prime Archbishopric"
+
 #Monarchies
 atlantean_warring_state: "Warlord State"
 atlantean_warring_state_desc: "After the Collapse, many Atlantean states adopted a strictly militarized form of government consolidated under a single ruler. However, such a system led to more autonomous regions."
