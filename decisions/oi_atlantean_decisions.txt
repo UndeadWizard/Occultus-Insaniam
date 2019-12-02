@@ -3,13 +3,7 @@ country_decisions = {
 		potential = {
 			religion = atlanic
 			OR = {
-				NOT = { has_ruler_modifier = ORACLE_legitimate }
-				NOT = { has_ruler_modifier = ORACLE_boon_of_minrva }
-				NOT = { has_ruler_modifier = ORACLE_jupiter_and_juno }
-				NOT = { has_ruler_modifier = ORACLE_boon_of_yamm }
-				NOT = { has_ruler_modifier = ORACLE_given_nothing }
-				NOT = { has_ruler_modifier = ORACLE_famine }
-				NOT = { has_ruler_modifier = ORACLE_poor_army }
+				NOT = { has_ruler_flag = visited_oracle }
 			}
 		}
 		effect = {

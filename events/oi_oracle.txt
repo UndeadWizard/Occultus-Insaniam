@@ -9,6 +9,12 @@ country_event = {
 	
 	is_triggered_only = yes
 	
+	immediate = {
+        hidden_effect = {
+			set_ruler_flag = visited_oracle
+        }
+    }
+	
 	option = {
 		name = oi_oracle.1.a
 		add_ruler_modifier = { name = ORACLE_legitimate }
@@ -26,6 +32,12 @@ country_event = {
 	
 	is_triggered_only = yes
 	
+	immediate = {
+        hidden_effect = {
+			set_ruler_flag = visited_oracle
+        }
+    }
+	
 	option = {
 		name = oi_oracle.2.a
 		add_ruler_modifier = { name = ORACLE_boon_of_minrva }
@@ -40,6 +52,12 @@ country_event = {
 	picture = SIEGE_eventPicture
 	
 	is_triggered_only = yes
+	
+	immediate = {
+        hidden_effect = {
+			set_ruler_flag = visited_oracle
+        }
+    }
 	
 	option = {
 		name = oi_oracle.3.a
@@ -56,6 +74,12 @@ country_event = {
 	
 	is_triggered_only = yes
 	
+	immediate = {
+        hidden_effect = {
+			set_ruler_flag = visited_oracle
+        }
+    }
+	
 	option = {
 		name = oi_oracle.4.a
 		add_ruler_modifier = { name = ORACLE_boon_of_yamm }
@@ -70,6 +94,12 @@ country_event = {
 	picture = BANKRUPTCY_eventPicture
 	
 	is_triggered_only = yes
+	
+	immediate = {
+        hidden_effect = {
+			set_ruler_flag = visited_oracle
+        }
+    }
 	
 	option = {
 		name = oi_oracle.5.a
@@ -88,6 +118,12 @@ country_event = {
 	
 	is_triggered_only = yes
 	
+	immediate = {
+        hidden_effect = {
+			set_ruler_flag = visited_oracle
+        }
+    }
+	
 	option = {
 		name = oi_oracle.6.a
 		add_ruler_modifier = { name = ORACLE_famine }
@@ -103,6 +139,12 @@ country_event = {
 	
 	is_triggered_only = yes
 	
+	immediate = {
+        hidden_effect = {
+			set_ruler_flag = visited_oracle
+        }
+    }
+	
 	option = {
 		name = oi_oracle.7.a
 		add_ruler_modifier = { name = ORACLE_poor_army }
@@ -117,6 +159,12 @@ country_event = {
 	picture = DEATH_OF_HEIR_eventPicture
 	
 	is_triggered_only = yes
+	
+	immediate = {
+        hidden_effect = {
+			set_ruler_flag = visited_oracle
+        }
+    }
 	
 	option = {
 		name = oi_oracle.8.a
