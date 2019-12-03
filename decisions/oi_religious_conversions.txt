@@ -15,7 +15,7 @@ country_decisions = {
 		allow = {
 			OR = {
 				has_global_flag = european_antillian_religious_exchange
-				has_global flag = european_atlantean_contact
+				has_global_flag = european_atlantean_contact
 			}
 			OR = {
 				num_of_religion = {
@@ -93,7 +93,7 @@ country_decisions = {
 			NOT = { tag = A40 }
 			OR = {
 				has_global_flag = european_antillian_religious_exchange
-				has_global flag = european_atlantean_contact
+				has_global_flag = european_atlantean_contact
 			}
 			OR = {
 				num_of_religion = {
@@ -156,7 +156,7 @@ country_decisions = {
 			}
 		}
 		allow = {
-			has_global flag = european_atlantean_contact
+			has_global_flag = european_atlantean_contact
 		}
 		effect = {
 			change_religion = orthodox

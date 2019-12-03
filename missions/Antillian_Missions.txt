@@ -102,7 +102,7 @@ antillian_missions_left = {
 					colonial_louisiana = {
 						has_discovered = ROOT
 					}
-					colonial_east_america = {
+					colonial_eastern_america = {
 						has_discovered = ROOT
 					}
 				}
@@ -316,9 +316,7 @@ antillian_missions_middle = {
 		
 		trigger = {
 			atlantean_superregion = {
-					limit = {
-						owned_by = ROOT
-					}
+				owned_by = ROOT
 			}
 		}
 		effect = {

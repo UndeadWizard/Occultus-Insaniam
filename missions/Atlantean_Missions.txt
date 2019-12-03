@@ -17,7 +17,11 @@ atlantean_missions_far_left = {
 		
 		trigger = {
 			OR = {
-				eusebes_area = {
+				arrantza_area = {
+					type = all
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+				philippi_area = {
 					type = all
 					country_or_non_sovereign_subject_holds = ROOT
 				}
@@ -99,7 +103,7 @@ atlantean_missions_far_left = {
 					colonial_louisiana = {
 						has_discovered = ROOT
 					}
-					colonial_east_america = {
+					colonial_eastern_america = {
 						has_discovered = ROOT
 					}
 				}
@@ -175,7 +179,7 @@ atlantean_missions_far_left = {
 		position = 5
 		
 		trigger = {
-			antillian_region = {
+			antillia_region = {
 				type = all
 				country_or_non_sovereign_subject_holds = ROOT
 			}
@@ -232,7 +236,7 @@ atlantean_missions_left = {
 				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 					value = 1
 					area = tridentislands_area
-					is_core = yes
+					is_core = ROOT
 				}
 			}
 		}
@@ -319,7 +323,7 @@ atlantean_missions_middle = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 				value = 5
 				region = atlantean_crownlands
-				is_core = yes
+				is_core = ROOT
 			}
 		}
 		effect = {

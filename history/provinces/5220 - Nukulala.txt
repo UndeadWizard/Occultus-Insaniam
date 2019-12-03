@@ -3,7 +3,7 @@
 owner = M02
 controller = M02
 add_core = M02
-is_city = M02
+is_city = yes
 
 base_tax = 2
 base_production = 3
