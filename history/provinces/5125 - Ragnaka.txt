@@ -1,8 +1,8 @@
 #5125 - Leapea
 
-owner = M01
-controller = M01
-add_core = M01
+owner = P01
+controller = P01
+add_core = P01
 is_city = yes
 
 base_tax = 3

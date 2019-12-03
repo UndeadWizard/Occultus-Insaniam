@@ -1,8 +1,8 @@
 #5162 - Hota'polu
 
-owner = M06
-controller = M06
-add_core = M06
+owner = P06
+controller = P06
+add_core = P06
 is_city = yes
 
 base_tax = 3

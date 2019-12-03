@@ -4,7 +4,7 @@ AYA = "countries/Ayadon.txt"
 ANX = "countries/Antillia.txt"
 
 # Atlantis
-A00 = "countries/Azares.txt"        # Atlanic, High Atlantean, Monarchy
+A00 = "countries/Azares.txt"        # Atlanic, High Atlantean, Imperator
 A01 = "countries/Doroncen.txt"		# Atlanic, High Atlantean, Monarchy
 A02 = "countries/Diaprepes.txt"     # Atlanic, High Atlantean, Monarchy
 A03 = "countries/Chrysoses.txt"     # Atlanic, High Atlantean, Monarchy
@@ -116,12 +116,15 @@ L34 = "countries/Amuneym.txt"  		# Zoroastrian, Pasandhi, Monarchy
 
 #Mu
 #M00 - For Easter Egg later
-M01 = "countries/Kealakekua.txt"    # Tiki, Hawaiian, Tribal Kingdom
-M02 = "countries/Mui.txt"      		# Tiki, Hawaiian, Tribal Federation
-M03 = "countries/Alohila.txt"  		# Tiki, Hawaiian, Tribal Federation
-M04 = "countries/Mahau.txt"  		# Tiki, Rapanni, Tribal Kingdom
-M05 = "countries/Akina.txt"  		# Tiki, Rapanni, Tribal Federation
-M06 = "countries/Keleko.txt"  		# Tiki, Savaikian, Tribal Kingdom
-M07 = "countries/Laemo.txt"  		# Tiki, Savaikian, Tribal Kingdom
-M08 = "countries/Notua.txt"			# Tiki, Waponi, Tribal Kingdom
-M09 = "countries/Olia.txt"			# Tiki, Samoan, Tribal Federation
+P01 = "countries/Kealakekua.txt"    # Tiki, Hawaiian, Tribal Kingdom
+P02 = "countries/Mui.txt"      		# Tiki, Hawaiian, Tribal Federation
+P03 = "countries/Alohila.txt"  		# Tiki, Hawaiian, Tribal Federation
+P04 = "countries/Mahau.txt"  		# Tiki, Rapanni, Tribal Kingdom
+P05 = "countries/Akina.txt"  		# Tiki, Rapanni, Tribal Federation
+P06 = "countries/Keleko.txt"  		# Tiki, Savaikian, Tribal Kingdom
+P07 = "countries/Laemo.txt"  		# Tiki, Savaikian, Tribal Kingdom
+P08 = "countries/Notua.txt"			# Tiki, Waponi, Tribal Kingdom
+P09 = "countries/Olia.txt"			# Tiki, Samoan, Tribal Federation
+
+MU0 =  "countries/Neji.txt"    		# Dragon Gods, Muror, Dragon Empire
+M01 =  "countries/Ganara.txt"   	# Dragon Gods, Muror, Monarchy

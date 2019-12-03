@@ -1,0 +1,8 @@
+# All Mu nations are tributary to the current Dragon Emperor
+dependency = {
+	subject_type = "tributary_state"
+	first = MU0
+	second = M01
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}

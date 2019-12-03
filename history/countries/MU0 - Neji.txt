@@ -1,0 +1,32 @@
+government = monarchy
+add_government_reform = dragon_empire
+government_rank = 3
+technology_group = muror
+religion = dragon_gods
+primary_culture = muror
+capital = 5235
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Nalanie"
+		dynasty = "Ikepela"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1383.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Shâh"
+		monarch_name = "Shâh"
+		dynasty = "Ikepela"
+		adm = 2
+		dip = 2
+		mil = 4
+		claim = 50
+		birth_date = 1426.1.1
+		death_date = 1460.1.1
+	}
+}

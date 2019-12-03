@@ -1,8 +1,8 @@
 #5171 - Puputua
 
-owner = M08
-controller = M08
-add_core = M08
+owner = P08
+controller = P08
+add_core = P08
 is_city = yes
 
 base_tax = 3

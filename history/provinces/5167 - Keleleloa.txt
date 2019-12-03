@@ -1,8 +1,8 @@
 #5167 - Keleleloa
 
-owner = M07
-controller = M07
-add_core = M07
+owner = P07
+controller = P07
+add_core = P07
 is_city = yes
 
 base_tax = 3

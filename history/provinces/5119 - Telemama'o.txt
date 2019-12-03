@@ -1,8 +1,8 @@
 #5119 - Telemama'o
 
-owner = M02
-controller = M02
-add_core = M02
+owner = P02
+controller = P02
+add_core = P02
 is_city = yes
 
 base_tax = 3

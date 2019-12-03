@@ -1,8 +1,8 @@
 #5136 - Makaufo'ou
 
-owner = M03
-controller = M03
-add_core = M03
+owner = P03
+controller = P03
+add_core = P03
 is_city = yes
 
 base_tax = 3
