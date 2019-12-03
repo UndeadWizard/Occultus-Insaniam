@@ -6,3 +6,44 @@ dependency = {
 	start_date = 1444.1.1
 	end_date = 1900.1.1
 }
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MU0
+	second = M02
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MU0
+	second = M03
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MU0
+	second = M04
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MU0
+	second = M05
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = MU0
+	second = M06
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+

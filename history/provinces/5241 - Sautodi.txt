@@ -5,12 +5,15 @@ controller = MU0
 add_core = MU0
 is_city = MU0
 
-base_tax = 3
-base_production = 4
-base_manpower = 2
+
+base_tax = 6
+base_production = 6
+base_manpower = 5
 
 culture = muror
 religion = dragon_gods
 
-trade_goods = wool
+trade_goods = silk
 hre = no 
+
+discovered_by = muror

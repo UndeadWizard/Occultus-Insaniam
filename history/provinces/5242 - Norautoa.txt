@@ -12,5 +12,7 @@ base_manpower = 2
 culture = muror
 religion = dragon_gods
 
-trade_goods = wool
+trade_goods = cloth
 hre = no 
+
+discovered_by = muror

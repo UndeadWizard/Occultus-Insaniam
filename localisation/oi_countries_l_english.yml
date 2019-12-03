@@ -223,6 +223,17 @@
  MU0_ADJ: "Nejini"
  M01: "Ganara"
  M01_ADJ: "Ganaran"
+ M02: "Q'tir"
+ M02_ADJ: "Q'tirani"
+ M03: "Seybila"
+ M03_ADJ: "Seybilan"
+ M04:"Tizoc"
+ M04_ADJ: "Tizocan"
+ M05:"Labn"
+ M05_ADJ: "Labni"
+ M06: "Awarurua"
+ M06_ADJ: "Awaruruan"
+ 
  #Polynesians
  P01: "Kealakekua"
  P01_ADJ: "Kealakekuan"

@@ -14,3 +14,5 @@ religion = dragon_gods
 
 trade_goods = tropical_wood
 hre = no 
+
+discovered_by = muror

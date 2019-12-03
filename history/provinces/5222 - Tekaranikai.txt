@@ -1,16 +1,18 @@
 #5222 - Tekaranikai
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = M02
+controller = M02
+add_core = M02
+is_city = M02
 
-base_tax = 3
-base_production = 1
-base_manpower = 2
+base_tax = 4
+base_production = 4 
+base_manpower = 6
 
 culture = muror
-religion = animism
+religion = dragon_gods
 
-trade_goods = unknown
+trade_goods = cloth
 hre = no 
+
+discovered_by = muror
