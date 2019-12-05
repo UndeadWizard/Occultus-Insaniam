@@ -8,6 +8,10 @@ dragon_empire = {
 	
 	#legacy_equivalent = dragon_empire_legacy
 	maintain_dynasty = yes
+	
+	allow_vassal_war = yes
+	allow_vassal_alliance = yes
+	
 	allow_force_tributary = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 10
@@ -30,5 +34,69 @@ dragon_empire = {
 	
 	ai = {
 		factor = 1000 # should always be picked if available
+	}
+}
+
+
+dragon_noble = {
+	icon = "daimyo"
+	allow_normal_conversion = no
+	potential = {
+		overlord = { has_reform = dragon_empire }
+	}
+	fixed_rank = 1
+	maintain_dynasty = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	lock_level_when_selected = yes
+	nation_designer_trigger = {
+		culture_group = muror
+		technology_group = muror
+		capital_scope = { region = mu_gulf }
+	}
+	modifiers = {
+		land_morale = 0.1
+		infantry_power = 0.1
+	}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+
+dragon_king = {
+	icon = "samurai"
+	allow_normal_conversion = no
+	potential = {
+		OR = {
+			AND = {
+				OR = {
+					is_subject = no
+					overlord = { NOT = { has_reform = dragon_empire } }
+				}
+				capital_scope = { region = mu_gulf }
+				culture_group = muror
+			}
+			AND = {
+				is_playing_custom_nation = yes
+				have_had_reform = dragon_king
+			}
+		}
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	nation_designer_trigger = {
+		culture_group = muror
+		technology_group = muror
+		capital_scope = { region = mu_gulf }
+	}
+	maintain_dynasty = yes
+
+	modifiers = {
+		land_morale = 0.1
+		infantry_power = 0.1
+		max_states = -3
+	}
+	custom_attributes = {
+		locked_government_type = yes
 	}
 }

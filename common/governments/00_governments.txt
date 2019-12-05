@@ -32,6 +32,8 @@ monarchy = {
 				decentralized_imperatorship_reform
 				centralized_imperatorship_reform
 				dragon_empire
+				dragon_noble
+				dragon_king
 			}
 		}
 		hereditary_vs_nobility = {

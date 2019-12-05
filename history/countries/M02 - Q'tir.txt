@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = autocracy_reform
+add_government_reform = dragon_noble
 technology_group = muror
 religion = dragon_gods
 primary_culture = muror
