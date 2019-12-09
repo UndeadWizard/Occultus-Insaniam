@@ -1,16 +1,18 @@
 #5261 - Lovavuka
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = M09
+controller = M09
+add_core = M09
+is_city = yes
 
 base_tax = 3
-base_production = 1
-base_manpower = 2
+base_production = 2
+base_manpower = 4
 
 culture = muror
-religion = animism
+religion = dragon_gods
 
-trade_goods = unknown
+trade_goods = grain
 hre = no 
+
+discovered_by = muror

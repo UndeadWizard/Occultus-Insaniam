@@ -134,3 +134,5 @@ M04 =  "countries/Tizeoc.txt"   	# Dragon Gods, Muror, Monarchy
 M05 =  "countries/Awarurua.txt"   	# Dragon Gods, Muror, Monarchy
 M06 =  "countries/Saik'al.txt"		# Dragon Gods, Muror, Monarchy
 M07 =  "countries/Seybila.txt"   	# Dragon Gods, Muror, Monarchy
+M08 =  "countries/Tollang.txt"		# Dragon Gods, Muror, Monarchy
+M09 =  "countries/Yollohtli.txt" 	# Dragon Gods, Muror, Monarchy

@@ -253,7 +253,7 @@ antillian_missions_middle = {
 				limit = {
 					NOT = { is_permanent_claim = ROOT }
 				}
-				is_permanent_claim = ROOT
+				add_permanent_claim = ROOT
 			}
 		}
 	}

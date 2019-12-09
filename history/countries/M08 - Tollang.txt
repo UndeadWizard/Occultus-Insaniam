@@ -1,0 +1,45 @@
+government = monarchy
+add_government_reform = dragon_noble
+technology_group = muror
+religion = dragon_gods
+primary_culture = muror
+capital = 5250
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Chei"
+		dynasty = "Ho'okano"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1378.1.1
+	}
+
+	queen = {
+		country_of_origin = M09 
+		name = "Moerani"
+		dynasty = "Ho'okano"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1395.1.1
+		death_date = 1528.1.1
+		female = yes
+	}
+
+	heir = {
+		name = "Nanihi"
+		monarch_name = "Nanihi"
+		dynasty = "Ho'okano"
+		adm = 1
+		dip = 4
+		mil = 5
+		claim = 25
+		birth_date = 1426.1.1
+		death_date = 1503.1.1
+		female = yes
+	}
+}
+
+

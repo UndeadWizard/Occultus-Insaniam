@@ -40,24 +40,6 @@ patricianship_gov = {
 	}
 }
 
-decentralized_imperatorship_reform  ={
-	rank = {
-		1 = PRINCEDOM
-		2 = KINGDOM
-		3 = EMPIRE
-	}
-	ruler_male = {
-		1 = IMPERATOR
-		2 = IMPERATOR
-		3 = IMPERATOR
-	}
-	ruler_female = {
-		1 = IMPERATORESS
-		2 = IMPERATORESS
-		3 = IMPERATORESS
-	}
-}
-
 centralized_imperatorship_reform  ={
 	rank = {
 		1 = PRINCEDOM
@@ -74,6 +56,13 @@ centralized_imperatorship_reform  ={
 		2 = IMPERATORESS
 		3 = IMPERATORESS
 	}
+	
+	trigger = {
+		OR = {
+			has_reform = decentralized_imperatorship_reform
+			has_reform = centralized_imperatorship_reform
+		}
+	}
 }
 
 archbishop_reform = {
@@ -84,14 +73,18 @@ archbishop_reform = {
 	}
 	
 	ruler_male = {
-		1 = BISHOP
-		2 = ARCHBISHOP
-		3 = SUPREME_ARCHBISHOP
+		1 = ARCHBISHOP
+		2 = SUPREME_ARCHBISHOP
+		3 = LORD_ARCHBISHOP
 	}
 
 	ruler_female = {
 		1 = BISHOP_fem
 		2 = ARCHBISHOP_fem
 		3 = MATRIARCH
+	}
+	
+	trigger = {
+		has_reform = archbishop_reform
 	}
 }
