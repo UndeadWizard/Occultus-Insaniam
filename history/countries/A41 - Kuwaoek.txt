@@ -3,7 +3,7 @@ add_government_reform = atlantean_warring_state
 technology_group = atlantean
 religion = heptarchic
 primary_culture = poenici
-capital = 4745
+capital = 5640
 
 #Shattered Trident
 1444.1.1 = {

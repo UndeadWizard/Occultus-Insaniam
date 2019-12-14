@@ -3,7 +3,7 @@ add_government_reform = atlantean_warring_state
 technology_group = atlantean
 religion = atlanic
 primary_culture = ayadoni
-capital = 4747
+capital = 5642
 
 1444.11.10 = {
 	monarch = {
