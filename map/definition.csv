@@ -4717,32 +4717,32 @@ province;red;green;blue;x;x
 4716;78;78;56;x;Unused
 4717;78;78;57;x;Unused
 4718;78;78;58;x;Unused
-4719;35;199;21;Estu;Atlantis
-4720;110;75;30;Zekes;Atlantis
-4721;51;210;118;Naimyte;Atlantis
-4722;99;213;100;Osoa;Atlantis
-4723;181;201;118;Nea Telamon;Atlantis
-4724;113;24;26;Turan;Atlantis
-4725;124;68;61;Enschaens;Atlantis
-4726;46;79;104;Lavacromara;Atlantis
-4727;51;120;59;Troia;Atlantis
-4728;99;141;112;Hermus;Atlantis
-4729;102;72;191;Turrhenoi;Atlantis
-4730;182;239;79;Maratirath;Atlantis
-4731;218;191;205;Nea Mysias;Atlantis
-4732;137;27;64;Sagarrondoa;Atlantis
-4733;76;173;105;Archae Mysias;Atlantis
-4734;246;243;10;Vescleves;Atlantis
-4735;170;115;82;Pedaekaetopros;Atlantis
-4736;31;166;2;Tasmachalos;Atlantis
-4737;176;62;59;Acrorhambr;Atlantis
-4738;106;110;11;Natherion Summit;Wasteland
-4739;170;170;33;Txalupa;Atlantis
-4740;132;50;85;Durak;Atlantis
-4741;68;199;75;Erranti;Atlantis
-4742;131;84;191;Kolpoli;Atlantis
-4743;181;146;22;Udare;Atlantis
-4744;125;13;82;Hondartza;Atlantis
+4719;78;78;59;x;Unused
+4720;78;78;60;x;Unused
+4721;78;78;61;x;Unused
+4722;78;78;62;x;Unused
+4723;78;78;63;x;Unused
+4724;78;78;64;x;Unused
+4725;78;78;65;x;Unused
+4726;78;78;66;x;Unused
+4727;78;78;67;x;Unused
+4728;78;78;68;x;Unused
+4729;78;78;69;x;Unused
+4730;78;78;70;x;Unused
+4731;78;78;71;x;Unused
+4732;78;78;72;x;Unused
+4733;78;78;73;x;Unused
+4734;78;78;74;x;Unused
+4735;78;78;75;x;Unused
+4736;78;78;76;x;Unused
+4737;78;78;77;x;Unused
+4738;78;78;78;x;Unused
+4739;78;78;79;x;Unused
+4740;78;78;80;x;Unused
+4741;78;78;81;x;Unused
+4742;78;78;82;x;Unused
+4743;78;78;83;x;Unused
+4744;78;78;84;x;Unused
 4745;140;86;50;Kuwarra;Atlantis
 4746;247;162;92;Asagm;Atlantis
 4747;122;196;6;Iyolaci;Atlantis
@@ -5612,3 +5612,29 @@ province;red;green;blue;x;x
 5611;228;95;143;Bihotza;Atlantis
 5612;106;120;11;Charsum Ridge;Wasteland
 5613;162;219;147;Tadora;Atlantis
+5614;35;199;21;Estu;Atlantis
+5615;110;75;30;Zekes;Atlantis
+5616;51;210;118;Naimyte;Atlantis
+5617;99;213;100;Osoa;Atlantis
+5618;181;201;118;Nea Telamon;Atlantis
+5619;113;24;26;Turan;Atlantis
+5620;124;68;61;Enschaens;Atlantis
+5621;46;79;104;Lavacromara;Atlantis
+5622;51;120;59;Troia;Atlantis
+5623;99;141;112;Hermus;Atlantis
+5624;102;72;191;Turrhenoi;Atlantis
+5625;182;239;79;Maratirath;Atlantis
+5626;218;191;205;Nea Mysias;Atlantis
+5627;137;27;64;Sagarrondoa;Atlantis
+5628;76;173;105;Archae Mysias;Atlantis
+5629;246;243;10;Vescleves;Atlantis
+5630;170;115;82;Pedaekaetopros;Atlantis
+5631;31;166;2;Tasmachalos;Atlantis
+5632;176;62;59;Acrorhambr;Atlantis
+5633;106;110;11;Natherion Summit;Wasteland
+5634;170;170;33;Txalupa;Atlantis
+5635;132;50;85;Durak;Atlantis
+5636;68;199;75;Erranti;Atlantis
+5637;131;84;191;Kolpoli;Atlantis
+5638;181;146;22;Udare;Atlantis
+5639;125;13;82;Hondartza;Atlantis

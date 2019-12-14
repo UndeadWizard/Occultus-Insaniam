@@ -61,15 +61,15 @@ telamon_area ={
 }
 
 pialisdau_area ={
-	5607 5608 4720 4721
+	5607 5608 5615 5616
 }
 
 turan_area ={
-	4723 4724 4725 4726
+	5618 5619 5620 5621
 }
 
 hermus_area ={
-	4727 4728 4729 4743 4744
+	5622 5623 5624 5638 5639
 }
 
 voreias_area ={
@@ -77,11 +77,11 @@ voreias_area ={
 }
 
 vescleves_areas ={
-	4719 4722 4731 4733 4734
+	5614 5617 5626 5628 5629
 }
 
 meropisa_area ={
-	4730 4732 4755
+	5625 5627 4755
 }
 
 tridentislands_area ={
@@ -89,11 +89,11 @@ tridentislands_area ={
 }
 
 errani_area ={
-	4739 4740 4741 4742
+	5634 5635 5636 5637
 }
 
 iyolaci_area ={
-	4735 4736 4737 4747
+	5630 5631 5632 4747
 }
 
 kuwarra_area ={

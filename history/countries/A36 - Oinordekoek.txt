@@ -3,7 +3,7 @@ add_government_reform = atlantean_warring_state
 technology_group = atlantean
 religion = atlanic
 primary_culture = alyshi
-capital = 4729
+capital = 5624
 
 #Shattered Trident
 1444.1.1 = {
