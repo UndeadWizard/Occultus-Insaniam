@@ -98,7 +98,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1751;226;sea;1293;-1;-1;-1;-1;Ceuta-Gibraltar
 4353;4352;sea;1397;-1;-1;-1;-1;Leyte-Cebu
 4351;4352;sea;1397;-1;-1;-1;-1;Buglas-Cebu
-5582;5556;sea;1580;-1;-1;-1;-1;Acionas-Polisliste
-5584;5557;sea;1580;-1;-1;-1;-1;Losmosas-Maraath
-5558;5557;sea;1580;-1;-1;-1;-1;Notio Kolpo-Maraath
+4812;4894;sea;1646;-1;-1;-1;-1;Aupi-Sichi
+5203;5267;sea;5542;-1;-1;-1;-1;Moeraus-Drevutoka
+5214;5259;sea;5542;-1;-1;-1;-1;Foaula-Telefeva
+5582;5556;sea;5663;-1;-1;-1;-1;Acionas-Polisliste
+5584;5557;sea;5664;-1;-1;-1;-1;Losmosas-Maraath
+5558;5557;sea;5664;-1;-1;-1;-1;Notio Kolpo-Maraath
 -1;-1;;-1;-1;-1;-1;-1;-1;
