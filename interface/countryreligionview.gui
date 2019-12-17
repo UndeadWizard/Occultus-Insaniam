@@ -1473,7 +1473,6 @@ guiTypes = {
 				format = centre
 			}
 			
-			
 			iconType =
 			{
 				name = "reform_desire_icon"
@@ -1495,6 +1494,8 @@ guiTypes = {
 				format = centre
 			}			
 		}
+		
+		#
 		
 		###Religion specific datafield
 		windowType = {

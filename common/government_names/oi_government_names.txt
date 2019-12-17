@@ -1,18 +1,50 @@
-dragon_empire_gov = {
+dragon_empire = {
 	rank = {
 		3 = dragon_empire
 	}
 	
 	ruler_male = {
-		3 = EMPEROR
+		3 = LUQAYAN
 	}
 	
 	ruler_female = {
-		3 = EMPRESS
+		3 = LUQAYATUN 
 	}
 	
 	trigger = {
 		has_reform = dragon_empire
+	}
+}
+
+dragon_noble = {
+	rank = {
+		1= dragon_noble
+	}
+	ruler_male = {
+		1 = LUQAN
+	}
+	ruler_female = {
+		1 = LUQANTUN
+	}
+	
+	trigger = {
+		has_reform = dragon_noble
+	}
+}
+
+dragon_king = {
+	rank = {
+		1= dragon_king
+	}
+	ruler_male = {
+		1 = LUAND
+	}
+	ruler_female = {
+		1 = LUANDTUN
+	}
+	
+	trigger = {
+		has_reform = dragon_king
 	}
 }
 
@@ -24,13 +56,13 @@ patricianship_gov = {
 	}
 	
 	ruler_male = {
-		1 = SYNDIC
+		1 = PATRICIUS
 		2 = GRAND_SYNDIC
-		3 = PRESIDENT
+		3 = CONSUL
 	}
 	
 	ruler_female = {
-		1 = SYNDIC_fem
+		1 = PATRICIUSA
 		2 = GRAND_SYNDIC_fem
 		3 = PRESIDENT_fem
 	}

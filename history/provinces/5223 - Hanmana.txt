@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 4
 
 culture = muror
-religion = dragon_gods
+religion = luuxin
 
 trade_goods = grain
 hre = no 

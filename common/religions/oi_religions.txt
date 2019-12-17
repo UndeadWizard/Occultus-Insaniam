@@ -211,7 +211,7 @@ occult = {
 # ---- Muror ---- #
 
 muror = {
-	dragon_gods = {
+	luuxin = {
 		color = { 211 219 184 }
 		icon  = 64
 		
@@ -226,6 +226,8 @@ muror = {
         province = {
 			local_missionary_strength = -0.01
         }
+		
+		uses_karma = yes
 	}
 	 harmonized_modifier = harmonized_muror_group
 }

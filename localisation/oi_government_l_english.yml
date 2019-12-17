@@ -3,10 +3,22 @@
 IMPERATOR: "Imperator"
 IMPERATORESS: "Imperatoress"
 
+PATRICIUS: "Patricius"
+PATRICIUSA:"Patriciusa"
+
 LORD_ARCHBISHOP: "Lord Archbishop"
 SUPREME_ARCHBISHOP: "Supreme Archbishop"
 
 PRIME_ARCHBISHOPRIC: "Prime Archbishopric"
+
+LUQAYAN: "Luqayan"
+LUQAYATUN: "Luqayatun"
+
+LUQAN: "Luqan"
+LUQANTUN: "Luqantun"
+
+LUAND: "Luand"
+LUANDTUN: "Luandtun"
 
 #Monarchies
 atlantean_warring_state: "Warlord State"

@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = dragon_empire
 government_rank = 3
 technology_group = muror
-religion = dragon_gods
+religion = luuxin
 primary_culture = muror
 capital = 5241
 
