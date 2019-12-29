@@ -1,14 +1,14 @@
 ﻿l_english:
 #-----Atlantis-----#
- PROV5546: "Trident Gulf"
+ PROV5546: "Sea of Icthys"
  PROV5547: "Jupiter Reef"
  PROV5548: "Sea of Meropisa"
  PROV5549: "Hermus Coast"
  PROV5550: "Voreios Sea"
- PROV5551: "Silver Coast"
+ PROV5551: "Atlantean Ridge
  PROV5552: "Agnostos Passage"
  PROV5553: "Notos Coast"
- PROV5554: "Plata Sea"
+ PROV5554: "Western Rem Sea"
  PROV5555: "Sumendia" 
  PROV5556: "Polisliste"
  PROV5557: "Maraath"
@@ -116,6 +116,10 @@
  PROV5659: "Askloy"
  PROV5660: "Tauryria"
  PROV5661: "Polismos Ridge"
+ PROV5662: "Bay of Moloch"
+ PROV5663: "Imperator's Shore"
+ PROV5664: "Yamm's Gift"
+  
  #----Thule----#
  PROV4767: "Thule"
  #---Frisland---#

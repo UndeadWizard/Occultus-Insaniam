@@ -1,6 +1,11 @@
 ﻿l_english:
 #Atlantis
  atlantean_sea_area:0 "Atlantean Sea"
+ atlantean_sea_area_name:0 "Atlantean Sea"
+ atlantean_sea_area_adj:0 "Atlantean Sea"
+ trident_gulf_area:0 "Trident Gulf
+ trident_gulf_area_name:0 "Trident Gulf""
+ trident_gulf_area_adj:0 "Trident Gulf"
  achana_area:0 "Achana"
  achana_area_name:0 "Achana"
  achana_area_adj:0 "Achanai"
