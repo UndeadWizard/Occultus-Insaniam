@@ -1,8 +1,8 @@
 #5246 - Taelesi
 
-owner = MU0
-controller = MU0
-add_core = MU0
+owner = M13
+controller = M13
+add_core = M13
 is_city = yes
 
 base_tax = 4

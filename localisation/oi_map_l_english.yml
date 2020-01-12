@@ -49,3 +49,8 @@
  east_mu: "East Mu"
  atlantis_node: "Atlantis"
  antillia_node: "Antillia"
+ 
+ # Colonial Regions
+ COLONIAL_BRAZIL_Land_Of_True_Cross:0 "Land of the True Cross"
+ COLONIAL_BRAZIL_Land_Of_True_Cross_ADJ:0 "Antillian"
+ colonial_naacal: "Naacal"

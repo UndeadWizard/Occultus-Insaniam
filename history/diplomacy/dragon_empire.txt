@@ -75,3 +75,73 @@ vassal = {
 	start_date = 1444.1.1
 	end_date = 1900.1.1
 }
+
+vassal = {
+	first = MU0
+	second = M12
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M13
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M14
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M15
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M16
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M17
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M18
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M19
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M20
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}
+
+vassal = {
+	first = MU0
+	second = M21
+	start_date = 1444.1.1
+	end_date = 1900.1.1
+}

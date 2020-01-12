@@ -1,0 +1,44 @@
+# Naacal
+colonial_naacal = {
+	color = { 227 232 160 }
+	
+	# Random New World
+	tax_income = 2
+	native_size = 8
+	native_ferocity = 2
+	native_hostileness = 5
+	
+	trade_goods = {
+		fur = 2
+		grain = 8
+		salt = 5
+		wool = 7
+		fish = 5
+		sugar = 8
+		gold = 5
+		cocoa = 6
+		naval_supplies = 1
+	}
+	
+	culture = {
+		muror = 5
+        mul = 5
+        gulamur = 5
+	}
+	
+	religion = {
+		luuxin = 5
+        tiki = 5
+        animism = 8
+	}
+	
+	provinces = {
+		5393 5394 5395 5396 5397 5398 5399 5400 5404 5406 5409 5410 5411 5412 5413 5414 5415 5416
+		5417 5418 5419 5420 5421 5422 5423 5424 5425 5426 5427 5428 5429 5430 5431 5432 5433 5434
+		5435 5436 5437 5438 5439 5440 5442
+	}
+	
+	names = {
+		name = "COLONIAL_REGION_New_Root_GetName"
+	}
+}

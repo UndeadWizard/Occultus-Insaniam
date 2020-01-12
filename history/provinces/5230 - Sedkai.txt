@@ -1,8 +1,8 @@
 #5230 - Sedkai
 
-owner = MU0
-controller = MU0
-add_core = MU0
+owner = M17
+controller = M17
+add_core = M17
 is_city = yes
 
 base_tax = 4

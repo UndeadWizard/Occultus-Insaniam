@@ -1,16 +1,18 @@
 #5280 - Toaniatu
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = M20
+controller = M20
+add_core = M20
+is_city = yes
 
 base_tax = 3
-base_production = 1
-base_manpower = 2
+base_production = 3
+base_manpower = 4
 
 culture = muror
-religion = animism
+religion = luuxin
 
-trade_goods = unknown
+trade_goods = grain
 hre = no 
+
+discovered_by = muror
