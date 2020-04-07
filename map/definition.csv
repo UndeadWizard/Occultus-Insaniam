@@ -1566,7 +1566,7 @@ province;red;green;blue;x;x
 1565;60;252;252;Western Gibbs Fracture;x
 1566;61;202;202;Iberian Shelf;x
 1567;62;202;252;Sea of Azores;x
-1568;63;222;252;Corner Seamounts;x
+1568;68;216;252;Corner Seamounts;LemurianSea
 1569;64;252;252;New England Seamounts;x
 1570;65;202;202;Sable Island Bank;x
 1571;66;202;252;Blake Plataeu;x
@@ -1581,7 +1581,7 @@ province;red;green;blue;x;x
 1580;118;251;252;Central Atlantic #1;x
 1581;76;252;252;Central Atlantic #2;x
 1582;77;202;202;Central Atlantic #3;x
-1583;78;202;252;Central Atlantic #4;x
+1583;78;202;252;Central Atlantic #4;LemurianSea
 1584;79;222;252;Romanche Gap;x
 1585;80;252;252;East Guinea Basin;x
 1586;81;202;202;West Guinea Basin;x
@@ -1620,7 +1620,7 @@ province;red;green;blue;x;x
 1619;114;202;252;Indian Ocean #4;x
 1620;115;222;252;Indian Ocean #5;x
 1621;116;252;252;Indian Ocean #6;x
-1622;117;202;202;Indian Ocean #7;x
+1622;117;202;202;Indian Ocean #7;LemurianSea
 1623;118;202;252;Indian Ocean #8;x
 1624;119;222;252;Indian Ocean #9;x
 1625;120;252;252;Indian Ocean #10;x
@@ -1643,7 +1643,7 @@ province;red;green;blue;x;x
 1642;9;203;203;Indian Ocean #27;x
 1643;10;203;253;Indian Ocean #28;x
 1644;11;223;253;Indian Ocean #29;x
-1645;12;253;253;Indian Ocean #30;x
+1645;12;253;253;Indian Ocean #30;LemurianSea
 1646;13;203;203;Indian Ocean #31;x
 1647;14;203;253;Indian Ocean #32;x
 1648;15;223;253;Lake Tchad;x
@@ -1723,7 +1723,7 @@ province;red;green;blue;x;x
 1722;90;203;253;Southern Pacifc #6;x
 1723;91;223;253;Southern Pacifc #7;x
 1724;92;253;253;Southern Pacifc #8;x
-1725;93;203;203;Southern Pacifc #9;x
+1725;93;203;203;Southern Pacifc #9;LemurianSea
 1726;94;203;253;Southern Pacifc #10;x
 1727;95;223;253;Southern Pacifc #11;x
 1728;96;253;253;Southern Pacifc #12;x
@@ -1731,7 +1731,7 @@ province;red;green;blue;x;x
 1730;98;203;253;Southern Pacifc #14;x
 1731;99;223;253;Southern Pacifc #15;x
 1732;100;253;253;Southern Pacifc #16;x
-1733;101;203;203;Southern Pacifc #17;x
+1733;30;203;203;Southern Pacifc #17;LemurianSea
 1734;102;203;253;Southern Pacifc #18;x
 1735;103;223;253;Southern Pacifc #19;x
 1736;104;203;203;Southern Pacifc #20;x
@@ -5044,7 +5044,7 @@ province;red;green;blue;x;x
 5043;180;206;7;Devin;Lemuria
 5044;11;36;15;Morphenham;Lemuria
 5045;85;4;16;Carralla;Lemuria
-5046;47;61;109;Lileit;Lemuria-Unused
+5046;30;163;163;Lileit Sea;LemurianSea
 5047;139;241;136;Roxber;Lemuria
 5048;124;119;155;Clayterrie;Lemuria
 5049;86;67;89;Cambetton;Lemuria
@@ -5118,10 +5118,10 @@ province;red;green;blue;x;x
 5117;70;64;16;Uisu;Mu
 5118;182;146;219;Khulig;Mu
 5119;242;92;96;Telemama'o;Mu
-5120;51;87;26;Empty;x
+5120;22;186;186;LemurianSea1;LemurianSea
 5121;168;74;197;Fonuaifonua;Mu
-5122;151;21;141;Empty;x
-5123;83;137;25;Empty;x
+5122;70;253;253;LemurianSea2;LemurianSea
+5123;61;207;207;LemurianSea3;LemurianSea
 5124;133;101;85;Leapea;Mu
 5125;178;118;219;Ragnaka;Mu
 5126;172;255;158;Empty;x

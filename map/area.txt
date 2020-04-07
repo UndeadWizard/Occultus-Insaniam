@@ -455,7 +455,7 @@ hoikh_area = {
 
 
 southern_lemurian_sea = {
-	1628 1629 1630 1631 1632 1633 1636 1637 1638 1639 1640 1647 5093 5094 5095
+	1622 1628 1629 1630 1631 1632 1633 1636 1637 1638 1639 1640 1645 1647 1725 1733 5046 5093 5094 5095 5120 5122 5123
 }
 
 western_lemurian_sea = {
@@ -471,7 +471,7 @@ northern_lemurian_sea = {
 }
 
 eastern_lemurian_sea = {
-	1624 1642 1643 1644 5096
+	1568 1583 1624 1642 1643 1644 5096 
 }
 ########################################
 # Mu         				 		   #
@@ -867,7 +867,7 @@ bay_of_bengal_area = {
 }
 
 eastern_indian_ocean_area = {
-	1350 1351 1352 1353 1354 1420 1622 1641
+	1350 1351 1352 1353 1354 1420 1641
 }
 
 western_indian_ocean_area = {
@@ -875,7 +875,7 @@ western_indian_ocean_area = {
 }
 
 south_indian_ocean_area = {
-	1417 1418 1419 1634 1645
+	1417 1418 1419 1634
 }
 
 great_australian_bight_area = {
@@ -992,7 +992,7 @@ east_pacific_ocean_area = {
 }
 
 polynesian_triangle_area = {
-	1722 1723 1724 1725 1726 1733 
+	1722 1723 1724 1726
 }
 
 south_pacific_area = {
@@ -1040,7 +1040,7 @@ gulf_stream_area = {
 }
 
 sargasso_sea_area = {
-	1526 1568 1572 1573 1574 1575 1583
+	1526 1572 1573 1574 1575
 }
 
 north_atlantic_area = {
