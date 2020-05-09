@@ -61,3 +61,7 @@ ANX_global_trade = {
 ANX_brazil_trade = {
 	global_trade_power = 0.1	
 }
+
+ANX_colonial_aspirations = {
+	colonists = 1
+}

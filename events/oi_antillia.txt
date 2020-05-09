@@ -24,7 +24,10 @@ country_event = {
 	option = {	
 		name = anx_events.1.a
 		ai_chance = { factor = 80}
-		colonists = 1	
+		add_country_modifier = {
+			name = "ANX_colonial_aspirations"
+			duration = -1
+		}
 	}
 	option = {	
 		name = anx_events.1.b
