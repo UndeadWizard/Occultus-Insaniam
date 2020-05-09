@@ -1,0 +1,35 @@
+namespace = anx_events
+
+
+###### Flavor Events
+
+# After formation of Antillia
+country_event = {
+	id = anx_events.1
+	title = anx_events.1.t
+	desc = anx_events.1.d
+	picture = KING_SICK_IN_BED_eventPicture
+
+	fire_only_once = yes
+	
+	
+	trigger = {
+		tag = ANX
+	}
+	
+	mean_time_to_happen = {
+		days = 45
+	}
+
+	option = {	
+		name = anx_events.1.a
+		ai_chance = { factor = 80}
+		colonists = 1	
+	}
+	option = {	
+		name = anx_events.1.b
+		ai_chance = { factor = 20}
+		add_prestige = 20
+		set_country_flag = antillian_invading
+	}
+}

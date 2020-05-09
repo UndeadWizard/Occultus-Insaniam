@@ -1,6 +1,7 @@
 archbishop_reform = {
 	potential = {
 		tag = AN0
+		tag = ANX
 	}
 
 	modifiers = {
