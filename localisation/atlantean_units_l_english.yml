@@ -9,10 +9,10 @@
  atla_infantry_1bDESCR:0 "Antillia's states have constantly kept each other on their edges by using lightly-trained infantrymen taught to hold their ground and fight defensively, sometimes tasked to garrison small villages or guard churches to gain experience. There is very little in-depth battle knowledge for them, however."
 
  atla_infantry_5a:0 "Atlantean Legionaries" #Standing army for Atlantis
- atla_infantry_5DESCR:0 "As Atlantis heads towards more regional entities and centralization, armies of the surviving warlords slowly reform to adopt the old Imperial tactics learned from the Romans. First and foremost comes a strong, standing army core."
+ atla_infantry_5aDESCR:0 "As Atlantis heads towards more regional entities and centralization, armies of the surviving warlords slowly reform to adopt the old Imperial tactics learned from the Romans. First and foremost comes a strong, standing army core."
  
  atla_infantry_5b:0 "Antillian Palatii" #Standing army for Antillia
- atla_infantry_5DESCR:0 "Antillian church towns have long had a program to train standing men to garrison important treasures. It's imperative that we modernize our force by making this training be part of the standard soldier's drill, and not the exception."
+ atla_infantry_5bDESCR:0 "Antillian church towns have long had a program to train standing men to garrison important treasures. It's imperative that we modernize our force by making this training be part of the standard soldier's drill, and not the exception."
  
  atla_infantry_7:0 "Azarean Pikemen" #Standardized Pikes, Vlassian or Consular reforms
  atla_infantry_7DESCR:0 "The reforms to the core of the Azarean army in their attempt to rise from the ashes left an important mark in Atlantis' military history, most notably being to standardize the size of piercing weapons such as pikes, spears and tridents."
