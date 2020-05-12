@@ -114,11 +114,11 @@ atlantis_group_ideas = {
 	}
 	free = yes
 	
-	atla_gen_1 = { #Diversity from invasive entities
+	atla_gen_1 = { #A Forced Diversity
 		tolerance_heathen = 2
 	}
 	
-	atla_gen_2 = { #Greco-Roman tactics
+	atla_gen_2 = { #Romani
 		shock_damage = 0.10
 	}
 	
