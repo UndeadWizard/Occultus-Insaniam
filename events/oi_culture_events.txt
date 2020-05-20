@@ -1,0 +1,104 @@
+namespace = oi_culture
+
+
+###### Placeholders
+
+country_event = {
+	id = oi_culture.1
+	title = oi_culture.1.t
+	desc = oi_culture.1.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	trigger = {
+			any_owned_province = {
+				is_colony = no
+				region = colonial_brazil
+				culture_group = atlantean_group
+			}
+	}
+	
+	option = {
+		every_owned_province = {
+			limit = {
+				is_colony = no
+				region = colonial_brazil
+				culture_group = atlantean_group
+			}
+		}
+		change_culture = amazonian
+	}
+}
+
+
+country_event = {
+	id = oi_culture.2
+	title = oi_culture.2.t
+	desc = oi_culture.2.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	trigger = {
+			any_owned_province = {
+				is_colony = no
+				region = colonial_eastern_america
+				culture_group = atlantean_group
+			}
+	}
+	option = {
+		
+		every_owned_province = {
+			limit = {
+				is_colony = no
+				region = colonial_eastern_america\
+				culture_group = atlantean_group
+			}
+		}
+		change_culture = arcadian
+	}
+}
+
+
+country_event = {
+	id = oi_culture.3
+	title = oi_culture.3.t
+	desc = oi_culture.3.d
+	picture = GREAT_BUILDING_eventPicture
+	trigger = {
+		any_owned_province = {
+			is_colony = no
+			culture_group = atlantean_group
+			region = colonial_the_carribean
+		}
+	}
+	
+	option = {
+		every_owned_province = {
+			limit = {
+				is_colony = no
+				region = colonial_the_carribean
+				culture_group = atlantean_group
+			}
+		}
+		change_culture = panchaian
+	}
+}
+country_event = {
+	id = oi_culture.4
+	title = oi_culture.4.t
+	desc = oi_culture.4.d
+	picture = GREAT_BUILDING_eventPicture
+	trigger = {
+		any_owned_province = {
+			culture_group = atlantean_group
+			region = colonial_canada
+		}
+	}
+	option = {
+		every_owned_province = {
+			limit = {
+				region = colonial_canada
+				culture_group = atlantean_group
+			}
+		}
+		change_culture = anatlan
+	}
+}
