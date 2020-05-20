@@ -104,6 +104,25 @@ colonial_canada = {
 	}
 	
 	# Specific
+	
+	names = {
+		trigger = {
+			OR = {
+				tag = ATL
+				culture_group = atlantean_group
+			}
+		}
+		name = "COLONIAL_CANADA_Anatla"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = ANX
+				culture_group = antillia_group
+			}
+		}
+		name = "COLONIAL_CANADA_Kanaila"
+	}
 	names = {
 		trigger = {
 			OR = {
@@ -330,6 +349,17 @@ colonial_eastern_america = {
 	}
 	
 	# Specific
+	
+	names = {
+		trigger = {
+			OR = {
+				tag = ATL
+				culture_group = atlantean_group
+			}
+		}
+		name = "COLONIAL_EASTERN_AMERICA_Arcadia"
+	}
+	
 	names = {
 		trigger = {
 			OR = {
@@ -808,6 +838,26 @@ colonial_the_carribean = {
 	}
 	
 	# Specific
+	
+	names = {
+		trigger = {
+			OR = {
+				tag = ANX
+				culture_group = antillia_group
+			}
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Antillesa"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = ATL
+				culture_group = atlantean_group
+			}
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Panchaia"
+	}
+	
 	names = {
 		trigger = {
 			OR = {
@@ -1148,6 +1198,17 @@ colonial_brazil = {
 	}
 	
 	# Specific
+	
+	names = {
+		trigger = {
+			OR = {
+				tag = ATL
+				culture_group = atlantean_group
+			}
+		}
+		name = "COLONIAL_BRAZIL_Themyscira"
+	}
+	
 	names = {
 		trigger = {
 			OR = {
