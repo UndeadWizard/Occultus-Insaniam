@@ -1,0 +1,5 @@
+### Modifiers for Rulers
+
+has_divine_marriage = {
+	legitimacy = 1	
+}

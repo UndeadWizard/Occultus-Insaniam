@@ -1,0 +1,24 @@
+country_decisions = {
+	divine_marriage = {
+		potential = {
+			AND = {
+				religion = yazdeism
+				has_consort = no
+			}
+		}
+		
+		effect = {
+			set_ruler_flag = divinemarriage
+			define_consort = {
+			 dynasty = ROOT
+			 age = 20
+			 female = yes
+			 country_of_origin = ROOT
+			 culture = ROOT
+			 religion = yazdeism
+			}
+			add_ruler_modifier = { name = has_divine_marriage }
+		}
+	}
+}
+

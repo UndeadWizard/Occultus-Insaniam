@@ -51,8 +51,10 @@
  aza_farmer_immigrants: "Farmer Immigrants"
  aza_traders_monopolies: "Trader Monopolies
 
+ #Yazde Modifiers
+ has_divine_marriage: "Has Divine Marriage"
  
-#Province Modifiers
+ #Province Modifiers
  atla_estuary_modifier: "Atla Estuary"
  desc_atla_estuary_modifier:0 "Controlling the important river estuary of Atla strengthens our hold of the trade in the region."
  losrorham_estuary_modifier: "Losrorham Estuary"
@@ -62,7 +64,7 @@
  aza_expanded_silk_district: "Expanded Silk District"
  aza_azaresi_gladiators: "Azaresi Gladiators"
 
-#Province Trigger Modifiers
+ #Province Trigger Modifiers
  bermudo_temple: "Great Bermudo Temple"
  desc_bermudo_temple: "According to the Book of Bermudo, after the Antillians arrived in the Second Holy Land, Saint Bermudo saw a vision from God to build a temple on this very site."
  oracle_of_daephi: "Oracle of Daephi"
