@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = nayankara_reform
 technology_group = lemurian
-religion = zoroastrian
+religion = yazdeism
 primary_culture = tervul
 capital = 4953
 
