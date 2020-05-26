@@ -1,16 +1,16 @@
 #4808 - Aq'yek
 
-owner = JFN
-controller = JFN
-add_core = JFN
+owner = N02
+controller = N02
+add_core = N02
 is_city = yes
 
-base_tax = 1
+base_tax = 2
 base_production = 3
-base_manpower = 1
+base_manpower = 2
 
-culture = lemurian
-religion = hinduism
+culture = tervul
+religion = yazdeism
 
 trade_goods = grain
 hre = no 

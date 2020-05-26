@@ -1,17 +1,18 @@
 #4803 - Hoikh 
 
-owner = JFN
-controller = JFN
-add_core = JFN
+owner = N03
+controller = N03
+add_core = N03
 is_city = yes
 
-base_tax = 3
+base_tax = 2
 base_production = 3
-base_manpower = 1
+base_manpower = 2
 
-culture = lemurian
-religion = hinduism
+culture = tervul
+religion = yazdeism
 
 trade_goods = fish
 hre = no 
-discovered_by = lemurian
+
+discovered_by = tervul

@@ -123,6 +123,11 @@ L42 = "countries/Geeline.txt"		# Yazdeism, Tervul, Kingdom
 L43 = "countries/Kajung.txt"		# Yazdeism, Tervul, Kingdom
 L44 = "countries/Lakganj.txt"		# Yazdeism, Tervul, Kingdom
 
+#Nestoria 
+N01 = "countries/Aupi.txt"			# Yazdeism, Tervul, Kingdom
+N02 = "countries/Noau.txt"			# Yazdeism, Tervul, Kingdom
+N03 = "countries/Ruek.txt"			# Yazdeism, Tervul, Kingdom
+
 #Mu
 #M00 - For Easter Egg later
 P01 = "countries/Kealakekua.txt"	# Tiki, Hawaiian, Tribal Kingdom

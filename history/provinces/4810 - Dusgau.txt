@@ -1,20 +1,18 @@
 #4810 - Dusgau
 
-owner = JFN
-controller = JFN
-add_core = JFN
+owner = N01
+controller = N01
+add_core = N01
 is_city = yes
 
 base_tax = 2
 base_production = 3
 base_manpower = 1
 
-culture = lemurian
-religion = hinduism
+culture = tervul
+religion = yazdeism
 
 trade_goods = fish
 hre = no 
-discovered_by = lemurian
 
-
-
+discovered_by = tervul

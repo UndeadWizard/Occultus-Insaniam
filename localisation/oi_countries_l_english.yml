@@ -236,6 +236,15 @@
  L44: "Lakganj"
  L44_ADJ: "Lakganji"
  
+ #Nestoria
+ 
+ N01: "Aupi"
+ N01: "Aupini"
+ N02: "Noau"
+ N02_ADJ: "Noaui"
+ N03: "Ruek"
+ N03_ADJ: "Rueki"
+ 
  #Muror
  MU0: "Neji"
  MU0_ADJ: "Nejinese"
