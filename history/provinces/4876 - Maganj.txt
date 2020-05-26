@@ -1,18 +1,18 @@
 #4876 - Maganj
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = L43
+controller = L43
+add_core = L43
+is_city = yes
 
 base_tax = 2
 base_production = 4
-base_manpower = 2
+base_manpower = 3
 
-culture = lemurian
-religion = animism
+culture = tervul
+religion = yazdeism
 
-trade_goods = unknown
+trade_goods = wool
 hre = no 
 
 discovered_by = lemurian

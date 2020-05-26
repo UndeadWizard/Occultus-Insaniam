@@ -112,11 +112,16 @@ L30 = "countries/Farijika.txt"		# Sunni, Mashariki, Tribal Kingdom
 L31 = "countries/Adhamani.txt"		# Sunni, Mashariki, Tribal Kingdom
 L33 = "countries/Malaranu.txt"		# Sunni, Pasandhi, Monarchy
 L34 = "countries/Amuneym.txt"		# Yazdeism, Pasandhi, Monarchy 
-L35 = "countries/Sudopalis.txt"		# Yazdeism, Tervul, Tribal Kingdom
-L36 = "countries/Kibe.txt"			# Yazdeism, Tervul, Tribal Kingdom
-L37 = "countries/Shishlaj.txt"		# Yazdeism, Tervul, Tribal Kingdom
-L38 = "countries/Datha.txt"			# Yazdeism, Tervul, Tribal Kingdom
-L39 = "countries/Fazilyar.txt"		# Yazdeism, Tervul, Tribal Kingdom
+L35 = "countries/Sudopalis.txt"		# Yazdeism, Tervul, Kingdom
+L36 = "countries/Kibe.txt"			# Yazdeism, Tervul, Kingdom
+L37 = "countries/Shishlaj.txt"		# Yazdeism, Tervul, Kingdom
+L38 = "countries/Datha.txt"			# Yazdeism, Tervul, Kingdom
+L39 = "countries/Fazilyar.txt"		# Yazdeism, Tervul, Kingdom
+L40 = "countries/Nukusta.txt"		# Yazdeism, Tervul, Kingdom
+L41 = "countries/Wangalla.txt"		# Yazdeism, Tervul, Kingdom
+L42 = "countries/Geeline.txt"		# Yazdeism, Tervul, Kingdom
+L43 = "countries/Kajung.txt"		# Yazdeism, Tervul, Kingdom
+L44 = "countries/Lakganj.txt"		# Yazdeism, Tervul, Kingdom
 
 #Mu
 #M00 - For Easter Egg later

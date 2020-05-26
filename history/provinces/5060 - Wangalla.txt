@@ -1,18 +1,18 @@
 #5060 - Wangalla
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = L41
+controller = L41
+add_core = L41
+is_city = yes
 
 base_tax = 3
-base_production = 1
+base_production = 3
 base_manpower = 2
 
-culture = lemurian
-religion = animism
+culture = tervul
+religion = yazdeism
 
-trade_goods = unknown
+trade_goods = wool
 hre = no 
 
 discovered_by = lemurian
