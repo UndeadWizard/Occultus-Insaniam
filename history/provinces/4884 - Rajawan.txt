@@ -1,19 +1,18 @@
 #4884 - Rajawan
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = L39
+controller = L39
+add_core = L39
+is_city = yes
 
 base_tax = 2
-base_production = 1
-base_manpower = 3
+base_production = 3
+base_manpower = 2
 
-culture = lemurian
-religion = animism
+culture = tervul
+religion = yazdeism
 
-trade_goods = unknown
+trade_goods = grain
 hre = no 
+
 discovered_by = lemurian
-
-

@@ -1,8 +1,8 @@
 #4896 - Kirtinepa
 
-owner = SDP
-controller = SDP
-add_core = SDP
+owner = L35
+controller = L35
+add_core = L35
 is_city = yes
 
 base_tax = 4
@@ -12,7 +12,7 @@ base_manpower = 2
 culture = lemurian
 religion = yazdeism
 
-trade_goods = livestock
+trade_goods = fish
 hre = no 
 discovered_by = lemurian
 

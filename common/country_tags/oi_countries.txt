@@ -73,22 +73,21 @@ AN6 = "countries/Ansolli.txt"		# Heptarchic, Antillian, Theocracy
 #Lemuria
 LNK = "countries/Lankr.txt"			# Hindu, Sri Lankan, Monarchy
 PNA = "countries/Pantiya.txt"		# Hindu, Austronesian, Monarchy
-SDP = "countries/Sudopalis.txt"		# Hindu, Austronesian, Tribal Kingdom
 STO = "countries/Stolat.txt"		# Hindu, Sri Lankan, Monarchy
 VNG = "countries/Vangvangdaq.txt"	# Hindu, Lemurian, Monarchy
 YUB = "countries/Yubervalt.txt"		# Hindu, Austronesian, Monarchy
 ZLO = "countries/Zlobenea.txt"		# Hindu, Tervul, Monarchy
 
-L00 = "countries/Khobiya.txt"		# Zoroastrian, Pasandhi, Monarchy
-L01 = "countries/Sivava.txt"		# Zoroastrian, Tervul, Monarchy
-L02 = "countries/Antitha.txt"		# Zoroastrian, Tervul, Monarchy
-L03 = "countries/Payamgi.txt"		# Zoroastrian, Pasandhi, Monarchy
+L00 = "countries/Khobiya.txt"		# Yazdeism, Pasandhi, Monarchy
+L01 = "countries/Sivava.txt"		# Yazdeism, Tervul, Monarchy
+L02 = "countries/Antitha.txt"		# Yazdeism, Tervul, Monarchy
+L03 = "countries/Payamgi.txt"		# Yazdeism, Pasandhi, Monarchy
 L04 = "countries/Gutta.txt"			# Sunni, Pasandhi, Monarchy
 L05 = "countries/Joyangi.txt"		# Sunni, Pasandhi, Monarchy
 L06 = "countries/Navdarik.txt"		# Sunni, Pasandhi, Monarchy 
-L07 = "countries/Malirva.txt"		# Zoroastrian, Tervul, Monarchy 
-L08 = "countries/Sanyaa.txt"		# Hindu, Tervul, Monarchy
-L09 = "countries/Hiriyan.txt"		# Zoroastrian, Pasandhi, Monarchy
+L07 = "countries/Malirva.txt"		# Yazdeism, Tervul, Monarchy 
+L08 = "countries/Sanyaa.txt"		# Yazdeism, Tervul, Monarchy
+L09 = "countries/Hiriyan.txt"		# Yazdeism, Pasandhi, Monarchy
 L10 = "countries/Zerehal.txt"		# Sunni, Pasandhi, Monarchy 
 L11 = "countries/Busar.txt"			# Sunni, Kaskazini, Tribal Kingdom
 L12 = "countries/Ikenidi.txt"		# Sunni, Kaskazini, Tribal Kingdom
@@ -112,7 +111,12 @@ L29 = "countries/Adhamana.txt"		# Sunni, Mashariki, Tribal Kingdom
 L30 = "countries/Farijika.txt"		# Sunni, Mashariki, Tribal Kingdom
 L31 = "countries/Adhamani.txt"		# Sunni, Mashariki, Tribal Kingdom
 L33 = "countries/Malaranu.txt"		# Sunni, Pasandhi, Monarchy
-L34 = "countries/Amuneym.txt"		# Zoroastrian, Pasandhi, Monarchy 
+L34 = "countries/Amuneym.txt"		# Yazdeism, Pasandhi, Monarchy 
+L35 = "countries/Sudopalis.txt"		# Yazdeism, Tervul, Tribal Kingdom
+L36 = "countries/Kibe.txt"			# Yazdeism, Tervul, Tribal Kingdom
+L37 = "countries/Shishlaj.txt"		# Yazdeism, Tervul, Tribal Kingdom
+L38 = "countries/Datha.txt"			# Yazdeism, Tervul, Tribal Kingdom
+L39 = "countries/Fazilyar.txt"		# Yazdeism, Tervul, Tribal Kingdom
 
 #Mu
 #M00 - For Easter Egg later
