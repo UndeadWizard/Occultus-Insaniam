@@ -1,19 +1,18 @@
 #4830 - Gauatu
 
-owner = PNA
-controller = PNA
-add_core = PNA
+owner = L49
+controller = L49
+add_core = L49
 is_city = yes
 
 base_tax = 3
 base_production = 2
-base_manpower = 3
+base_manpower = 4
 
-culture = lemurian
+culture = lankan
 religion = hinduism
 
 trade_goods = iron
 hre = no 
+
 discovered_by = lemurian
-
-

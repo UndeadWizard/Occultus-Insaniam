@@ -1,13 +1,13 @@
 #4844 - T'ak
 
-owner = VNG
-controller = VNG
-add_core = VNG
+owner = L47
+controller = L47
+add_core = L47
 is_city = yes
 
 base_tax = 2
-base_production = 1
-base_manpower = 3
+base_production = 3
+base_manpower = 4
 
 culture = lemurian
 religion = hinduism

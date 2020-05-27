@@ -1,13 +1,13 @@
 #4861 - Dipgar
 
-owner = STO
-controller = STO
-add_core = STO
+owner = L48
+controller = L48
+add_core = L48
 is_city = yes
 
 base_tax = 3
-base_production = 1
-base_manpower = 2
+base_production = 3
+base_manpower = 4
 
 culture = lemurian
 religion = animism

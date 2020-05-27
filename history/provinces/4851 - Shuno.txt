@@ -1,13 +1,13 @@
 #4851 - Shuno
 
-owner = VNG
-controller = VNG
-add_core = VNG
+owner = L47
+controller = L47
+add_core = L47
 is_city = yes
 
-base_tax = 1
+base_tax = 4
 base_production = 3
-base_manpower = 1
+base_manpower = 3
 
 culture = lemurian
 religion = sunni

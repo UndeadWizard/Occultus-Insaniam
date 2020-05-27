@@ -1,12 +1,12 @@
 #4838 - Yenye
 
-owner = ZLO
-controller = ZLO
-add_core = ZLO
+owner = L45
+controller = L45
+add_core = L45
 is_city = yes
 
-base_tax = 2
-base_production = 1
+base_tax = 4
+base_production = 3
 base_manpower = 3
 
 culture = lemurian

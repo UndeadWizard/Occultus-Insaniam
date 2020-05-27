@@ -1,12 +1,12 @@
 #4815 - Tangki
 
-owner = LNK
-controller = LNK
-add_core = LNK
+owner = L50
+controller = L50
+add_core = L50
 is_city = yes
 
 base_tax = 3
-base_production = 3
+base_production = 4
 base_manpower = 2
 
 culture = lankan

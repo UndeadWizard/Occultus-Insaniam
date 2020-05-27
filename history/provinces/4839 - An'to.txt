@@ -1,11 +1,11 @@
 #4839 - An'to
 
-owner = YUB
-controller = YUB
-add_core = YUB
+owner = L46
+controller = L46
+add_core = L46
 is_city = yes
 
-base_tax = 1
+base_tax = 3
 base_production = 3
 base_manpower = 2
 

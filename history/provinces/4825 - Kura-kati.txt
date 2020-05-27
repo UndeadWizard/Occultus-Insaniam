@@ -1,13 +1,13 @@
 #4825 - Kura-kati
 
-owner = STO
-controller = STO
-add_core = STO
+owner = L50
+controller = L50
+add_core = L50
 is_city = yes
 
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 2
+base_production = 4
+base_manpower = 3
 
 culture = lemurian
 religion = hinduism

@@ -71,13 +71,6 @@ AN5 = "countries/Ansesseli.txt"		# Heptarchic, Antillian, Theocracy
 AN6 = "countries/Ansolli.txt"		# Heptarchic, Antillian, Theocracy
  
 #Lemuria
-LNK = "countries/Lankr.txt"			# Hindu, Sri Lankan, Monarchy
-PNA = "countries/Pantiya.txt"		# Hindu, Austronesian, Monarchy
-STO = "countries/Stolat.txt"		# Hindu, Sri Lankan, Monarchy
-VNG = "countries/Vangvangdaq.txt"	# Hindu, Lemurian, Monarchy
-YUB = "countries/Yubervalt.txt"		# Hindu, Austronesian, Monarchy
-ZLO = "countries/Zlobenea.txt"		# Hindu, Tervul, Monarchy
-
 L00 = "countries/Khobiya.txt"		# Yazdeism, Pasandhi, Monarchy
 L01 = "countries/Sivava.txt"		# Yazdeism, Tervul, Monarchy
 L02 = "countries/Antitha.txt"		# Yazdeism, Tervul, Monarchy
@@ -122,6 +115,12 @@ L41 = "countries/Wangalla.txt"		# Yazdeism, Tervul, Kingdom
 L42 = "countries/Geeline.txt"		# Yazdeism, Tervul, Kingdom
 L43 = "countries/Kajung.txt"		# Yazdeism, Tervul, Kingdom
 L44 = "countries/Lakganj.txt"		# Yazdeism, Tervul, Kingdom
+L45 = "countries/Zlobenea.txt"		# Hindu, Tervul, Monarchy
+L46 = "countries/Yubervalt.txt"		# Hindu, Austronesian, Monarchy
+L47 = "countries/Vangvangdaq.txt"	# Hindu, Lemurian, Monarchy
+L48 = "countries/Stolat.txt"		# Hindu, Sri Lankan, Monarchy
+L49 = "countries/Pantiya.txt"		# Hindu, Austronesian, Monarchy
+L50 = "countries/Lankr.txt"			# Hindu, Sri Lankan, Monarchy
 
 #Nestoria 
 N01 = "countries/Aupi.txt"			# Yazdeism, Tervul, Kingdom

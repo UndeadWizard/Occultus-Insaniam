@@ -1,13 +1,13 @@
 #4843 - Umbugarla
 
-owner = VNG
-controller = VNG
-add_core = VNG
+owner = L47
+controller = L47
+add_core = L47
 is_city = yes
 
-base_tax = 2
-base_production = 2
-base_manpower = 1
+base_tax = 3
+base_production = 4
+base_manpower = 2
 
 culture = lemurian
 religion = hinduism

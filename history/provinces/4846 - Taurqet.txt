@@ -1,13 +1,13 @@
 #4846 - Taurqet
 
-owner = ZLO
-controller = ZLO
-add_core = ZLO
+owner = L45
+controller = L45
+add_core = L45
 is_city = yes
 
 base_tax = 3
 base_production = 2
-base_manpower = 3
+base_manpower = 4
 
 culture = lemurian
 religion = hinduism

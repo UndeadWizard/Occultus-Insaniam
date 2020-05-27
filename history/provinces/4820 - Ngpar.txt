@@ -1,18 +1,18 @@
 #4820 - Ngpar
 
-owner = LNK
-controller = LNK
-add_core = LNK
+owner = L50
+controller = L50
+add_core = L50
 is_city = yes
 
-base_tax = 1
-base_production = 1
+base_tax = 3
+base_production = 2
 base_manpower = 3
 
-culture = lemurian
+culture = lankan
 religion = hinduism
 
-trade_goods = unknown
+trade_goods = fish
 hre = no 
 discovered_by = lemurian
 

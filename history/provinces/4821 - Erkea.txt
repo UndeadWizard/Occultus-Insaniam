@@ -1,18 +1,18 @@
 #4821 - Erkea
 
-owner = LNK
-controller = LNK
-add_core = LNK
+owner = L50
+controller = L50
+add_core = L50
 is_city = yes
 
 base_tax = 2
-base_production = 3
+base_production = 5
 base_manpower = 3
 
-culture = lemurian
+culture = lankan
 religion = hinduism
 
-trade_goods = unknown
+trade_goods = tropical_wood
 hre = no 
 discovered_by = lemurian
 

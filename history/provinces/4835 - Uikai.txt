@@ -1,13 +1,13 @@
 #4835 - Uikai
 
-owner = STO
-controller = STO
-add_core = STO
+owner = L48
+controller = L48
+add_core = L48
 is_city = yes
 
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 2
+base_manpower = 3
 
 culture = lemurian
 religion = hinduism
