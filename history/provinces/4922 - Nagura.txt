@@ -1,13 +1,14 @@
 #4922 -  Nagura
 
-owner = L03
-controller = L03
+owner = L10
+controller = L10
+add_core = L10
 add_core = L03
 is_city = yes
 
-base_tax = 2
+base_tax = 4
 base_production = 3
-base_manpower = 2
+base_manpower = 3
 
 culture = pasandhi
 religion = yazdeism

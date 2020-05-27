@@ -1,7 +1,8 @@
 #4946 -  Janakkot
 
-owner = L04
-controller = L04
+owner = L10
+controller = L10
+add_core = L10
 add_core = L04
 is_city = yes
 

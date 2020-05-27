@@ -1,13 +1,14 @@
 #4971 -  Cenge
 
-owner = L15
-controller = L15
+owner = L16
+controller = L16
+add_core = L16
 add_core = L15
 is_city = yes
 
 base_tax = 3
 base_production = 2
-base_manpower = 2
+base_manpower = 3
 
 culture = kaskazini
 religion = sunni

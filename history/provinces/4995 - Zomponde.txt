@@ -1,7 +1,8 @@
 #4995 -  Zomponde
 
-owner = L24
-controller = L24
+owner = L25
+controller = L25
+add_core = L25
 add_core = L24
 is_city = yes
 

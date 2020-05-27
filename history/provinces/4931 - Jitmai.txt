@@ -1,7 +1,8 @@
 #4931 -  Jitmai
 
-owner = L03
-controller = L03
+owner = L10
+controller = L10
+add_core = L10
 add_core = L03
 is_city = yes
 

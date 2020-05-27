@@ -1,13 +1,14 @@
 #4949 -  Rajkati
 
-owner = L04
-controller = L04
+owner = L10
+controller = L10
+add_core = L10
 add_core = L04
 is_city = yes
 
 base_tax = 3
-base_production = 3
-base_manpower = 2
+base_production = 5
+base_manpower = 4
 
 culture = pasandhi
 religion = sunni

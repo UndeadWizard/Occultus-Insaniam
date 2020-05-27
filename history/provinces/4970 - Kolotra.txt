@@ -1,13 +1,14 @@
 #4970 -  Kolotra
 
-owner = L15
-controller = L15
+owner = L16
+controller = L16
+add_core = L16
 add_core = L15
 is_city = yes
 
 base_tax = 2
 base_production = 3
-base_manpower = 2
+base_manpower = 4
 
 culture = kaskazini
 religion = sunni
