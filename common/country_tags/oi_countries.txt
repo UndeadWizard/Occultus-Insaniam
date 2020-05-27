@@ -127,6 +127,10 @@ L44 = "countries/Lakganj.txt"		# Yazdeism, Tervul, Kingdom
 N01 = "countries/Aupi.txt"			# Yazdeism, Tervul, Kingdom
 N02 = "countries/Noau.txt"			# Yazdeism, Tervul, Kingdom
 N03 = "countries/Ruek.txt"			# Yazdeism, Tervul, Kingdom
+N04 = "countries/Beter.txt"			# Nestorian, Tervul, Kingdom
+N05 = "countries/Luihat.txt"		# Nestorian, Tervul, Kingdom
+N06 = "countries/Nuvara.txt"		# Nestorian, Tervul, Kingdom
+N07 = "countries/Ngare.txt"			# Nestorian, Tervul, Kingdom
 
 #Mu
 #M00 - For Easter Egg later

@@ -1,16 +1,16 @@
 #4795 - Luihat
 
-owner = JFN
-controller = JFN
-add_core = JFN
+owner = N05
+controller = N05
+add_core = N05
 is_city = yes
 
-base_tax = 3
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 4
+base_manpower = 4
 
-culture = lemurian
-religion = hinduism
+culture = tervul
+religion = nestorian
 
 trade_goods = iron
 hre = no 

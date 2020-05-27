@@ -1,16 +1,16 @@
 #4794 - Penpu
 
-owner = JFN
-controller = JFN
-add_core = JFN
+owner = N04
+controller = N04
+add_core = N04
 is_city = yes
 
-base_tax = 5
-base_production = 6
-base_manpower = 5
+base_tax = 4
+base_production = 4
+base_manpower = 3
 
-culture = lemurian
-religion = hinduism
+culture = tervul
+religion = nestorian
 
 trade_goods = fish
 hre = no 

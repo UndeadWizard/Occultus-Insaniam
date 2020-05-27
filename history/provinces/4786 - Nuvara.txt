@@ -1,8 +1,8 @@
 #4786 - Nuvara
 
-owner = JFN
-controller = JFN
-add_core = JFN
+owner = N06
+controller = N06
+add_core = N06
 is_city = yes
 
 base_tax = 5
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 4
 
 culture = sinhala
-religion = hinduism
+religion = nestorian
 
 trade_goods = spices
 hre = no 

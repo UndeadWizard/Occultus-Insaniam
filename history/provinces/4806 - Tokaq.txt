@@ -14,6 +14,6 @@ religion = yazdeism
 
 trade_goods = gold
 hre = no 
-discovered_by = tervul
+discovered_by = lemurian
 
 
