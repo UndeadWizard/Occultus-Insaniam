@@ -214,7 +214,7 @@ dhmaric_zoroastrian = {
 		color = { 178 51 51 }
 		
 		province = {
-			local_missionary_strength = -0.02
+			local_missionary_strength = -0.01
 		}
 		country = {
 			tolerance_own = 2

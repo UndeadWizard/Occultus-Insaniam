@@ -11,7 +11,7 @@ base_production = 5
 base_manpower = 4
 
 culture = pasandhi
-religion = sunni
+religion = yazdeism
 
 trade_goods = gems
 hre = no 

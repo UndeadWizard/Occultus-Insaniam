@@ -5,12 +5,12 @@ controller = L07
 add_core = L07
 is_city = yes
 
-base_tax = 3
-base_production = 1
-base_manpower = 2
+base_tax = 4
+base_production = 2
+base_manpower = 3
 
-culture = tervul
-religion = yazdeism
+culture = pasandhi
+religion = sunni
 
 trade_goods = spices
 hre = no 

@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = nayankara_reform
 technology_group = lemurian
-religion = yazdeism
+religion = sunni
 primary_culture = pasandhi
 capital = 4918
 

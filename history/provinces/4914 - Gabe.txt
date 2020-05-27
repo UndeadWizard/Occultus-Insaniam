@@ -1,7 +1,8 @@
 #4914 - Gabe
 
-owner = L33
-controller = L33
+owner = L07
+controller = L07
+add_core = L07
 add_core = L33
 is_city = yes
 

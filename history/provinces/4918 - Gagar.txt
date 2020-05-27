@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 
 culture = pasandhi
-religion = yazdeism
+religion = sunni
 
 trade_goods = livestock
 hre = no 

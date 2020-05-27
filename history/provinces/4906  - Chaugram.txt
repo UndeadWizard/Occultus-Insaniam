@@ -6,11 +6,11 @@ add_core = L07
 is_city = yes
 
 base_tax = 3
-base_production = 1
-base_manpower = 2
+base_production = 2
+base_manpower = 4
 
-culture = tervul
-religion = yazdeism
+culture = pasandhi
+religion = sunni
 
 trade_goods = grain
 hre = no 
