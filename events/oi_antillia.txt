@@ -28,6 +28,12 @@ country_event = {
 			name = "ANX_colonial_aspirations"
 			duration = -1
 		}
+		grao_para_area = {
+			discover_country = ROOT
+		}
+		amapa_area = {
+			discover_country = ROOT
+		}
 	}
 	option = {	
 		name = anx_events.1.b
