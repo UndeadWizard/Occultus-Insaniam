@@ -134,19 +134,6 @@
  AN6_ADJ: "Ansollini"
  
 #Lemuria
- LNK: "Lankr"
- LNK_ADJ: "Lankran"
- PNA: "Pantiya"
- PNA_ADJ: "Pantiyan"
- STO: "Stolat"
- STO_ADJ: "Stolati"
- VNG: "Vangvangdaq"
- VNG_ADJ: "Vangvangdaqi"
- YUB: "Yubervalt"
- YUB_ADJ: "Yubervali"
- ZLO: "Zlobenea"
- ZLO_ADJ: "Zlobenean"
- 
  L00: "Khobiya"
  L00_ADJ: "Khobiyan"
  L01: "Sivava"
@@ -235,7 +222,19 @@
  L43_ADJ: "Kajungi"
  L44: "Lakganj"
  L44_ADJ: "Lakganji"
- 
+ L45: "Zlobenea"
+ L45_ADJ: "Zlobenean"
+ L46: "Yubervalt"
+ L46_ADJ: "Yubervali"
+ L47: "Vangvangdaq"
+ L47_ADJ: "Vangvangdaqi"
+ L48: "Stolat"
+ L48_ADJ: "Stolati"
+ L49: "Pantiya"
+ L49_ADJ: "Pantiyan"
+ L50: "Lankr"
+ L50_ADJ: "Lankran"
+
  #Nestoria
  
  N01: "Aupi"
