@@ -60,7 +60,7 @@ hermusa_ideas = {
 	}
 	
 	hermusa_2 = { #Mercenary Reliance
-		possible_mercenaries = 0.25
+		mercenary_cost = -0.10	
 		possible_condottieri = 0.25
 	}
 	

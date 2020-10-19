@@ -94,7 +94,7 @@ dragon_king = {
 	modifiers = {
 		land_morale = 0.1
 		infantry_power = 0.1
-		max_states = -3
+		state_governing_cost = 0.1
 	}
 	custom_attributes = {
 		locked_government_type = yes
