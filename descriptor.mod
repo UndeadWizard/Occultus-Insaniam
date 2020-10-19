@@ -1,4 +1,4 @@
-version="1.29"
+version="1.30"
 tags={
 	"Alternative History"
 	"Map"
@@ -6,4 +6,4 @@ tags={
 	"New Nations"
 }
 name="Occultus Insaniam"
-supported_version="1.29.6"
+supported_version="1.30.4"
