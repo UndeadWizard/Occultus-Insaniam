@@ -55,7 +55,7 @@ atlantean_missions_far_left = {
 				add_claim = ROOT
 			}
 			
-			481 = {
+			greater_antilles_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -71,7 +71,7 @@ atlantean_missions_far_left = {
 		position = 2
 		
 		trigger = {
-			owns_core_province = 481
+			is_core = 481
 		}
 		
 		effect = {

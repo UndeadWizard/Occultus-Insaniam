@@ -129,7 +129,7 @@ country_event = {
 			}
 		}
 		OR = {
-				year = 1475			
+				is_year = 1475			
 				tag = ANX
 		}
 		is_institution_enabled = renaissance

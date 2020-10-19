@@ -5,7 +5,7 @@ mercantilism = 25
 technology_group = atlantean
 religion = heptarchic
 primary_culture = antillian
-capital = 4780
+capital = 5680
 
 1444.1.1 = {
 	monarch = {

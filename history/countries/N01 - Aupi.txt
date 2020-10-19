@@ -3,7 +3,7 @@ add_government_reform = tribal_despotism
 technology_group = lemurian
 religion = yazdeism
 primary_culture = tervul
-capital = 4812
+capital = 5712
 
 
 #Shattered Trident
