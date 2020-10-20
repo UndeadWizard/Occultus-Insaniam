@@ -1,0 +1,19 @@
+government = monarchy
+technology_group = lemurian
+religion = nestorian
+primary_culture = tervul
+capital = 5697
+
+
+#Shattered Trident
+1444.1.1 = {
+	monarch = {
+		name = "Ata"
+		dynasty = "Mandiwala"
+		adm = 2
+		dip = 3
+		mil = 4
+		birth_date = 1372.6.6
+	}
+
+}

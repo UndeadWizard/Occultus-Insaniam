@@ -123,6 +123,16 @@ L48 = "countries/Stolat.txt"		# Hindu, Sri Lankan, Monarchy
 L49 = "countries/Pantiya.txt"		# Hindu, Austronesian, Monarchy
 L50 = "countries/Lankr.txt"			# Hindu, Sri Lankan, Monarchy
 
+#Nestoria 
+N01 = "countries/Aupi.txt"			# Yazdeism, Tervul, Kingdom
+N02 = "countries/Noau.txt"			# Yazdeism, Tervul, Kingdom
+N03 = "countries/Ruek.txt"			# Yazdeism, Tervul, Kingdom
+N04 = "countries/Beter.txt"			# Nestorian, Tervul, Kingdom
+N05 = "countries/Luihat.txt"		# Nestorian, Tervul, Kingdom
+N06 = "countries/Nuvara.txt"		# Nestorian, Tervul, Kingdom
+N07 = "countries/Ngare.txt"			# Nestorian, Tervul, Kingdom
+
+#Mu
 #M00 - For Easter Egg later
 P01 = "countries/Kealakekua.txt"	# Tiki, Hawaiian, Tribal Kingdom
 P02 = "countries/Mui.txt"			# Tiki, Hawaiian, Tribal Federation

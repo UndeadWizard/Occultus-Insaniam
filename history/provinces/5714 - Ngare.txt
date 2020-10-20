@@ -14,6 +14,5 @@ religion = nestorian
 
 trade_goods = copper
 hre = no 
+
 discovered_by = lemurian
-
-

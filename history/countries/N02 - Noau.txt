@@ -1,0 +1,19 @@
+government = monarchy
+technology_group = lemurian
+religion = yazdeism
+primary_culture = tervul
+capital = 5708
+
+
+#Shattered Trident
+1444.1.1 = {
+	monarch = {
+		name = "Aidin"
+		dynasty = "Surti"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 1404.9.6
+	}
+
+}
