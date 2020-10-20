@@ -103,6 +103,7 @@ L28 = "countries/Jafara.txt"		# Sunni, Mashariki, Tribal Kingdom
 L29 = "countries/Adhamana.txt"		# Sunni, Mashariki, Tribal Kingdom
 L30 = "countries/Farijika.txt"		# Sunni, Mashariki, Tribal Kingdom
 L31 = "countries/Adhamani.txt"		# Sunni, Mashariki, Tribal Kingdom
+#L32 = #Never existed? Mysteriously Disappeared?
 L33 = "countries/Malaranu.txt"		# Sunni, Pasandhi, Monarchy
 L34 = "countries/Amuneym.txt"		# Yazdeism, Pasandhi, Monarchy 
 L35 = "countries/Sudopalis.txt"		# Yazdeism, Tervul, Kingdom
@@ -122,16 +123,6 @@ L48 = "countries/Stolat.txt"		# Hindu, Sri Lankan, Monarchy
 L49 = "countries/Pantiya.txt"		# Hindu, Austronesian, Monarchy
 L50 = "countries/Lankr.txt"			# Hindu, Sri Lankan, Monarchy
 
-#Nestoria 
-N01 = "countries/Aupi.txt"			# Yazdeism, Tervul, Kingdom
-N02 = "countries/Noau.txt"			# Yazdeism, Tervul, Kingdom
-N03 = "countries/Ruek.txt"			# Yazdeism, Tervul, Kingdom
-N04 = "countries/Beter.txt"			# Nestorian, Tervul, Kingdom
-N05 = "countries/Luihat.txt"		# Nestorian, Tervul, Kingdom
-N06 = "countries/Nuvara.txt"		# Nestorian, Tervul, Kingdom
-N07 = "countries/Ngare.txt"			# Nestorian, Tervul, Kingdom
-
-#Mu
 #M00 - For Easter Egg later
 P01 = "countries/Kealakekua.txt"	# Tiki, Hawaiian, Tribal Kingdom
 P02 = "countries/Mui.txt"			# Tiki, Hawaiian, Tribal Federation
