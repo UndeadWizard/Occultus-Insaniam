@@ -18,7 +18,7 @@ deity_mero = {
 }
 
 deity_khronos = {
-	supply_limit_modifier = 0.25
+	global_supply_limit_modifier = 0.25
 	movement_speed = 0.10
 	
 	allow = {
