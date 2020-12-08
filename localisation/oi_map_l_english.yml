@@ -36,12 +36,13 @@
  mu_south: "South Mu"
  mu_gulf: "Mu Gulf"
  mu_gulf_south: "Mu Gulf South"
+ mu_central: "Mu Central"
  mu_northeast: "Mu Northeast"
  mu_naacal: "Naacal"
  mu_southeast: "Mu Southeast"
  rlyeh_region: "R'lyeh"
  mu_north_sea_region: "Mu North Sea"
- mu_east_sea_region: "Mu East Sea"
+ mu_occult_ocean_region: "Occult Ocean"
  
  # Superregions
  atlantean_superregion: "Atlantis"

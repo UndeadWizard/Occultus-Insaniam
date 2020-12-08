@@ -345,7 +345,7 @@ mu_southeast = {
 }
 rlyeh_region = {
 	areas = {
-		rlyeh
+		rlyeh_area
 	}
 }
 
@@ -353,13 +353,30 @@ mu_north_sea_region = {
 	areas = {
 		hawaii_sea_area
 		maz_sea_area
+		east_mu_sea_area
 	}
 }
 
-mu_east_sea_region = {
+mu_occult_ocean_region = {
 	areas = {
-		east_mu_sea_area
 		naacal_sea_area
+		occult_triangle_area
+		mueini_gulf_area
+	}
+}
+
+sea_of_dragons_region = {
+	areas = {
+		sea_of_dragons_area
+	}
+}
+
+
+south_east_pacific_region = {
+	areas = {
+		south_pacific_area
+		polynesian_triangle_area
+		dawa_sea_area
 	}
 }
 #-----------------#
@@ -1819,13 +1836,6 @@ south_west_pacific_region = {
 		coral_sea_area
 		tasman_sea_area
 		great_australian_bight_area
-	}
-}
-
-south_east_pacific_region = {
-	areas = {
-		south_pacific_area
-		polynesian_triangle_area
 	}
 }
 
