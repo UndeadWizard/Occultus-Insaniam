@@ -31,6 +31,18 @@
  western_lemurian_ocean: "Western Lemurian Ocean"
  eastern_lemurian_ocean: "Eastern Lemurian Ocean"
  
+ mu_western_islands: "Mazu Archipelago"
+ mu_west_mainland: "West Mu"
+ mu_south: "South Mu"
+ mu_gulf: "Mu Gulf"
+ mu_gulf_south: "Mu Gulf South"
+ mu_northeast: "Mu Northeast"
+ mu_naacal: "Naacal"
+ mu_southeast: "Mu Southeast"
+ rlyeh_region: "R'lyeh"
+ mu_north_sea_region: "Mu North Sea"
+ mu_east_sea_region: "Mu East Sea"
+ 
  # Superregions
  atlantean_superregion: "Atlantis"
  lemurian_superregion: "Lemuria"
