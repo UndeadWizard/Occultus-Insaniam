@@ -55,7 +55,7 @@ atlantean_missions_far_left = {
 				add_claim = ROOT
 			}
 			
-			481 = {
+			greater_antilles_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -75,7 +75,9 @@ atlantean_missions_far_left = {
 		}
 		
 		effect = {
-			create_explorer = 25
+			create_explorer = {
+				tradition = 25
+			}
 		}
 	}
 	
@@ -109,11 +111,10 @@ atlantean_missions_far_left = {
 				}
 			}
 		}
-		
 		effect = {
 			add_country_modifier = {
 				name = "colonial_enthusiasm"
-				duration = 7300
+				duration = 7300 #20 Years
 			}
 		}
 	}
@@ -285,6 +286,7 @@ atlantean_missions_left = {
 		}
 		
 		effect = {
+			add_treasury = 50
 		}
 	}
 }
