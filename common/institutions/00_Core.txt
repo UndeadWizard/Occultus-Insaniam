@@ -32,6 +32,9 @@ feudalism = {
 					continent = north_america
 					continent = south_america
 					continent = oceania
+					continent = atlantis
+					continent = antillia
+					
 				}
 				owner = {
 					is_playing_custom_nation = yes
@@ -42,6 +45,10 @@ feudalism = {
 						technology_group = muslim
 						technology_group = indian
 						technology_group = chinese
+						technology_group = atlantean
+						technology_group = lemurian
+						technology_group = muror
+						technology_group = occult
 						#technology_group = high_american #Is listed below as High Americans get it regardless of if Nation Designer is used.
 					}
 				}
@@ -70,6 +77,7 @@ feudalism = {
 					culture_group = scandinavian
 					culture_group = west_slavic
 					culture_group = western_aryan
+					culture_group = atlantean_group
 					province_id = 383
 					province_id = 412
 					province_id = 2327
@@ -599,11 +607,17 @@ new_world_i = {
 				superregion = persia_superregion
 			}
 			AND = {
+				is_year = 1625
+				superregion = lemurian_superregion
+			}
+			AND = {
 				is_year = 1650
 				superregion = india_superregion
 			}
-			
-			
+			AND = {
+				is_year = 1650
+				superregion = mu_superregion
+			}
 			AND = {
 				is_year = 1650
 				superregion = china_superregion
@@ -627,6 +641,8 @@ new_world_i = {
 			continent = europe
 			continent = asia
 			continent = africa
+			continent = atlantis
+			continent = lemuria
 		}
 		has_port = yes
 		is_island = no
@@ -1257,6 +1273,7 @@ global_trade = {
 				has_port = yes
 				is_capital = no
 				OR = {
+					superregion = lemuria_superregion
 					superregion = india_superregion
 					superregion = persia_superregion
 					superregion = east_indies_superregion
@@ -1517,14 +1534,26 @@ manufactories = {
 			AND = {
 				is_year = 1720
 				continent = europe
-			}	
+			}
+			AND = {
+				is_year = 1725
+				continent = atlantis
+			}
 			AND = {
 				is_year = 1750
 				superregion = china_superregion
 			}
 			AND = {
 				is_year = 1750
+				superregion = mu_superregion
+			}
+			AND = {
+				is_year = 1750
 				superregion = india_superregion
+			}
+			AND = {
+				is_year = 1750
+				superregion = lemuria_superregion
 			}
 			AND = {
 				is_year = 1750
@@ -2023,7 +2052,12 @@ enlightenment = {
 				is_year = 1730
 				continent = europe
 			}	
-
+			
+			AND = {
+				is_year = 1730
+				continent = atlantis
+			}
+			
 			AND = {
 				is_year = 1800
 				superregion = near_east_superregion
