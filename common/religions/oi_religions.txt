@@ -1,7 +1,7 @@
 # ---- Atlantean ---- #
 atlantean_pagan = {
 	atlanic = {
-		icon = 58
+		icon = 59
 		color = { 85 128 237 }
 		country = {
 			tolerance_own = 1
@@ -35,7 +35,7 @@ atlantean_pagan = {
 christian = {
 	heptarchic = {
 		color = { 246 181 17 } 
-		icon = 62
+		icon = 63
 		country = {
 			stability_cost_modifier = -0.1
 			tolerance_own = 1
@@ -67,7 +67,7 @@ christian = {
 	
 	nasrani = {
 		color = { 217 188 255 }
-		icon = 30
+		icon = 32
 		allowed_conversion = {
 			orthodox
 		}
@@ -161,7 +161,7 @@ christian = {
 polynesian = {
 	tiki = {
 		color = { 104 255 149 }
-		icon = 29
+		icon = 30
         
 		country = {
 			build_cost = -0.2
@@ -174,7 +174,7 @@ polynesian = {
     }
 	kolu = {
 		color = { 133 0 40 }
-		icon = 63
+		icon = 64
 		country = {
             tolerance_own = 1
 			naval_morale = 0.1
@@ -186,11 +186,11 @@ polynesian = {
 	}
 }
 
-# ---- Occult ---- #
+# ---- Lovecraftian ---- #
 occult = {
 	occultist = {
 		color = { 72 0 114 }
-		icon = 28
+		icon = 29
         
 		country = {
             tolerance_own = 1
@@ -210,7 +210,7 @@ occult = {
 
 dhmaric_zoroastrian = {
 	yazdeism = {
-		icon = 65 
+		icon = 66
 		color = { 178 51 51 }
 		
 		province = {
@@ -245,7 +245,7 @@ dhmaric_zoroastrian = {
 muror = {
 	luuxin = {
 		color = { 211 219 184 }
-		icon  = 64
+		icon  = 65
 		
         country = {
             tolerance_own = 1
