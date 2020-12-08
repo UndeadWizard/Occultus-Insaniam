@@ -286,7 +286,6 @@ atlantean_missions_left = {
 		}
 		
 		effect = {
-			add_treasury = 50
 		}
 	}
 }

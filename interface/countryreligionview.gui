@@ -1732,13 +1732,13 @@ guiTypes = {
 		iconType =	{
 			name ="missionary_strength_icon"
 			spriteType = "GFX_icon_missionary"
-			position = { x= 393 y = 332 }
+			position = { x= 102 y = 330 }
 			Orientation = "UPPER_LEFT"
 		}		
 		
 		instantTextBoxType = {
 			name = "missionary_strength_value"
-			position = { x = 434 y = 340 }
+			position = { x = 128 y = 337 }
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "TEMP"
@@ -1751,7 +1751,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "conversion"
-			position = { x = 215 y = 339 }
+			position = { x = 210 y = 336 }
 			font = "vic_22"
 			borderSize = {x = 0 y = 0}
 			text = "CONVERT"
@@ -1995,7 +1995,7 @@ guiTypes = {
 # Needs txt linking	
 		instantTextBoxType = {
 				name = "defender_title"
-				position = { x = 360 y = 233 }
+				position = { x = 360 y = 235 }
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 4 y = 4}	

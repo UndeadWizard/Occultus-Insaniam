@@ -15,5 +15,5 @@ religion = hinduism
 trade_goods = cotton
 hre = no 
 
-
+discovered_by = lemurian
 
