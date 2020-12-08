@@ -37,7 +37,7 @@
  mu_superregion: "Mu"
  
  # Tradenodes
- north_lemuria: "North Lemuria"
+ north_lemuria: "Nestoria"
  east_lemuria: "East Lemuria"
  central_lemuria: "Central Lemuria"
  west_lemuria: "West Lemuria"
@@ -48,7 +48,6 @@
  west_mu: "West Mu"
  east_mu: "East Mu"
  atlantis_node: "Atlantis"
- antillia_node: "Antillia"
  
  # Colonial Regions
  COLONIAL_BRAZIL_Themyscira:0 "Themyscira"
