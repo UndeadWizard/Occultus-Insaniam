@@ -385,8 +385,10 @@ france_region = {
 		ile_de_france_area
 		loire_area
 		bourgogne_area
+		west_burgundy_area
 		pyrenees_area
 		poitou_area
+		orleans_area
 	}
 }
 
@@ -407,7 +409,6 @@ scandinavia_region = {
 		laponia_area
 		vastra_gotaland_area
 		ostra_svealand_area
-		iceland_area
 	}
 }
 
@@ -417,8 +418,9 @@ low_countries_region = {
 		wallonia_area
 		flanders_area
 		holland_area
-		netherlands_area
 		frisia_area
+		brabant_area
+		north_brabant_area
 	}
 
 }
@@ -437,6 +439,9 @@ italy_region = {
 		apulia_area
 		emilia_romagna_area
 		central_italy_area
+		lazio_area
+		po_valley_area
+		western_sicily_area
 	}
 }
 
@@ -451,16 +456,19 @@ north_german_region = {
 		mittelmark_area
 		vorpommern_area
 		bohemia_area
+		moravia_area
 		hinter_pommern_area
 		north_rhine_area
 		lower_rhineland_area
 		westphalia_area
+		north_westphalia_area
 		hesse_area
 		lower_saxony_area
 		weser_area
 		holstein_area
 		mecklenburg_area
 		braunschweig_area
+		lusatia_area
 	}
 }
 
@@ -476,12 +484,15 @@ south_german_region = {
 		switzerland_area
 		lower_bavaria_area
 		upper_bavaria_area
+		east_bavaria_area
 		franconia_area
+		upper_franconia_area
 		lower_swabia_area
 		upper_swabia_area
 		upper_rhineland_area
 		romandie_area
 		palatinate_area
+		alsace_area
 	}
 }
 
@@ -537,6 +548,7 @@ iberia_region = {
 		basque_country
 		galicia_area
 		baleares_area
+		extremadura_area
 	}
 }
 
@@ -628,6 +640,8 @@ balkan_region = {
 		morea_area
 		thrace_area
 		albania_area
+		silistria_area
+		slavonia_area
 	}
 }
 
@@ -955,6 +969,7 @@ south_africa_region = {
 		quelimane_area
 		butua_area
 		limpopo_area
+		transvaal_area
 	}
 	monsoon = {
 		00.11.01
@@ -965,7 +980,6 @@ south_africa_region = {
 		00.04.30
 	}
 }
-
 
 west_siberia_region = {
 	areas = {
@@ -1732,6 +1746,7 @@ mediterrenean_region = {
 caribbean_sea_region = {
 	areas = {
 		bahama_channel_area
+		coast_of_guyana_area
 		caribbean_sea_area
 		gulf_of_mexico_area
 		sargasso_sea_area
@@ -1809,11 +1824,8 @@ south_west_pacific_region = {
 
 south_east_pacific_region = {
 	areas = {
+		south_pacific_area
 		polynesian_triangle_area
-		mueini_gulf_area
-		occult_triangle_area
-		sea_of_dragons_area
-		dawa_sea_area
 	}
 }
 
@@ -1831,7 +1843,6 @@ pacific_south_america_region = {
 		chilean_sea_area
 		sea_of_grau_area
 		gulf_of_panama_area
-		south_pacific_area
 	}
 }
 
