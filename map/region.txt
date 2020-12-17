@@ -178,7 +178,7 @@ lemurian_eastlemuria = {
 		brisbong_area
 		tamwurah_area
 		lalerim_area
-		montang_area
+		albagga_area
 		lismuca_area	
 	}
 }

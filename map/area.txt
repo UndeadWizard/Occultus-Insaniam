@@ -333,8 +333,8 @@ lalerim_area = {
 	5084 5085 5086
 }
 
-montang_area = {
-	4869 5087 5091 5092
+albagga_area = {
+	5087 5091 5092
 }
 
 kajung_area = {
@@ -350,7 +350,7 @@ datha_area = {
 }
 
 lakbanj_area = {
-	4856 4857 4862 4863 
+	4856 4857 4862 4863 4869 
 }
 
 abedsarak_area = {
