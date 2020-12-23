@@ -209,6 +209,7 @@ occult = {
 }
 
 dhmaric_zoroastrian = {
+	defender_of_faith = yes
 	yazdeism = {
 		icon = 66
 		color = { 178 51 51 }
@@ -223,21 +224,11 @@ dhmaric_zoroastrian = {
 		country_as_secondary = {
 			merchants = 1
 			tolerance_own = 1
-		}
+		}	
 		
-		holy_sites = { 4894 4953 4931 4914 4849 }
-		
-		blessings = {
-			legitimize_government
-			encourage_warriors_of_the_faith
-			send_monks_to_establish_monasteries
-			promote_territorial_rights
-			will_of_the_martyrs
-		}
 		
 		heretic = { MAZDAKI MANICHEAN }	
 	}
-	
 	crusade_name = HOLY_WAR
 }
 # ---- Muror ---- #
