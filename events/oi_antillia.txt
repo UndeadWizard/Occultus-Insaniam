@@ -23,7 +23,7 @@ country_event = {
 
 	option = {	
 		name = anx_events.1.a
-		ai_chance = { factor = 80}
+		ai_chance = { factor = 90}
 		add_country_modifier = {
 			name = "ANX_colonial_aspirations"
 			duration = -1
@@ -37,8 +37,8 @@ country_event = {
 	}
 	option = {	
 		name = anx_events.1.b
-		ai_chance = { factor = 20}
-		add_prestige = 20
+		ai_chance = { factor = 10}
+		add_prestige = 25
 		set_country_flag = antillian_invading
 	}
 }
