@@ -30,6 +30,7 @@ country_event = {
 			}
 			change_culture = amazonian
 		}
+		change_primary_culture = amazonian
 	}
 }
 
@@ -62,6 +63,7 @@ country_event = {
 			}
 			change_culture = arcadian
 		}
+		change_primary_culture = arcadian
 	}
 }
 
@@ -93,6 +95,7 @@ country_event = {
 			}
 			change_culture = panchaian
 		}
+		change_primary_culture = panchaian
 	}
 }
 country_event = {
@@ -120,7 +123,7 @@ country_event = {
 			}
 			change_culture = anatlan
 		}
-		
+		change_primary_culture = anatlan
 	}
 }
 
