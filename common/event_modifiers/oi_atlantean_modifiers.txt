@@ -73,6 +73,22 @@ ATL_path_to_europe = {
 	trade_efficiency = 0.05
 }
 
+ATL_aint_nothing_but_a_heartache = {
+	navy_tradition = 1
+}
+
+ATL_aint_nothing_but_a_mistake = {
+	prestige = 1
+}
+
+ATL_i_never_wanna_hear_you_say = {
+	embargo_efficiency = 0.25
+}
+
+ATL_i_want_it_that_way = {
+	blockade_efficiency = 0.10
+}
+
 #Oracle Modifiers
 
 ORACLE_legitimate = {

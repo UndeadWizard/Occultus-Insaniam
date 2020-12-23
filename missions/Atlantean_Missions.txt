@@ -286,6 +286,10 @@ atlantean_missions_left = {
 		}
 		
 		effect = {
+			add_country_modifier = { 
+				name = ATL_aint_nothing_but_a_heartache
+				duration = 9125
+			}
 		}
 	}
 }
@@ -391,7 +395,11 @@ atlantean_missions_middle = {
 		}
 		
 		effect = {
-		
+			add_country_modifier = { 
+				name = ATL_aint_nothing_but_a_mistake
+				duration = 9125
+			}
+			add_legitimacy = 10
 		}
 	}
 	
@@ -471,7 +479,18 @@ atlantean_missions_right = {
 			}
 		}
 		
-		effect = { }
+		effect = {
+			add_country_modifier = {
+				name = ATL_i_never_wanna_hear_you_say
+				duration = -1
+			}
+			add_country_modifier = {
+				name = ATL_i_want_it_that_way
+				duration = 7300
+			}
+			add_army_tradition = 5
+			add_navy_tradition = 5
+		}
 	}
 }
 

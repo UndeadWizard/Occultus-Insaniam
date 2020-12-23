@@ -39,6 +39,17 @@
  ATL_experienced_diplomats: "Experienced Diplomats"
  ATL_path_to_europe: "Path to Europe"
  
+ #ATL continued; added by Zeph
+ ATL_aint_nothing_but_a_heartache: "Unified the Islands"
+ ATL_aint_nothing_but_a_mistake: "Crownlands Secured"
+ ATL_i_never_wanna_hear_you_say: "Control of the Gates of Atlantis"
+ ATL_i_want_it_that_way: "Economic Lockdowns"
+ 
+ desc_ATL_aint_nothing_but_a_heartache: "An influx of better prepared naval officers is necessary to maintain control over our new conquests."
+ desc_ATL_aint_nothing_but_a_mistake: "With the Crownlands under our firm grasp, our power grows, not just in resources, but also diplomatically, as they can be used as leverage to our claims to greatness."
+ desc_ATL_i_never_wanna_hear_you_say: "With the Gates secured, most of the trade in Atlantis can be policed by us. This can be used to our advantage, should we want to expel foreign traders."
+ desc_ATL_i_want_it_that_way: "Our recent conquest of the Gates has made it difficult for our enemies to adapt their economies in case of a war with us."
+ 
  #Azaresi Modifiers
  aza_uncertainfuture: "Uncertain Future"
  desc_aza_uncertainfuture:"With the Imperator on his deathbed the future of Atlantis is insecure. The feeling of unease infects all the citizens of Alantium and the outer villages."
