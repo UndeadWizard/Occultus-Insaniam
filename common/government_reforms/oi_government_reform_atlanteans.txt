@@ -1,6 +1,6 @@
 atlantean_warring_state = {
 	icon = "castle"
-	allow_normal_conversion = yes
+	allow_normal_conversion = no
 	#legacy_equivalent = atlantean_warring_state_legacy
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
@@ -15,8 +15,9 @@ atlantean_warring_state = {
 	modifiers = {
 		land_morale = 0.05
 		infantry_power = 0.05
-		global_autonomy = 0.05
-		max_absolutism = -25
+		diplomatic_reputation = -1
+		max_absolutism = -15
+		diplomatic_upkeep = -2	
 	}
 		
 	ai = {
@@ -27,7 +28,7 @@ atlantean_warring_state = {
 decentralized_imperatorship_reform = {
 	icon = "castle"
 	lock_level_when_selected = yes
-	allow_normal_conversion = yes
+	allow_normal_conversion = no
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	potential = {
