@@ -123,3 +123,116 @@ country_event = {
 		
 	}
 }
+
+country_event = {
+	id = oi_culture.5
+	title = oi_culture.5.t
+	desc = oi_culture.5.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	trigger = {
+			any_owned_province = {
+				is_colony = no
+				colonial_region = colonial_brazil
+				culture_group = atlantean_group
+			}
+	}
+	mean_time_to_happen = {
+		months = 120
+	}
+	option = {
+		any_owned_province = {
+			limit = {
+				is_colony = no
+				colonial_region = colonial_brazil
+				culture_group = atlantean_group
+			}
+			change_culture = amazonian
+		}
+	}
+}
+
+
+country_event = {
+	id = oi_culture.6
+	title = oi_culture.6.t
+	desc = oi_culture.6.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	trigger = {
+			any_owned_province = {
+				is_colony = no
+				colonial_region = colonial_eastern_america
+				culture_group = atlantean_group
+			}
+	}
+	mean_time_to_happen = {
+		months = 120
+	}
+	option = {
+		
+		any_owned_province = {
+			limit = {
+				is_colony = no
+				colonial_region = colonial_eastern_america
+				culture_group = atlantean_group
+			}
+			change_culture = arcadian
+		}
+	}
+}
+
+
+country_event = {
+	id = oi_culture.7
+	title = oi_culture.7.t
+	desc = oi_culture.7.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	trigger = {
+		any_owned_province = {
+			is_colony = no
+			culture_group = atlantean_group
+			colonial_region = colonial_the_carribean
+		}
+	}
+	mean_time_to_happen = {
+		months = 120
+	}
+	option = {
+		any_owned_province = {
+			limit = {
+				is_colony = no
+				colonial_region = colonial_the_carribean
+				culture_group = atlantean_group
+			}
+			change_culture = panchaian
+		}
+	}
+}
+country_event = {
+	id = oi_culture.8
+	title = oi_culture.8.t
+	desc = oi_culture.8.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	trigger = {
+		any_owned_province = {
+			culture_group = atlantean_group
+			colonial_region = colonial_canada
+		}
+	}
+	mean_time_to_happen = {
+		months = 120
+	}
+	option = {
+		any_owned_province = {
+			limit = {
+				colonial_region = colonial_canada
+				culture_group = atlantean_group
+			}
+			change_culture = anatlan
+		}
+		
+	}
+}
