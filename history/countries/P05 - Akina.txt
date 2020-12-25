@@ -3,7 +3,7 @@ add_government_reform = tribal_federation
 technology_group = polynesian
 religion = tiki
 primary_culture = rapanui
-capital = 5157
+capital = 5483
 
 
 #Shattered Trident

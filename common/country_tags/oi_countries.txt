@@ -166,3 +166,5 @@ M18 = "countries/Chiwa.txt"			# Dragon Gods, Muror, Monarchy
 M19 = "countries/Bakra.txt"			# Dragon Gods, Muror, Monarchy
 M20 = "countries/Domao.txt"			# Dragon Gods, Muror, Monarchy
 M21 = "countries/Yinin.txt"			# Dragon Gods, Muror, Monarchy
+M22 = "countries/Pigae.txt"			# Dragon Gods, Mul, Monarchy
+M23 = "countries/Amgaok.txt"		# Dragon Gods, Mul, Monarchy

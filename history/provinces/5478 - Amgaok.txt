@@ -1,0 +1,19 @@
+#5478 - Amgaok
+
+owner = M23
+controller = M23
+add_core = M23
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+culture = mul
+religion = luuxin
+
+trade_goods = tropical_wood
+hre = no 
+
+discovered_by = polynesian
+discovered_by = muror

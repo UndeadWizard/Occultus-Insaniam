@@ -1,13 +1,13 @@
-#5275 - Nuomanu
+#5493 - Geigurad
 
 owner = P06
 controller = P06
 add_core = P06
 is_city = yes
 
-base_tax = 3
-base_production = 3
-base_manpower = 4
+base_tax = 4
+base_production = 4
+base_manpower = 5
 
 culture = savaikian
 religion = tiki

@@ -642,6 +642,7 @@ new_world_i = {
 			continent = asia
 			continent = africa
 			continent = atlantis
+			continent = antillia
 			continent = lemuria
 		}
 		has_port = yes

@@ -3,7 +3,7 @@ add_government_reform = tribal_kingdom
 technology_group = polynesian
 religion = tiki
 primary_culture = savaikian
-capital = 5162
+capital = 5493
 
 
 #Shattered Trident

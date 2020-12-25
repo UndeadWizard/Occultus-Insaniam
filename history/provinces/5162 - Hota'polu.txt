@@ -1,18 +1,18 @@
 #5162 - Hota'polu
 
-owner = P06
-controller = P06
-add_core = P06
-is_city = yes
+is_city = no
+native_size = 20
+native_ferocity = 2
+native_hostileness = 3
 
 base_tax = 3
 base_production = 3
 base_manpower = 2
 
-culture = savaikian
-religion = tiki
+culture = muror
+religion = animism
 
-trade_goods = fish
+trade_goods = unknown
 hre = no 
 
 discovered_by = polynesian

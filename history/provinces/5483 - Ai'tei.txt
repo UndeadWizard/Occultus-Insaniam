@@ -1,0 +1,18 @@
+#5483 - Ai'tei
+
+owner = P07
+controller = P07
+add_core = P07
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 5
+
+culture = savaikian
+religion = tiki
+
+trade_goods = grain
+hre = no 
+
+discovered_by = polynesian
