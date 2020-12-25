@@ -249,7 +249,7 @@ polynesian_ideas = {
 		OR = {
 			primary_culture = waponi
 			primary_culture = hawaiian
-			primary_culture = rapanni
+			primary_culture = rapanui
 			primary_culture = savaikian
 			primary_culture = samoan
 		}

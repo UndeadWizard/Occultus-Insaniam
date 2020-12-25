@@ -2,7 +2,7 @@ government = tribal
 add_government_reform = tribal_federation
 technology_group = polynesian
 religion = tiki
-primary_culture = rapanni
+primary_culture = rapanui
 capital = 5157
 
 

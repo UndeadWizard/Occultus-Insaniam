@@ -352,6 +352,7 @@ atlantean_missions_middle = {
 		effect = {
 			change_tag = ATL
             add_prestige = 10
+			set_government_rank = 3
 			
 			atlantean_superregion = {
 				add_permanent_claim = ROOT 

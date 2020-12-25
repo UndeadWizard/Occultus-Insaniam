@@ -169,3 +169,89 @@ country_event = {
 		add_prestige = 10
 	}
 }
+
+# Atlantean Purchase of Printing Press
+country_event = {
+	id = oi_institutions.4
+	title = oi_institutions.4.t
+	desc = oi_institutions.4.d
+	picture = NAVAL_MILITARY_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = oi_institutions.4.a
+		OR = {
+		if = {
+			limit = {
+				all_known_country = {
+					technology_group = western
+					has_opinion = { 
+						who = ROOT
+						value = 0
+					}
+				}
+				amount = 1
+			}
+		}
+		if = {
+			limit = {
+				all_known_country = {
+					technology_group = western
+					has_opinion = { 
+						who = ROOT
+						value = 50
+					}
+				}
+				amount = 1
+			}
+			capital_scope = {
+				add_institution_embracement = {
+					which = printing_press
+					value = 75
+				}
+			}
+			add_treasury = -1000
+		}
+		if = {
+			limit = {
+				all_known_country = {
+					technology_group = western
+					has_opinion = { 
+						who = ROOT
+						value = 100
+					}
+				}
+				amount = 1
+			}
+			capital_scope = {
+				add_institution_embracement = {
+					which = printing_press
+					value = 75
+				}
+			}
+			add_treasury = -750
+		}
+		
+		if = {
+			limit = {
+				all_known_country = {
+					technology_group = western
+					has_opinion = { 
+						who = ROOT
+						value = 100
+					}
+				}
+				amount = 1
+			}
+			capital_scope = {
+				add_institution_embracement = {
+					which = printing_press
+					value = 150
+				}
+			}
+			add_treasury = -500
+		}
+	}
+	}
+}

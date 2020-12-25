@@ -5,11 +5,14 @@ atlantean_warring_state = {
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	potential = {
-		OR = {
-			capital_scope = {
-				superregion = atlantean_superregion
+		AND = {
+			OR = {
+				capital_scope = {
+					superregion = atlantean_superregion
+				}
+				has_reform = atlantean_warring_state
 			}
-			has_reform = atlantean_warring_state
+			NOT = { tag = ATL }
 		}
 	}
 	modifiers = {
