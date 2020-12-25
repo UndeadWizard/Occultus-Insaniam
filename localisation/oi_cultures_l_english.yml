@@ -34,8 +34,12 @@
 #Polynesian Cultures
  muror_polynesian_group: "Polynesian"
  hawaiian:0  "Hawaiian"
- rapanni:0 "Rapanni"
+ rapanui:0 "Rapanui"
  savaikian:0 "Savaikian"
  waponi:0 "Waponi"
+ samoan:0 "Samoan"
+ tongan:0 "Tongan"
+ tahitian:0 "Tahitian"
+ maori:0 "Maori"
  #European Cultures
  thuler_irish:0 "Thuler"

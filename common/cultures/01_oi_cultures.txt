@@ -365,7 +365,7 @@ muror_polynesian_group = {
     graphical_culture = asiangfx
     
 	hawaiian = { }
-	rapanni = { }
+	rapanui = { }
 	savaikian = { }
 	waponi = { }
 	samoan = { }
