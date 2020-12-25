@@ -119,3 +119,9 @@ ORACLE_famine = {
 ORACLE_poor_army = {
 	discipline = -0.1	
 }
+
+#Atlantean Events
+
+bought_printing_press = {
+	institution_growth = 10
+}

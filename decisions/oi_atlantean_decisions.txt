@@ -71,6 +71,9 @@ country_decisions = {
 			}
 			NOT = {
 				has_unembraced_institution = renaissance
+				capital_scope = {
+					printing_press = 50
+				}
 			}
 		}
 		effect = {
