@@ -12,11 +12,16 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
+		AND = {
 			any_owned_province = {
 				is_colony = no
 				colonial_region = colonial_brazil
 				culture_group = atlantean_group
 			}
+			capital_scope = {
+				colonial_region = colonial_brazil
+			}
+		}
 	}
 	mean_time_to_happen = {
 		months = 600
@@ -44,11 +49,18 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
+		AND = {
 			any_owned_province = {
 				is_colony = no
 				colonial_region = colonial_eastern_america
 				culture_group = atlantean_group
 			}
+			
+			capital_scope = {
+				colonial_region = colonial_eastern_america
+			}
+		}
+		
 	}
 	mean_time_to_happen = {
 		months = 600
@@ -77,10 +89,16 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		any_owned_province = {
-			is_colony = no
-			culture_group = atlantean_group
-			colonial_region = colonial_the_carribean
+		AND = {
+			any_owned_province = {
+				is_colony = no
+				culture_group = atlantean_group
+				colonial_region = colonial_the_carribean
+			}
+		
+			capital_scope = {
+				colonial_region = colonial_the_carribean
+			}
 		}
 	}
 	mean_time_to_happen = {
@@ -107,9 +125,15 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		any_owned_province = {
-			culture_group = atlantean_group
-			colonial_region = colonial_canada
+		AND = {
+			any_owned_province = {
+				culture_group = atlantean_group
+				colonial_region = colonial_canada
+			}
+		
+			capital_scope = {
+				colonial_region = colonial_canada
+			}
 		}
 	}
 	mean_time_to_happen = {
