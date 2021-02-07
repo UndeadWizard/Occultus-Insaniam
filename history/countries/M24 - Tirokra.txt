@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = dragon_noble
+technology_group = muror
+religion = luuxin
+primary_culture = mul
+capital = 5478
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Zio"
+		dynasty = "Tirok"
+		adm = 5
+		dip = 4
+		mil = 3
+		birth_date = 1419.1.1
+	}
+}
