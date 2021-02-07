@@ -1,0 +1,18 @@
+#5465 - Himirman
+
+owner = M24
+controller = M24
+add_core = M24
+is_city = yes
+
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+culture = mul
+religion = luuxin
+
+trade_goods = wool
+hre = no 
+
+discovered_by = muror
