@@ -1,1 +1,2 @@
 discovered_by = polynesian
+discovered_by = muror

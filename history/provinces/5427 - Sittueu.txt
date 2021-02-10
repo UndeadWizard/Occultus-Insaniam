@@ -1,0 +1,16 @@
+#5427 - Sittueu
+
+owner = NA2
+controller = NA2
+add_core = NA2
+is_city = yes
+
+base_tax = 3
+base_production = 4
+base_manpower = 2
+
+culture = naacal
+religion = nayaran
+
+trade_goods = wool
+hre = no 

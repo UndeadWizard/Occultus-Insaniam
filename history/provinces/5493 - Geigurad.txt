@@ -16,3 +16,4 @@ trade_goods = dyes
 hre = no 
 
 discovered_by = polynesian
+discovered_by = muror

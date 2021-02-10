@@ -254,3 +254,28 @@ muror = {
 	}
 	 harmonized_modifier = harmonized_muror_group
 }
+
+# ---- Naacal ---- #
+
+naacal_pagan = {
+	nayaran = {
+		color = { 10 161 85 }
+		icon = 19
+		country = {
+			tolerance_own = 1
+			advisor_pool = 1
+		}
+		country_as_secondary = {
+			advisor_pool = 1
+			stability_cost_modifier = -0.1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		religious_reforms = yes
+		reform_tooltip = MESOAMERICAN_REFORM_TOOLTIP
+		
+		heretic = { MESOAMERICAN_HERETIC }	
+	}
+}
