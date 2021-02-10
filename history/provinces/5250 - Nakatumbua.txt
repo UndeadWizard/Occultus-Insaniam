@@ -15,4 +15,5 @@ religion = luuxin
 trade_goods = dyes
 hre = no 
 
-discovered_by = muror
+discovered_by = muror 
+discovered_by = polynesian
