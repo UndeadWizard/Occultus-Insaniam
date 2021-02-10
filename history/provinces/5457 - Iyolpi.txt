@@ -1,0 +1,18 @@
+#5457 - Iyolpi
+
+owner = M25
+controller = M25
+add_core = M25
+is_city = yes
+
+base_tax = 4
+base_production = 5
+base_manpower = 4
+
+culture = mul
+religion = luuxin
+
+trade_goods = grain
+hre = no 
+
+discovered_by = muror

@@ -3,7 +3,7 @@ add_government_reform = dragon_noble
 technology_group = muror
 religion = luuxin
 primary_culture = mul
-capital = 5478
+capital = 5468
 
 #Rise of the Ottomans
 1444.1.1 = {
