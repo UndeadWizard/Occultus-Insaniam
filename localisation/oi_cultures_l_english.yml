@@ -41,5 +41,9 @@
  tongan:0 "Tongan"
  tahitian:0 "Tahitian"
  maori:0 "Maori"
+ #Mu Cultures
+ muror:0 "Muror"
+ mul:0 "Mul"
+ naacal:0 "Naacal"
  #European Cultures
  thuler_irish:0 "Thuler"
