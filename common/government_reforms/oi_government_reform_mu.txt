@@ -42,7 +42,10 @@ dragon_noble = {
 	icon = "daimyo"
 	allow_normal_conversion = no
 	potential = {
-		overlord = { has_reform = dragon_empire }
+		OR = {
+			capital_scope = { continent = mu }
+			culture_group = muror
+		}
 	}
 	fixed_rank = 1
 	maintain_dynasty = yes
@@ -73,7 +76,7 @@ dragon_king = {
 					is_subject = no
 					overlord = { NOT = { has_reform = dragon_empire } }
 				}
-				capital_scope = { region = mu_gulf }
+				capital_scope = { continent = mu }
 				culture_group = muror
 			}
 			AND = {

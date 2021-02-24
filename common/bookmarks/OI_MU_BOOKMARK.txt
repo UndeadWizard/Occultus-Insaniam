@@ -3,11 +3,10 @@ bookmark =
 	name = "BOOKMARK_OI_MU_BOOKMARK"
 	desc = "BOOKMARK_OI_MU_BOOKMARK_DESC"
 	date = 1444.11.11
-	center = 5133
+	center = 5241
 	default = yes
+	country = MU0
 	country = M01
-	country = M02
-	country = M03
 	country = M04
-	country = M05
+	country = M12
 }

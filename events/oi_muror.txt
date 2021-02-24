@@ -1,0 +1,127 @@
+########################################
+# Muror Events                         #
+########################################
+
+namespace = muror
+
+country_event = {
+	id = muror.1
+	title = muror.1.t
+	desc = muror.1.d
+	picture = GREAT_BUILDING_eventPicture
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+    trigger = {
+		tag = MU0
+		NOT = { is_year = 1445 }
+	}
+	
+	option = {	
+		name = muror.1.a
+		set_country_flag = dragon_emperor
+	}
+}
+
+# The DYNASTYNAME Laqayan Mandate has fallen!
+province_event = {
+	id = muror.2
+	title = muror.2.t
+	desc = muror.2.d
+	picture = COURT_eventPicture
+	
+	major = yes
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	#Different Localizations for situation
+	
+	desc = { #If owner is a Laqayanate
+		trigger = {
+			owner = { has_reform = dragon_empire }
+			all_known_country = {
+				AND = {
+					has_reform = dragon_empire
+					has_country_flag = dragon_emperor
+				}
+			}
+		}
+		desc = muror.EVTDESC1
+	}
+	
+	trigger = {
+		province_id = 5241
+		owner = {
+			OR = {
+				has_reform = dragon_noble
+				has_reform = dragon_king
+			}
+		}
+	}
+	
+	immediate = {
+		hidden_effect = {
+			owner = {
+				if = {
+					limit = {
+						OR = {
+							has_reform = dragon_noble
+							has_reform = dragon_king
+						}
+					}
+					add_core = 5241
+					set_capital = 5241
+					add_government_reform = dragon_empire
+					save_event_target_as = new_dragon_emperor
+					set_country_flag = a_new_dragon
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "muror.2.a"
+		if = {
+			limit = {
+				owner = { has_reform = dragon_empire }
+			}
+			custom_tooltip = claiming_the_dragon_empire_tooltip
+		}
+		
+		hidden_effect = {		
+			if = {
+				limit = {
+					owner = {
+						overlord = { has_reform = dragon_empire }  
+					}
+				}
+				owner = {
+					overlord = {
+						release_all_subjects = yes
+					}
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = muror.3
+	title = muror.3.t
+	desc = muror.3.d
+	picture = COURT_eventPicture
+	
+	trigger = {
+		has_reform = dragon_noble
+		NOT = { overlord = { has_reform = dragon_empire } }
+	}
+	
+	option = {
+		name = "muror.3.a"
+		
+		add_government_reform = dragon_king
+	}
+}
