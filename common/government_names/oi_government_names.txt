@@ -76,7 +76,7 @@ centralized_imperatorship_reform  ={
 	rank = {
 		1 = PRINCEDOM
 		2 = KINGDOM
-		3 = EMPIRE
+		3 = IMPERIUM 
 	}
 	ruler_male = {
 		1 = IMPERATOR
@@ -84,9 +84,9 @@ centralized_imperatorship_reform  ={
 		3 = IMPERATOR
 	}
 	ruler_female = {
-		1 = IMPERATORESS
-		2 = IMPERATORESS
-		3 = IMPERATORESS
+		1 = IMPERATARIX
+		2 = IMPERATARIX
+		3 = IMPERATARIX
 	}
 	
 	trigger = {

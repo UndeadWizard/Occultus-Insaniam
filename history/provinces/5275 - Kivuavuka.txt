@@ -5,14 +5,14 @@ controller = M19
 add_core = M19
 is_city = yes
 
-base_tax = 3
+base_tax = 4
 base_production = 3
 base_manpower = 4
 
 culture = muror
 religion = luuxin
 
-trade_goods = grain
+trade_goods = fish
 hre = no 
 
 discovered_by = muror 

@@ -1,8 +1,8 @@
 #5228 - Alekauata
 
-owner = M17
-controller = M17
-add_core = M17
+owner = M01
+controller = M01
+add_core = M01
 is_city = yes
 
 base_tax = 4

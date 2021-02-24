@@ -1,18 +1,18 @@
-#5274 -Cheltigo
+#5274 - Cheltigo
 
 owner = M11
 controller = M11
 add_core = M11
 is_city = yes
 
-base_tax = 3
-base_production = 2
+base_tax = 4
+base_production = 4
 base_manpower = 3
 
 culture = muror
 religion = luuxin
 
-trade_goods = grain
+trade_goods = cloth
 hre = no 
 
 discovered_by = muror 

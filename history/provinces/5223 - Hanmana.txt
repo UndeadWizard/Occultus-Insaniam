@@ -1,13 +1,13 @@
 #5223 - Hanmana
 
-owner = M02
-controller = M02
-add_core = M02
+owner = M01
+controller = M01
+add_core = M01
 is_city = yes
 
-base_tax = 4
+base_tax = 2
 base_production = 3
-base_manpower = 4
+base_manpower = 3
 
 culture = muror
 religion = luuxin

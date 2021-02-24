@@ -1,5 +1,6 @@
 # All Mu nations are tributary to the current Dragon Emperor
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M01
 	start_date = 1444.1.1
@@ -7,6 +8,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M02
 	start_date = 1444.1.1
@@ -14,6 +16,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M03
 	start_date = 1444.1.1
@@ -21,6 +24,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M04
 	start_date = 1444.1.1
@@ -28,6 +32,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M05
 	start_date = 1444.1.1
@@ -35,6 +40,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M06
 	start_date = 1444.1.1
@@ -42,6 +48,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M07
 	start_date = 1444.1.1
@@ -49,6 +56,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M08
 	start_date = 1444.1.1
@@ -56,6 +64,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M09
 	start_date = 1444.1.1
@@ -63,6 +72,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M10
 	start_date = 1444.1.1
@@ -70,6 +80,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M11
 	start_date = 1444.1.1
@@ -77,6 +88,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M12
 	start_date = 1444.1.1
@@ -84,6 +96,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M13
 	start_date = 1444.1.1
@@ -91,6 +104,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M14
 	start_date = 1444.1.1
@@ -98,6 +112,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M15
 	start_date = 1444.1.1
@@ -105,6 +120,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M16
 	start_date = 1444.1.1
@@ -112,6 +128,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M17
 	start_date = 1444.1.1
@@ -119,6 +136,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M18
 	start_date = 1444.1.1
@@ -126,6 +144,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M19
 	start_date = 1444.1.1
@@ -133,6 +152,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M20
 	start_date = 1444.1.1
@@ -140,6 +160,7 @@ vassal = {
 }
 
 vassal = {
+	subject_type = "dragon_vassal"
 	first = MU0
 	second = M21
 	start_date = 1444.1.1

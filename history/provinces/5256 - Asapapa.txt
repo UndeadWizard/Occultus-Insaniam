@@ -5,8 +5,8 @@ controller = M13
 add_core = M13
 is_city = yes
 
-base_tax = 3
-base_production = 3
+base_tax = 1
+base_production = 1
 base_manpower = 2
 
 culture = muror
