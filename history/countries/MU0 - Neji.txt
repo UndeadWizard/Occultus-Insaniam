@@ -9,8 +9,8 @@ capital = 5241
 #Rise of the Ottomans
 1444.1.1 = {
 	monarch = {
-		name = "Nalanie"
-		dynasty = "Ikepela"
+		name = "Biyu"
+		dynasty = "Aridada"
 		adm = 3
 		dip = 3
 		mil = 4
@@ -19,9 +19,8 @@ capital = 5241
 	}
 
 	heir = {
-		name = "Shâh"
-		monarch_name = "Shâh"
-		dynasty = "Ikepela"
+		name = "Shu"
+		dynasty = "Aridada"
 		adm = 2
 		dip = 2
 		mil = 4

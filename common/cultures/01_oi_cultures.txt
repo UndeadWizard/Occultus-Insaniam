@@ -350,7 +350,7 @@ mu_group = {
 	mul = { }
 	maur = { }
     mung = { }
-	
+	gulamur = { }
     dynasty_names = {
         Udand Layzïn Kusku Luutun 
     }
