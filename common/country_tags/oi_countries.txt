@@ -171,7 +171,7 @@ M23 = "countries/Amgaok.txt"		# Dragon Gods, Mul, Monarchy
 M24 = "countries/Tirokra.txt"		# Dragon Gods, Mul, Monarchy
 M25 = "countries/Iyolpi.txt"		# Dragon Gods, Mul, Monarchy
 
-#NA1 = "countries/Alomza.txt"		# Serpent Gods, Naacal, Tribe
+NA1 = "countries/Alomza.txt"		# Serpent Gods, Naacal, Tribe
 NA2 = "countries/Yaltec.txt"		# Serpent Gods, Naacal, Tribe
 #NA3 = "countries/Saik'al.txt"		# Serpent Gods, Naacal, Tribe
 #NA4 = "countries/Akhusnac.txt"		# Serpent Gods, Naacal, Tribe

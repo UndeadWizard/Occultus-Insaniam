@@ -1,18 +1,18 @@
-#5430 - Uokotei
+#5439 -  Aummau
 
-owner = NA2
-controller = NA2
-add_core = NA2
+owner = NA1
+controller = NA1
+add_core = NA1
 is_city = yes
 
-base_tax = 3
+base_tax = 2
 base_production = 2
 base_manpower = 3
 
 culture = naacal
 religion = nayaran
 
-trade_goods = gold
+trade_goods = cocoa
 hre = no 
 
 discovered_by = naacal_tech

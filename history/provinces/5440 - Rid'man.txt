@@ -1,0 +1,18 @@
+#5440 - Rid'man 
+
+owner = NA1
+controller = NA1
+add_core = NA1
+is_city = yes
+
+base_tax = 1
+base_production = 2
+base_manpower = 2
+
+culture = naacal
+religion = nayaran
+
+trade_goods = cocoa
+hre = no 
+
+discovered_by = naacal_tech

@@ -200,7 +200,6 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0
 	}
-	
     polynesian = {
 		start_level = 3
 		start_cost_modifier = 0
@@ -210,7 +209,10 @@ groups = {
 		start_level = 2
 		start_cost_modifier = 0
 	}
-	
+	naacal_tech = {
+		start_level = 2
+		start_cost_modifier = 0
+	}
 }
 
 tables = {

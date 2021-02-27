@@ -1,5 +1,5 @@
 government = monarchy
-technology_group = muror
+technology_group = naacal_tech
 religion = luuxin
 primary_culture = naacal
 capital = 5478

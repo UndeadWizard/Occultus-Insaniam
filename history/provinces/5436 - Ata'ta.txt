@@ -1,0 +1,17 @@
+#5436 - Ata'ta
+
+controller = NA1
+add_core = NA1
+is_city = yes
+
+base_tax = 2
+base_production = 1
+base_manpower = 2
+
+culture = naacal
+religion = nayaran
+
+trade_goods = cocoa
+hre = no 
+
+discovered_by = naacal_tech
