@@ -1,8 +1,8 @@
 #5195 - Vaiavaia
 
-owner = M06
-controller = M06
-add_core = M06
+owner = M07
+controller = M07
+add_core = M07
 is_city = yes
 
 base_tax = 3

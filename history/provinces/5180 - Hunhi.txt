@@ -1,16 +1,16 @@
 #5180 - Hunhi
 
-owner = P09
-controller = P09
-add_core = P09
+owner = M18
+controller = M18
+add_core = M18
 is_city = yes
 
 base_tax = 3
 base_production = 2
 base_manpower = 2
 
-culture = samoan
-religion = tiki
+culture = muror
+religion = luuxin
 
 trade_goods = naval_supplies
 hre = no 

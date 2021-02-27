@@ -72,16 +72,8 @@ dragon_king = {
 	potential = {
 		OR = {
 			AND = {
-				OR = {
-					is_subject = no
-					overlord = { NOT = { has_reform = dragon_empire } }
-				}
-				capital_scope = { continent = mu }
+				is_subject = no
 				culture_group = muror
-			}
-			AND = {
-				is_playing_custom_nation = yes
-				have_had_reform = dragon_king
 			}
 		}
 	}

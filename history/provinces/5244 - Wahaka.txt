@@ -14,3 +14,6 @@ religion = luuxin
 
 trade_goods = naval_supplies
 hre = no 
+
+discovered_by = muror 
+discovered_by = polynesian
