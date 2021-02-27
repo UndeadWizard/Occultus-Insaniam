@@ -42,8 +42,10 @@
  tahitian:0 "Tahitian"
  maori:0 "Maori"
  #Mu Cultures
+ mu_group: "Muror"
  muror:0 "Muror"
  mul:0 "Mul"
+ mung:0 "Mung"
  naacal:0 "Naacal"
  #European Cultures
  thuler_irish:0 "Thuler"

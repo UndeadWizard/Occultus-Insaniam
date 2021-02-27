@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 4
 
-culture = muror
+culture = mung
 religion = luuxin
 
 trade_goods = cloth

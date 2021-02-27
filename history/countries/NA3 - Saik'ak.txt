@@ -2,7 +2,7 @@ government = monarchy
 technology_group = naacal_tech
 religion = nayaran
 primary_culture = naacal
-capital = 5478
+capital = 5433
 
 #Rise of the Ottomans
 1444.1.1 = {
