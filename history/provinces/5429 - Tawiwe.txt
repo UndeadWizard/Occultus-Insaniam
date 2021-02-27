@@ -1,11 +1,11 @@
-#5430 - Uokotei
+#5429 - Tawiwe
 
-owner = NA2
-controller = NA2
-add_core = NA2
+owner = NA4
+controller = NA4
+add_core = NA4
 is_city = yes
 
-base_tax = 3
+base_tax = 2
 base_production = 2
 base_manpower = 3
 

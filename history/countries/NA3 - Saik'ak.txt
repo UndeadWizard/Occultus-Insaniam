@@ -1,6 +1,6 @@
 government = monarchy
 technology_group = naacal_tech
-religion = luuxin
+religion = nayaran
 primary_culture = naacal
 capital = 5478
 

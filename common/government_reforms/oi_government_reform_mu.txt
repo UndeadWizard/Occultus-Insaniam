@@ -44,7 +44,7 @@ dragon_noble = {
 	potential = {
 		OR = {
 			capital_scope = { continent = mu }
-			culture_group = muror
+			culture_group = mu_group
 		}
 	}
 	fixed_rank = 1
@@ -53,7 +53,7 @@ dragon_noble = {
 	nation_designer_cost = 0
 	lock_level_when_selected = yes
 	nation_designer_trigger = {
-		culture_group = muror
+		culture_group = mu_group
 		technology_group = muror
 		capital_scope = { region = mu_gulf }
 	}
@@ -70,17 +70,15 @@ dragon_king = {
 	icon = "samurai"
 	allow_normal_conversion = no
 	potential = {
-		OR = {
-			AND = {
-				is_subject = no
-				culture_group = muror
-			}
+		AND = {
+			is_subject = no
+			technology_group = muror
 		}
 	}
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
 	nation_designer_trigger = {
-		culture_group = muror
+		culture_group = mu_group
 		technology_group = muror
 		capital_scope = { region = mu_gulf }
 	}

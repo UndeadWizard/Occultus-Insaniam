@@ -1,8 +1,8 @@
-#5430 - Uokotei
+#5432 - Hotakia
 
-owner = NA2
-controller = NA2
-add_core = NA2
+owner = NA3
+controller = NA3
+add_core = NA3
 is_city = yes
 
 base_tax = 3
@@ -12,7 +12,7 @@ base_manpower = 3
 culture = naacal
 religion = nayaran
 
-trade_goods = grain
+trade_goods = cloth
 hre = no 
 
 discovered_by = naacal_tech
