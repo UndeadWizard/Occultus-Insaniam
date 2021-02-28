@@ -91,7 +91,7 @@ centralized_imperatorship_reform  ={
 	
 	trigger = {
 		OR = {
-			has_reform = decentralized_imperatorship_reform
+			has_reform = seneca_reforms
 			has_reform = centralized_imperatorship_reform
 		}
 	}

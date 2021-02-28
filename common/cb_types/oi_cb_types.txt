@@ -4,7 +4,7 @@ cb_atlantean_wars = {
 	prerequisites = {
 		OR = {
 			has_reform = atlantean_warring_state
-			has_reform = decentralized_imperatorship_reform
+			has_reform = seneca_reforms
 		}
 		is_free_or_tributary_trigger = yes
 		FROM = {

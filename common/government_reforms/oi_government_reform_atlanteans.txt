@@ -1,5 +1,5 @@
 atlantean_warring_state = {
-	icon = "castle"
+	icon = "atlantean_warring_state"
 	allow_normal_conversion = no
 	#legacy_equivalent = atlantean_warring_state_legacy
 	valid_for_nation_designer = yes
@@ -29,7 +29,7 @@ atlantean_warring_state = {
 }
 
 seneca_reforms = {
-	icon = "castle"
+	icon = "seneca_reforms"
 	lock_level_when_selected = yes
 	allow_normal_conversion = no
 	valid_for_nation_designer = yes
