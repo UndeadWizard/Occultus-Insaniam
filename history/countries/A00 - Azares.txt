@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = decentralized_imperatorship_reform
+add_government_reform = seneca_reforms
 technology_group = atlantean
 religion = atlanic
 primary_culture = high_atlantean

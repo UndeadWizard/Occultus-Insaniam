@@ -4,7 +4,7 @@ IMPERIUM: "Imperium"
 IMPERATOR: "Imperator"
 IMPERATARIX: "Imperatarix"
 
-PATRICIUS: "Patricius"
+PATRICIUS: "Patricius"  
 PATRICIUSA:"Patriciusa"
 
 LORD_ARCHBISHOP: "Lord Archbishop"
@@ -25,8 +25,8 @@ LUANDTUN: "Luandtun"
 atlantean_warring_state: "Warlord State"
 atlantean_warring_state_desc: "After the Collapse, many Atlantean states adopted a strictly militarized form of government consolidated under a single ruler. However, such a system led to more autonomous regions."
 
-decentralized_imperatorship_reform: "Decentralized Imperatorship"
-decentralized_imperatorship_reform_desc: "The power of the Imperator has waned over the last century, with many affairs of state being delegated to vassals. While this has made it more efficent to raise armies and collect taxes, it has also made it difficult for the will of the Imperator to be imposed."
+seneca_reforms: "Seneca Reforms"
+seneca_reforms_desc: "In 1030 CE, the Atlantean Imperator Seneca Chrysa divided the Atlantean Empire into administrative sections each ruled by its respective 'Rex'. This served to satisfy the growing want for autonomy in certain regions of the Empire, while also reducing the load on the Imperator."
 
 centralized_imperatorship_reform: "Centralized Imperatorship"
 centralized_imperatorship_reform_desc: "A stronger Imperator means a stronger Atlantis, no more shall the scourge of the noble infringe on your divine right to Atlantis."

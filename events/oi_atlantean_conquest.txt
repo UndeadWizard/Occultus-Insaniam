@@ -1,0 +1,52 @@
+namespace = atl_conquest
+
+
+###### ATLANTEAN CONQUEST EVENT
+
+# The Crownlands
+country_event = {
+	id = atl_conquest.1
+	title = atl_conquest.1.t
+	desc = atl_conquest.1.d
+	picture = BORDER_TENSION_eventPicture	
+
+	is_triggered_only = yes
+
+	option = {	
+		name = atl_conquest.1.a
+		ai_chance = { factor = 100 }
+		add_prestige = 15
+	}
+}
+
+# The Gates
+country_event = {
+	id = atl_conquest.2
+	title = atl_conquest.2.t
+	desc = atl_conquest.2.d
+	picture = BAD_WITH_MONARCH_eventPicture	
+
+	is_triggered_only = yes
+
+	option = {	
+		name = atl_conquest.2.a
+		ai_chance = { factor = 100 }
+		add_prestige = 15
+	}
+}
+
+# The Island
+country_event = {
+	id = atl_conquest.3
+	title = atl_conquest.3.t
+	desc = atl_conquest.3.d
+	picture = CARIBBEAN_PIRATE_FORT_eventPicture	
+
+	is_triggered_only = yes
+
+	option = {	
+		name = atl_conquest.3.a
+		ai_chance = { factor = 100 }
+		add_prestige = 15
+	}
+}

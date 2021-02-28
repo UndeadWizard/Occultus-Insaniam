@@ -30,6 +30,13 @@ country_event = {
 			cede_province = A00
 			add_core = A00
 		}
+		define_general = {
+			name = "Aquila Servati"
+			shock = 4
+			fire = 2
+			manuever = 3
+			siege = 2
+		}
 		kill_ruler= yes
 		remove_country_modifier = "aza_uncertainfuture"
 		hidden_effect = {

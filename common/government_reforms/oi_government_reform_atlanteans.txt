@@ -28,7 +28,7 @@ atlantean_warring_state = {
 	}
 }
 
-decentralized_imperatorship_reform = {
+seneca_reforms = {
 	icon = "castle"
 	lock_level_when_selected = yes
 	allow_normal_conversion = no

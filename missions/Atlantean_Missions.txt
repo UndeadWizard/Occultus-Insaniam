@@ -290,6 +290,11 @@ atlantean_missions_left = {
 				name = ATL_aint_nothing_but_a_heartache
 				duration = 9125
 			}
+			hidden_effect = {
+				country_event = {
+					id = atl_conquest.3
+				}
+			}
 		}
 	}
 }
@@ -401,6 +406,11 @@ atlantean_missions_middle = {
 				duration = 9125
 			}
 			add_legitimacy = 10
+			hidden_effect = {
+				country_event = {
+					id = atl_conquest.1
+				}
+			}
 		}
 	}
 	
@@ -491,6 +501,12 @@ atlantean_missions_right = {
 			}
 			add_army_tradition = 5
 			add_navy_tradition = 5
+			
+			hidden_effect = {
+				country_event = {
+					id = atl_conquest.2
+				}
+			}
 		}
 	}
 }
