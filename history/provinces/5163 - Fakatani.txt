@@ -9,10 +9,11 @@ base_tax = 4
 base_production = 2
 base_manpower = 2
 
-culture = muror
+culture = gulamur	
 religion = animism
 
 trade_goods = unknown
 hre = no
 
-discovered_by = polynesian 
+discovered_by = polynesian
+discovered_by = muror 

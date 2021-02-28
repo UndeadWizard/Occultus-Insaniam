@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = dragon_noble
 technology_group = muror
 religion = luuxin
-primary_culture = muror
+primary_culture = muar	
 capital = 5281
 
 #Rise of the Ottomans

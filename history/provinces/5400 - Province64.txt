@@ -9,7 +9,8 @@ base_tax = 3
 base_production = 1
 base_manpower = 2
 
-culture = mul
+culture = naacal
+
 religion = animism
 
 trade_goods = unknown
