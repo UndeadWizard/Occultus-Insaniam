@@ -34,6 +34,10 @@ april_sucks = {
 	
 }
 
+###########################################
+# Antillia
+###########################################
+
 bermudo_temple = {
 	potential = {
 		normal_or_historical_nations = yes
@@ -62,6 +66,10 @@ bermudo_temple = {
 	}
 	
 }
+
+###########################################
+# Atlantis
+###########################################
 
 oracle_of_daephi = {
 	potential = {
@@ -133,6 +141,34 @@ birthplace_of_ar = {
 	}
 	
 	prestige = 0.5
+	
+	#Province scope
+	on_activation = {
+	
+	}
+	
+	on_deactivation = {
+	
+	}
+}
+
+###########################################
+# Muror Empire
+###########################################
+
+kituri_shrine = {
+	potential = {
+		normal_or_historical_nations = yes
+	}
+	trigger = {
+		owner = {
+			religion = luuxin
+		}
+	}
+	
+	prestige = 0.5
+	missionaries = 1
+	tolerance_own = 1
 	
 	#Province scope
 	on_activation = {

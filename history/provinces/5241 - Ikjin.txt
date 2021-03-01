@@ -15,6 +15,7 @@ religion = luuxin
 
 trade_goods = silk
 hre = no 
+center_of_trade = 1
 
 discovered_by = muror 
 discovered_by = polynesian

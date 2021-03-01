@@ -14,6 +14,7 @@ religion = luuxin
 
 trade_goods = dyes
 hre = no 
+add_province_triggered_modifier = kituri_shrine
 
 discovered_by = muror 
 discovered_by = polynesian
