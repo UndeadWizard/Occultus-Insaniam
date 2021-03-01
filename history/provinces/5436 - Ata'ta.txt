@@ -1,5 +1,6 @@
 #5436 - Ata'ta
 
+owner = NA1
 controller = NA1
 add_core = NA1
 is_city = yes
