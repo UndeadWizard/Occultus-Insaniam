@@ -356,10 +356,10 @@ mu_group = {
         Udand Layzïn Kusku Luutun 
     }
     female_names = {
-		Azura 
+		Azura Ruomei Ruolan Shu Shuang Shun Song Suyin Tao Ting	Ushi Weici Wen Wenqian Xiaolian Xiaozhi
     }
     male_names = {
-       Mugulu Taybac Irq Altun Uigurica Pusar Zhi Quan Chenhao Bian Youjian Youyi Youshan Ciran Huojin "Jaw-Long" Jing Jinhai
+       Mugulu Taybac Irq Altun Uigurica Pusar Zhi Quan Chenhao Bian Youjian Youyi Youshan Ciran Huojin "Jaw-Long" Jing Jinhai Oke Qi Quon Renshu Ru Xiang Xin	 
     }
 }
 

@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = dragon_noble
+technology_group = muror
+religion = luuxin
+primary_culture = muror
+capital = 5224
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Hu"
+		dynasty = "Ganu"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1401.2.1
+	}
+}

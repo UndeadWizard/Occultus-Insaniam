@@ -58,8 +58,9 @@
  southcentral_lemuria: "South Central Lemuria"
  north_mu: "North Mu"
  south_mu: "South Mu"
- west_mu: "West Mu"
- east_mu: "East Mu"
+ west_mu: "Hawaii"
+ east_mu: "Naacal"
+ central_mu: "Gulf of Dragons"
  atlantis_node: "Atlantis"
  
  # Colonial Regions
