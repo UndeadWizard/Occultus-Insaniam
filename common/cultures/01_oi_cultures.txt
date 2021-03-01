@@ -359,7 +359,7 @@ mu_group = {
 		Azura 
     }
     male_names = {
-       Mugulu Taybac Irq Altun Uigurica Pusar Zhi Quan Chenhao Bian Youjian Youyi Youshan Ciran
+       Mugulu Taybac Irq Altun Uigurica Pusar Zhi Quan Chenhao Bian Youjian Youyi Youshan Ciran Huojin "Jaw-Long" Jing Jinhai
     }
 }
 

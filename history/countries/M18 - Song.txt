@@ -8,8 +8,8 @@ capital = 5190
 #Rise of the Ottomans
 1444.1.1 = {
 	monarch = {
-		name = "Zhao Bing"
-		dynasty = "Song"
+		name =  "Bing"
+		dynasty = "Zhao"
 		adm = 3
 		dip = 5
 		mil = 3
