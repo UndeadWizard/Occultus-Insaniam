@@ -46,11 +46,11 @@ neji_ideas = {
 
 song_ideas = {
 	start = {
-		prestige = 1
-		prestige = 1
+		naval_forcelimit_modifier = 0.25
+		technology_cost = -0.1
 	}
 	bonus = {
-		prestige = 1
+		possible_policy = 1
 	}
 	trigger = {
 		tag = M18
@@ -58,31 +58,33 @@ song_ideas = {
 	free = yes
 	
 	song_1 = {
-		prestige = 1
+		army_tradition = 1
 	}
 	
 	song_2 = {
-		prestige = 1
+		heavy_ship_cost = -0.25
+		heavy_ship_power = 0.10
 	}
 	
 	song_3 = {
-		prestige = 1
+		infantry_power = 0.10
 	}
 	
 	song_4 = {
-		prestige = 1
+		global_trade_goods_size_modifier = 0.1
 	}
 	
 	song_5 = {
 		prestige = 1
+		legitimacy = 1
 	}
 	
 	song_6 = {
-		prestige = 1
+		core_creation = -0.20
 	}
 	
 	song_7 = {
-		prestige = 1
+		global_manpower_modifier = 0.25
 	}
 }
 
