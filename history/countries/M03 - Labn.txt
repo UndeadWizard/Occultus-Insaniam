@@ -8,11 +8,11 @@ capital = 5214
 #Rise of the Ottomans
 1444.1.1 = {
 	monarch = {
-		name = "Palani"
-		dynasty = "Aalona"
+		name = "Hua"
+		dynasty = "La"
 		adm = 4
 		dip = 3
 		mil = 4
-		birth_date = 1383.1.1
+		birth_date = 1421.1.1
 	}
 }
