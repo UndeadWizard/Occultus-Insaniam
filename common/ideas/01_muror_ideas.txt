@@ -1,0 +1,213 @@
+#Muuuuuuuuuuuuuuuu Muuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+
+neji_ideas = {
+	start = {
+		legitimacy = 1
+		global_tax_modifier = 0.10
+	}
+	bonus = {
+		governing_capacity_modifier = 0.20
+	}
+	trigger = {
+		tag = MU0
+	}
+	free = yes
+	
+	neji_1 = {
+		diplomatic_reputation = 2
+	}
+	
+	neji_2 = {
+		naval_forcelimit_modifier = 0.20
+		flagship_cost = -0.25
+	}
+	
+	neji_3 = {
+		land_morale = 0.10
+	}
+	
+	neji_4 = {
+		diplomats = 1
+	}
+	
+	neji_5 = {
+		global_autonomy = -0.05
+		possible_adm_policy = 1
+	}
+	
+	neji_6 = {
+		leader_land_fire = 1
+	}
+	
+	neji_7 = {
+		prestige = 1.5
+	}
+}
+
+song_ideas = {
+	start = {
+		prestige = 1
+		prestige = 1
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = M18
+	}
+	free = yes
+	
+	song_1 = {
+		prestige = 1
+	}
+	
+	song_2 = {
+		prestige = 1
+	}
+	
+	song_3 = {
+		prestige = 1
+	}
+	
+	song_4 = {
+		prestige = 1
+	}
+	
+	song_5 = {
+		prestige = 1
+	}
+	
+	song_6 = {
+		prestige = 1
+	}
+	
+	song_7 = {
+		prestige = 1
+	}
+}
+
+gan_ideas = {
+	start = {
+		prestige = 1
+		prestige = 1
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = M01
+	}
+	free = yes
+	
+	gan_1 = {
+		prestige = 1
+	}
+	
+	gan_2 = {
+		prestige = 1
+	}
+	
+	gan_3 = {
+		prestige = 1
+	}
+	
+	gan_4 = {
+		prestige = 1
+	}
+	
+	gan_5 = {
+		prestige = 1
+	}
+	
+	gan_6 = {
+		prestige = 1
+	}
+	
+	gan_7 = {
+		prestige = 1
+	}
+}
+
+iyolpi_ideas = {
+	start = {
+		prestige = 1
+		prestige = 1
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = M25
+	}
+	free = yes
+	
+	iyolpi_1 = {
+		prestige = 1
+	}
+	
+	iyolpi_2 = {
+		prestige = 1
+	}
+	
+	iyolpi_3 = {
+		prestige = 1
+	}
+	
+	iyolpi_4 = {
+		prestige = 1
+	}
+	
+	iyolpi_5 = {
+		prestige = 1
+	}
+	
+	iyolpi_6 = {
+		prestige = 1
+	}
+	
+	iyolpi_7 = {
+		prestige = 1
+	}
+}
+
+obo_ideas = {
+	start = {
+		prestige = 1
+		prestige = 1
+	}
+	bonus = {
+		prestige = 1
+	}
+	trigger = {
+		tag = M12
+	}
+	free = yes
+	
+	obo_1 = {
+		prestige = 1
+	}
+	
+	obo_2 = {
+		prestige = 1
+	}
+	
+	obo_3 = {
+		prestige = 1
+	}
+	
+	obo_4 = {
+		prestige = 1
+	}
+	
+	obo_5 = {
+		prestige = 1
+	}
+	
+	obo_6 = {
+		prestige = 1
+	}
+	
+	obo_7 = {
+		prestige = 1
+	}
+}
