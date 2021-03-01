@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 
 culture = mung
-religion = luuxin
+religion = confucianism
 
 trade_goods = tropical_wood
 hre = no 

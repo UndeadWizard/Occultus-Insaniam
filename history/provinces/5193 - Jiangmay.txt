@@ -1,4 +1,4 @@
-#5193 - Fata'uvili
+#5193 - Jiangmay
 
 owner = M18
 controller = M18
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 4
 
 culture = mung
-religion = luuxin
+religion = confucianism
 
 trade_goods = cloth
 hre = no 

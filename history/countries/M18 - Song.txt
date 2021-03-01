@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = dragon_noble
 technology_group = muror
-religion = luuxin
+religion = confucianism
 primary_culture = mung
 capital = 5190
 

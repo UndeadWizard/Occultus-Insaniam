@@ -6,6 +6,7 @@ harmonized_occult_group = {
 
 harmonized_muror_group = {
 	development_cost = -0.1
+	siege_ability = 0.05
 	religion = yes
 }
 
@@ -16,10 +17,5 @@ harmonized_lemurian_group = {
 
 harmonized_atlantean_group = {
     idea_cost = -0.1
-    religion = yes
-}
-
-harmonized_mazu = {
-    ship_durability = 0.1
     religion = yes
 }

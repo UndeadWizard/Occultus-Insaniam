@@ -1,18 +1,18 @@
-#5192 - Siusenaoa
+#5185 - Shaohai
 
 owner = M18
 controller = M18
 add_core = M18
 is_city = yes
 
-base_tax = 3
-base_production = 3
+base_tax = 4
+base_production = 2
 base_manpower = 4
 
 culture = mung
-religion = luuxin
+religion = confucianism
 
-trade_goods = cloth
+trade_goods = livestock
 hre = no 
 
 discovered_by = muror 

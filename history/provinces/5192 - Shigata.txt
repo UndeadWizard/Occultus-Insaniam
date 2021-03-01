@@ -1,18 +1,18 @@
-#5182 - Auamamea
+#5192 - Shigata
 
 owner = M18
 controller = M18
 add_core = M18
 is_city = yes
 
-base_tax = 4
+base_tax = 3
 base_production = 3
 base_manpower = 4
 
 culture = mung
-religion = luuxin
+religion = confucianism
 
-trade_goods = livestock
+trade_goods = cloth
 hre = no 
 
 discovered_by = muror 
