@@ -2,7 +2,7 @@
 
 graphical_culture = asiangfx
 
-color = { 255 217 217 }
+color = { 107 219 206 }
 
 
 historical_idea_groups = {
@@ -33,6 +33,7 @@ historical_units = {
     muror_cavalry_23_a
     muror_cavalry_28_a
 }
+
 monarch_names = {
 		"Zhanji #0" = 10
 		"Zhanjun #0" = 10

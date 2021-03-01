@@ -1,8 +1,8 @@
 #5181 - Poununu
 
-owner = M18
-controller = M18
-add_core = M18
+owner = P08
+controller = P08
+add_core = P08
 is_city = yes
 
 base_tax = 2
@@ -12,7 +12,7 @@ base_manpower = 3
 culture = mung
 religion = confucianism
 
-trade_goods = livestock
+trade_goods = tea
 hre = no 
 
 discovered_by = muror 

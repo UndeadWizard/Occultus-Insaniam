@@ -1,8 +1,8 @@
 #5180 - Hunhi
 
-owner = M18
-controller = M18
-add_core = M18
+owner = P08
+controller = P08
+add_core = P08
 is_city = yes
 
 base_tax = 3

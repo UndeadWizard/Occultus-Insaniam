@@ -5,11 +5,11 @@ atlantean_pagan = {
 		color = { 85 128 237 }
 		country = {
 			tolerance_own = 1
-			development_cost = -0.1
+			development_cost = -0.05
 			idea_cost = -0.03
 		}
 		country_as_secondary = {
-			development_cost = -0.1
+			development_cost = -0.05
 			idea_cost = -0.03
 		}
 		province = {
@@ -241,6 +241,7 @@ muror = {
         country = {
             tolerance_own = 1
             idea_cost = -0.05
+			development_cost = -0.1
 		}
         country_as_secondary = {
             tolerance_own = 1

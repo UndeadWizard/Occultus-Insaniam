@@ -3,26 +3,26 @@ add_government_reform = dragon_noble
 technology_group = muror
 religion = luuxin
 primary_culture = muar	
-capital = 5281
+capital = 5205
 
 #Rise of the Ottomans
 1444.1.1 = {
 	monarch = {
-		name = "Huojin"
-		dynasty = "Yin"
-		adm = 4
-		dip = 5
+		name = "Jianzhi"
+		dynasty = "Las"
+		adm = 3
+		dip = 4
 		mil = 3
-		birth_date = 1368.1.1
+		birth_date = 1372.1.1
 	}
 
 	heir = {
-		name = "Jaw-Long"
-		dynasty = "Yin"
-		adm = 2
+		name = "Houwei"
+		dynasty = "Las"
+		adm = 3
 		dip = 3
-		mil = 6
-		birth_date = 1399.1.1
+		mil = 4
+		birth_date = 1405.1.1
 		death_date = 1553.1.1
 	}
 }

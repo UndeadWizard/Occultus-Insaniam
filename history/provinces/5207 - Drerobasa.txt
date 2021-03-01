@@ -1,16 +1,20 @@
 #5207 - Drerobasa
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = P09
+controller = P09
+add_core = P09
+
+is_city = yes
 
 base_tax = 3
-base_production = 1
-base_manpower = 2
+base_production = 3
+base_manpower = 4
 
-culture = muror
-religion = animism
+culture = samoan
+religion = tiki
 
-trade_goods = unknown
+trade_goods = dyes
 hre = no 
+
+discovered_by = muror 
+discovered_by = polynesian

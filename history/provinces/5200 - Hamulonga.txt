@@ -12,7 +12,7 @@ base_manpower = 5
 culture = muror
 religion = luuxin
 
-trade_goods = livestock
+trade_goods = tea
 hre = no 
 
 discovered_by = muror 

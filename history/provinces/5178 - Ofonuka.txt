@@ -1,15 +1,15 @@
 #5178 - Ofonuka
 
-owner = P09
-controller = P09
-add_core = P09
+owner = P08
+controller = P08
+add_core = P08
 is_city = yes
 
 base_tax = 2
 base_production = 3
 base_manpower = 4
 
-culture = samoan
+culture = waponi
 religion = tiki
 
 trade_goods = grain
