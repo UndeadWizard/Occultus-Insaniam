@@ -10,7 +10,9 @@ random_new_world_region = {
 atlantean_sea_region = {
 	areas = {
 		coast_of_guyana_area
-		atlantean_sea_area
+		north_atlantean_sea_area
+		south_atlantean_sea_area
+		west_atlantean_sea_area
 		trident_gulf_area
 	}
 }

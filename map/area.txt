@@ -7,18 +7,22 @@
 ########################################
 # Atlantis    				 		   #
 ########################################
-trident_gulf_area = {
+trident_gulf_area ={
 	5546 5662 5663 5664
 }
 
-atlantean_sea_area ={
-	1564 1565 1567 1569 1578 1579 1580 1581 1582 5547 5548 5549 5550 5551 5552 5553 5554
+north_atlantean_sea_area ={
+	1564 1565 1569 5548 5549 5550 
 }
-
+south_atlantean_sea_area ={
+	 1567 1578 1579 1580 1581 5547 5553
+}
+west_atlantean_sea_area = {
+	1582 5551 5552 5554
+}
 achana_area ={
 	 5558 5559 5560 5585
 }
-
 acionas_area ={
 	5582 5583 5584 
 }
@@ -974,7 +978,7 @@ hudson_bay_sea_area = {
 }
 
 denmark_strait_area = {
-	1477 1480 1481 1482 1610 1924
+	1477 1480 1481 1482 1497 1498 1610 1924
 }
 
 gulf_of_guinea_sea_area = {
@@ -1045,7 +1049,7 @@ sargasso_sea_area = {
 }
 
 north_atlantic_area = {
-	1283 1286 1287 1290 1291 1292 1478 1479 1497 1498 1563 1566
+	1283 1286 1287 1290 1291 1292 1478 1479 1563 1566
 }
 
 bahama_channel_area = {

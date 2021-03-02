@@ -624,14 +624,13 @@ dragon_vassal = {
 	grant_province = yes
 	place_relative_on_throne = no
 	enforce_religion = no
+	block_settlement_growth = no
 	enforce_culture = no
 	seize_territory = no
 	#(enable)
-	force_seppuku = yes
 	contribute_to_capital = yes
 	return_land = yes
 	conscript_general = yes
-	bestow_gifts = yes
 	send_additional_troops = yes
 	#(special)
 	sword_hunt = yes

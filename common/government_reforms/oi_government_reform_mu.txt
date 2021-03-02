@@ -73,7 +73,33 @@ dragon_king = {
 		AND = {
 			is_subject = no
 			technology_group = muror
+			NOT = { tag = M18 } 
 		}
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	nation_designer_trigger = {
+		culture_group = mu_group
+		technology_group = muror
+		capital_scope = { region = mu_gulf }
+	}
+	maintain_dynasty = yes
+
+	modifiers = {
+		land_morale = 0.05
+		infantry_power = 0.05
+		state_governing_cost = 0.1
+	}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+
+legacy_of_song = {
+	icon = "legacy_of_song"
+	allow_normal_conversion = no
+	potential = {
+		tag = M18
 	}
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
@@ -87,7 +113,6 @@ dragon_king = {
 	modifiers = {
 		land_morale = 0.1
 		infantry_power = 0.1
-		state_governing_cost = 0.1
 	}
 	custom_attributes = {
 		locked_government_type = yes

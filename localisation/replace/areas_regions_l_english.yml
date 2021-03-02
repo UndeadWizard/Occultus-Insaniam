@@ -1,8 +1,14 @@
 ﻿l_english:
 #Atlantis
- atlantean_sea_area:0 "Atlantean Sea"
- atlantean_sea_area_name:0 "Atlantean Sea"
- atlantean_sea_area_adj:0 "Atlantean Sea"
+ north_atlantean_sea_area:0 "North Atlantean Sea"
+ north_atlantean_sea_area_name:0 "North Atlantean Sea"
+ north_atlantean_sea_area_adj:0 "Northern Atlantean Sea"
+ south_atlantean_sea_area:0 "South Atlantean Sea"
+ south_atlantean_sea_area_name:0 "South Atlantean Sea"
+ south_atlantean_sea_area_adj:0 "Southern Atlantean Sea"
+ west_atlantean_sea_area:0 "West Atlantean Sea"
+ west_atlantean_sea_area_name:0 "West Atlantean Sea"
+ west_atlantean_sea_area_adj:0 "Western Atlantean Sea"
  trident_gulf_area:0 "Trident Gulf
  trident_gulf_area_name:0 "Trident Gulf""
  trident_gulf_area_adj:0 "Trident Gulf"

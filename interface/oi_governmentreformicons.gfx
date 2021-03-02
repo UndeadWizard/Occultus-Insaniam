@@ -7,4 +7,8 @@ spriteTypes = {
 		name = "government_reform_atlantean_warring_state"
 		texturefile = "gfx//interface//government_reform_icons//atlantean_warring_state.dds"
 	}
+	spriteType = {
+		name = "government_reform_legacy_of_song"
+		texturefile = "gfx//interface//government_reform_icons//legacy_of_song.dds"
+	}
 }

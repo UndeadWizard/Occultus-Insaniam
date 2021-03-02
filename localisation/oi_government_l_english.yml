@@ -35,7 +35,14 @@ dragon_empire: "Luqayan Mandate"
 dragon_empire_desc: "A governmental form where worship of the Dragon Gods is innate."
 
 dragon_noble: "Luqanate"
+dragon_noble_desc: "Hail the Dragon Emperor"
+
 dragon_king: "Luandate"
+dragon_king_desc: "The Dragon Emperor is not infallible."
+
+legacy_of_song: "Legacy of Song"
+legacy_of_song_desc: "Ever since the Mongol invasion of the Song in 1276, the Song Navy had traveled to the Muror to seek aid from the Mu Emperor. Settling down in the western lands of Mu, the descendants of the Song have established a foothold."
+ 
 #Republics
 patricianship: "Patricianship"
 patricianship_desc: "A governmental form where power lies in the hands of a rotating circuit of noble rulers. All families share in the power, carefully electing one of their own to reign for life so that no family will grow too powerful."

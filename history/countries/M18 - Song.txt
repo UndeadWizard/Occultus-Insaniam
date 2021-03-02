@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = dragon_noble
+add_government_reform = legacy_of_song
 technology_group = muror
 religion = confucianism
 primary_culture = mung
