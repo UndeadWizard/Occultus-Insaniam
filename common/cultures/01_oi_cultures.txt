@@ -670,3 +670,12 @@ naacal = {
 		}
 	}
 }
+
+occult_group = {
+	graphical_culture = inuitgfx
+	rlyehian = {} 
+	dynasty_names = { cthulhu }
+	male_names = { cthulhu }
+	female_names = { cthulhu }
+
+}

@@ -1,0 +1,18 @@
+#5505 - Agioutig
+
+owner = R01
+controller = R01
+add_core = R01
+is_city = yes
+
+base_tax = 3
+base_production = 4
+base_manpower = 3
+
+culture = rlyehian
+religion = occultist
+
+trade_goods = grain
+hre = no 
+
+discovered_by = occult

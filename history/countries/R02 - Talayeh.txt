@@ -1,0 +1,17 @@
+government = monarchy
+technology_group = occult
+religion = occultist
+primary_culture = rlyehian
+capital = 5512
+
+#Rise of the Ottomans
+1444.1.1 = {
+	monarch = {
+		name = "Place"
+		dynasty = "Holder"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1400.1.1
+	}
+}

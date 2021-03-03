@@ -5502,15 +5502,15 @@ province;red;green;blue;x;x
 5501;134;24;118;Province164;Mu
 5502;100;121;110;Empty;x
 5503;189;172;137;Province166;Mu
-5504;228;83;19;Province167;Mu
-5505;30;116;36;Province168;Mu
-5506;201;67;234;Province169;Mu
+5504;228;83;19;Yolpoteg;R'lyeh
+5505;30;116;36;Agioutig;R'lyeh
+5506;201;67;234;Metogi;R'lyeh
 5507;149;76;39;Occult Mountain;R'lyeh
-5508;92;255;28;Province171;Mu
-5509;224;12;39;Province172;Mu
-5510;200;1;1;Province173;Mu
-5511;89;7;242;Province174;Mu
-5512;218;214;103;Province175;Mu
+5508;92;255;28;Okmopi;R'lyeh
+5509;224;12;39;Empty;x
+5510;200;1;1;Igaawomet;R'lyeh
+5511;89;7;242;Asemuku;R'lyeh
+5512;218;214;103;Talayeh;R'lyeh
 5513;49;203;253;Sea1;Mu
 5514;39;223;243;Sea2;Mu
 5515;20;203;203;Sea3;Mu
@@ -5542,7 +5542,7 @@ province;red;green;blue;x;x
 5541;54;237;237;Sea29;Mu
 5542;1;167;167;Sea30;Mu
 5543;5;217;217;Sea31;Mu
-5544;75;222;252;Sea32;Mu
+5544;75;222;252;R'lyeh Sea;Mu
 5545;80;225;225:Sea33;Mu
 5546;80;227;255;Trident Gulf;Atlantis
 5547;5;205;205;Jupiter Reef;Atlantis
