@@ -672,7 +672,7 @@ naacal = {
 }
 
 occult_group = {
-	graphical_culture = inuitgfx
+	graphical_culture = asiangfx
 	rlyehian = {} 
 	dynasty_names = { cthulhu }
 	male_names = { cthulhu }

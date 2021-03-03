@@ -38,6 +38,7 @@ monarchy = {
 				dragon_noble
 				dragon_king
 				legacy_of_song
+				occult_kingdom
 			}
 		}
 		hereditary_vs_nobility = {

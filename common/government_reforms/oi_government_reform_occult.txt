@@ -1,0 +1,39 @@
+occult_kingdom = {
+	icon = "atlantean_warring_state"
+	allow_normal_conversion = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	potential = {
+		religion = occultist 
+	}
+	modifiers = {
+		land_morale = 0.1
+		infantry_power = 0.05
+		diplomatic_reputation = -1
+	}
+		
+	ai = {
+		factor = 5
+	}
+}
+
+#atlantean_warring_state_legacy = {
+#	icon = "castle"
+#	potential = {
+#		NOT = { has_dlc = "Dharma" }
+#	}
+#	legacy_government = yes
+#	valid_for_new_country = yes
+#	allow_normal_conversion = yes
+#
+#	valid_for_nation_designer = yes
+#	nation_designer_cost = 10
+#
+#	modifiers = {
+#		global_manpower_modifier = 0.1
+#		land_morale = 0.1
+#		infantry_power = 0.1
+#		global_autonomy = 0.05
+#		max_absolutism = -10
+#	}
+#

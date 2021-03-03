@@ -17,6 +17,8 @@
  nestorian: "Nestorian"
  
  nayaran: "Nayaran"
+ 
+ occultist: "Occultist"
  # Personal Deities
  deity_mero: "Mero"
  deity_mero_desc: "Patron God of Meropis, Reveler of Flames, Scorned of Atlas, God of Supremacy, Roman Emperor made God." 
@@ -35,6 +37,12 @@
  deity_astarte: "Astarte"
  deity_astarte_desc: "Goddess of love, beauty, desire, sexuality, and pleasure."
 
+#Cults
+ cthulhu_cult: "Cult of Cthulhu"
+ dagon_cult: "Cult of Dagon"
+ hastur_cult: "Cult of Hastur"
+ nyarlathotep_cult: "Cult of Nyarlathotep"
+ yig_cult: "Cult of Yig"
 #Heptarchic Aspects
 book_of_preeminence_aspect: "Book of Preeminence"
 desc_book_of_preeminence_aspect: "Even though I walk through the valley of the shadow of death, I fear no evil. Lucifer releaseth thy hound towards thine Messiah; The Son of God demands it."

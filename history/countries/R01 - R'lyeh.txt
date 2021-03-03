@@ -1,7 +1,9 @@
 government = monarchy
+add_government_reform = occult_kingdom
 technology_group = occult
 religion = occultist
 primary_culture = rlyehian
+religious_school = cthulhu_cult
 capital = 5505
 
 #Rise of the Ottomans

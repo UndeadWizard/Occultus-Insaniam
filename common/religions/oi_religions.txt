@@ -3,6 +3,7 @@ atlantean_pagan = {
 	atlanic = {
 		icon = 59
 		color = { 85 128 237 }
+		center_of_religion = 5599 # Atlantium
 		country = {
 			tolerance_own = 1
 			development_cost = -0.05
@@ -36,6 +37,7 @@ christian = {
 	heptarchic = {
 		color = { 246 181 17 } 
 		icon = 63
+		center_of_religion = 5674
 		country = {
 			stability_cost_modifier = -0.1
 			tolerance_own = 1
@@ -188,6 +190,97 @@ polynesian = {
 
 # ---- Lovecraftian ---- #
 occult = {
+	religious_schools = {
+		cthulhu_cult = {
+			picture = "GFX_icon_cthulhu"
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+			}
+			can_invite_scholar = {
+				adm_power = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			ae_impact = -0.1
+		}
+		dagon_cult = {
+			picture = "GFX_icon_dagon"
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+			}
+			can_invite_scholar = {
+				adm_power = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			development_cost = -0.1
+		}
+		hastur_cult = {
+			picture = "GFX_icon_hastur"
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+			}
+			can_invite_scholar = {
+				adm_power = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			merchants = 1
+		}
+		nyarlathotep_cult = {
+			picture = "GFX_icon_nyarlathotep"
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+			}
+			can_invite_scholar = {
+				adm_power = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			horde_unity = 1
+			legitimacy = 1
+			republican_tradition = 0.5
+			devotion = 1
+		}
+		yig_cult = {
+			picture = "GFX_icon_yig"
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+			}
+			can_invite_scholar = {
+				adm_power = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			shock_damage = 0.1
+		}
+		
+	}
 	occultist = {
 		color = { 72 0 114 }
 		icon = 29

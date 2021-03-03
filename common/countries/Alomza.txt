@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 
-graphical_culture = asiangfx
+graphical_culture = southamericagfx
 
 color = { 196 143 217 }
 revolutionary_colors = { 229 175 250 }

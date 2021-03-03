@@ -14,3 +14,25 @@ spriteTypes = {
 		noOfFrames = 5
 	}	
 }
+spriteTypes = {
+	spriteType = {
+		name = "GFX_icon_cthulhu"
+		texturefile = "gfx/interface/religious_schools/cthulhu.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_dagon"
+		texturefile = "gfx/interface/religious_schools/dagon.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_hastur"
+		texturefile = "gfx/interface/religious_schools/hastur.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_nyarlathotep"
+		texturefile = "gfx/interface/religious_schools/nyarlathotep.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_yig"
+		texturefile = "gfx/interface/religious_schools/yig.dds"
+	}
+}
