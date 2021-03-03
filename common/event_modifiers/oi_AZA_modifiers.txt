@@ -24,7 +24,7 @@ aza_traders_monopolies = {
 }
 
 aza_expanded_silk_district = {
-	trade_goods_size = 3
+	trade_goods_size = 2
 }
 
 aza_azaresi_gladiators = {
