@@ -1195,14 +1195,14 @@ guiTypes = {
 			iconType =
 			{
 				name ="low_karma"
-				spriteType = "GFX_low_karma"
+				spriteType = "GFX_low_luuxin_karma"
 				position = { x= 43 y = -36 }
 			}
 			
 			iconType =
 			{
 				name ="high_karma"
-				spriteType = "GFX_high_karma"
+				spriteType = "GFX_high_luuxin_karma"
 				position = { x= 243 y = -36 }
 			}
 			

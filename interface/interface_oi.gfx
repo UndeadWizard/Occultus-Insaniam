@@ -36,3 +36,14 @@ spriteTypes = {
 		texturefile = "gfx/interface/religious_schools/yig.dds"
 	}
 }
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_low_luuxin_karma"
+		texturefile = "gfx/interface/religious_symbols/low_luuxin_karma.dds"
+	}
+	spriteType = {
+		name = "GFX_high_luuxin_karma"
+		texturefile = "gfx/interface/religious_symbols/high_luuxin_karma.dds"
+	}
+}
