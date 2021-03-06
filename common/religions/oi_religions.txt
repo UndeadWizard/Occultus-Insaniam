@@ -367,8 +367,9 @@ naacal_pagan = {
 			local_missionary_strength = 0.02
 		}
 		
+		authority = yes
 		religious_reforms = yes
-		reform_tooltip = MESOAMERICAN_REFORM_TOOLTIP
+		reform_tooltip = NAACAL_REFORM_TOOLTIP
 		
 		heretic = { MESOAMERICAN_HERETIC }	
 	}
