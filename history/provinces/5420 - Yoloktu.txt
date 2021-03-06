@@ -1,0 +1,18 @@
+#5420 - Yoloktu
+
+owner = NA6
+controller = NA6
+add_core = NA6
+is_city = yes
+
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+culture = naacal
+religion = nayaran
+
+trade_goods = gems
+hre = no 
+
+discovered_by = naacal_tech

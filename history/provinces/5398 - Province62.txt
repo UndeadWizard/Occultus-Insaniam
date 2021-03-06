@@ -15,3 +15,5 @@ religion = animism
 
 trade_goods = unknown
 hre = no 
+
+discovered_by = naacal_tech

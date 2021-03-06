@@ -1,3 +1,4 @@
 1555.1.1 = { discovered_by = SPA }
 discovered_by = polynesian
 discovered_by = muror
+discovered_by = naacal_tech

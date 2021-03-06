@@ -1,13 +1,13 @@
-#5438 - Mawimau
+#5423 - Yolmatoi
 
-owner = NA1
-controller = NA1
-add_core = NA1
+owner = NA7
+controller = NA7
+add_core = NA7
 is_city = yes
 
-base_tax = 2
+base_tax = 3
 base_production = 2
-base_manpower = 2
+base_manpower = 3
 
 culture = naacal
 religion = nayaran

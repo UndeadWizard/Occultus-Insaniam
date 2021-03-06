@@ -1,4 +1,4 @@
-#5401 - 
+#5448 - Aseweata 
 
 is_city = no
 native_size = 20
@@ -14,3 +14,6 @@ religion = animism
 
 trade_goods = unknown
 hre = no 
+
+discovered_by = naacal_tech
+discovered_by = muror

@@ -1,0 +1,18 @@
+#5414 - Kamawil
+
+owner = NA6
+controller = NA6
+add_core = NA6
+is_city = yes
+
+base_tax = 1
+base_production = 3
+base_manpower = 2
+
+culture = naacal
+religion = nayaran
+
+trade_goods = fish
+hre = no 
+
+discovered_by = naacal_tech

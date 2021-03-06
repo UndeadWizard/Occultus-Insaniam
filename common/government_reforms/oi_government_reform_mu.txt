@@ -42,7 +42,7 @@ dragon_noble = {
 	icon = "daimyo"
 	allow_normal_conversion = no
 	potential = {
-		OR = {
+		AND = {
 			capital_scope = { continent = mu }
 			culture_group = mu_group
 		}

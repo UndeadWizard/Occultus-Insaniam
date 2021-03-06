@@ -1,18 +1,18 @@
-#5438 - Mawimau
+#5421 - Himsitana
 
-owner = NA1
-controller = NA1
-add_core = NA1
+owner = NA6
+controller = NA6
+add_core = NA6
 is_city = yes
 
 base_tax = 2
-base_production = 2
+base_production = 3
 base_manpower = 2
 
 culture = naacal
 religion = nayaran
 
-trade_goods = gold
+trade_goods = fish
 hre = no 
 
 discovered_by = naacal_tech

@@ -177,14 +177,13 @@ NA2 = "countries/Yaltec.txt"		# Serpent Gods, Naacal, Tribe
 NA3 = "countries/Saik'al.txt"		# Serpent Gods, Naacal, Tribe
 NA4 = "countries/Akhusnac.txt"		# Serpent Gods, Naacal, Tribe
 NA5 = "countries/Itmal.txt"			# Serpent Gods, Naacal, Tribe 
-#NA6 = "countries/Ixtali.txt"		# Serpent Gods, Naacal, Tribe
-#NA7 = "countries/Ixik'il.txt"		# Serpent Gods, Naacal, Tribe
-#NA8 = "countries/Xoctan.txt"		# Serpent Gods, Naacal, Tribe
-#NA9 = "countries/Uyitzil.txt"		# Serpent Gods, Naacal, Tribe
+NA6 = "countries/Ixik'il.txt"		# Serpent Gods, Naacal, Tribe
+NA7 = "countries/Yolloht.txt"		# Serpent Gods, Naacal, Tribe
+NA8 = "countries/Xoctan.txt"		# Serpent Gods, Naacal, Tribe
+NA9 = "countries/Uyitzil.txt"		# Serpent Gods, Naacal, Tribe
 
 R01 = "countries/R'lyeh.txt"		# Occultist, R'lyehian, Cultist Kingdom
 R02 = "countries/Talayeh.txt"		# Occultist, R'lyehian, Cultist Kingdom
 
 #Names I like but felt like they didn't fit their last home
-#Yollohtlini
 #Q'tir

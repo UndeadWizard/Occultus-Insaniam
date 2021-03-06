@@ -1,2 +1,3 @@
 discovered_by = muror 
 discovered_by = polynesian
+discovered_by = naacal_tech
