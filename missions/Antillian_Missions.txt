@@ -218,6 +218,10 @@ antillian_missions_middle = {
 		required_missions = { ANX_preparations_complete }
 		position  = 3
 		
+		provinces_to_highlight = {
+			region = antillia_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
 		trigger = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 					value = 5
@@ -239,6 +243,10 @@ antillian_missions_middle = {
 		required_missions = { ANX_victors_payoff }
 		position  = 4
 		
+		provinces_to_highlight = {
+			region = antillia_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
 		trigger = {
 			antillia_region = {
 				type = all
@@ -259,6 +267,10 @@ antillian_missions_middle = {
 		required_missions = { ANX_unify_antillia }
 		position = 5
 		
+		provinces_to_highlight = {
+			superregion = atlantean_superregion
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
 		trigger = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 					value = 1
@@ -279,7 +291,10 @@ antillian_missions_middle = {
 		icon = mission_assemble_an_army
 		required_missions = { ANX_atlantean_intervention }
 		position = 6
-		
+		provinces_to_highlight = {
+			superregion = atlantean_superregion
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
 		trigger = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 					value = 10
@@ -310,7 +325,10 @@ antillian_missions_middle = {
 		icon = mission_early_modern_university
 		required_missions = { ANX_antillian_atlantis }
 		position = 7
-		
+		provinces_to_highlight = {
+			superregion = atlantean_superregion
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
 		trigger = {
 			atlantean_superregion = {
 				owned_by = ROOT
@@ -517,7 +535,7 @@ antilliaisformed_nodlc_missions_far_right = {
 	}
 	has_country_shield = yes
 	
-	ANX_global_power = {
+	ANX_global_power_nodlc = {
 		icon = mission_trade_company_region_abroad
 		required_missions = { ANX_eastwards_push ANX_our_roots }
 		position = 6

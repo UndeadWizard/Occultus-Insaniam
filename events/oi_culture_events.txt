@@ -168,11 +168,12 @@ country_event = {
 		months = 120
 	}
 	option = {
-		any_owned_province = {
+		random_owned_province = {
 			limit = {
 				is_colony = no
 				colonial_region = colonial_brazil
 				culture_group = atlantean_group
+				NOT = { culture = amazonian }
 			}
 			change_culture = amazonian
 		}
@@ -198,11 +199,12 @@ country_event = {
 	}
 	option = {
 		
-		any_owned_province = {
+		random_owned_province = {
 			limit = {
 				is_colony = no
 				colonial_region = colonial_eastern_america
 				culture_group = atlantean_group
+				NOT = { culture = arcadian }
 			}
 			change_culture = arcadian
 		}
@@ -227,11 +229,12 @@ country_event = {
 		months = 120
 	}
 	option = {
-		any_owned_province = {
+		random_owned_province = {
 			limit = {
 				is_colony = no
 				colonial_region = colonial_the_carribean
 				culture_group = atlantean_group
+				NOT = { culture = panchaian }
 			}
 			change_culture = panchaian
 		}
@@ -253,10 +256,12 @@ country_event = {
 		months = 120
 	}
 	option = {
-		any_owned_province = {
+		random_owned_province = {
 			limit = {
+				is_colony = no
 				colonial_region = colonial_canada
 				culture_group = atlantean_group
+				NOT = { culture = anatlan } 
 			}
 			change_culture = anatlan
 		}

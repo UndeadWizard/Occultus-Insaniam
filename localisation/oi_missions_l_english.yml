@@ -125,6 +125,9 @@
  ANX_global_power_title: "Global Power"
  ANX_global_power_desc: "We've risen to project our influence far beyond the borders of our fairly small island, and it shows. Our place as a leading world power is cemented; from now on, we must work on maintaining our dominant position."
  
+ ANX_global_power_nodlc_title: "Global Power"
+ ANX_global_power_nodlc_desc: "We've risen to project our influence far beyond the borders of our fairly small island, and it shows. Our place as a leading world power is cemented; from now on, we must work on maintaining our dominant position."
+ 
  #Tooltips
  ATL_new_world_tt: "Old Atlantean Records speak of territories to the west where many of the Nauteans ancestors originated from, with a more stable homeland we should find these once more."
  ATL_second_exile_tt: "Many Atlanteans are leaving their ancestral homes and farms on Atlantis to strike it out in new lands in our colonies, which many are posthumoursly calling 'The Second Exile'"

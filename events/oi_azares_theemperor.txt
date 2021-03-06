@@ -188,8 +188,6 @@ country_event = { #Great Absolution
 	desc = aza_theemperor.5.d
 	picture = GREAT_BUILDING_eventPicture
 	
-	is_triggered_only = yes
-	
     trigger = {
 		primary_culture = high_atlantean
 		NOT = {

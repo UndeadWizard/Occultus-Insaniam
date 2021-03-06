@@ -35,32 +35,17 @@ country_event = {
 			factor = 0.80
 			is_great_power = yes
 		}
-		modifier = {
-			factor = 0.80
-			every_country = {
-				limit = {
-					vassal_of = ROOT
-				}
-				technology_group = western
-			}
-		}
-		modifier = {
-			factor = 0.80
-			every_ally  = {
-				technology_group = western
-			}
-		}
 		
 		modifier = {
 			factor = 0.80
-			every_owned_province = {
+			capital_scope = {
 				development = 25
 			}
 		}
 		
 		modifier = {
 			factor = 0.80
-			every_owned_province = {
+			capital_scope = {
 				province_has_center_of_trade_of_level = 3
 			}
 		}
@@ -145,14 +130,14 @@ country_event = {
 		
 		modifier = {
 			factor = 0.80
-			every_owned_province = {
+			capital_scope = {
 				development = 25
 			}
 		}
 		
 		modifier = {
 			factor = 0.80
-			every_owned_province = {
+			capital_scope = {
 				province_has_center_of_trade_of_level = 3
 			}
 		}
