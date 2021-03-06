@@ -93,9 +93,9 @@ atlantean_warring_state = {
 }
 centralized_imperatorship_reform  ={
 	rank = {
-		1 = PRINCEDOM
-		2 = KINGDOM
-		3 = IMPERIUM 
+		1 = DUCATUS
+		2 = REGNO
+		3 = IMPERIUM
 	}
 	ruler_male = {
 		1 = IMPERATOR
