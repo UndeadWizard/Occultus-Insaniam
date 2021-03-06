@@ -9,7 +9,7 @@ mercantilism = 25
 #Shattered Trident
 1444.1.1 = {
 	monarch = {
-		name = "Nerva "
+		name = "Nerva"
 		dynasty = "Canina"
 		adm = 3
 		dip = 5

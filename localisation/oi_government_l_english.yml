@@ -4,11 +4,16 @@ IMPERIUM: "Imperium"
 IMPERATOR: "Imperator"
 IMPERATARIX: "Imperatarix"
 
+REGNO: "Regno"
 REX: "Rex"
 REGINA: "Regina"
 
 PATRICIUS: "Patricius"  
 PATRICIUSA:"Patriciusa"
+
+DUCATUS: "Ducatus"
+DUX: "Dux"
+DUCISSA: "Ducissa"
 
 LORD_ARCHBISHOP: "Lord Archbishop"
 SUPREME_ARCHBISHOP: "Supreme Archbishop"

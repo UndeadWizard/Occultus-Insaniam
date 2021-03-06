@@ -2,6 +2,7 @@ government = tribal
 add_government_reform = tribal_despotism
 technology_group = atlantean
 religion = atlanic
+government_rank = 1
 primary_culture = anthrean
 capital = 481
 

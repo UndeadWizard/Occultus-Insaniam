@@ -73,17 +73,17 @@ patricianship_gov = {
 }
 atlantean_warring_state = {
 	rank = {
-		1 = PRINCEDOM
-		2 = KINGDOM
+		1 = DUCATUS
+		2 = REGNO
 		3 = IMPERIUM
 	}
 	ruler_male = {
-		1 = REX 
+		1 = DUX 
 		2 = REX
 		3 = IMPERATOR
 	}
 	ruler_female = {
-		1 = REGINA
+		1 = DUCISSA
 		2 = REGINA
 		3 = IMPERATARIX
 	}

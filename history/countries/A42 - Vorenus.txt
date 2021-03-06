@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = atlantean_warring_state
 technology_group = atlantean
 religion = heptarchic
+government_rank = 1
 primary_culture = poenici
 capital = 5643
 
