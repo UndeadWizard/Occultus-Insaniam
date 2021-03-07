@@ -43,4 +43,60 @@ country_decisions = {
 		}
 		ai_importance = 400
 	}
+	hawaiian_nation = {
+		major = yes
+		potential = {
+            normal_or_historical_nations = yes
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            is_colonial_nation = no
+            OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+            NOT = { exists = HAW }
+			primary_culture = hawaiian
+		}
+		allow = {
+            is_free_or_tributary_trigger = yes
+			is_at_war = no
+            AND = {
+				leapea_area = {
+					owned_by = ROOT
+					is_core = ROOT
+					type = all
+				}
+				lonmu_area = {
+					owned_by = ROOT
+					is_core = ROOT
+					type = all
+				}
+				kanovili_area = {
+					owned_by = ROOT
+					is_core = ROOT
+					type = all
+				}
+				total_development = 100
+			}
+		}
+		effect = {
+			change_tag = HAW
+            set_government_rank = 2
+            
+            add_prestige = 10
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 3650
+			}
+        }
+		ai_will_do = {
+			factor = 1.0
+		}
+		ai_importance = 400
+	}
 }

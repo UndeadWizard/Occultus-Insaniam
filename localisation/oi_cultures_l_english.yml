@@ -25,7 +25,7 @@
  pasandhi:0 "Pasandhi"
  lakan:0 "Lakan"
  dramil:0 "Dramil"
- pandiyan:0 "Pandiyan:
+ pandiyan:0 "Pandiyan"
 #African-Lemurian Cultures
  afro_lemurian:0 "Afro-Lemurian"
  kaskazini:0 "Kaskazini"
@@ -34,7 +34,7 @@
 #Polynesian Cultures
  muror_polynesian_group: "Polynesian"
  hawaiian:0  "Hawaiian"
- rapanui:0 "Rapanui"
+ rapanui:0 "Rapa Nui"
  savaikian:0 "Savaikian"
  waponi:0 "Waponi"
  samoan:0 "Samoan"
@@ -50,7 +50,7 @@
  mung:0 "Mung"
  naacal:0 "Naacal"
  #Occult Cultures
- occult_group:0 "Occult"
+ occult_group:0 "Occultist"
  rlyehian:0 "R'lyehian"
  #European Cultures
  thuler_irish:0 "Thuler"

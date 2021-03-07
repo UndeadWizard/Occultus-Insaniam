@@ -7,10 +7,6 @@
 ########################################
 # Atlantis    				 		   #
 ########################################
-trident_gulf_area ={
-	5546 5662 5663 5664
-}
-
 north_atlantean_sea_area ={
 	1564 1565 1569 5548 5549 5550 
 }
@@ -19,6 +15,9 @@ south_atlantean_sea_area ={
 }
 west_atlantean_sea_area = {
 	1582 5551 5552 5554
+}
+trident_gulf_area = {
+	5546 5662 5663 5664
 }
 achana_area ={
 	 5558 5559 5560 5585
@@ -999,9 +998,6 @@ east_pacific_ocean_area = {
 
 polynesian_triangle_area = {
 	1722 1723 1724 1726
-}
-
-south_pacific_area = {
 }
 
 north_pacific_area = {

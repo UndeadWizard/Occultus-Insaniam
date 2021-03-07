@@ -404,7 +404,7 @@ ai_colonialist = {
 			tag = SPA
 		}
 		modifier = {
-			factor = 2
+			factor = 5
 			tag = ANX
 		}
 		modifier = {

@@ -376,7 +376,6 @@ sea_of_dragons_region = {
 
 south_east_pacific_region = {
 	areas = {
-		south_pacific_area
 		polynesian_triangle_area
 		dawa_sea_area
 	}

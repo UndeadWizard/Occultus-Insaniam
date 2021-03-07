@@ -50,9 +50,9 @@ dragon_king = {
 
 patricianship_gov = {
 	rank = {
-		1 = patricianship
-		2 = patricianship
-		3 = patricianship
+		1 = PATRICIANSHIP
+		2 = PATRICIANSHIP
+		3 = PATRICIANSHIP
 	}
 	
 	ruler_male = {

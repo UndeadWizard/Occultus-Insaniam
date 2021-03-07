@@ -13,7 +13,7 @@ ANX_morale_boost = {
 }
 
 ANX_settler_growth = {
-	global_colonial_growth = 10	
+	global_colonial_growth = 30	
 }
 
 ANX_antillian_glory = {
