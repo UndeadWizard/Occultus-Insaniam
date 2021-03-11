@@ -15,7 +15,6 @@ on_startup = {
 		muslim_school_events.20 #Pick School
 		#Occultus Insaniam
 		aza_countryevents.1
-		muror.1
 #		flavor_fra.15000 #Make the French Revolution happen if starting in 1789
 	}
 	if = {

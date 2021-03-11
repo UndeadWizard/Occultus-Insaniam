@@ -4,7 +4,6 @@ atlantean_unification = {
 	attacker = {
 		badboy_factor = 0.65
 		prestige_factor = 1.25
-		peace_cost_factor = 0.5
 		
 		allowed_provinces = {
 			region = atlantean_crownlands

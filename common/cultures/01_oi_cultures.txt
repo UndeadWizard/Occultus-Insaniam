@@ -673,9 +673,9 @@ naacal = {
 
 occult_group = {
 	graphical_culture = asiangfx
-	rlyehian = {} 
-	dynasty_names = { cthulhu }
-	male_names = { cthulhu }
-	female_names = { cthulhu }
-
+	rlyehian = {
+		dynasty_names = { cthulhu }
+		male_names = { cthulhu }
+		female_names = { cthulhu }
+	} 
 }
