@@ -14,6 +14,12 @@ trade_company_atlantis={
 		5683 5684 5685 1580 481
 	}
 	# Specific
+	names = {
+		trigger = {
+			culture_group = atlantean_group
+		}
+		name = "TRADE_COMPANY_ATLANTIS_Atlantic_Trade_Company"
+	}
 	# Generic
 	names = {
 		name = "TRADE_COMPANY_ATLANTIS_Root_Culture_GetName"

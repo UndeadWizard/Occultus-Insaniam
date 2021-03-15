@@ -138,8 +138,8 @@ N07 = "countries/Ngare.txt"			# Nestorian, Tervul, Kingdom
 P01 = "countries/Kealakekua.txt"	# Tiki, Hawaiian, Tribal Kingdom
 P02 = "countries/Mui.txt"			# Tiki, Hawaiian, Tribal Federation
 P03 = "countries/Alohila.txt"		# Tiki, Hawaiian, Tribal Federation
-P04 = "countries/Mahau.txt"			# Tiki, Rapanui, Tribal Kingdom
-P05 = "countries/Akina.txt"			# Tiki, Rapanui, Tribal Federation
+P04 = "countries/Mahau.txt"			# Tiki, Hawaiian, Tribal Kingdom
+P05 = "countries/Akina.txt"			# Tiki, Hawaiian, Tribal Federation
 P06 = "countries/Keleko.txt"		# Tiki, Savaikian, Tribal Kingdom
 P07 = "countries/Laemo.txt"			# Tiki, Savaikian, Tribal Kingdom
 P08 = "countries/Notua.txt"			# Tiki, Waponi, Tribal Kingdom
@@ -183,7 +183,7 @@ NA7 = "countries/Yolloht.txt"		# Serpent Gods, Naacal, Tribe
 NA8 = "countries/Xoctan.txt"		# Serpent Gods, Naacal, Tribe
 NA9 = "countries/Uyitzil.txt"		# Serpent Gods, Naacal, Tribe
 
-R01 = "countries/R'lyeh.txt"			# Occultist, R'lyehian, Cultist Kingdom
+R01 = "countries/R'lyeh.txt"		# Occultist, R'lyehian, Cultist Kingdom
 R02 = "countries/Talayeh.txt"		# Occultist, R'lyehian, Cultist Kingdom
 
 #Names I like but felt like they didn't fit their last home

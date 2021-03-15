@@ -2,7 +2,7 @@ government = tribal
 add_government_reform = tribal_kingdom
 technology_group = polynesian
 religion = tiki
-primary_culture = rapanui
+primary_culture = hawaiian
 capital = 5133
 
 

@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 2
 
-culture = rapanui
+culture = hawaiian
 religion = tiki
 
 trade_goods = grain
