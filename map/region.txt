@@ -227,15 +227,11 @@ eastern_lemurian_ocean = {
 ########################################
 # Mu                                   #
 ########################################
-mu_western_islands = {
-	areas = {
-		panhou_area
-		grao_area
-		suyats_area
-		myug_area
-		khulig_area
-	}
-}
+#mu_western_islands = {
+#	areas = {
+#		
+#	}
+#}
 
 mu_west_mainland = {
 	areas = {
@@ -251,6 +247,12 @@ mu_west_mainland = {
 		fakatoni_area
 		tufutufu_area
 		puputua_area
+		panhou_area
+		grao_area
+		suyats_area
+		myug_area
+		khulig_area
+		northern_polynesia_area
 	}
 }
 
@@ -1486,7 +1488,6 @@ oceanea_region = {
 		melanesia_area
 		te_ika_a_maui_area
 		te_waipounamu_area
-		northern_polynesia_area
 		eastern_polynesia_area
 	}
 	monsoon = {
