@@ -2,7 +2,7 @@ atlantis_reborn = {
 	custom_trigger_tooltip = {
 		tooltip = aza_atlantis_reborn_tt
 		OR = {
-			tag = AZA
+			tag = A00
 			tag = ATL
 		}
 	}
@@ -10,7 +10,7 @@ atlantis_reborn = {
 
 atlantis_broken = {
 	OR = {
-		tag = AZA
+		tag = A00
 		tag = ATL
 	}
 }
