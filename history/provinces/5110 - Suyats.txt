@@ -1,16 +1,19 @@
-#5103 - 
+#5110 - Suyats
 
-is_city = no
-native_size = 20
-native_ferocity = 2
-native_hostileness = 3
+owner = P02
+controller = P02
+add_core = P02
+is_city = yes
 
-base_tax = 3
-base_production = 1
-base_manpower = 2
+base_tax = 4
+base_production = 3
+base_manpower = 3
 
-culture = gulamur	
-religion = animism
+culture = hawaiian
+religion = tiki
 
-trade_goods = unknown
+trade_goods = spices
 hre = no 
+
+discovered_by = polynesian
+discovered_by = muror
