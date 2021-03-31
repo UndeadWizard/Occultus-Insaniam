@@ -1,0 +1,552 @@
+##BranchStart 0
+mu_far_left = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = mu_group
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	##Mission Start
+	mu_dragon_fleet = {
+		icon = mission_junk_boat
+ 
+		required_missions { }
+		position = 1
+		trigger = {
+			num_of_heavy_ship = 10
+			navy_size_percentage = 0.9
+		}
+		effect = {
+			add_navy_tradition = 30
+		}
+	}
+	mu_reestablish_contact = {
+		icon = mission_scholar_officials
+ 
+		required_missions {
+			mu_dragon_fleet
+		}
+		position = 2
+		trigger = {
+			japan_region= {
+					has_discovered = ROOT
+				} 
+		}
+		effect = {
+			add_prestige = 10
+		}
+	}
+	mu_islands_of_the_west = {
+		icon = mission_invade_island
+ 
+		required_missions {
+			mu_reestablish_contact
+		}
+		position = 3
+		trigger = {
+			prestige = 1
+		}
+		effect = { add_prestige = 1 }
+	}
+	
+	mu_conquering_philippines = {
+		icon = mission_invade_island
+ 
+		required_missions {
+			mu_islands_of_the_west
+		}
+		position = 4
+		provinces_to_highlight = {
+			region = moluccas_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 5
+				region = moluccas_region
+				is_city = yes
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+	
+	mu_jin_de_island = {
+		icon = mission_invade_island
+ 
+		required_missions {
+			mu_dragon_army
+		}
+		position = 5
+		provinces_to_highlight = {
+			OR = {
+				area = dabawai_area
+				area = autotebik_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			dabawai_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			autotebik_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+}
+
+mu_left = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = mu_group
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	mu_stabilize_home = {
+		icon = mission_hands_praying
+ 
+		required_missions {
+			
+		}
+		position = 1
+		trigger = {
+			stability = 2
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = "MU_muror_diplomats"
+				duration = 7300 # 20 Years
+			}
+		}
+	}
+	
+	mu_make_alliances = {
+		icon = mission_kowtow
+ 
+		required_missions {
+			mu_stabilize_home
+		}
+		position = 2
+		trigger = {
+				num_of_allies = 2
+				calc_true_if = {
+					all_ally = {
+						has_opinion = {
+							who = ROOT
+							value = 150
+						}
+					}
+					amount = 2
+				}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "MU_dragon_ambitions"
+				duration = 7300 # 20 Years
+				}
+		}
+	}
+	##Mission End
+	##Mission Start
+	mu_japanese_lands = {
+		icon = mission_japanese_fort
+ 
+		required_missions {
+			mu_islands_of_the_west
+		}
+		position = 3
+		provinces_to_highlight = {
+			region = japan_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 5
+				region = japan_region
+				is_city = yes
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##Mission Start
+	mu_chinese_lands = {
+		icon = mission_manchu_warrior
+ 
+		required_missions {
+			mu_islands_of_the_west
+		}
+		position = 4
+		provinces_to_highlight = {
+			region = north_china_region
+			region = south_china_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {	
+			OR = {
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 5
+					region = north_china_region
+					is_city = yes
+				}
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 5
+					region = south_china_region
+					is_city = yes
+				}
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##Mission Start
+	mu_the_muar = {
+		icon = mission_steppe_warriors
+ 
+		required_missions {
+			mu_dragon_army
+		}
+		position = 5
+		provinces_to_highlight = {
+			region = mu_gulf_south
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {	
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 5
+				region = mu_gulf_south
+				is_city = yes
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##
+	
+}
+##BranchEnd 1
+##BranchStart 2
+mu_middle = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = mu_group
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	##Mission Start
+	mu_expand_retinue = {
+		icon = mission_non-western_soldiers
+ 
+		required_missions {
+			
+		}
+		position = 1
+		trigger = {
+			army_size_percentage = 1
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##Mission Start
+	mu_ambitions_of_a_dragon = {
+		icon = mission_chinese_general_riding
+ 
+		required_missions {
+			mu_expand_retinue
+		}
+		position = 2
+		trigger = {	 prestige = 15	}
+		effect = {
+			add_prestige = 10
+			create_general = {
+				tradition = 50
+			}
+		}
+	}
+	##Mission End
+	##Mission Start
+	mu_seize_dragon_throne = {
+		icon = mission_asian_cannon
+ 
+		required_missions {
+			mu_make_alliances mu_ambitions_of_a_dragon mu_develop_lands mu_building_infrastructure
+		}
+		position = 3
+		provinces_to_highlight = {
+			OR = {
+				province_id = 5241
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			is_core = 5241
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##Mission Start
+	mu_dragon_army = {
+		icon = mission_non-western_soldiers
+ 
+		required_missions {
+			mu_seize_dragon_throne
+		}
+		position = 4
+		trigger = { 
+			army_size = 40
+			manpower = 10
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##Mission Start
+	mu_secure_the_gates = {
+		icon = mission_steppe_warriors
+ 
+		required_missions {
+			mu_dragon_army
+		}
+		position = 5
+		provinces_to_highlight = {
+			OR = {
+				province_id = 5203
+				province_id = 5214
+				province_id = 5259
+				province_id = 5267
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {	
+			AND = {
+				is_core = 5203
+				is_core = 5214
+				is_core = 5259
+				is_core = 5267
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##Mission Start
+	mu_a_united_mu = {
+		icon = mission_steppe_warriors
+ 
+		required_missions {
+			mu_jin_de_island mu_the_muar mu_secure_the_gates mu_lands_of_the_song mu_kituri_shrine
+		}
+		position = 6
+		provinces_to_highlight = {
+			region = mu_gulf
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			mu_gulf = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##
+	
+}
+##BranchEnd 2
+##BranchStart 3
+mu_right = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = mu_group
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	##Mission Start
+	mu_grow_territory = {
+		icon = mission_invade_island
+ 
+		required_missions {
+			
+		}
+		position = 1
+		trigger = {
+			grown_by_states = 2
+		}
+		effect = {
+			add_prestige = 20
+		}
+	}
+	##Mission End
+	##Mission Start
+	mu_develop_lands = {
+		icon = mission_asian_city
+ 
+		required_missions {
+			mu_grow_territory
+		}
+		position = 2
+		trigger = {
+			total_development = 250
+		}
+		effect = {
+			add_country_modifier = {
+				name = "MU_established_state"
+				duration = 7300 # 20 Years
+			}
+		}
+	}
+	##Mission End
+	##Mission Start
+	mu_lands_of_the_song = {
+		icon = mission_invade_island
+ 
+		required_missions {
+			mu_dragon_army
+		}
+		position = 5
+		provinces_to_highlight = {
+			OR = {
+				area = lalonongi_area
+				area = hunhi_area
+				area = poununu_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			AND = {
+				lalonongi_area = {
+					type = all
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+				hunhi_area = {
+					type = all
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+				poununu_area = {
+					type = all
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##
+	
+}
+##BranchEnd 3
+##BranchStart 4
+mu_far_right = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential = {
+		AND = {
+			culture_group = mu_group
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	##Mission Start
+	mu_fill_treasury = {
+		icon = mission_war_chest
+ 
+		required_missions {
+			
+		}
+		position = 1
+		trigger = {
+			treasury = 100
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = "MU_lowered_maintenance"
+				duration = 3650 #10 years
+			}
+		}
+	}
+	##Mission End
+	##Mission Start
+	mu_building_infrastructure = {
+		icon = mission_market_place_with_asian_traders
+ 
+		required_missions {
+			mu_fill_treasury
+		}
+		position = 2
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 5
+				OR = {
+					has_building = temple
+					has_building = cathedral
+					has_building = workshop
+					has_building = counting_house
+				}
+			}
+		}
+		effect = {
+			hidden_effect = {
+				custom_tooltip = MU_dragon_stations_travel
+				every_owned_province = {
+					add_province_modifier = {
+						name = MU_dragon_stations
+						duration = 3650
+					}
+				}
+			}
+		}
+	}
+	##Mission End
+	##Mission Start
+	mu_kituri_shrine = {
+		icon = mission_hands_praying
+ 
+		required_missions {
+			mu_dragon_army
+		}
+		position = 5
+		provinces_to_highlight = {
+			OR = {
+				area = kituri_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			kituri_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = { add_prestige = 1 }
+	}
+	##Mission End
+	##
+	
+}
+##BranchEnd 4

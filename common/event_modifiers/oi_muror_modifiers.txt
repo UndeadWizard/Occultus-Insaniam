@@ -1,0 +1,21 @@
+#Mission Modifiers
+MU_established_state = {
+	army_tradition = 1
+}
+
+MU_muror_diplomats = {
+	diplomatic_reputation = 1
+}
+
+MU_dragon_ambitions = {
+	ae_impact = -0.15
+}
+
+MU_lowered_maintenance = {
+	land_maintenance_modifier = -0.1	
+}
+
+MU_dragon_stations = {
+	local_autonomy = -0.05
+	local_friendly_movement_speed = 0.1
+}

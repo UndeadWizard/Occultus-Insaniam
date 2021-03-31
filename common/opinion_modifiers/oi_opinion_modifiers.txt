@@ -26,3 +26,8 @@ vengeful_imperator = {
 fellow_converts = {
 	opinion = 10
 }
+
+abandoned_mukingdoms = {
+	opinion = -100
+	months = 360
+}

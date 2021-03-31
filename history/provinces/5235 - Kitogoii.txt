@@ -1,13 +1,13 @@
 #5235 - Kitogoii
 
-owner = MU0
-controller = MU0
-add_core = MU0
+owner = M14
+controller = M14
+add_core = M14
 is_city = yes
 
-base_tax = 1
+base_tax = 2
 base_production = 2
-base_manpower = 1
+base_manpower = 3
 
 culture = muror
 religion = luuxin
