@@ -48,8 +48,16 @@ mu_far_left = {
 			mu_reestablish_contact
 		}
 		position = 3
+		provinces_to_highlight = {
+			region = oceanea_region
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
 		trigger = {
-			prestige = 1
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 2
+				region = oceanea_region
+				is_city = yes
+			}
 		}
 		effect = { add_prestige = 1 }
 	}
