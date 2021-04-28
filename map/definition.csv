@@ -5543,147 +5543,147 @@ province;red;green;blue;x
 5542;1;167;167;Sea30;Mu
 5543;5;217;217;Sea31;Mu
 5544;75;222;252;R'lyeh Sea;Mu
-5545;80;225;225:Sea33;Mux
-5546;80;227;255;Trident Gulf;Atlantis;
-5547;5;205;205;Jupiter Reef;Atlantis;
-5548;64;171;175;Sea of Meropisa;Atlantis;
-5549;128;203;253;Agnostos Passage;Atlantis;
-5550;127;216;252;Voreios Sea;Atlantis;
-5551;32;153;255;Silver Coast;Atlantis;
-5552;74;242;226;Hermus Coast;Atlantis;
-5553;76;217;179;Notos Coast;Atlantis;
-5554;113;190;255;Plata Sea;Atlantis;
-5555;161;10;10;Sumendia;Atlantis;
-5556;183;121;189;Polisliste;Atlantis;
-5557;63;2;152;Maraath;Atlantis;
-5558;128;34;91;Notio Kolpo;Atlantis;
-5559;149;244;61;Chamylav;Atlantis;
-5560;44;103;12;Achana;Atlantis;
-5561;4;186;19;Tirni;Atlantis;
-5562;86;210;90;Erythrarta;Atlantis;
-5563;104;138;166;Agoralav;Atlantis;
-5564;119;77;220;Daephi;Atlantis;
-5565;17;242;79;Chaas;Atlantis;
-5566;25;150;87;Cenro;Atlantis;
-5567;141;240;172;Agacro;Atlantis;
-5568;104;157;165;Likoa;Atlantis;
-5569;224;156;13;Hyblilene;Atlantis;
-5570;45;1;61;Rhammlostir;Atlantis;
-5571;1;52;16;Asaero;Atlantis;
-5572;163;72;226;Polisrusm;Atlantis;
-5573;27;9;108;Losrorham;Atlantis;
-5574;192;169;74;Epitetir;Atlantis;
-5575;142;247;130;Burmuinean;Atlantis;
-5576;36;125;52;Crecrelym;Atlantis;
-5577;125;116;242;Heraneko;Atlantis;
-5578;112;44;40;Dautherag;Atlantis;
-5579;75;19;252;Kentrikos;Atlantis;
-5580;179;94;229;Otarraina;Atlantis;
-5581;222;49;102;Delcenthon;Atlantis;
-5582;162;218;123;Acionas;Atlantis;
-5583;123;88;38;Ynsepini;Atlantis;
-5584;223;31;124;Losmosas;Atlantis;
-5585;72;21;91;Voreiou Kolpou;Atlantis;
-5586;121;199;119;Polismos Ridge;Wasteland;
-5587;240;182;130;Vounospiti;Atlantis;
-5588;132;13;129;Katoikia;Atlantis;
-5589;30;131;153;Schiza;Atlantis;
-5590;202;158;199;Thautori;Atlantis;
-5591;180;220;217;Nea Gnaisis;Atlantis;
-5592;238;90;111;Erredurak;Atlantis;
-5593;129;115;87;Kosmima;Atlantis;
-5594;149;21;129;Dryca;Atlantis;
-5595;166;25;181;Anatolikos;Atlantis;
-5596;228;87;182;Rakkad;Atlantis;
-5597;216;202;115;Acens;Atlantis;
-5598;223;177;208;Decerikon;Atlantis;
-5599;97;14;51;Ura;Atlantis;
-5600;54;232;122;Chrysos;Atlantis;
-5601;12;75;22;Apoak;Atlantis;
-5602;176;118;78;Telamon;Atlantis;
-5603;239;205;122;Yamylaik;Atlantis;
-5604;106;130;11;Mount Atlas;Wasteland;
-5605;56;104;14;Ionmym;Atlantis;
-5606;246;93;216;Thonrodo;Atlantis;
-5607;147;20;14;Sounlymphi;Atlantis;
-5608;184;13;220;Pialisdau;Atlantis;
-5609;242;88;85;Zuhaitz;Atlantis;
-5610;228;211;71;Voreias;Atlantis;
-5611;228;95;143;Bihotza;Atlantis;
-5612;106;120;11;Charsum Ridge;Wasteland;
-5613;162;219;147;Tadora;Atlantis;
-5614;35;199;21;Estu;Atlantis;
-5615;110;75;30;Zekes;Atlantis;
-5616;51;210;118;Naimyte;Atlantis;
-5617;99;213;100;Osoa;Atlantis;
-5618;181;201;118;Nea Telamon;Atlantis;
-5619;113;24;26;Turan;Atlantis;
-5620;124;68;61;Enschaens;Atlantis;
-5621;46;79;104;Lavacromara;Atlantis;
-5622;51;120;59;Troia;Atlantis;
-5623;99;141;112;Hermus;Atlantis;
-5624;102;72;191;Turrhenoi;Atlantis;
-5625;182;239;79;Maratirath;Atlantis;
-5626;218;191;205;Nea Mysias;Atlantis;
-5627;137;27;64;Sagarrondoa;Atlantis;
-5628;76;173;105;Archae Mysias;Atlantis;
-5629;246;243;10;Vescleves;Atlantis;
-5630;170;115;82;Pedaekaetopros;Atlantis;
-5631;31;166;2;Tasmachalos;Atlantis;
-5632;176;62;59;Acrorhambr;Atlantis;
-5633;106;110;11;Natherion Summit;Wasteland;
-5634;170;170;33;Txalupa;Atlantis;
-5635;132;50;85;Durak;Atlantis;
-5636;68;199;75;Erranti;Atlantis;
-5637;131;84;191;Kolpoli;Atlantis;
-5638;181;146;22;Udare;Atlantis;
-5639;125;13;82;Hondartza;Atlantis;
-5640;140;86;50;Kuwarra;Atlantis;
-5641;247;162;92;Asagm;Atlantis;
-5642;122;196;6;Iyolaci;Atlantis;
-5643;236;114;48;Voreinisi;Atlantis;
-5644;191;169;235;Antipol;Atlantis;
-5645;106;100;11;Deldimtir Summit;Wasteland;
-5646;195;206;200;Demios;Atlantis;
-5647;251;212;167;Marapoas;Atlantis;
-5648;180;252;48;Arkaetokopol;Atlantis;
-5649;185;159;49;Putiyachola;Atlantis;
-5650;165;130;60;Meropis;Atlantis;
-5651;110;229;60;Anostos;Atlantis;
-5652;35;148;79;Eusebes;Atlantis;
-5653;198;182;2;Machimos;Atlantis;
-5654;128;247;23;Philippi;Atlantis;
-5655;154;101;247;Chiosa;Atlantis;
-5656;96;38;173;Theopo;Atlantis;
-5657;163;132;16;Ehiza;Atlantis;
-5658;232;140;45;Arcadesis;Atlantis;
-5659;189;216;79;Askloy;Atlantis;
-5660;30;111;72;Tauryria;Atlantis;
-5661;50;255;50;Polimos Ridge 2;Wasteland;
-5662;26;214;170;AtlaSea;Atlantis;
-5663;1;174;194;AtlaSea2;Atlantis;
-5664;74;214;241;AtlaSea3;Atlantis;
+5545;80;225;225:Sea33;Mu
+5546;80;227;255;Trident Gulf;Atlantis
+5547;5;205;205;Jupiter Reef;Atlantis
+5548;64;171;175;Sea of Meropisa;Atlantis
+5549;128;203;253;Agnostos Passage;Atlantis
+5550;127;216;252;Voreios Sea;Atlantis
+5551;32;153;255;Silver Coast;Atlantis
+5552;74;242;226;Hermus Coast;Atlantis
+5553;76;217;179;Notos Coast;Atlantis
+5554;113;190;255;Plata Sea;Atlantis
+5555;161;10;10;Sumendia;Atlantis
+5556;183;121;189;Polisliste;Atlantis
+5557;63;2;152;Maraath;Atlantis
+5558;128;34;91;Notio Kolpo;Atlantis
+5559;149;244;61;Chamylav;Atlantis
+5560;44;103;12;Achana;Atlantis
+5561;4;186;19;Tirni;Atlantis
+5562;86;210;90;Erythrarta;Atlantis
+5563;104;138;166;Agoralav;Atlantis
+5564;119;77;220;Daephi;Atlantis
+5565;17;242;79;Chaas;Atlantis
+5566;25;150;87;Cenro;Atlantis
+5567;141;240;172;Agacro;Atlantis
+5568;104;157;165;Likoa;Atlantis
+5569;224;156;13;Hyblilene;Atlantis
+5570;45;1;61;Rhammlostir;Atlantis
+5571;1;52;16;Asaero;Atlantis
+5572;163;72;226;Polisrusm;Atlantis
+5573;27;9;108;Losrorham;Atlantis
+5574;192;169;74;Epitetir;Atlantis
+5575;142;247;130;Burmuinean;Atlantis
+5576;36;125;52;Crecrelym;Atlantis
+5577;125;116;242;Heraneko;Atlantis
+5578;112;44;40;Dautherag;Atlantis
+5579;75;19;252;Kentrikos;Atlantis
+5580;179;94;229;Otarraina;Atlantis
+5581;222;49;102;Delcenthon;Atlantis
+5582;162;218;123;Acionas;Atlantis
+5583;123;88;38;Ynsepini;Atlantis
+5584;223;31;124;Losmosas;Atlantis
+5585;72;21;91;Voreiou Kolpou;Atlantis
+5586;121;199;119;Polismos Ridge;Wasteland
+5587;240;182;130;Vounospiti;Atlantis
+5588;132;13;129;Katoikia;Atlantis
+5589;30;131;153;Schiza;Atlantis
+5590;202;158;199;Thautori;Atlantis
+5591;180;220;217;Nea Gnaisis;Atlantis
+5592;238;90;111;Erredurak;Atlantis
+5593;129;115;87;Kosmima;Atlantis
+5594;149;21;129;Dryca;Atlantis
+5595;166;25;181;Anatolikos;Atlantis
+5596;228;87;182;Rakkad;Atlantis
+5597;216;202;115;Acens;Atlantis
+5598;223;177;208;Decerikon;Atlantis
+5599;97;14;51;Ura;Atlantis
+5600;54;232;122;Chrysos;Atlantis
+5601;12;75;22;Apoak;Atlantis
+5602;176;118;78;Telamon;Atlantis
+5603;239;205;122;Yamylaik;Atlantis
+5604;106;130;11;Mount Atlas;Wasteland
+5605;56;104;14;Ionmym;Atlantis
+5606;246;93;216;Thonrodo;Atlantis
+5607;147;20;14;Sounlymphi;Atlantis
+5608;184;13;220;Pialisdau;Atlantis
+5609;242;88;85;Zuhaitz;Atlantis
+5610;228;211;71;Voreias;Atlantis
+5611;228;95;143;Bihotza;Atlantis
+5612;106;120;11;Charsum Ridge;Wasteland
+5613;162;219;147;Tadora;Atlantis
+5614;35;199;21;Estu;Atlantis
+5615;110;75;30;Zekes;Atlantis
+5616;51;210;118;Naimyte;Atlantis
+5617;99;213;100;Osoa;Atlantis
+5618;181;201;118;Nea Telamon;Atlantis
+5619;113;24;26;Turan;Atlantis
+5620;124;68;61;Enschaens;Atlantis
+5621;46;79;104;Lavacromara;Atlantis
+5622;51;120;59;Troia;Atlantis
+5623;99;141;112;Hermus;Atlantis
+5624;102;72;191;Turrhenoi;Atlantis
+5625;182;239;79;Maratirath;Atlantis
+5626;218;191;205;Nea Mysias;Atlantis
+5627;137;27;64;Sagarrondoa;Atlantis
+5628;76;173;105;Archae Mysias;Atlantis
+5629;246;243;10;Vescleves;Atlantis
+5630;170;115;82;Pedaekaetopros;Atlantis
+5631;31;166;2;Tasmachalos;Atlantis
+5632;176;62;59;Acrorhambr;Atlantis
+5633;106;110;11;Natherion Summit;Wasteland
+5634;170;170;33;Txalupa;Atlantis
+5635;132;50;85;Durak;Atlantis
+5636;68;199;75;Erranti;Atlantis
+5637;131;84;191;Kolpoli;Atlantis
+5638;181;146;22;Udare;Atlantis
+5639;125;13;82;Hondartza;Atlantis
+5640;140;86;50;Kuwarra;Atlantis
+5641;247;162;92;Asagm;Atlantis
+5642;122;196;6;Iyolaci;Atlantis
+5643;236;114;48;Voreinisi;Atlantis
+5644;191;169;235;Antipol;Atlantis
+5645;106;100;11;Deldimtir Summit;Wasteland
+5646;195;206;200;Demios;Atlantis
+5647;251;212;167;Marapoas;Atlantis
+5648;180;252;48;Arkaetokopol;Atlantis
+5649;185;159;49;Putiyachola;Atlantis
+5650;165;130;60;Meropis;Atlantis
+5651;110;229;60;Anostos;Atlantis
+5652;35;148;79;Eusebes;Atlantis
+5653;198;182;2;Machimos;Atlantis
+5654;128;247;23;Philippi;Atlantis
+5655;154;101;247;Chiosa;Atlantis
+5656;96;38;173;Theopo;Atlantis
+5657;163;132;16;Ehiza;Atlantis
+5658;232;140;45;Arcadesis;Atlantis
+5659;189;216;79;Askloy;Atlantis
+5660;30;111;72;Tauryria;Atlantis
+5661;50;255;50;Polimos Ridge 2;Wasteland
+5662;26;214;170;AtlaSea;Atlantis
+5663;1;174;194;AtlaSea2;Atlantis
+5664;74;214;241;AtlaSea3;Atlantis
 5665;104;200;185;MuSea;Mu
 5666;80;178;228;MuSea;Mu
 5667;114;195;210;MuSea;Mu
 5668;10;224;67;Illuuta;Frisland;
 5669;196;185;33;Kala;Frisland;
-5670;97;236;25;Cencua;Antillia;
-5671;237;79;101;Antuab;Antillia;
-5672;115;140;85;Codobu;Antillia;
-5673;253;237;181;Con;Antillia;
-5674;248;142;203;Aria;Antillia;
-5675;71;14;9;Ansesseli;Antillia;
-5676;231;61;243;Almeri;Antillia;
-5677;105;63;156;Ansolli;Antillia;
-5678;11;187;29;Badjoz;Antillia;
-5679;128;254;161;Oveido;Antillia;
-5680;205;244;111;Ansodi;Antillia;
-5681;105;12;33;Salamida;Antillia;
-5682;165;73;117;Helvua;Antillia;
-5683;255;79;87;Gesovia;Antillia;
-5684;86;76;103;Ansalli;Antillia;
-5685;241;191;217;Tander;Antillia;
+5670;97;236;25;Cencua;Antillia
+5671;237;79;101;Antuab;Antillia
+5672;115;140;85;Codobu;Antillia
+5673;253;237;181;Con;Antillia
+5674;248;142;203;Aria;Antillia
+5675;71;14;9;Ansesseli;Antillia
+5676;231;61;243;Almeri;Antillia
+5677;105;63;156;Ansolli;Antillia
+5678;11;187;29;Badjoz;Antillia
+5679;128;254;161;Oveido;Antillia
+5680;205;244;111;Ansodi;Antillia
+5681;105;12;33;Salamida;Antillia
+5682;165;73;117;Helvua;Antillia
+5683;255;79;87;Gesovia;Antillia
+5684;86;76;103;Ansalli;Antillia
+5685;241;191;217;Tander;Antillia
 5686;119;36;66;Thule;Europe;
 5687;160;99;74;Nuvara;Lemuria
 5688;184;11;231;Hahek;Lemuria
