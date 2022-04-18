@@ -63,7 +63,10 @@ technology = {
 	enable = mamluk_cavalry_charge	
 	enable = south_american_warfare	
 	enable = ha_xantican_warrior
-    
+	enable = aboriginal_boomerang
+	enable = aboriginal_warrior
+	enable = pacific_spearman
+	
     enable = atla_infantry_1a # 1
     enable = atla_infantry_1b # 1
     enable = atla_cavalry_1a # 1
@@ -146,6 +149,10 @@ technology = {
 	enable = chinese_footsoldier		
 	enable = japanese_footsoldier	
 	enable = ha_reformed_xantican_warrior
+	enable = aboriginal_ambusher
+	enable = aboriginal_infantry
+	enable = aboriginal_reformed_boomerang
+	enable = pacific_reformed_spearman
 	
     enable = atla_infantry_5a # 5
     enable = atla_infantry_5b # 5
@@ -184,6 +191,8 @@ technology = {
 	enable = japanese_samurai	
 	enable = shaybani	
 	enable = high_american_horsemen
+	enable = aboriginal_horseman	
+	enable = pacific_horseman
 	
 	enable = atla_cavalry_6 # 6
     enable = lemurian_cavalry_6_a # 6
@@ -276,6 +285,10 @@ technology = {
 	enable = indian_elephant	
 	enable = steppe_riders
 	enable = high_american_rifle_cavalry
+	enable = aboriginal_outback_warriors
+	enable = aboriginal_cavalry
+	enable = pacific_island_warriors
+	enable = pacific_cavalry
     
     enable = atla_cavalry_10 # 10
     enable = lemurian_cavalry_10_a # 10
@@ -376,7 +389,12 @@ technology = {
 	enable = reformed_mughal_mansabdar	
 	enable = steppe_lancers
 	enable = high_american_hussar
-    
+	enable = aboriginal_hussar
+	enable = aboriginal_arquebusier
+	enable = aboriginal_tasmanian_arquebusier
+	enable = pacific_hussar
+	enable = pacific_arquebusier
+	
     enable = atla_cavalry_14 # 14
     enable = lemurian_cavalry_14_a # 14
     enable = muror_cavalry_14_a # 14
@@ -464,6 +482,8 @@ technology = {
 	enable = leather_cannon	
 	enable = steppe_mounted_raiders
 	enable = ha_xoloti
+	enable = aboriginal_swarm_cav
+	enable = pacific_swarm_cav
 	
     enable = atla_cavalry_18 # 18
     enable = lemurian_infantry_18_a # 18
@@ -501,7 +521,9 @@ technology = {
 	enable = south_american_swarm
 	enable = steppe_infantry
 	enable = high_american_swarm
-    
+	enable = aboriginal_riflemen
+	enable = pacific_riflemen
+	
     enable = atla_infantry_19 # 19
 }
 
@@ -585,7 +607,9 @@ technology = {
 	enable = steppe_cavalry
 	enable = ha_foreign_influenced_infantry
 	enable = high_american_dragoon
-    
+	enable = aboriginal_dragoon
+	enable = pacific_dragoon
+	
     enable = atla_infantry_23 # 23
     enable = lemurian_infantry_23_a # 23
     enable = lemurian_cavalry_23_a # 23
@@ -657,7 +681,9 @@ technology = {
 	enable = eastern_skirmisher
 	enable = steppe_rifles
 	enable = ha_reformed_influenced_infantry
-    
+    enable = aboriginal_guerrillas
+	enable = pacific_guerrillas
+	
     enable = atla_infantry_26 # 26
     enable = lemurian_infantry_26_a # 26
     enable = muror_infantry_26_a # 26
