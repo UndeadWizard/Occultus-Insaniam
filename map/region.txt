@@ -1486,8 +1486,11 @@ oceanea_region = {
 		micronesia_area
 		west_micronesia_area
 		melanesia_area
-		te_ika_a_maui_area
+		fiji_area
+		te_ika_a_maui_hauauru_area
+		te_ika_a_maui_waho_area
 		te_waipounamu_area
+		northern_polynesia_area
 		eastern_polynesia_area
 	}
 	monsoon = {
