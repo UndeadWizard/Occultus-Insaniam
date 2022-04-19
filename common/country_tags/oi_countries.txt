@@ -2,7 +2,7 @@
 ATL = "countries/Atlantis.txt"
 AYA = "countries/Ayadon.txt"
 ANX = "countries/Antillia.txt"
-HAW = "countries/Hawaii.txt"
+UHA = "countries/OldHawaii.txt"
 
 # Atlantis
 A00 = "countries/Azares.txt"		# Atlanic, High Atlantean, Imperator
