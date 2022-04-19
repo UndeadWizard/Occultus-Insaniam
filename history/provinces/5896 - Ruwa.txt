@@ -1,4 +1,4 @@
-#4997 -  Bilecha
+#5896 - Ruwa
 
 owner = L25
 controller = L25
@@ -7,7 +7,7 @@ is_city = yes
 
 base_tax = 4
 base_production = 2
-base_manpower = 2
+base_manpower = 5
 
 culture = katikati
 religion = sunni

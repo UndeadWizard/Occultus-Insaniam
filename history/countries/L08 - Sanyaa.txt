@@ -3,7 +3,7 @@ add_government_reform = nayankara_reform
 technology_group = lemurian
 religion = yazdeism
 primary_culture = tervul
-capital = 4900
+capital = 5800
 
 
 #Shattered Trident

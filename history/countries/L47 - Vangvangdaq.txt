@@ -2,7 +2,7 @@ government = monarchy
 technology_group = lemurian
 religion = sunni
 primary_culture = lemurian
-capital = 4853
+capital = 5753
 
 
 #Shattered Trident

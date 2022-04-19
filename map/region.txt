@@ -146,7 +146,7 @@ lemurian_greatermadagascar = {
 		filavi_area
 		theji_area
 		ruwa_area
-		quelicha_area
+		nyike_area
 	}
 }
 lemurian_elephantine = {

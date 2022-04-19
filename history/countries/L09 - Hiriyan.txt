@@ -3,7 +3,7 @@ add_government_reform = nayankara_reform
 technology_group = lemurian
 religion = sunni
 primary_culture = pasandhi
-capital = 4918
+capital = 5818
 
 
 #Shattered Trident
@@ -11,7 +11,7 @@ capital = 4918
 	monarch = {
 		name = "Ragul"
 		adm = 3
-		dynasty = "Sri 
+		dynasty = "Sri"
 		dip = 1
 		mil = 3
 		birth_date = 1401.10.2

@@ -3,7 +3,7 @@ add_government_reform = tribal_kingdom
 technology_group = lemurian
 religion = sunni
 primary_culture = katikati
-capital = 4992
+capital = 5892
 
 
 #Shattered Trident

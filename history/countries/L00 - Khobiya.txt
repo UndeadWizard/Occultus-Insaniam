@@ -3,7 +3,7 @@ add_government_reform = nayankara_reform
 technology_group = lemurian
 religion = sunni
 primary_culture = pasandhi
-capital = 4938
+capital = 5838
 
 
 #Shattered Trident
