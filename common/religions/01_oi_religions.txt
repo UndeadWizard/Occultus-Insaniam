@@ -283,7 +283,7 @@ occult = {
 	}
 	occultist = {
 		color = { 72 0 114 }
-		icon = 29
+		icon = 69
         
 		country = {
             tolerance_own = 1
