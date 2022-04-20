@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = autocracy_reform
-technology_group = naacal_tech
+technology_group = naacal
 religion = nayaran
 primary_culture = naacal
 capital = 5420

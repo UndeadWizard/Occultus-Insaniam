@@ -236,7 +236,7 @@ groups = {
 		start_level = 2
 		start_cost_modifier = 0
 	}
-	naacal_tech = {
+	naacal = {
 		start_level = 2
 		start_cost_modifier = 0
 	}

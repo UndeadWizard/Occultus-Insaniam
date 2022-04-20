@@ -363,55 +363,55 @@ mu_group = {
     }
 }
 
-muror_polynesian_group = {
-    graphical_culture = asiangfx
-    
-	hawaiian = { }
-	rapanui = { }
-	savaikian = { }
-	waponi = { }
-	samoan = { }
-	tongan = { }
-	tahitian = { }
-	maori = { }
-    
-    dynasty_names = {
-        Aalona Ahulani Ainalani Akeakamai Alani Aluala Alealani Alohilani Anakalia Anuenue "'Ehukai" "'Ewalani" "Ha'aheo" Heleakala
-        Hanalei Hanohano "Hau'oli" "Hi'iaka" "Ho'okano" Hualani Ikepela "Ka'aukai" Kahananui Kaheleha Kaikea Kainalu Kalauokalani
-        Kaleoikaika Kamehu "Kameha'o" Kamehameha Kawaiola Kehaulani Kelupaina Keonoana Lanakila Lehuanani Lokelani Lono
-        Makaleka Makikonu Mauna Momilani Nohealani Polola Po'okela Sanoe Ualani Uluwehi Wailani Waipuna
-        Vijaya Kauthara Panduranga Indrapura
-        Melaka Johor Perak Kedah Pattani Pahang Kelantan Selangor Terengganu
-        Siak Aceh Pasai Pagarruyung Palembang Jambi
-        Banten Demak Surabaya Cirebon Samprangan
-    }
-    female_names = {
-        Alamea Alaula Alika Elikapeka Halia Iokina Iolana Kailani Kalea Kamaile Kamea Kanoa Kawena Keala Keola Keona Kiele Kina
-        Kinipela Konane Lahela Lanai Lani Leiko Leilani Liliha Lilo Luana Mahina Maile Makana Makelina Malana Maleah Malia Mana
-        Miliani Moana Moanna Nalanie Napua Noelani Nohealani Okalani Onaona Palila Pilialoha Ulani
-        Hòng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
-        Puatea Puaura Ra’ihau Ra’imere Ra’inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
-        Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
-        Vaite Vaitiare
-		Azura Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
-        Amritpal Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
-        "Suhita" "Sri Gitarja" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui 
-        Poerava Puaiti 
-    }
-    male_names = {
-        Akamu Aloha Alohilani Analu Aolani Aulani Aulii Feleti Inoke Iolani Ipo Iwalani Kai Kaili Kaipo Kalani Kale Kalei Kapena
-        Kapono Keahi Kealii Keani Keanu Keiki Kelii Keon Keoni Kimo Konala Liko Loe Lulani Makaio Makani Malo Mauli Mele Moke
-        Nalani Oke Palani Pekelo
-        "Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
-        "Sam Agi" "Paramesvara" "Megat Iskander" "Muhammad Shâh" "Abu Syahid" "Muzaffar Shâh" "Mansûr Shâh" "Riayat Shah" "Mahmûd Shâh" "'Abd al-Jalîl Shâh" "Ma'ayat Shâh" "Ibrâhîm Shâh" "Rahmat Shâh" "Sulaymân Badr Shâh" 
-        "Mu'azzam Shâh" "Mahmûd Ri'âyat Shâh" "'Abd ar-Rahmân Shâh" "Rajah Qasim"
-        "Inayat" "'Alî Mugâyat" "Iskandar Tanî" "Husayn 'Alî Ri'âyat" "Menradza" "Tsalenggathu" "Gadzabadi" 
-        "Tsau-Lha" "Mengtsekya"
-        "Girindrawardhana" "Girishawardhana" "Kertabumi" "Kertawijaya" "Rajasawardhana" "Suraprabhawa" 
-        "Wikramawardhana" "Hayam Wuruk" "Kalagamet" "Raden Wijaya" "Kertawardhana" "Raden Sotor" "Raden Sumirat" 
-        "Singhawardhana"
-    }
-}
+#muror_polynesian_group = {
+#   graphical_culture = polynesiangfx
+#	second_graphical_culture = northamericagfx
+#	hawaiian = { }
+#	rapanui = { }
+#	savaikian = { }
+#	waponi = { }
+#	samoan = { }
+#	tongan = { }
+#	tahitian = { }
+#	maori = { }
+#    
+#    dynasty_names = {
+#        Aalona Ahulani Ainalani Akeakamai Alani Aluala Alealani Alohilani Anakalia Anuenue "'Ehukai" "'Ewalani" "Ha'aheo" Heleakala
+#        Hanalei Hanohano "Hau'oli" "Hi'iaka" "Ho'okano" Hualani Ikepela "Ka'aukai" Kahananui Kaheleha Kaikea Kainalu Kalauokalani
+#        Kaleoikaika Kamehu "Kameha'o" Kamehameha Kawaiola Kehaulani Kelupaina Keonoana Lanakila Lehuanani Lokelani Lono
+#        Makaleka Makikonu Mauna Momilani Nohealani Polola Po'okela Sanoe Ualani Uluwehi Wailani Waipuna
+#        Vijaya Kauthara Panduranga Indrapura
+#        Melaka Johor Perak Kedah Pattani Pahang Kelantan Selangor Terengganu
+#        Siak Aceh Pasai Pagarruyung Palembang Jambi
+#        Banten Demak Surabaya Cirebon Samprangan
+#    }
+#    female_names = {
+#        Alamea Alaula Alika Elikapeka Halia Iokina Iolana Kailani Kalea Kamaile Kamea Kanoa Kawena Keala Keola Keona Kiele Kina
+#        Kinipela Konane Lahela Lanai Lani Leiko Leilani Liliha Lilo Luana Mahina Maile Makana Makelina Malana Maleah Malia Mana
+#        Miliani Moana Moanna Nalanie Napua Noelani Nohealani Okalani Onaona Palila Pilialoha Ulani
+#        Hòng Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+#        Puatea Puaura Ra’ihau Ra’imere Ra’inui Ranitea Rarahu Raunui Raurii Tahiata Taiana Taina Tania Taurua Tautiare Tehani 
+#        Tehea Teora Tera Tevai Titaina Titaua Tuianu Tumata Unutea Urarii Vaea Vaiana Vaianu Vaiata Vaihere Vaimiti Vairea 
+#        Vaite Vaitiare
+#		Azura Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+#        Amritpal Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui Poerava Puaiti 
+#        "Suhita" "Sri Gitarja" Merenui Metetini Miri Moea Moeata Moerani Mohea Nanihi Nu’utea Orama Poe Pear Poehina Poenui 
+#        Poerava Puaiti 
+#    }
+#    male_names = {
+#        Akamu Aloha Alohilani Analu Aolani Aulani Aulii Feleti Inoke Iolani Ipo Iwalani Kai Kaili Kaipo Kalani Kale Kalei Kapena
+#        Kapono Keahi Kealii Keani Keanu Keiki Kelii Keon Keoni Kimo Konala Liko Loe Lulani Makaio Makani Malo Mauli Mele Moke
+#        Nalani Oke Palani Pekelo
+#        "Ko cheng" "Jaya Sinhavarman" "Maija Vijaya" "Moho Kouei-Lai" "Maha Kui Yu" "Maha P'an-lo-yue" "Po Saktirai" "Po Ganvuh" "Po Thuttirai" "Po Rattirai" "Po Tathun" "Po Tithuntirai" "Chei Krei Brei" "Po Tithun" "Po Lathun" "Po Chong Chan" "Che Anan" "Tra Hoa" "Che Bong Nga" "Ko Cheng" "Jaya Indravarman"
+#        "Sam Agi" "Paramesvara" "Megat Iskander" "Muhammad Shâh" "Abu Syahid" "Muzaffar Shâh" "Mansûr Shâh" "Riayat Shah" "Mahmûd Shâh" "'Abd al-Jalîl Shâh" "Ma'ayat Shâh" "Ibrâhîm Shâh" "Rahmat Shâh" "Sulaymân Badr Shâh" 
+#        "Mu'azzam Shâh" "Mahmûd Ri'âyat Shâh" "'Abd ar-Rahmân Shâh" "Rajah Qasim"
+#        "Inayat" "'Alî Mugâyat" "Iskandar Tanî" "Husayn 'Alî Ri'âyat" "Menradza" "Tsalenggathu" "Gadzabadi" 
+#        "Tsau-Lha" "Mengtsekya"
+#        "Girindrawardhana" "Girishawardhana" "Kertabumi" "Kertawijaya" "Rajasawardhana" "Suraprabhawa" 
+#        "Wikramawardhana" "Hayam Wuruk" "Kalagamet" "Raden Wijaya" "Kertawardhana" "Raden Sotor" "Raden Sumirat" 
+#        "Singhawardhana"
+#    }
+#}
 
 afro_lemurian = {
 	graphical_culture = africangfx

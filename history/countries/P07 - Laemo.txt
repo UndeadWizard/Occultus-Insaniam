@@ -1,6 +1,6 @@
 government = tribal
 add_government_reform = tribal_kingdom
-technology_group = polynesian
+technology_group = polynesian_tech
 religion = tiki
 primary_culture = savaikian
 capital = 5483
