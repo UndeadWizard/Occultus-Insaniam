@@ -5,7 +5,7 @@ controller = A38
 add_core = A38
 is_city = yes
 
-base_tax = 2
+base_tax = 3
 base_production = 3
 base_manpower = 2
 
@@ -13,7 +13,5 @@ culture = ayadoni
 religion = atlanic
 trade_goods = gold
 hre = no
-
-native_hostileness = 3
 
 discovered_by = atlantean
