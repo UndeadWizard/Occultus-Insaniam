@@ -1,4 +1,4 @@
-#4740 - Durak
+#4740 - Nea Nikomedia
 
 owner = A40
 controller = A40

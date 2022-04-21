@@ -70,6 +70,8 @@
  desc_atla_estuary_modifier:0 "Controlling the important river estuary of Atla strengthens our hold of the trade in the region."
  losrorham_estuary_modifier: "Losrorham Estuary"
  desc_losrorham_estuary_modifier:0 "Controlling the important river estuary of Losrorham strengthens our hold of the trade in the region."
+ acionas_estuary_modifier: "Acionas Estuary"
+ desc_acionas_estuary_modifier:0 "Controlling the important river estuary of Acionas strengthens our hold of the trade in the region."
  osoa_gemstone_cavern: "Osoa Gemstone Cavern"
  salt_city: "Salt City"
  aza_expanded_silk_district: "Expanded Silk District"

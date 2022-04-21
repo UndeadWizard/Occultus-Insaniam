@@ -1,4 +1,4 @@
-#4663 - Notio Kolpo
+#4663 - Notio Kolpou
 
 owner = A29
 controller = A29
