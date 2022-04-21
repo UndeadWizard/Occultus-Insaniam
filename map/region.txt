@@ -3,6 +3,13 @@
 # random_new_world_region is used for RNW. Must be first in this list.
 random_new_world_region = {
 }
+
+unused_region = {
+	areas = {
+		unused_area
+	}
+}
+
 ########################################
 # Atlantis                             #
 ########################################
@@ -30,10 +37,8 @@ atlantean_southlands = {
 		crecrelym_area
 		kentrikos_area
 		asaero_area
-		thautori_area
 		acionas_area
 		achana_area
-		erredurak_area
 		daephi_area
 		agacro_area
 		tridentislands_area
@@ -379,6 +384,7 @@ sea_of_dragons_region = {
 
 south_east_pacific_region = {
 	areas = {
+		south_pacific_area
 		polynesian_triangle_area
 		dawa_sea_area
 	}

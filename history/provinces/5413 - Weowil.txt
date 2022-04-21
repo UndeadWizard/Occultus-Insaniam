@@ -15,4 +15,4 @@ religion = nayaran
 trade_goods = fish
 hre = no 
 
-discovered_by = naacal_tech
+discovered_by = naacal

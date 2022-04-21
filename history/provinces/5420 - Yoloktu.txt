@@ -15,4 +15,4 @@ religion = nayaran
 trade_goods = gems
 hre = no 
 
-discovered_by = naacal_tech
+discovered_by = naacal

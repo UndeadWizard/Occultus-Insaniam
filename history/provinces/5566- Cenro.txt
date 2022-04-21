@@ -1,8 +1,8 @@
 #4671 - Cenro
 
-owner = A28
-controller = A28
-add_core = A28
+owner = A17
+controller = A17
+add_core = A17
 is_city = yes
 
 base_tax = 3

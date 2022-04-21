@@ -5110,7 +5110,7 @@ province;red;green;blue;x;x
 5109;90;165;131;Dryang;Mu
 5110;168;119;160;Suyats;Mu
 5111;163;116;1;Grao;Mu
-5112;120;120;10;Na'ine;Mu
+5112;120;120;10;Na'ine;Unused5512
 5113;188;222;97;Krung;Mu
 5114;9;100;11;Panhou;Mu
 5115;175;138;120;Ongor;Mu
@@ -5128,18 +5128,18 @@ province;red;green;blue;x;x
 5127;31;140;204;LemurianSea5;LemurianSea
 5128;40;160;20;Mutiapouli;Mu
 5129;202;205;188;Aq'yek;Lemuria
-5130;205;14;75;Empty;x
+5130;205;14;75;Navutafa;Unused5130
 5131;106;167;177;Lulele;Mu
 5132;207;48;92;Navulamea;Mu
 5133;21;62;12;Lepali'i;Mu
 5134;197;238;28;Sapo'tufu;Mu
-5135;92;241;139;Empty;x
+5135;92;241;139;Tofatuku;Unused5135
 5136;123;126;187;Makaufo'ou;Mu
 5137;117;162;9;Lonmu;Mu
-5138;3;185;85;Empty;x
+5138;3;185;85;Hokutafa;Unused5138
 5139;219;90;172;Manaleia;Mu
 5140;166;196;68;Lavetula;Mu
-5141;71;100;62;Empty;x
+5141;71;100;62;Laloma'o;Unused5141
 5142;60;117;30;Tu'unongi;Mu
 5143;86;74;83;Ututufu;Mu
 5144;236;73;190;Pavao;Mu
@@ -5517,7 +5517,7 @@ province;red;green;blue;x;x
 5516;39;253;253;Sea4;Mu
 5517;25;223;253;Sea5;Mu
 5518;45;203;253;Sea6;Mu
-5519;72;222;252;Sea7;Mu
+5519;72;222;252;Sea7;Unused5519
 5520;15;203;203;Sea8;Mu
 5521;50;150;250;Sea9;Mu
 5522;125;252;252;Sea10;Mu
@@ -5584,15 +5584,15 @@ province;red;green;blue;x;x
 5583;123;88;38;Ynsepini;Atlantis
 5584;223;31;124;Losmosas;Atlantis
 5585;72;21;91;Voreiou Kolpou;Atlantis
-5586;121;199;119;Polismos Ridge;Wasteland
-5587;240;182;130;Vounospiti;Atlantis
-5588;132;13;129;Katoikia;Atlantis
-5589;30;131;153;Schiza;Atlantis
-5590;202;158;199;Thautori;Atlantis
-5591;180;220;217;Nea Gnaisis;Atlantis
-5592;238;90;111;Erredurak;Atlantis
-5593;129;115;87;Kosmima;Atlantis
-5594;149;21;129;Dryca;Atlantis
+5586;132;13;129;Polismos Ridge;Wasteland
+5587;240;182;130;Vounospiti;Unused5587
+5588;121;199;119;Katoikia;Unused5588
+5589;30;131;153;Schiza;Unused5589
+5590;202;158;199;Thautori;Unused5590
+5591;180;220;217;Nea Gnaisis;Unused5591
+5592;238;90;111;Erredurak;Unused5592	
+5593;129;115;87;Kosmima;Unused5593
+5594;149;21;129;Dryca;Unused5594
 5595;166;25;181;Anatolikos;Atlantis
 5596;228;87;182;Rakkad;Atlantis
 5597;216;202;115;Acens;Atlantis

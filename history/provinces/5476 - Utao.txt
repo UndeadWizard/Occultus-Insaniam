@@ -17,4 +17,4 @@ hre = no
 
 discovered_by = polynesian
 discovered_by = muror
-discovered_by = naacal_tech
+discovered_by = naacal
