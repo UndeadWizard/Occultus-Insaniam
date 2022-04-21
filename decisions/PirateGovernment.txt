@@ -24,7 +24,12 @@ country_decisions = {
 			NOT = { has_reform = dragon_empire }
 			NOT = { has_reform = dragon_noble }
 			NOT = { has_reform = dragon_king }
-			NOT = { has_reform = patricianship_gov }
+			NOT = { has_reform = legacy_of_song }
+			NOT = { has_reform = occult_kingdom }
+			NOT = { has_reform = antillian_republic }
+			NOT = { has_reform = patricianship }
+			NOT = { has_reform = council_reform }
+			NOT = { has_reform = seneca_reforms }
 			NOT = { has_reform = atlantean_warring_state }
 			NOT = { has_reform = centralized_imperatorship_reform }
 			NOT = { tag = PAP } # just no

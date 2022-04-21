@@ -4,7 +4,7 @@ technology_group = atlantean
 religion = atlanic
 government_rank = 1
 primary_culture = alyric
-capital = 5578
+capital = 5579
 
 #Shattered Trident
 1444.1.1 = {
