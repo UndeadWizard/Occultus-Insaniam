@@ -407,7 +407,7 @@ ansudus_area ={
 }
 
 nilam_area ={
-	5735 5737 5738 4861
+	5735 5737 5738 5761
 }
 
 rikar_area = {
