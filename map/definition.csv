@@ -5104,7 +5104,7 @@ province;red;green;blue;x;x
 5103;123;17;233;Nyima;Mu
 5104;44;123;23;Nga;Mu
 5105;193;21;100;Tyek;Mu
-5106;138;8;191;Myug;Mu
+5106;138;8;191;Myug;Unused5106
 5107;164;205;86;Gensi;Mu
 5108;92;177;57;Nups;Mu
 5109;90;165;131;Dryang;Mu
@@ -5144,7 +5144,7 @@ province;red;green;blue;x;x
 5143;86;74;83;Ututufu;Mu
 5144;236;73;190;Pavao;Mu
 5145;157;120;189;Pelegai;Mu
-5146;1;113;31;Empty;x
+5146;1;113;31;Niuatu;Unused5146
 5147;195;188;120;Hihigoii;Mu
 5148;64;43;22;Solosoali'i;Mu
 5149;164;151;183;Makaupaha;Mu
@@ -5172,8 +5172,8 @@ province;red;green;blue;x;x
 5171;153;108;249;Puputua;Mu
 5172;121;57;194;Tufulava;Mu
 5173;154;24;243;Tu'utolo;Mu
-5174;254;82;239;Empty;x
-5175;139;82;8;Alegaha;Mu
+5174;254;82;239;Kelemama'o;Unused5174
+5175;139;82;8;Alegaha;Unused5175
 5176;70;204;127;Manasia;Mu
 5177;232;92;158;Sapa'atapu;Mu
 5178;131;243;176;Ofonuka;Mu
@@ -5184,10 +5184,10 @@ province;red;green;blue;x;x
 5183;243;3;47;Sogiake;Mu
 5184;157;240;150;Foamotu;Mu
 5185;140;51;49;Shaohai;Mu
-5186;190;255;150;Empty;x
-5187;138;191;221;Empty;x
-5188;196;83;207;Empty;x
-5189;181;165;64;Empty;x
+5186;190;255;150;Matakakai;Unused5186
+5187;138;191;221;Lofasia;Unused5187
+5188;196;83;207;Fatumanongi;Unused5188
+5189;181;165;64;A'ufasina;Unused5189
 5190;157;10;149;Linxian;Mu
 5191;125;111;134;Lalonong;Mu
 5192;249;132;73;Shigata;Mu
