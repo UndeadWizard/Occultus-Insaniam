@@ -17,6 +17,8 @@ country_decisions = {
 			}
             NOT = { exists = AYA }
 			primary_culture = ayadoni
+			
+			NOT = { tag = ATL }
 		}
 		allow = {
             is_free_or_tributary_trigger = yes
