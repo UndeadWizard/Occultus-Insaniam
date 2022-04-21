@@ -8,8 +8,8 @@ is_city = yes
 culture = high_atlantean
 religion = atlanic
 base_tax = 4
-base_production = 5
-base_manpower = 4
+base_production = 4
+base_manpower = 3
 
 trade_goods = glass 
 hre = no

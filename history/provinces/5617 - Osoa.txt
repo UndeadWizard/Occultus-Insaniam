@@ -5,9 +5,9 @@ controller = A32
 add_core = A32
 is_city = yes
 
-base_tax = 3
-base_production = 3
-base_manpower = 3
+base_tax = 2
+base_production = 4
+base_manpower = 1
 
 culture = alyshi
 religion = atlanic

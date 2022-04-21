@@ -1,0 +1,17 @@
+#4741 - Erranti
+
+owner = A40
+controller = A40
+add_core = A40
+is_city = yes
+
+base_tax = 5
+base_production = 6
+base_manpower = 5
+
+culture = poenici
+religion = heptarchic
+trade_goods = wine
+hre = no
+
+discovered_by = atlantean

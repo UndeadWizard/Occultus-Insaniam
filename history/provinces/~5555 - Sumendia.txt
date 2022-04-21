@@ -1,0 +1,17 @@
+#4660 - Sumendia
+
+owner = A13
+controller = A13 
+add_core = A13
+
+is_city = yes
+base_tax = 6
+base_production = 5
+base_manpower = 4
+
+culture = high_atlantean
+religion = atlanic
+trade_goods = wine
+hre = no
+
+discovered_by = atlantean

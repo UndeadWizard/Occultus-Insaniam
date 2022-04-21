@@ -11,7 +11,7 @@ base_manpower = 2
 
 culture = alyric
 religion = atlanic
-trade_goods = wool
+trade_goods = glass
 hre = no
 
 discovered_by = atlantean

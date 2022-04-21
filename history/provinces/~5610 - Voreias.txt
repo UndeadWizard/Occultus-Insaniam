@@ -1,0 +1,17 @@
+#4715 - Voreias
+
+owner = A31
+controller = A31
+add_core = A31
+is_city = yes
+
+base_tax = 4
+base_production = 6
+base_manpower = 5
+
+culture = alyshi
+religion = atlanic
+trade_goods = wine
+hre = no
+
+discovered_by = atlantean
