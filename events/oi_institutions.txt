@@ -11,7 +11,7 @@ country_event = {
 		technology_group = atlantean
 		is_year = 1470
 		NOT = { exists = ATL }
-		NOT = { has_global_flag = atlantean_renaissance}
+		NOT = { has_global_flag = atlantean_renaissance }
 		capital_scope = {
 			continent = atlantis
 		}

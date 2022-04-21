@@ -29,7 +29,7 @@
  atla_infantry_19:0 "Atlantic Flintlock" #Based on Swedish infantry in the 30YW; flintlocks. Power evens out with Europe here
  atla_infantry_19DESCR:0 "The European invention of the flintlock has revolutionized warfare across the continent, providing a more reliable gunpowder weapon that is also much better to aim with. In Atlantis and Antillia, it meant the end of the traditional crossbows."
 
- atla_infantry_23:0 "Imperial Infantry" #Caroleans and Petrines, high inf-art coordination, "see the white in their eyes" tactics
+ atla_infantry_23:0 "Imperial Infantry" #Caroleans and Petrines, high inf-art coordination, see the white in their eyes tactics
  atla_infantry_23DESCR:0 "Infantrymen trained to peak discipline, told not to be allowed to fire from a distance, but to approach until they can see the enemy's eyes clearly, guaranteeing a surefire shot and a swift victory in battle."
  
  atla_infantry_26:0 "Bluecoat Infantry" #Redcoats equivalent. Silken bulletproof vests.
