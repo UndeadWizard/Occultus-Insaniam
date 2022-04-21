@@ -42,12 +42,12 @@ ATL_no_barriers = {
 }
 
 ATL_atlantean_pride = {
-	navy_tradition = 0.3
+	navy_tradition = 0.5
 	recover_navy_morale_speed = 0.1
 }
 
 ATL_roman_legacy = {
-	discipline = 0.015
+	discipline = 0.025
 }
 
 ATL_renewed_security = {
@@ -55,7 +55,7 @@ ATL_renewed_security = {
 }
 
 ATL_atlantean_bureaucracy = {
-	local_core_creation = -0.2
+	core_creation = -0.10
 }
 
 ATL_established_state = {

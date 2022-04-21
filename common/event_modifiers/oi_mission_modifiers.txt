@@ -2,7 +2,7 @@
 
 
 atlantean_pride_modifier = {
-	navy_tradition = 0.3
+	navy_tradition = 0.5
 	recover_navy_morale_speed = 0.1
 }
 
@@ -21,7 +21,7 @@ atlantean_west = {
 }
 
 roman_legacy = {
-	discipline = 0.015
+	discipline = 0.025
 }
 
 all_roads_to_atla = {

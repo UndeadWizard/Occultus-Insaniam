@@ -645,7 +645,7 @@ atlantean_missions_far_right = {
 		
 		trigger = {
 			has_institution = renaissance
-			has_institution = colonialism
+			has_institution = new_world_i
 		}
 		effect = {
 			add_prestige = 50
