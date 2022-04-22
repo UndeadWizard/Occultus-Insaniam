@@ -3,62 +3,21 @@ country_decisions = {
 		potential = {
 			religion = atlanic
 			OR = {
-				NOT = { has_ruler_flag = visited_oracle }
+				NOT = {
+					has_ruler_flag = visited_oracle 
+				}
+				had_ruler_flag = {
+						flag = visited_oracle
+						days = 3650
+				}
 			}
 		}
 		effect = {
 			custom_tooltip = visit_the_oracle_tooltip
 			hidden_effect  = {
 				set_ruler_flag = visited_oracle
-				random_list = {
-					25 = {
-						country_event = {
-							id = oi_oracle.1
-							days = 7
-						}
-					}
-					19 = {
-						country_event = {
-							id = oi_oracle.2
-							days = 7
-						}
-					}
-					15 = {
-						country_event = {
-							id = oi_oracle.3
-							days = 7
-						}
-					}
-					15 = {
-						country_event = {
-							id = oi_oracle.4
-							days = 7
-						}
-					}
-					15 = {
-						country_event = {
-							id = oi_oracle.5
-							days = 7
-						}
-					}
-					5 = {
-						country_event = {
-							id = oi_oracle.6
-							days = 7
-						}
-					}	
-					5 = {
-						country_event = {
-							id = oi_oracle.7
-							days = 7
-						}
-					}
-					1 = {
-						country_event = {
-							id = oi_oracle.8
-							days = 7
-						}
-					}	
+				capital_scope = {
+					add_province_triggered_modifier = visited_the_oracle
 				}
 			}
 		}	

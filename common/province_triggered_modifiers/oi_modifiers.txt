@@ -152,6 +152,20 @@ birthplace_of_ar = {
 	}
 }
 
+visited_the_oracle = {
+	potential = {
+		normal_or_historical_nations = yes
+	}
+	
+	#Province scope
+	on_activation = {
+		
+	}
+	
+	on_deactivation = {
+	
+	}
+}
 ###########################################
 # Muror Empire
 ###########################################
