@@ -5,6 +5,7 @@ country_event = {
 	title = oi_oracle.0.t
 	desc = oi_oracle.0.d
 	picture = GOOD_WITH_MONARCH_eventPicture
+	hidden = yes
 	
 	trigger = {
 		ROOT = {
