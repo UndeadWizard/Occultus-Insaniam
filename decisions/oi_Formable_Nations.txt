@@ -23,18 +23,41 @@ country_decisions = {
 		allow = {
             is_free_or_tributary_trigger = yes
 			is_at_war = no
-            
-			atlantean_eastlands = {
-                owned_by = ROOT
-                is_core = ROOT
-                type = all
-            }
+            AND = {
+				5614 = {
+					owned_by = ROOT
+					is_core = ROOT
+					type = all
+				}
+				5635 = {
+					owned_by = ROOT
+					is_core = ROOT
+					type = all
+				}
+				5642 = {
+					owned_by = ROOT
+					is_core = ROOT
+					type = all
+				}
+				5646 = {
+					owned_by = ROOT
+					is_core = ROOT
+					type = all
+				}
+				5649 = {
+					owned_by = ROOT
+					is_core = ROOT
+					type = all
+				}
+			}
 		}
 		effect = {
 			change_tag = AYA
             set_government_rank = 2
             
-            add_prestige = 10
+            add_prestige = 25
+			add_stability = 1
+			add_government_reform = ayadoni_rexdom
 			add_country_modifier = {
 				name = centralization_modifier
 				duration = 3650

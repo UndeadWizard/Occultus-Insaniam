@@ -152,6 +152,32 @@ birthplace_of_ar = {
 	}
 }
 
+rex_of_the_ayadoni = {
+	potential = {
+		normal_or_historical_nations = yes
+	}
+	
+	#viewer = {
+	#}
+	
+	trigger = {
+		owner = {
+			tag = AYA
+		}
+	}
+	
+	prestige = 0.25
+	
+	#Province scope
+	on_activation = {
+	
+	}
+	
+	on_deactivation = {
+	
+	}
+}
+
 visited_the_oracle = {
 	potential = {
 		normal_or_historical_nations = yes

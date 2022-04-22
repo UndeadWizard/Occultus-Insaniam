@@ -33,6 +33,7 @@ monarchy = {
 				#OI Governments
 				atlantean_warring_state
 				seneca_reforms
+				ayadoni_rexdom
 				centralized_imperatorship_reform
 				dragon_empire
 				dragon_noble

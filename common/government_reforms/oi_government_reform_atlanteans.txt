@@ -13,6 +13,7 @@ atlantean_warring_state = {
 				has_reform = atlantean_warring_state
 			}
 			NOT = { tag = ATL }
+			NOT = { tag = AYA }
 		}
 	}
 	modifiers = {
@@ -44,7 +45,7 @@ seneca_reforms = {
 		global_tax_modifier = 0.05	
 		land_morale = 0.05
 		leader_land_shock = 1	
-		max_absolutism = -30
+		max_absolutism = -20
 	}
 		
 	ai = {
@@ -72,6 +73,28 @@ centralized_imperatorship_reform = {
 		
 	ai = {
 		factor = 5
+	}
+}
+
+ayadoni_rexdom = {
+	icon = "ayadoni_rexdom"
+	lock_level_when_selected = yes
+	allow_normal_conversion = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	potential = {
+		OR = {
+			tag = AYA
+		}
+	}
+	modifiers = {
+		manpower_recovery_speed = 0.10 
+		leader_land_manuever = 1	
+		max_absolutism = -15
+	}
+		
+	ai = {
+		factor = 100
 	}
 }
 

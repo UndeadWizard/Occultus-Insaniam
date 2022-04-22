@@ -1,7 +1,6 @@
-government = monarchy
-government_rank = 3
-mercantilism = 105
+government = theocracy
+add_government_reform = archbishop_reform
 technology_group = atlantean
-religion = atlanic
-primary_culture = ayadoni
-capital = 1
+religion = heptarchic
+primary_culture = antillian
+capital = 5684

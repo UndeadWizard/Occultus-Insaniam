@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 6
 base_manpower = 5
 
-culture = poenici
+culture = ayadoni
 religion = heptarchic
 trade_goods = wine
 hre = no

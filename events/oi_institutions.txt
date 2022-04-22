@@ -9,7 +9,7 @@ country_event = {
     
 	trigger = {
 		technology_group = atlantean
-		is_year = 1470
+		is_year = 1460
 		NOT = { exists = ATL }
 		NOT = { has_global_flag = atlantean_renaissance }
 		capital_scope = {
@@ -21,7 +21,7 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 360
+		months = 300
 		
 		modifier = {
 			factor = 0.80
@@ -42,7 +42,10 @@ country_event = {
 				development = 25
 			}
 		}
-		
+		modifier = {
+			factor = 0.40
+			tag = AYA
+		}
 		modifier = {
 			factor = 0.80
 			capital_scope = {
@@ -114,7 +117,7 @@ country_event = {
 			}
 		}
 		OR = {
-				is_year = 1475			
+				is_year = 1465			
 				tag = ANX
 		}
 		is_institution_enabled = renaissance

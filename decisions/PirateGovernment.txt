@@ -32,6 +32,7 @@ country_decisions = {
 			NOT = { has_reform = seneca_reforms }
 			NOT = { has_reform = atlantean_warring_state }
 			NOT = { has_reform = centralized_imperatorship_reform }
+			NOT = { has_reform = ayadoni_rexdom }
 			NOT = { tag = PAP } # just no
 			is_emperor = no
 			OR = {
