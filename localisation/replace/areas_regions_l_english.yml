@@ -21,6 +21,9 @@
  acionas_area:0 "Acionas"
  acionas_area_name:0 "Acionas"
  acionas_area_adj:0 "Acionasi"
+ cenro_area:0 "Cenro"
+ cenro_area_name:0 "Cenro"
+ cenro_area_adj:0 "Cenron"
  daephi_area:0 "Daephi"
  daephi_area_name:0 "Daephi"
  daephi_area_adj:0 "Daephean"
@@ -100,6 +103,10 @@
  con_area:0 "Con"
  con_area_name:0 "Con"
  con_area_adj:0 "Coni"
+#Frisland
+ frisland_area:0 "Frisland"
+ frisland_area_name:0 "Frisland"
+ frisland_area_adj:0 "Frislander"
 #Lemuria
  naktu_area:0 "Naktu"
  naktu_area_name:0 "Naktu"
