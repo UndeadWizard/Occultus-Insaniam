@@ -1,4 +1,4 @@
-#4754 - Putiyachola
+#5649 - Putiyachola
 
 owner = A43
 controller = A43
@@ -13,5 +13,6 @@ culture = poenici
 religion = heptarchic
 trade_goods = grain
 hre = no
+center_of_trade = 1
 
 discovered_by = atlantean

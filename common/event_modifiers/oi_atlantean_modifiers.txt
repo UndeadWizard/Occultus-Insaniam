@@ -17,17 +17,14 @@ acionas_estuary_modifier = {
 
 osoa_gemstone_cavern = {
 	trade_goods_size = 2
-	picture = "gems_icon"
 }
 
 salt_city = {
 	trade_goods_size = 3
-	picture = "salt_icon"
 }
 
 hermus_glass = {
 	trade_goods_size = 1
-	picture = "glass_icon"
 }
 ### Modifiers for Atlanic
 

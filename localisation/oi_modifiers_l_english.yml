@@ -73,7 +73,11 @@
  acionas_estuary_modifier: "Acionas Estuary"
  desc_acionas_estuary_modifier:0 "Controlling the important river estuary of Acionas strengthens our hold of the trade in the region."
  osoa_gemstone_cavern: "Osoa Gemstone Cavern"
- salt_city: "Salt City"
+ desc_osoa_gemstone_modifier:0 "Gems from Osoa flow like wine, spreading throughout all of Atlantis, ordaining all of its nobility with beautiful accessories."
+ salt_city: "Alaspolis Salt City"
+ desc_salt_city:0 "The salt mines in Alaspolis helped fund Akakios's wars agains the Ayadonian kingdoms in the east."
+ hermus_glass: "Hermus Glass"
+ desc_hermus_glass: "The artisans of Hermus make some of the finest glasswares known to all of Atlantis."
  aza_expanded_silk_district: "Expanded Silk District"
  aza_azaresi_gladiators: "Azaresi Gladiators"
 
