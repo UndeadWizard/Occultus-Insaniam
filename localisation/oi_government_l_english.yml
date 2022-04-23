@@ -35,11 +35,14 @@ LUANDTUN: "Luandtun"
 atlantean_warring_state: "Warlord State"
 atlantean_warring_state_desc: "After the Collapse, many Atlantean states adopted a strictly militarized form of government consolidated under a single ruler. However, such a system led to more autonomous regions."
 
-seneca_reforms: "Seneca Reforms"
-seneca_reforms_desc: "In 1030 CE, the Atlantean Imperator Seneca Chrysa divided the Atlantean Empire into administrative sections each ruled by its respective 'Rex'. This served to satisfy the growing want for autonomy in certain regions of the Empire, while also reducing the load on the Imperator."
+crippled_seneca_reforms: "Crippled Seneca Reforms"
+crippled_seneca_reforms_desc: "Though in ages past the Atlantean Empire ran like a well-oiled machine, the decay has left it a withered husk of itself."
 
-centralized_imperatorship_reform: "Centralized Imperatorship"
-centralized_imperatorship_reform_desc: "A stronger Imperator means a stronger Atlantis, no more shall the scourge of the noble infringe on your divine right to Atlantis."
+restored_seneca_reforms: "Restored Seneca Reforms"
+restored_seneca_reforms_desc: "In 1030 CE, the Atlantean Imperator Seneca Chrysa divided the Atlantean Empire into administrative sections each ruled by its respective 'Rex'. This served to satisfy the growing want for autonomy in certain regions of the Empire, while also reducing the load on the Imperator."
+
+akakios_bureaucracy: "Akakios Bureaucracy"
+akakios_bureaucracy_desc: "A stronger Imperator means a stronger Atlantis, no more shall the scourge of the noble infringe on your divine right to Atlantis. Instead we will rule like the great conquerer Akakios who ruled as he pleased, with no opposition from the Senate."
 
 ayadoni_rexdom: "Ayadoni Rexdom"
 ayadoni_rexdom_desc: "The Ayadoni infighting is no longer heralding a new age of prosperity, under the one true Rex, the throne of Atlantis will be Ayadoni."

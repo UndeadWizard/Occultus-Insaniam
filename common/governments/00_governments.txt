@@ -32,9 +32,10 @@ monarchy = {
 				austrian_archduchy_reform
 				#OI Governments
 				atlantean_warring_state
-				seneca_reforms
+				crippled_seneca_reforms
+				restored_seneca_reforms
 				ayadoni_rexdom
-				centralized_imperatorship_reform
+				akakios_bureaucracy
 				dragon_empire
 				dragon_noble
 				dragon_king

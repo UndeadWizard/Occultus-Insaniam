@@ -30,9 +30,18 @@
  atl_conquest.1.a: "Promising indeed."
  
  atl_conquest.2.t: "The Gates"
- atl_conquest.2.d: "The Gates have always served some form of contention for the High Atlanteans for centuries. In 438 CE, the Ayadoni-descendant Ahumm Argyris threw his father's Imperium into chaos when his High Atlantean brother Numitor Argyris was crowned Imperator. The Imperium was split down Ayadoni and Atlantean lines and only ended with the conquest of Atlantium; within a few years a paranoid Ahumm dissolved the Atlantean Senate. In 446 CE, former Senators fearing they that they will soon be executed, ambushed the Imperator Ahumm and stab him 32 times; an event now known as the Ides of April."
+ atl_conquest.2.d: "The Gates have always served some form of contention for the High Atlanteans for centuries. In 438 CE, the Ayadoni-descendant Ahumm Argyris threw his father's Imperium into chaos when his High Atlantean brother Numitor Argyris was crowned Imperator. The Imperium was split down Ayadoni and Atlantean lines and only ended with the conquest of Atlantium; within a few years a paranoid Ahumm dissolved the Atlantean Senate. In 446 CE, former Senators fearing they that they will soon be executed, ambushed the Imperator Ahumm and stabbed him 32 times; an event now known as the Ides of April."
  atl_conquest.2.a: "Only the chosen will flourish."
  
  atl_conquest.3.t: "The Islands"
  atl_conquest.3.d: "The Atlanteans have always had a mixed relationship with the sea; for Yamm gives, and Yamm takes. It is common belief among the peasantry that the Red Plague was a divine punishment from Yamm for the Atlantean neglection of the sea. In 1315 CE, a series of religious reforms were passed by Imperator Amadeus Servati the Heretic to lessen the sway that Atlantean priests had. In 1320 CE, it is fabled that the first appearance of the Red Plague was on a Merchant ship from Meropis. By 1324 CE the plague had spread all across the Atlantean mainland. The 1354 eruption of Mount Atlas was the final nail in the coffin for the Servati family's control of the Imperatorship."
  atl_conquest.3.a: "Yamm's anger is to be feared."
+ 
+ atl_events.1.t: "Imperator of Atlantis"
+ atl_events.1.d: "It is indisputable, we are the true heirs to Atlantis. The path has been long and hard, and many widows mourn those they've lost. Yet the work continues, there are still those that stand up against us, clinging to a delusion of independence. No matter, you are the Imperator of Atlantis. An ancient title beginning with the great conquest of Atlantis by Akakios Argyis, a feat that your dynasty will surely replicate."
+ atl_events.1.a: "There will be more to conquer."
+ 
+ atl_events.2.t: "Capital in Atlantium?"
+ atl_events.2.d: "There are those in your court that question why the Imperator rules not in Atlantium but in $CAPITAL_CITY$. Perhaps their concerns have merit?"
+ atl_events.2.a: "Yes, an Imperator should rule in Atlantium."
+ atl_events.2.b: "I rule where I please!"

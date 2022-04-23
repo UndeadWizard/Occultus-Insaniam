@@ -12,6 +12,10 @@ spriteTypes = {
 		texturefile = "gfx//interface//government_reform_icons//ayadoni_rexdom.dds"
 	}
 	spriteType = {
+		name = "government_reform_akakios_bureaucracy"
+		texturefile = "gfx//interface//government_reform_icons//akakios_bureaucracy.dds"
+	}
+	spriteType = {
 		name = "government_reform_legacy_of_song"
 		texturefile = "gfx//interface//government_reform_icons//legacy_of_song.dds"
 	}

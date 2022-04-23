@@ -111,7 +111,7 @@ ayadoni_rexdom = {
 		has_reform = ayadoni_rexdom
 	}
 }
-centralized_imperatorship_reform  ={
+akakios_bureaucracy  ={
 	rank = {
 		1 = DUCATUS
 		2 = REGNO
@@ -130,8 +130,9 @@ centralized_imperatorship_reform  ={
 	
 	trigger = {
 		OR = {
-			has_reform = seneca_reforms
-			has_reform = centralized_imperatorship_reform
+			has_reform = crippled_seneca_reforms
+			has_reform = restored_seneca_reforms
+			has_reform = akakios_bureaucracy
 		}
 	}
 }

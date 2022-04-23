@@ -379,6 +379,9 @@ atlantean_missions_middle = {
 			atlantean_crownlands = {
 				add_claim = ROOT
 			}
+			5599 = {
+				add_core = ROOT
+			}
 		}
 	}
 	
@@ -392,12 +395,11 @@ atlantean_missions_middle = {
 		}
 		
 		effect = {
-			change_tag = ATL
-            add_prestige = 10
-			set_government_rank = 3
-			
-			atlantean_superregion = {
-				add_permanent_claim = ROOT 
+			hidden_effect = {
+				country_event = {
+					id = atl_events.1
+					days = 1
+				}
 			}
 		}
 	}

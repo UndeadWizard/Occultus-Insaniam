@@ -146,6 +146,9 @@ country_event = {
 		english_channel_area = {
 			discover_country = ROOT
 		}
+		367 = {
+			discover_country = ROOT
+		}
 	 }
 }
 
@@ -203,6 +206,9 @@ country_event = {
 		english_channel_area = {
 			discover_country = ROOT
 		}
+		367 = {
+			discover_country = ROOT
+		}
 	 }
 	 
 	  option = {
@@ -248,6 +254,9 @@ country_event = {
 			discover_country = ROOT
 		}
 		151 = {
+			discover_country = ROOT
+		}
+		367 = {
 			discover_country = ROOT
 		}
 	 }
