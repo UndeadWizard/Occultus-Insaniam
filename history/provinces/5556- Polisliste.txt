@@ -5,7 +5,7 @@ controller = A20
 add_core = A20
 is_city = yes
 
-base_tax = 4
+base_tax = 7
 base_production = 3
 base_manpower = 3
 

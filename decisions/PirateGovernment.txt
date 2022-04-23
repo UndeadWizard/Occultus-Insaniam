@@ -29,7 +29,8 @@ country_decisions = {
 			NOT = { has_reform = antillian_republic }
 			NOT = { has_reform = patricianship }
 			NOT = { has_reform = council_reform }
-			NOT = { has_reform = seneca_reforms }
+			NOT = { has_reform = crippled_seneca_reforms }
+			NOT = { has_reform = restored_seneca_reforms }
 			NOT = { has_reform = atlantean_warring_state }
 			NOT = { has_reform = akakios_bureaucracy }
 			NOT = { has_reform = ayadoni_rexdom }
