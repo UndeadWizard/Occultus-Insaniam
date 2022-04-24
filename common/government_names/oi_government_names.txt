@@ -91,6 +91,26 @@ atlantean_warring_state = {
 		has_reform = atlantean_warring_state
 	}
 }
+anthrean_pirates = {
+	rank = {
+		1 = DUCATUS
+		2 = REGNO
+		3 = IMPERIUM
+	}
+	ruler_male = {
+		1 = DUX 
+		2 = REX
+		3 = IMPERATOR
+	}
+	ruler_female = {
+		1 = DUCISSA
+		2 = REGINA
+		3 = IMPERATARIX
+	}
+	trigger = {
+		has_reform = anthrean_pirates
+	}
+}
 ayadoni_rexdom = {
 	rank = {
 		1 = DUCATUS

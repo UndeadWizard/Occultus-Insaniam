@@ -29,6 +29,26 @@ atlantean_warring_state = {
 	}
 }
 
+anthrean_pirates = {
+	icon = "anthrean_pirates"
+	allow_normal_conversion = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+	potential = {
+		religion = atlanic
+	}
+	modifiers = {
+		naval_forcelimit_modifier = 0.25
+		capture_ship_chance = 0.1
+		leader_naval_shock = 1
+		may_perform_slave_raid_on_same_religion = yes
+	}
+		
+	ai = {
+		factor = 5
+	}
+}
+
 crippled_seneca_reforms = {
 	icon = "seneca_reforms"
 	lock_level_when_selected = yes

@@ -32,6 +32,7 @@ monarchy = {
 				austrian_archduchy_reform
 				#OI Governments
 				atlantean_warring_state
+				anthrean_pirates
 				crippled_seneca_reforms
 				restored_seneca_reforms
 				ayadoni_rexdom

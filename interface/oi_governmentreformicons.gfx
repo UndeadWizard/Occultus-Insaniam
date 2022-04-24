@@ -8,6 +8,10 @@ spriteTypes = {
 		texturefile = "gfx//interface//government_reform_icons//atlantean_warring_state.dds"
 	}
 	spriteType = {
+		name = "government_reform_anthrean_pirates"
+		texturefile = "gfx//interface//government_reform_icons//anthrean_pirates.dds"
+	}
+	spriteType = {
 		name = "government_reform_ayadoni_rexdom"
 		texturefile = "gfx//interface//government_reform_icons//ayadoni_rexdom.dds"
 	}
