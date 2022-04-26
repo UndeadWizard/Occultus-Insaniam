@@ -85,7 +85,7 @@ atlantean_warring_state = {
 	ruler_female = {
 		1 = DUCISSA
 		2 = REGINA
-		3 = IMPERATARIX
+		3 = IMPERATRIX
 	}
 	trigger = {
 		has_reform = atlantean_warring_state
@@ -105,7 +105,7 @@ anthrean_pirates = {
 	ruler_female = {
 		1 = DUCISSA
 		2 = REGINA
-		3 = IMPERATARIX
+		3 = IMPERATRIX
 	}
 	trigger = {
 		has_reform = anthrean_pirates
@@ -125,7 +125,7 @@ ayadoni_rexdom = {
 	ruler_female = {
 		1 = DUCISSA
 		2 = REGINA
-		3 = IMPERATARIX
+		3 = IMPERATRIX
 	}
 	trigger = {
 		has_reform = ayadoni_rexdom
@@ -143,9 +143,9 @@ akakios_bureaucracy  ={
 		3 = IMPERATOR
 	}
 	ruler_female = {
-		1 = IMPERATARIX
-		2 = IMPERATARIX
-		3 = IMPERATARIX
+		1 = IMPERATRIX
+		2 = IMPERATRIX
+		3 = IMPERATRIX
 	}
 	
 	trigger = {

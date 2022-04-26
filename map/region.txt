@@ -40,6 +40,7 @@ atlantean_southlands = {
 		acionas_area
 		achana_area
 		daephi_area
+		cenro_area
 		agacro_area
 		tridentislands_area
 	}
