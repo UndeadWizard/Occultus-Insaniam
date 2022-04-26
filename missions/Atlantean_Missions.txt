@@ -653,7 +653,7 @@ atlantean_missions_far_right = {
 			add_prestige = 50
 			add_army_tradition = 20
 			add_navy_tradition = 20	
-			philippi_area = {
+			macaronesia_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
