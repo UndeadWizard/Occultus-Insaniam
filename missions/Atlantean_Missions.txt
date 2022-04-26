@@ -284,7 +284,7 @@ atlantean_missions_left = {
 				area = arrantza_area
 				area = philippi_area
 				area = askloy_area
-				province_id = 4755
+				province_id = 5650
 			}
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 		}
@@ -295,7 +295,7 @@ atlantean_missions_left = {
 					country_or_non_sovereign_subject_holds = ROOT
 				}
 				
-				4755 = {
+				5650 = {
 					country_or_non_sovereign_subject_holds = ROOT
 				}
 				

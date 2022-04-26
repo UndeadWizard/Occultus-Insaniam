@@ -24,31 +24,11 @@ country_decisions = {
             is_free_or_tributary_trigger = yes
 			is_at_war = no
             AND = {
-				5614 = {
-					owned_by = ROOT
-					is_core = ROOT
-					type = all
-				}
-				5635 = {
-					owned_by = ROOT
-					is_core = ROOT
-					type = all
-				}
-				5642 = {
-					owned_by = ROOT
-					is_core = ROOT
-					type = all
-				}
-				5646 = {
-					owned_by = ROOT
-					is_core = ROOT
-					type = all
-				}
-				5649 = {
-					owned_by = ROOT
-					is_core = ROOT
-					type = all
-				}
+				is_core = 5614
+				is_core = 5635
+				is_core = 5642
+				is_core = 5646
+				is_core = 5649
 			}
 		}
 		effect = {
