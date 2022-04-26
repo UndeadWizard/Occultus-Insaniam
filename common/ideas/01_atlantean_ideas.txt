@@ -45,23 +45,23 @@ copypaster_ideas = {
 hermusa_ideas = {
 	start = {
 		mercenary_cost = -0.20
-		merc_maintenance_modifier = -0.20
+		naval_forcelimit_modifier = 0.20
 	}
 	bonus = {
-		mercenary_discipline = 0.10
+		ship_durability = 0.10
 	}
 	trigger = {
 		tag = A35
 	}
 	free = yes
 	
-	hermusa_1 = { #Northern Bastion
-		defensiveness = 0.15
+	hermusa_1 = { #Mercenary Reliance
+		mercenary_discipline = 0.10
+		merc_maintenance_modifier = -0.20
 	}
 	
-	hermusa_2 = { #Mercenary Reliance
-		mercenary_cost = -0.10	
-		possible_condottieri = 0.25
+	hermusa_2 = { #Northern Bastion
+		defensiveness = 0.10
 	}
 	
 	hermusa_3 = { #Planned Financial Expansion
@@ -70,7 +70,7 @@ hermusa_ideas = {
 	}
 	
 	hermusa_4 = { #Developmental Theories
-		development_cost = -0.10
+		development_cost = -0.15
 	}
 	
 	hermusa_5 = { #Innovators by heart
@@ -89,10 +89,10 @@ hermusa_ideas = {
 tadipouro_ideas = {
 	start = {
 		prestige_from_land = 0.50
-		infantry_cost = -0.10
+		ae_impact = -0.10
 	}
 	bonus = {
-		ae_impact = -0.10
+		land_forcelimit_modifier = 0.15
 	}
 	trigger = {
 		tag = A32
@@ -101,7 +101,7 @@ tadipouro_ideas = {
 	
 	tadipouro_1 = { #Gauntlet Warriors
 		discipline = 0.05
-		army_tradition_from_battle = 0.50
+		infantry_cost = -0.10
 	}
 	
 	tadipouro_2 = { #Statesmen
@@ -110,15 +110,16 @@ tadipouro_ideas = {
 	
 	tadipouro_3 = { #Black Order
 		global_manpower_modifier = 0.10
-		land_forcelimit_modifier = 0.10
+		army_tradition_from_battle = 0.50
 	}
 	
 	tadipouro_4 = { #Large Warships
-		ship_durability = 0.05
+		ship_durability = 0.10
 	}
 	
 	tadipouro_5 = { #Dedicated Warrior Class
 		free_leader_pool = 1
+		general_cost = -0.25
 	}
 	
 	tadipouro_6 = { #Mines!
@@ -219,49 +220,51 @@ thuler_ideas = {
 
 trichotos_ideas = {
 	start = {
-		global_institution_spread = 0.20
-		ae_impact = -0.15
+		core_creation = -0.15
+		ae_impact = -0.20
 	}
 	bonus = {
-		prestige = 1
+		governing_capacity_modifier = 0.25
 	}
 	trigger = {
 		tag = A40
 	}
 	free = yes
 	
-	trichotos_1 = { #The New Roman Exiles
-		diplomatic_reputation = 1
+	trichotos_1 = { #Cataphracts in Atlantis
+		cavalry_power = 0.20
+		leader_land_shock = 1
 	}
 	
-	trichotos_2 = { #Cataphracts in Atlantis
-		cavalry_power = 0.20
+	trichotos_2 = { #The New Roman Exiles
+		diplomatic_reputation = 1
+		global_institution_spread = 0.20
 	}
 	
 	trichotos_3 = { #Atlantean Crossbowmen
-		fire_damage = 0.10
-		drill_gain_modifier = 0.10
+		infantry_power = 0.15
 	}
 	
 	trichotos_4 = { #Of Noble Bearing
-		heir_chance = 0.25
+		heir_chance = 0.50
 	}
 	
 	trichotos_5 = { #Theme Navies
-		leader_naval_fire = 2
+		galley_power = 0.20
 	}
 	
 	trichotos_6 = { #Katepanate War Logistics
-		land_attrition = -0.10
-		reinforce_cost_modifier = -0.10
+		land_attrition = -0.20
+		war_exhaustion = -0.05
 	}
 	
 	trichotos_7 = { #Byzantine-like Bureaucracy
-		state_maintenance_modifier = -0.20
+		state_maintenance_modifier = -0.25
+		yearly_absolutism = 0.5
 	}
 }
 
-tauryria_ideas = {
+philippia_ideas = {
 	start = {
 		naval_morale = 0.15
 		privateer_efficiency = 0.25
@@ -270,39 +273,85 @@ tauryria_ideas = {
 		trade_efficiency = 0.15
 	}
 	trigger = {
-		tag = A49
+		tag = A46
 	}
 	free = yes
 	
-	tauryria_1 = { #Boarding
+	philippia_1 = { #Boarding
 		leader_naval_shock = 2
 	}
 	
-	tauryria_2 = { #Big bote
+	philippia_2 = { #Big bote
 		global_ship_recruit_speed = -0.20
 		sea_repair = yes
 	}
 	
-	tauryria_3 = { #Modern bote
+	philippia_3 = { #Modern bote
 		dip_tech_cost_modifier = -0.10
 	}
 	
-	tauryria_4 = { #Talk like a Pirate day
+	philippia_4 = { #Talk like a Pirate day
 		prestige = 1
 	}
 	
-	tauryria_5 = { #Actual Raids
+	philippia_5 = { #Actual Raids
 		may_perform_slave_raid = yes
 		may_perform_slave_raid_on_same_religion = yes
 	}
 	
-	tauryria_6 = { #Obligatory military idea
+	philippia_6 = { #Obligatory military idea
 		infantry_power = 0.10
 	}
 	
-	tauryria_7 = { #Pirates don't care
+	philippia_7 = { #Pirates don't care
 		tolerance_heretic = 1
 		tolerance_heathen = 1
+	}
+}
+
+tauryria_ideas = {
+	start = {
+		naval_forcelimit_modifier = 0.15
+		global_sailors_modifier = 0.25
+	}
+	bonus = {
+		naval_morale = 0.15
+	}
+	trigger = {
+		tag = A49
+	}
+	free = yes
+	
+	tauryria_1 = { #Experienced captains
+		leader_naval_manuever = 2
+	}
+	
+	tauryria_2 = { #Defensive fleet doctrine
+		own_coast_naval_combat_bonus = 1.0
+	}
+	
+	tauryria_3 = { #Open up an admiralcy school
+		admiral_cost = -0.25
+		navy_tradition = 1
+	}
+	
+	tauryria_4 = { #Sponsor mercantile endeavors
+		merchants = 1
+		burghers_loyalty_modifier = 0.1
+	}
+	
+	tauryria_5 = { #Askloyite wood
+		ship_durability = 0.10
+		heavy_ship_power = 0.10
+	}
+	
+	tauryria_6 = { #Tauryrian dock complex
+		heavy_ship_cost = -0.10
+	}
+	
+	tauryria_7 = { #big iron
+		artillery_power = 0.10
+		heavy_ship_power = 0.10
 	}
 }
 
@@ -324,11 +373,11 @@ cannibal_ideas = { #Anthropofagoi!
 	}
 	
 	cannibal_2 = { #People are scared of cannibals
-		land_morale = 0.20
+		land_morale = 0.15
 	}
 	
 	cannibal_3 = { #Eat your friends and don't starve during sieges
-		defensiveness = 0.25
+		defensiveness = 0.20
 	}
 	
 	cannibal_4 = { #Eat the rebels
@@ -337,7 +386,7 @@ cannibal_ideas = { #Anthropofagoi!
 	}
 	
 	cannibal_5 = { #Well-nourished builders
-		build_cost = -0.20
+		build_cost = -0.15
 	}
 	
 	cannibal_6 = { #The Army as a method to secure food
@@ -351,11 +400,11 @@ cannibal_ideas = { #Anthropofagoi!
 
 artzainoi_ideas = {
 	start = {
-		light_ship_cost = -0.25
+		light_ship_cost = -0.20
 		navy_tradition = 1
 	}
 	bonus = {
-		leader_naval_fire = 2
+		leader_naval_fire = 1
 	}
 	trigger = {
 		tag = A19
@@ -363,16 +412,17 @@ artzainoi_ideas = {
 	free = yes
 	
 	artzainoi_1 = { #Salarium
-		global_tax_modifier = 0.20
+		global_trade_goods_size_modifier = 0.10
 	}
 	
 	artzainoi_2 = { #Anti-Embezzling Audits
 		yearly_corruption = -0.05
+		production_efficiency = 0.10
 	}
 	
 	artzainoi_3 = { #Salt Conservation
 		may_explore = yes
-		naval_attrition = -0.20
+		naval_attrition = -0.25
 	}
 	
 	artzainoi_4 = { #Atlantean Rediscoveries
@@ -380,21 +430,20 @@ artzainoi_ideas = {
 	}
 	
 	artzainoi_5 = { #External Ventures
-		global_colonial_growth = 15
-		range = 0.25
+		diplomatic_reputation = 2
 	}
 	
 	artzainoi_6 = { #Western Drill Sargeants
-		drill_gain_modifier = 0.30
-		drill_decay_modifier = -0.30
+		drill_gain_modifier = 0.50
+		discipline = 0.025
 	}
 	
 	artzainoi_7 = { #Early Firearm Trauma
-		fire_damage_received = -0.15
+		fire_damage_received = -0.10
 	}
 }
 
-zephyria_ideas = { #Hello there! :tanoshii:
+zephyria_ideas = { #I may have a problem
 	start = {
 		province_warscore_cost = -0.20
 		leader_siege = 1
