@@ -13,6 +13,5 @@ culture = alyric
 religion = atlanic
 trade_goods = wool
 hre = no
-center_of_trade = 1
 
 discovered_by = atlantean
