@@ -36,6 +36,7 @@ anthrean_pirates = {
 	nation_designer_cost = 0
 	potential = {
 		religion = atlanic
+		tag = A50
 	}
 	modifiers = {
 		naval_forcelimit_modifier = 0.25
