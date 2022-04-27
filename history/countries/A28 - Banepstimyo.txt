@@ -1,6 +1,7 @@
 government = monarchy
 add_government_reform = atlantean_warring_state
 technology_group = atlantean
+government_rank = 1
 religion = heptarchic
 primary_culture = alyric
 capital = 5565

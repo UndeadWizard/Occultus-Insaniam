@@ -3,6 +3,7 @@ add_government_reform = atlantean_warring_state
 technology_group = atlantean
 religion = heptarchic
 primary_culture = alyric
+government_rank = 1
 capital = 5558
 
 #Shattered Trident

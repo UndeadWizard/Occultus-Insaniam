@@ -4,6 +4,7 @@ technology_group = atlantean
 religion = atlanic
 primary_culture = high_atlantean
 capital = 5555
+government_rank = 1
 mercantilism = 25
 
 #Shattered Trident
