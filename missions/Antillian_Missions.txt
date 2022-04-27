@@ -471,9 +471,16 @@ antillian_missions_far_right = {
 		
 		trigger = {
 			OR = {
-				iberia_region = {
-					num_of_allies = 1
-				}
+				alliance_with = SPA
+				alliance_with = POR
+				alliance_with = CAS
+				alliance_with = ARA
+				alliance_with = GAL
+				alliance_with = LON
+				alliance_with = CAT
+				alliance_with = ADU
+				alliance_with = GRA
+				alliance_with = NAV
 				iberia_region = {
 					owned_by = ROOT
 				}
