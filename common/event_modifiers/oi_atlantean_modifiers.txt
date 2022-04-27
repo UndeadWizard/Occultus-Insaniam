@@ -132,3 +132,4 @@ ORACLE_poor_army = {
 bought_printing_press = {
 	institution_growth = 10
 }
+### Modifiers for Heptarchic

@@ -24,12 +24,21 @@ country_decisions = {
 	}
 	purchase_printingpress = {
 		potential = {
-			AND = {
-				capital_scope = {
-					superregion = atlantean_superregion
+			OR = {
+				AND = {
+					capital_scope = {
+						superregion = atlantean_superregion
+					}
+					is_year = 1560
+					treasury = 500
 				}
-				is_year = 1560
-				treasury = 500
+				AND = {
+					capital_scope = {
+						region = antillia_region
+					}
+					is_year = 1560
+					treasury = 500
+				}
 			}
 			NOT = {
 				has_unembraced_institution = renaissance

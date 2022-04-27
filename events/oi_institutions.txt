@@ -7,6 +7,8 @@ country_event = {
 	desc = oi_institutions.1.d
 	picture = NAVAL_MILITARY_eventPicture
     
+	fire_only_once = yes
+	
 	trigger = {
 		technology_group = atlantean
 		is_year = 1460
@@ -75,6 +77,8 @@ country_event = {
 	desc = oi_institutions.2.d
 	picture = NAVAL_MILITARY_eventPicture
     
+	fire_only_once = yes
+	
 	trigger = {
 		tag = ATL
 		NOT = { has_global_flag = atlantean_renaissance}
@@ -106,6 +110,8 @@ country_event = {
 	desc = oi_institutions.3.d
 	picture = NAVAL_MILITARY_eventPicture
     
+	fire_only_once = yes
+	
 	trigger = {
 		capital_scope = {
 			continent = antillia
