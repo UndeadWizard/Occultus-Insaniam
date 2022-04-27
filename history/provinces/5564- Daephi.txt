@@ -13,6 +13,7 @@ culture = alyric
 religion = atlanic
 trade_goods = iron
 hre = no
+center_of_trade = 1
 add_province_triggered_modifier = oracle_of_daephi
 
 discovered_by = atlantean
