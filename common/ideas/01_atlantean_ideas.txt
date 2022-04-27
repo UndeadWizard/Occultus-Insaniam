@@ -403,7 +403,7 @@ askloy_ideas = {
 
 cannibal_ideas = { #Anthropofagoi!
 	start = {
-		shock_damage = 0.20 #Mouthes are an alternative weapon
+		shock_damage = 0.20 #Mouths are an alternative weapon
 		diplomatic_reputation = -3 #No one likes cannibals
 	}
 	bonus = {
