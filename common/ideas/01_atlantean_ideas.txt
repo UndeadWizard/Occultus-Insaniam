@@ -443,45 +443,46 @@ artzainoi_ideas = {
 	}
 }
 
-zephyria_ideas = { #I may have a problem
+zephyria_ideas = { #Yes, I'm this pretentious
 	start = {
 		province_warscore_cost = -0.20
 		leader_siege = 1
 	}
 	bonus = {
-		global_trade_goods_size_modifier = 0.10
+		trade_efficiency = 0.10
 	}
 	trigger = {
 		tag = A38
 	}
 	free = yes
 	
-	zephyria_1 = { #Religious Borderland
-		tolerance_heathen = 2
+	zephyria_1 = { # Great Eastern Founders
+		build_cost = -0.15
+		all_estate_loyalty_equilibrium = 0.05
 	}
 	
-	zephyria_2 = { #Connective Infrastructure
+	zephyria_2 = { # Zephyrian Forced March
 		movement_speed = 0.20
 	}
 	
-	zephyria_3 = { #Economic Penetration
-		trade_efficiency = 0.10
+	zephyria_3 = { # Mysian Triangle
+		global_trade_goods_size_modifier = 0.10
 	}
 	
-	zephyria_4 = { #Invite foreigners to contribute
-		improve_relation_modifier = 0.25
+	zephyria_4 = { # The Zephyrian Dynasty
+		monarch_lifespan = 0.15
+		monarch_admin_power = 1
 	}
 	
-	zephyria_5 = { #Wagons: Sapping Trains
+	zephyria_5 = { # Doctrine of Constant Offense
 		siege_ability = 0.20
 	}
 	
-	zephyria_6 = { #Wagons: Circular Defenses
-		fire_damage_received = -0.10
-		shock_damage_received = -0.10
+	zephyria_6 = { # Adoption of Gunpowder
+		fire_damage = 0.15
 	}
 	
-	zephyria_7 = { #Integration by Roads
+	zephyria_7 = { # Rex Ayadonis
 		administrative_efficiency = 0.10
 	}
 }
