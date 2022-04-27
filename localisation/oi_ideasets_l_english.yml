@@ -209,6 +209,25 @@
  tadipouro_7: "Practices for Standardization"
  tadipouro_7_desc: "Ultimately, our armies are an organizational mess. The regulars, the Black Army, the patrols and whatnot all act separately, with little cohesion. This has worked previously, but it can't work forever. We need to enforce coordination amongst them."
  
+ #Template for copy and paste
+ daephi_ideas: "Daephi Ideas"
+ daephi_ideas_start: "Daephi Traditions"
+ daephi_ideas_bonus: "Daephi Ambition"
+ daephi_1: "Expelling the Heptarchic Faith"
+ daephi_1_desc: "The Heptarchic Faith came to Atlantis and took over a large portion of Ayadon and Albanum by storm. While its growth has stalled, the weakening central authority and lack of organized response allowed converts in the region to assert themselves as a fact of life, right on the border of Daephi. We're going to revert this ourselves."
+ daephi_2: "The Oracle of Daephi"
+ daephi_2_desc: "The holiest site in all of Atlantis, the Oracle of Daephi stands amidst the mountains of the Polismus Ridge, where a mountainous retreat houses the fortune-telling women."
+ daephi_3: "Visiting Nobility"
+ daephi_3_desc: "We get constant visitors from other parts of Atlantis, oftentimes the very rulers of other states, due to the Oracle, who seek to know their fates. This puts us in prime position to keep tabs on them and hosting them during visits allows us to forge connections we otherwise couldn't."
+ daephi_4: "Tithe Duty"
+ daephi_4_desc: "Previously, we had an allocated fund from the Atlantean Empire to keep the expenses of the Oracle as well as maintain regional infrastructure. Now, we have to collect those ourselves, and occasionally demand from neighboring warlords."
+ daephi_5: "Unity of Faith"
+ daephi_5_desc: "The process of reverting the Heptarchic expansion will be a long and grinding one, but our clergy is up to the task to reestabilish a religiously unified Atlantis once more."
+ daephi_6: "Renovate the Oracle's Shrine"
+ daephi_6_desc: "The Oracle's shrine has never really been a grandiose building, unlike what one would expect from such an important and famous building within Atlantis. Renovations are due to make it as beautiful as it is important."
+ daephi_7: "Clerical Governance"
+ daephi_7_desc: "Our rulership is intrinsically connected to our clergy, and the line between both is intentionally blurred."
+ 
  #Hermusa
  hermusa_ideas: "Hermusan Ideas"
  hermusa_ideas_start: "Hermusan Traditions"
