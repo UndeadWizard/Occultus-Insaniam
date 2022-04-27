@@ -437,6 +437,25 @@
  avalon_7: "Avalonian diplomacy"
  avalon_7_desc: "Our relations with our subjects and neigbhours is important if we want to maintain our current position. Our diplomats work day and night to ensure the well-being of our nation and often take the role of mediators in local conflicts. Because of this, some see us as a stabilizing force in the region. It seems that sometimes the pen is truly mightier then the sword."
  
+ # Askloy
+ askloy_ideas: "Askloyite Ideas"
+ askloy_ideas_start: "Askloyite Traditions"
+ askloy_ideas_bonus: "Askloyite Ambition"
+ askloy_1: "Marines!"
+ askloy_1_desc: "Leaving a fine line between 'sailor' and 'soldier' has given us some leeway in terms of filling in our ranks, and, collaterally, made us far more efficient at keeping large pools of amphibious specialization soldiers."
+ askloy_2: "Seat of Nautean Power"
+ askloy_2_desc: "Prior to the 'de-unification', Askloy was the capital of the province of the Nautean islands. Admittedly, we messed up a bit by letting our rule end much the same way as our overlords', but we still enjoy some of the natural prestige of having been in charge some time ago."
+ askloy_3: "Naval Meritocracy"
+ askloy_3_desc: "While letting a peasant rise to the top of our politics is utterly unthinkable, there is nothing inherently wrong with letting them rise to the top of the naval hierarchy. Peasants do have rights if they're good at sinking ships."
+ askloy_4: "Conserved Seafaring Tradition"
+ askloy_4_desc: "Some would say we once had the greatest fleet outside of the Trident Sea. This is factually wrong - we still do."
+ askloy_5: "Doctrinal Flexibility"
+ askloy_5_desc: "Part of our navy's failings in the past include far too much rigidity in approach to ship steering. This habit has to go."
+ askloy_6: "Crackdown on Tax Evasion"
+ askloy_6_desc: "A lot of people originally came to the Nautean Islands as a way to avoid taxes. When the taxes arrived, they resorted to evasion. They commemorated the fall of the central government as if we'd stop extorting every little bit of gold we could from them. How naive! All that has changed is that we no longer have regulations to abide by!"
+ askloy_7: "Tauryrian Example"
+ askloy_7_desc: "Further to the South, Tauryria thrived in the open waters through the use of long range cannons to win battles. Our idealistic boarding tactics would crumble horribly confronting such an enemy if we are unwilling to adapt."
+ 
  #Atlantean Empire at last!
  imperial_atlantean_ideas: "Imperial Atlantean Ideas"
  imperial_atlantean_ideas_start: "Imperial Atlantean Traditions"

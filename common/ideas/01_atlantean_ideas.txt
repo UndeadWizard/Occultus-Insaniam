@@ -355,6 +355,52 @@ tauryria_ideas = {
 	}
 }
 
+askloy_ideas = {
+	start = {
+		discipline = 0.05
+		leader_naval_shock = 2
+	}
+	bonus = {
+		navy_tradition = 1.5
+	}
+	trigger = {
+		always = no
+	}
+	free = yes
+	
+	askloy_1 = { # Marines!
+		global_sailors_modifier = 0.20
+		allowed_marine_fraction = 0.20
+	}
+	
+	askloy_2 = { # Seat of Nautean Power
+		prestige_decay = -0.01
+		nobles_loyalty_modifier = 0.10
+	}
+	
+	askloy_3 = { # Naval Meritocracy
+		naval_morale = 0.10
+		admiral_cost = -0.50
+	}
+	
+	askloy_4 = { # Conserved Seafaring Tradition
+		global_ship_cost = -0.20
+		navy_tradition_decay = -0.02
+	}
+	
+	askloy_5 = { # Doctrinal Flexibility
+		leader_naval_manuever = 2
+	}
+	
+	askloy_6 = { # Crack down on tax evasion
+		global_tax_modifier = 0.15
+	}
+	
+	askloy_7 = { # Tauryrian example
+		leader_naval_fire = 2
+	}
+}
+
 cannibal_ideas = { #Anthropofagoi!
 	start = {
 		shock_damage = 0.20 #Mouthes are an alternative weapon
