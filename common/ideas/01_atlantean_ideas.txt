@@ -1,6 +1,6 @@
 #Welcome to the Crescent Island! For unique sets
 
-copypaster_ideas = {
+template_ideas = {
 	start = {
 		prestige = 1
 		prestige = 1
@@ -13,31 +13,31 @@ copypaster_ideas = {
 	}
 	free = yes
 	
-	templateset_1 = {
+	template_1 = {
 		prestige = 1
 	}
 	
-	templateset_2 = {
+	template_2 = {
 		prestige = 1
 	}
 	
-	templateset_3 = {
+	template_3 = {
 		prestige = 1
 	}
 	
-	templateset_4 = {
+	template_4 = {
 		prestige = 1
 	}
 	
-	templateset_5 = {
+	template_5 = {
 		prestige = 1
 	}
 	
-	templateset_6 = {
+	template_6 = {
 		prestige = 1
 	}
 	
-	templateset_7 = {
+	template_7 = {
 		prestige = 1
 	}
 }
@@ -364,7 +364,7 @@ askloy_ideas = {
 		navy_tradition = 1.5
 	}
 	trigger = {
-		always = no
+		tag = A48
 	}
 	free = yes
 	
@@ -398,6 +398,52 @@ askloy_ideas = {
 	
 	askloy_7 = { # Tauryrian example
 		leader_naval_fire = 2
+	}
+}
+
+daephi_ideas = {
+	start = {
+		shock_damage = 0.10
+		global_missionary_strength = 0.02
+	}
+	bonus = {
+		warscore_cost_vs_other_religion = -0.20
+	}
+	trigger = {
+		tag = A27
+	}
+	free = yes
+	
+	daephi_1 = { # Expelling the Heptarchic Faith
+		cb_on_religious_enemies = yes
+		land_forcelimit_modifier = 0.10
+	}
+	
+	daephi_2 = { # The Oracle of Daephi
+		missionaries = 1
+		tolerance_own = 2
+	}
+	
+	daephi_3 = { # Visiting Nobility
+		spy_offence = 0.20
+		diplomatic_upkeep = 1
+	}
+	
+	daephi_4 = { # Tithe Duty
+		global_tax_modifier = 0.20
+	}
+	
+	daephi_5 = { # Unity of Faith
+		land_morale = 0.10
+		church_loyalty_modifier = 0.10
+	}
+	
+	daephi_6 = { # Renovate the Oracle's Shrine
+		prestige = 1
+	}
+	
+	daephi_7 = { # Clerical Governance
+		global_unrest = -2
 	}
 }
 
