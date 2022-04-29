@@ -38,9 +38,9 @@
  settle_inland_desc: "For millenia, we have sailed the ocean and settled the beaches and islands belonging to this ocean, but we are yet to extensively settle the innermost reaches of Mu. Who knows, maybe the hold great abundance of wealth?"
  
  #Template for copy and paste
- mugroup_ideas: "Muror (group) Ideas"
- mugroup_ideas_start: "Muror (group) Traditions"
- mugroup_ideas_bonus: "Muror (group) Ambition"
+ mugroup_ideas: "Muror Minor Ideas"
+ mugroup_ideas_start: "Muror Minor Traditions"
+ mugroup_ideas_bonus: "Muror Minor Ambition"
  mugroup_1: "Dragon Scale Armor"
  mugroup_1_desc: "The many dragons living throught Mu provide an interesting, if not unusual, source of fairly tenacious material for defensive purposes. It goes great lengths to ensure the survivability of the average trooper."
  mugroup_2: "Unity Before the Invaders"
@@ -57,9 +57,9 @@
  mugroup_7_desc: "Mu has survived great peril, and we will see to it that it will continue to do so, no matter how many new invaders we might meet."
  
  #Atlantean Generic
- atlantis_group_ideas: "Atlantean (group) Ideas"
- atlantis_group_ideas_start: "Atlantean (group) Traditions"
- atlantis_group_ideas_bonus: "Atlantean (group) Ambition"
+ atlantis_group_ideas: "Atlantean Minor Ideas"
+ atlantis_group_ideas_start: "Atlantean Minor Traditions"
+ atlantis_group_ideas_bonus: "Atlantean Minor Ambition"
  atla_gen_1: "A Forced Diversity"
  atla_gen_1_desc: "Our ancestors come from several tribes from the East that landed and settled in Atlantean land. At first, they were divided and fought over simple matters of faith or land, but through blood and iron they were conquered under Emperor Akakio. However, they weren't truly united until the differences between them simply became what made Atlanteans who they are. The scar still remains from those turbulent times, but so does a valuable lesson in tolerance."
  atla_gen_2: "Romani"
@@ -133,9 +133,9 @@
  meropis_7_desc: "And any Atlanteans we find alive after we're done are going straight to work camps to bolster our economy!"
  
  #Antillia
- antillian_ideas: "Antillian Group Ideas"
- antillian_ideas_start: "Antillian Group Traditions"
- antillian_ideas_bonus: "Antillian Group Ambition"
+ antillian_ideas: "Antillian Minor Ideas"
+ antillian_ideas_start: "Antillian Minor Traditions"
+ antillian_ideas_bonus: "Antillian Minor Ambition"
  antillian_1: "Theocratic Rule"
  antillian_1_desc: "Antillia has a history of clerical domination ever since it's establishment. It has worked very well thus far, and will remain so for the rest of our history."
  antillian_2: "Centralized Navy"
