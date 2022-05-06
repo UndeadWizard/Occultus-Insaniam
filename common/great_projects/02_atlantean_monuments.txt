@@ -1,6 +1,6 @@
-great_temple_jupiter	 = {
+great_temple_jupiter = {
 	# province it starts in
-	start = 5599
+	start = 5053
 	
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 537.01.01
@@ -23,7 +23,7 @@ great_temple_jupiter	 = {
 	starting_tier = 1
 	
 	#project type
-	type = monument
+	type = canal
 
 	#can we build it?
 	build_trigger = {
@@ -56,19 +56,10 @@ great_temple_jupiter	 = {
 
 	#what to do when it's built
 	on_built = {
-		if = {
-			limit = { 
-				has_global_flag =  parthenon_now_mosque
-			}
-		}
-		else = {
-			show_ambient_object = parthenon
-		}
 	}
 	
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = parthenon
 	}
 
 	#can our country use it?
@@ -122,7 +113,7 @@ great_temple_jupiter	 = {
 
 		#cost to upgrade to this level (0 for tier 0)
 		cost_to_upgrade = {
-			factor = 1000
+			factor = 500
 		}
 
 		#what modifiers are added to the province when we have this project here on this tier
@@ -160,7 +151,7 @@ great_temple_jupiter	 = {
 
 		#cost to upgrade to this level (0 for tier 0)
 		cost_to_upgrade = {
-			factor = 2500
+			factor = 750
 		}
 
 		#what modifiers are added to the province when we have this project here on this tier
@@ -198,7 +189,7 @@ great_temple_jupiter	 = {
 
 		#cost to upgrade to this level (0 for tier 0)
 		cost_to_upgrade = {
-			factor = 5000
+			factor = 1000
 		}
 
 		#what modifiers are added to the province when we have this project here on this tier
