@@ -183,14 +183,38 @@ country_event = {
 	option = {
 		name = aza_thegrandson.3.a
 		ai_chance = { factor = 100 }
-		
-		release_all_subjects = yes
-		
-		5598 = {
-			add_claim = A00
+		custom_tooltip = diaprepes_secedes_tooltip
+		hidden_effect = {
+			release_all_subjects = yes
+			set_country_flag = chrysos_secedes
+			set_country_flag = diaprepes_secedes
+			5598 = {
+				add_claim = A00
+			}
+			5600 = {
+				add_claim = A00
+			}
+			A03 = {
+				create_alliance = A02
+			}
+			declare_war_with_cb = {
+				who = A03
+				casus_belli = cb_atlantean_wars
+			}
 		}
-		5600 = {
-			add_claim = A00
+	}
+	option = {
+		name = aza_thegrandson.3.b
+		ai_chance = { factor = 0 }
+		custom_tooltip = imperator_waits_for_revenge_tooltip
+		hidden_effect = {
+			release_all_subjects = yes
+			5598 = {
+				add_claim = A00
+			}
+			5600 = {
+				add_claim = A00
+			}	
 		}
 	}
 }
@@ -211,14 +235,139 @@ country_event = {
 	option = {
 		name = aza_thegrandson.4.a
 		ai_chance = { factor = 100 }
+		custom_tooltip = ionmym_secedes_tooltip
 		
-		release_all_subjects = yes
+		hidden_effect = {
+			release_all_subjects = yes
+			set_country_flag = chrysos_secedes
+			set_country_flag = ionmym_secedes
+			5605 = {
+				add_claim = A00
+			}
+			5600 = {
+				add_claim = A00
+			}
+			A03 = {
+				create_alliance = A04
+			}
+			declare_war_with_cb = {
+				who = A03
+				casus_belli = cb_atlantean_wars
+			}
+		}
+	}
+	option = {
+		name = aza_thegrandson.4.b
+		ai_chance = { factor = 0 }
+		custom_tooltip = imperator_waits_for_revenge_tooltip
+		hidden_effect = {
+			release_all_subjects = yes
+			5605 = {
+				add_claim = A00
+			}
+			5600 = {
+				add_claim = A00
+			}	
+		}
+	}
+}
+
+#Add Core Events
+country_event = { 
+	id = aza_thegrandson.5
+	title = aza_thegrandson.5.t
+	desc = aza_thegrandson.5.d
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		AND = {
+			A00 = {
+				owns = 5600
+			}
+			OR = {
+				has_country_flag = chrysos_secedes
+				has_country_flag = diaprepes_secedes
+				has_country_flag = ionmym_secedes
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = aza_thegrandson.5.a
+		ai_chance = { factor = 100 }
+		
+		5600 = {
+			add_core = ROOT
+		}
+		clr_country_flag = chrysos_secedes
+	}
+}
+
+country_event = { 
+	id = aza_thegrandson.6
+	title = aza_thegrandson.6.t
+	desc = aza_thegrandson.6.d
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		AND = {
+			A00 = {
+				owns = 5598
+			}
+			has_country_flag = diaprepes_secedes
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = aza_thegrandson.6.a
+		ai_chance = { factor = 100 }
+		
+		5598 = {
+			add_core = ROOT
+		}
+		clr_country_flag = diaprepes_secedes
+	}
+}
+country_event = { 
+	id = aza_thegrandson.7
+	title = aza_thegrandson.7.t
+	desc = aza_thegrandson.7.d
+	picture = BORDER_TENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		AND = {
+			A00 = {
+				owns = 5605
+			}
+			has_country_flag = ionmym_secedes
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = aza_thegrandson.7.a
+		ai_chance = { factor = 100 }
 		
 		5605 = {
-			add_claim = A00
+			add_core = ROOT	
 		}
-		5600 = {
-			add_claim = A00
-		}
+		clr_country_flag = ionmym_secedes
 	}
 }
