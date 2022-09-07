@@ -74,6 +74,11 @@ atlantean_group = {
 			Zagreid Zosimid Zoticid
 		}
 		male_names = {
+			Aelianus Aelius Albina Albus Antonius Augustus Aquilinus Aulus Aurelius Blasius Brutus Cato Caeso Caius Cassian Camillus Cicero Decimus Domitianus Duilius
+			Ennius Fabius Fabricius Felix Festus Fulvius Gaius Gallus Gnaeus Hadrianus Helvius Herminius Ianuarius Iovianus Jovian Julius Junius Laelius Livius
+			Manius Manlius Marcus Martinus Maximus Naevius Nero Octavius Paulinus Paulus Petronius Pontius Quinctus Quintilius Regulus Rufus Sabinus Salvius Seneca
+			Titus Traianus Tullius Valens Valentinus Valerius Vitus
+			
 			Acnonios Aeacides Aenias Aesillas Agathocles Agelaos Alcetas Aleos Alexander Ameinias Amynandros Amyntus Apollonides Aratos Archelaus Argaeus 
 			Arganos Aristomides Ariston Aristonous Aristophanes Aristotle Asklepiodorus Athineos Damasias Demetrius Dioedas Diophantus Echemos 
 			Ehnon Ephron Euclid Eudicus Eudoridas Euripides Eurycrates Helladius Hero Hippocrates Ikesios Isocrates Kleandros Kleitos Leonidas
@@ -85,13 +90,16 @@ atlantean_group = {
 			Zosimus Zoticus
 		}
 		female_names = {
+			Alba Antonina Aquilina Augustina Blandina Caelina Cassia Decima Fabia Flaviana Galla Helvia Iovita Iuliana Juliana Laelia Martina Ovidia Sabina Tatiana
+			Verginia Vita 
+			
 			Adelpha Agape Airlea Akantha Alexis Alkyone Antigone Apollonia Aristomache Artemisia Aspacia Athenais Berenice Charis Cleopatra Cynna Demetria Diantha Dionysia 
 			Elpis Eirene Eudocia Eunice Euphemia Eurydice Euthalia Evgenia Helen Hypatia Kandake Kassandra Megaira Melaina Narkissa Nysa Olympia Phila Phile 
 			Ptolema Sofia Sostrate Stratonice Thais Theophila Thetima Thessaloniki Thorakis Timo Xanthe Xene Xenia Zoe Zona
 		}
 	}
 	
-	alyshi = {
+	arsini = {
 
 		dynasty_names = {
 			Achillos Agamemnois Agire Duggas Staurakio Vazilino Theoko Ajaxes Diomedoi Odussoi Nestoroi Alcetid Apollonid Aratid Helladid Omirid Peithid Peneid Philonid Proctid Pytheid Sosiclid Therid Theronid Timolid Xenonid
@@ -114,7 +122,7 @@ atlantean_group = {
 			Ptolema Sofia Sostrate Stratonice Thais Theophila Thetima Thessaloniki Thorakis Timo Xanthe Xene Xenia Zoe Zona
 		}
 	}
-	alyric = {
+	argentini = {
 	
 		dynasty_names = {
 			Theoko Hektoroi Vazilino Maggus Machitis Hartavazde Vataka Priamoi Parisoi Aenoi Alcetid Apollonid Aratid Helladid Omirid Peithid Peneid Philonid Proctid Pytheid Sosiclid Therid Theronid Timolid Xenonid

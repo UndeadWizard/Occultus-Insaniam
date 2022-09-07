@@ -3,7 +3,7 @@ add_government_reform = atlantean_warring_state
 technology_group = atlantean
 government_rank = 1
 religion = heptarchic
-primary_culture = alyric
+primary_culture = argentini
 capital = 5565
 
 #Shattered Trident
